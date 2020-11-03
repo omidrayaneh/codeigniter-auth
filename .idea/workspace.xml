@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5d382be-7a31-4974-8279-e9031531fe2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="ProjectId" id="1jeczr8EnPCtTNJISbpUZRrrQY8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/modules/Template" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Template" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Admin" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Login" />
+      <recent name="C:\xampp\htdocs\hmvc\system\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Home\controllers" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Login\views" />
+      <recent name="C:\xampp\htdocs\hmvc\application" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5d382be-7a31-4974-8279-e9031531fe2f" name="Default Changelist" comment="" />
+      <created>1604168266342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604168266342</updated>
+      <workItem from="1604168301677" duration="14865000" />
+      <workItem from="1604252977368" duration="5303000" />
+      <workItem from="1604302880961" duration="4674000" />
+      <workItem from="1604326381479" duration="9373000" />
+      <workItem from="1604347361644" duration="6878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2160" y="133" key="NewPhpFileDialog" timestamp="1604394300724">
+      <screen x="1366" y="-310" width="1920" height="1040" />
+    </state>
+    <state x="565" y="310" key="NewPhpFileDialog/0.0.1366.728/1366.-310.1920.1040@0.0.1366.728" timestamp="1604388193420" />
+    <state x="2160" y="133" key="NewPhpFileDialog/0.0.1366.728/1366.-310.1920.1040@1366.-310.1920.1040" timestamp="1604394300724" />
+  </component>
+</project>
