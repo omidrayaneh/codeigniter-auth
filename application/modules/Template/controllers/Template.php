@@ -5,12 +5,17 @@ class Template extends MY_Controller{
            parent::__construct();
        }
 
-    public function index()
+
+    public function admin_template($data = null)
     {
-       echo 'Template page';
+        $this->load->view('admin_template',$data);
     }
-    public function sample_template($data = null)
+    public function home_template($data = null)
     {
-      $this->load->view('Template/sample_template',$data);
+        $this->load->view('home_template',$data);
+    }
+    public function Auth_template($data = null)
+    {
+        $this->load->view('auth_template',$data);
     }
 }
