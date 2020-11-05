@@ -51,5 +51,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 $route['default_controller'] = 'home';
+$route['login'] = 'home/login';
+$route['register'] = 'home/register';
+$route['logout'] = 'home/logout';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

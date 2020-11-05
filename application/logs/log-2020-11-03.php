@@ -24923,3 +24923,1264 @@ DEBUG - 2020-11-03 19:42:11 --> File loaded: C:\xampp\htdocs\hmvc\application\mo
 DEBUG - 2020-11-03 19:42:11 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
 INFO - 2020-11-03 19:42:11 --> Final output sent to browser
 DEBUG - 2020-11-03 19:42:11 --> Total execution time: 1.3339
+INFO - 2020-11-03 20:39:03 --> Config Class Initialized
+INFO - 2020-11-03 20:39:03 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:39:04 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:39:04 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:39:04 --> URI Class Initialized
+INFO - 2020-11-03 20:39:04 --> Router Class Initialized
+INFO - 2020-11-03 20:39:04 --> Output Class Initialized
+INFO - 2020-11-03 20:39:04 --> Security Class Initialized
+DEBUG - 2020-11-03 20:39:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:39:04 --> Input Class Initialized
+INFO - 2020-11-03 20:39:04 --> Language Class Initialized
+INFO - 2020-11-03 20:39:04 --> Language Class Initialized
+INFO - 2020-11-03 20:39:04 --> Config Class Initialized
+INFO - 2020-11-03 20:39:04 --> Loader Class Initialized
+INFO - 2020-11-03 20:39:04 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:39:04 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:39:04 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:39:04 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:39:04 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:39:04 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:39:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:39:05 --> Template MX_Controller Initialized
+INFO - 2020-11-03 20:41:30 --> Config Class Initialized
+INFO - 2020-11-03 20:41:30 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:41:30 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:41:30 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:41:30 --> URI Class Initialized
+INFO - 2020-11-03 20:41:30 --> Router Class Initialized
+INFO - 2020-11-03 20:41:30 --> Output Class Initialized
+INFO - 2020-11-03 20:41:30 --> Security Class Initialized
+DEBUG - 2020-11-03 20:41:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:41:30 --> Input Class Initialized
+INFO - 2020-11-03 20:41:30 --> Language Class Initialized
+INFO - 2020-11-03 20:41:30 --> Language Class Initialized
+INFO - 2020-11-03 20:41:31 --> Config Class Initialized
+INFO - 2020-11-03 20:41:31 --> Loader Class Initialized
+INFO - 2020-11-03 20:41:31 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:41:31 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:41:31 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:41:31 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:41:31 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:41:31 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:41:31 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:41:31 --> Template MX_Controller Initialized
+INFO - 2020-11-03 20:42:40 --> Config Class Initialized
+INFO - 2020-11-03 20:42:40 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:42:40 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:42:40 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:42:40 --> URI Class Initialized
+INFO - 2020-11-03 20:42:40 --> Router Class Initialized
+INFO - 2020-11-03 20:42:40 --> Output Class Initialized
+INFO - 2020-11-03 20:42:40 --> Security Class Initialized
+DEBUG - 2020-11-03 20:42:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:42:41 --> Input Class Initialized
+INFO - 2020-11-03 20:42:41 --> Language Class Initialized
+INFO - 2020-11-03 20:42:41 --> Language Class Initialized
+INFO - 2020-11-03 20:42:41 --> Config Class Initialized
+INFO - 2020-11-03 20:42:41 --> Loader Class Initialized
+INFO - 2020-11-03 20:42:41 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:42:41 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:42:41 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:42:41 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:42:41 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:42:41 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:42:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:42:41 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:42:41 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:42:41 --> Email Class Initialized
+INFO - 2020-11-03 20:43:38 --> Config Class Initialized
+INFO - 2020-11-03 20:43:38 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:43:38 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:43:38 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:43:38 --> URI Class Initialized
+INFO - 2020-11-03 20:43:38 --> Router Class Initialized
+INFO - 2020-11-03 20:43:38 --> Output Class Initialized
+INFO - 2020-11-03 20:43:38 --> Security Class Initialized
+DEBUG - 2020-11-03 20:43:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:43:39 --> Input Class Initialized
+INFO - 2020-11-03 20:43:39 --> Language Class Initialized
+INFO - 2020-11-03 20:43:39 --> Language Class Initialized
+INFO - 2020-11-03 20:43:39 --> Config Class Initialized
+INFO - 2020-11-03 20:43:39 --> Loader Class Initialized
+INFO - 2020-11-03 20:43:39 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:43:39 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:43:39 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:43:39 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:43:39 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:43:39 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:43:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:43:39 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:43:39 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:43:39 --> Email Class Initialized
+INFO - 2020-11-03 20:43:39 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:43:39 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:43:40 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:43:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:43:40 --> Model Class Initialized
+DEBUG - 2020-11-03 20:43:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:43:40 --> Form Validation Class Initialized
+ERROR - 2020-11-03 20:43:40 --> Severity: 4096 --> Object of class MY_Loader could not be converted to string C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 8
+INFO - 2020-11-03 20:43:40 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:43:40 --> Severity: Notice --> Undefined variable: message C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 11
+ERROR - 2020-11-03 20:43:40 --> Severity: Notice --> Undefined variable: identity C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 26
+ERROR - 2020-11-03 20:43:40 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 31
+DEBUG - 2020-11-03 20:43:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/login.php
+DEBUG - 2020-11-03 20:43:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+ERROR - 2020-11-03 20:43:40 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 72
+ERROR - 2020-11-03 20:43:40 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\hmvc\application\modules\Template\views\auth_template.php:558) C:\xampp\htdocs\hmvc\system\core\Common.php 569
+ERROR - 2020-11-03 20:43:40 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:43:41 --> Config Class Initialized
+INFO - 2020-11-03 20:43:41 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:43:41 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:43:41 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:46:26 --> Config Class Initialized
+INFO - 2020-11-03 20:46:26 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:46:26 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:46:27 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:46:27 --> URI Class Initialized
+INFO - 2020-11-03 20:46:27 --> Router Class Initialized
+INFO - 2020-11-03 20:46:27 --> Output Class Initialized
+INFO - 2020-11-03 20:46:27 --> Security Class Initialized
+DEBUG - 2020-11-03 20:46:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:46:27 --> Input Class Initialized
+INFO - 2020-11-03 20:46:27 --> Language Class Initialized
+INFO - 2020-11-03 20:46:27 --> Language Class Initialized
+INFO - 2020-11-03 20:46:27 --> Config Class Initialized
+INFO - 2020-11-03 20:46:27 --> Loader Class Initialized
+INFO - 2020-11-03 20:46:27 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:46:27 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:46:27 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:46:27 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:46:27 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:46:27 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:46:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:46:28 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:46:28 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:46:28 --> Email Class Initialized
+INFO - 2020-11-03 20:46:28 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:46:28 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:46:28 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:46:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:46:28 --> Model Class Initialized
+DEBUG - 2020-11-03 20:46:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:46:28 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:46:28 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:46:28 --> Severity: Notice --> Undefined variable: message C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 11
+ERROR - 2020-11-03 20:46:28 --> Severity: Notice --> Undefined variable: identity C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 26
+ERROR - 2020-11-03 20:46:28 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 31
+DEBUG - 2020-11-03 20:46:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/login.php
+DEBUG - 2020-11-03 20:46:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+ERROR - 2020-11-03 20:46:28 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 72
+ERROR - 2020-11-03 20:46:28 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:47:43 --> Config Class Initialized
+INFO - 2020-11-03 20:47:43 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:47:44 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:47:44 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:47:44 --> URI Class Initialized
+INFO - 2020-11-03 20:47:44 --> Router Class Initialized
+INFO - 2020-11-03 20:47:44 --> Output Class Initialized
+INFO - 2020-11-03 20:47:44 --> Security Class Initialized
+DEBUG - 2020-11-03 20:47:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:47:44 --> Input Class Initialized
+INFO - 2020-11-03 20:47:44 --> Language Class Initialized
+INFO - 2020-11-03 20:47:44 --> Language Class Initialized
+INFO - 2020-11-03 20:47:44 --> Config Class Initialized
+INFO - 2020-11-03 20:47:44 --> Loader Class Initialized
+INFO - 2020-11-03 20:47:44 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:47:44 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:47:44 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:47:44 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:47:45 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:47:45 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:47:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:47:45 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:47:45 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:47:45 --> Email Class Initialized
+INFO - 2020-11-03 20:47:45 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:47:45 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:47:45 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:47:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:47:45 --> Model Class Initialized
+DEBUG - 2020-11-03 20:47:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:47:45 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:47:45 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:47:45 --> Severity: Notice --> Undefined variable: message C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 11
+ERROR - 2020-11-03 20:47:45 --> Severity: Notice --> Undefined variable: identity C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 26
+ERROR - 2020-11-03 20:47:45 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 31
+DEBUG - 2020-11-03 20:47:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/login.php
+DEBUG - 2020-11-03 20:47:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+ERROR - 2020-11-03 20:47:46 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 72
+ERROR - 2020-11-03 20:47:46 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:47:56 --> Config Class Initialized
+INFO - 2020-11-03 20:47:56 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:47:56 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:47:56 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:47:56 --> URI Class Initialized
+INFO - 2020-11-03 20:47:56 --> Router Class Initialized
+INFO - 2020-11-03 20:47:56 --> Output Class Initialized
+INFO - 2020-11-03 20:47:56 --> Security Class Initialized
+DEBUG - 2020-11-03 20:47:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:47:56 --> Input Class Initialized
+INFO - 2020-11-03 20:47:56 --> Language Class Initialized
+INFO - 2020-11-03 20:47:56 --> Language Class Initialized
+INFO - 2020-11-03 20:47:56 --> Config Class Initialized
+INFO - 2020-11-03 20:47:57 --> Loader Class Initialized
+INFO - 2020-11-03 20:47:57 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:47:57 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:47:57 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:47:57 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:47:57 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:47:57 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:47:57 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:47:57 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:47:57 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:47:57 --> Email Class Initialized
+INFO - 2020-11-03 20:47:57 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:47:57 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:47:57 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:47:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:47:57 --> Model Class Initialized
+DEBUG - 2020-11-03 20:47:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:47:58 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:47:58 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:47:58 --> Severity: Notice --> Undefined variable: message C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 11
+ERROR - 2020-11-03 20:47:58 --> Severity: Notice --> Undefined variable: identity C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 26
+ERROR - 2020-11-03 20:47:58 --> Severity: Notice --> Undefined variable: password C:\xampp\htdocs\hmvc\application\modules\Home\views\login.php 31
+DEBUG - 2020-11-03 20:47:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/login.php
+DEBUG - 2020-11-03 20:47:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+ERROR - 2020-11-03 20:47:58 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 72
+ERROR - 2020-11-03 20:47:58 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:48:24 --> Config Class Initialized
+INFO - 2020-11-03 20:48:24 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:48:24 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:48:24 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:48:24 --> URI Class Initialized
+INFO - 2020-11-03 20:48:24 --> Router Class Initialized
+INFO - 2020-11-03 20:48:24 --> Output Class Initialized
+INFO - 2020-11-03 20:48:24 --> Security Class Initialized
+DEBUG - 2020-11-03 20:48:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:48:24 --> Input Class Initialized
+INFO - 2020-11-03 20:48:24 --> Language Class Initialized
+INFO - 2020-11-03 20:48:24 --> Language Class Initialized
+INFO - 2020-11-03 20:48:24 --> Config Class Initialized
+INFO - 2020-11-03 20:48:24 --> Loader Class Initialized
+INFO - 2020-11-03 20:48:24 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:48:24 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:48:25 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:48:25 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:48:25 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:48:25 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:48:25 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:48:25 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:48:25 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:48:25 --> Email Class Initialized
+INFO - 2020-11-03 20:48:25 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:48:25 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:48:25 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:48:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:48:25 --> Model Class Initialized
+DEBUG - 2020-11-03 20:48:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:48:25 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:48:25 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:48:25 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+ERROR - 2020-11-03 20:48:25 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:48:35 --> Config Class Initialized
+INFO - 2020-11-03 20:48:35 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:48:35 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:48:35 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:48:35 --> URI Class Initialized
+INFO - 2020-11-03 20:48:35 --> Router Class Initialized
+INFO - 2020-11-03 20:48:35 --> Output Class Initialized
+INFO - 2020-11-03 20:48:36 --> Security Class Initialized
+DEBUG - 2020-11-03 20:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:48:36 --> Input Class Initialized
+INFO - 2020-11-03 20:48:36 --> Language Class Initialized
+INFO - 2020-11-03 20:48:36 --> Language Class Initialized
+INFO - 2020-11-03 20:48:36 --> Config Class Initialized
+INFO - 2020-11-03 20:48:36 --> Loader Class Initialized
+INFO - 2020-11-03 20:48:36 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:48:36 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:48:36 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:48:36 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:48:36 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:48:36 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:48:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:48:36 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:48:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:48:36 --> Email Class Initialized
+INFO - 2020-11-03 20:48:37 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:48:37 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:48:37 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:48:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:48:37 --> Model Class Initialized
+DEBUG - 2020-11-03 20:48:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:48:37 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:48:37 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:48:37 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+ERROR - 2020-11-03 20:48:37 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:48:45 --> Config Class Initialized
+INFO - 2020-11-03 20:48:45 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:48:45 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:48:45 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:48:45 --> URI Class Initialized
+INFO - 2020-11-03 20:48:45 --> Router Class Initialized
+INFO - 2020-11-03 20:48:45 --> Output Class Initialized
+INFO - 2020-11-03 20:48:45 --> Security Class Initialized
+DEBUG - 2020-11-03 20:48:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:48:45 --> Input Class Initialized
+INFO - 2020-11-03 20:48:45 --> Language Class Initialized
+INFO - 2020-11-03 20:48:45 --> Language Class Initialized
+INFO - 2020-11-03 20:48:45 --> Config Class Initialized
+INFO - 2020-11-03 20:48:46 --> Loader Class Initialized
+INFO - 2020-11-03 20:48:46 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:48:46 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:48:46 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:48:46 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:48:46 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:48:46 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:48:46 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:48:46 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:48:46 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:48:46 --> Email Class Initialized
+INFO - 2020-11-03 20:48:46 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:48:46 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:48:46 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:48:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:48:46 --> Model Class Initialized
+DEBUG - 2020-11-03 20:48:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:48:46 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:48:47 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:48:47 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+ERROR - 2020-11-03 20:48:47 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:49:00 --> Config Class Initialized
+INFO - 2020-11-03 20:49:00 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:49:00 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:49:00 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:49:00 --> URI Class Initialized
+INFO - 2020-11-03 20:49:00 --> Router Class Initialized
+INFO - 2020-11-03 20:49:01 --> Output Class Initialized
+INFO - 2020-11-03 20:49:01 --> Security Class Initialized
+DEBUG - 2020-11-03 20:49:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:49:01 --> Input Class Initialized
+INFO - 2020-11-03 20:49:01 --> Language Class Initialized
+INFO - 2020-11-03 20:49:01 --> Language Class Initialized
+INFO - 2020-11-03 20:49:01 --> Config Class Initialized
+INFO - 2020-11-03 20:49:01 --> Loader Class Initialized
+INFO - 2020-11-03 20:49:01 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:49:01 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:49:01 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:49:01 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:49:01 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:49:01 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:49:01 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:49:01 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:49:01 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:49:02 --> Email Class Initialized
+INFO - 2020-11-03 20:49:02 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:49:02 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:49:02 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:49:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:49:02 --> Model Class Initialized
+DEBUG - 2020-11-03 20:49:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:49:02 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:49:02 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:49:02 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 71
+ERROR - 2020-11-03 20:49:02 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:49:18 --> Config Class Initialized
+INFO - 2020-11-03 20:49:18 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:49:18 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:49:18 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:49:18 --> URI Class Initialized
+INFO - 2020-11-03 20:49:18 --> Router Class Initialized
+INFO - 2020-11-03 20:49:18 --> Output Class Initialized
+INFO - 2020-11-03 20:49:18 --> Security Class Initialized
+DEBUG - 2020-11-03 20:49:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:49:19 --> Input Class Initialized
+INFO - 2020-11-03 20:49:19 --> Language Class Initialized
+INFO - 2020-11-03 20:49:19 --> Language Class Initialized
+INFO - 2020-11-03 20:49:19 --> Config Class Initialized
+INFO - 2020-11-03 20:49:19 --> Loader Class Initialized
+INFO - 2020-11-03 20:49:19 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:49:19 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:49:19 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:49:19 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:49:19 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:49:19 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:49:19 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:49:19 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:49:19 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:49:19 --> Email Class Initialized
+INFO - 2020-11-03 20:49:19 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:49:19 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:49:20 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:49:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:49:20 --> Model Class Initialized
+DEBUG - 2020-11-03 20:49:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:49:20 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:49:20 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:49:20 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 71
+ERROR - 2020-11-03 20:49:20 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:49:37 --> Config Class Initialized
+INFO - 2020-11-03 20:49:37 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:49:37 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:49:37 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:49:37 --> URI Class Initialized
+INFO - 2020-11-03 20:49:37 --> Router Class Initialized
+INFO - 2020-11-03 20:49:37 --> Output Class Initialized
+INFO - 2020-11-03 20:49:37 --> Security Class Initialized
+DEBUG - 2020-11-03 20:49:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:49:37 --> Input Class Initialized
+INFO - 2020-11-03 20:49:37 --> Language Class Initialized
+INFO - 2020-11-03 20:49:37 --> Language Class Initialized
+INFO - 2020-11-03 20:49:37 --> Config Class Initialized
+INFO - 2020-11-03 20:49:37 --> Loader Class Initialized
+INFO - 2020-11-03 20:49:38 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:49:38 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:49:38 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:49:38 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:49:38 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:49:38 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:49:38 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:49:38 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:49:38 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:49:38 --> Email Class Initialized
+INFO - 2020-11-03 20:49:38 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:49:38 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:49:38 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:49:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:49:38 --> Model Class Initialized
+DEBUG - 2020-11-03 20:49:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:49:38 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:49:39 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:49:39 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+ERROR - 2020-11-03 20:49:39 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:49:46 --> Config Class Initialized
+INFO - 2020-11-03 20:49:46 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:49:46 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:49:46 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:49:47 --> URI Class Initialized
+INFO - 2020-11-03 20:49:47 --> Router Class Initialized
+INFO - 2020-11-03 20:49:47 --> Output Class Initialized
+INFO - 2020-11-03 20:49:47 --> Security Class Initialized
+DEBUG - 2020-11-03 20:49:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:49:47 --> Input Class Initialized
+INFO - 2020-11-03 20:49:47 --> Language Class Initialized
+INFO - 2020-11-03 20:49:47 --> Language Class Initialized
+INFO - 2020-11-03 20:49:47 --> Config Class Initialized
+INFO - 2020-11-03 20:49:47 --> Loader Class Initialized
+INFO - 2020-11-03 20:49:47 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:49:47 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:49:47 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:49:47 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:49:47 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:49:47 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:49:47 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:49:48 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:49:48 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:49:48 --> Email Class Initialized
+INFO - 2020-11-03 20:49:48 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:49:48 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:49:48 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:49:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:49:48 --> Model Class Initialized
+DEBUG - 2020-11-03 20:49:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:49:48 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:49:48 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:49:48 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+ERROR - 2020-11-03 20:49:48 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:50:01 --> Config Class Initialized
+INFO - 2020-11-03 20:50:01 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:50:01 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:50:01 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:50:01 --> URI Class Initialized
+INFO - 2020-11-03 20:50:01 --> Router Class Initialized
+INFO - 2020-11-03 20:50:01 --> Output Class Initialized
+INFO - 2020-11-03 20:50:01 --> Security Class Initialized
+DEBUG - 2020-11-03 20:50:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:50:01 --> Input Class Initialized
+INFO - 2020-11-03 20:50:01 --> Language Class Initialized
+INFO - 2020-11-03 20:50:01 --> Language Class Initialized
+INFO - 2020-11-03 20:50:01 --> Config Class Initialized
+INFO - 2020-11-03 20:50:01 --> Loader Class Initialized
+INFO - 2020-11-03 20:50:01 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:50:01 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:50:02 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:50:02 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:50:02 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:50:02 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:50:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:50:02 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:50:02 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:50:02 --> Email Class Initialized
+INFO - 2020-11-03 20:50:02 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:50:02 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:50:02 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:50:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:50:02 --> Model Class Initialized
+DEBUG - 2020-11-03 20:50:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:50:02 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:50:02 --> Language file loaded: language/english/auth_lang.php
+INFO - 2020-11-03 20:50:02 --> Final output sent to browser
+DEBUG - 2020-11-03 20:50:02 --> Total execution time: 1.8767
+INFO - 2020-11-03 20:50:20 --> Config Class Initialized
+INFO - 2020-11-03 20:50:20 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:50:20 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:50:20 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:50:20 --> URI Class Initialized
+INFO - 2020-11-03 20:50:20 --> Router Class Initialized
+INFO - 2020-11-03 20:50:20 --> Output Class Initialized
+INFO - 2020-11-03 20:50:20 --> Security Class Initialized
+DEBUG - 2020-11-03 20:50:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:50:20 --> Input Class Initialized
+INFO - 2020-11-03 20:50:20 --> Language Class Initialized
+INFO - 2020-11-03 20:50:20 --> Language Class Initialized
+INFO - 2020-11-03 20:50:20 --> Config Class Initialized
+INFO - 2020-11-03 20:50:20 --> Loader Class Initialized
+INFO - 2020-11-03 20:50:21 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:50:21 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:50:21 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:50:21 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:50:21 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:50:21 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:50:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:50:21 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:50:21 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:50:21 --> Email Class Initialized
+INFO - 2020-11-03 20:50:21 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:50:21 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:50:21 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:50:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:50:21 --> Model Class Initialized
+DEBUG - 2020-11-03 20:50:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:50:21 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:50:21 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:50:22 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+ERROR - 2020-11-03 20:50:22 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:50:53 --> Config Class Initialized
+INFO - 2020-11-03 20:50:53 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:50:54 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:50:54 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:50:54 --> URI Class Initialized
+INFO - 2020-11-03 20:50:54 --> Router Class Initialized
+INFO - 2020-11-03 20:50:54 --> Output Class Initialized
+INFO - 2020-11-03 20:50:54 --> Security Class Initialized
+DEBUG - 2020-11-03 20:50:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:50:54 --> Input Class Initialized
+INFO - 2020-11-03 20:50:54 --> Language Class Initialized
+INFO - 2020-11-03 20:50:54 --> Language Class Initialized
+INFO - 2020-11-03 20:50:54 --> Config Class Initialized
+INFO - 2020-11-03 20:50:54 --> Loader Class Initialized
+INFO - 2020-11-03 20:50:54 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:50:54 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:50:54 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:50:54 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:50:54 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:50:54 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:50:55 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:50:55 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:50:55 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:50:55 --> Email Class Initialized
+INFO - 2020-11-03 20:50:55 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:50:55 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:50:55 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:50:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:50:55 --> Model Class Initialized
+DEBUG - 2020-11-03 20:50:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:50:55 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:50:55 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:50:55 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+ERROR - 2020-11-03 20:50:55 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:51:28 --> Config Class Initialized
+INFO - 2020-11-03 20:51:28 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:51:28 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:51:28 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:51:28 --> URI Class Initialized
+INFO - 2020-11-03 20:51:28 --> Router Class Initialized
+INFO - 2020-11-03 20:51:28 --> Output Class Initialized
+INFO - 2020-11-03 20:51:28 --> Security Class Initialized
+DEBUG - 2020-11-03 20:51:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:51:28 --> Input Class Initialized
+INFO - 2020-11-03 20:51:28 --> Language Class Initialized
+INFO - 2020-11-03 20:51:28 --> Language Class Initialized
+INFO - 2020-11-03 20:51:28 --> Config Class Initialized
+INFO - 2020-11-03 20:51:28 --> Loader Class Initialized
+INFO - 2020-11-03 20:51:28 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:51:28 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:51:29 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:51:29 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:51:29 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:51:29 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:51:29 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:51:29 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:51:29 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:51:29 --> Email Class Initialized
+INFO - 2020-11-03 20:51:29 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:51:29 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:51:29 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:51:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:51:29 --> Model Class Initialized
+DEBUG - 2020-11-03 20:51:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:51:29 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:51:29 --> Language file loaded: language/english/auth_lang.php
+INFO - 2020-11-03 20:51:29 --> Final output sent to browser
+DEBUG - 2020-11-03 20:51:29 --> Total execution time: 1.9300
+INFO - 2020-11-03 20:51:42 --> Config Class Initialized
+INFO - 2020-11-03 20:51:42 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:51:42 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:51:43 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:51:43 --> URI Class Initialized
+INFO - 2020-11-03 20:51:43 --> Router Class Initialized
+INFO - 2020-11-03 20:51:43 --> Output Class Initialized
+INFO - 2020-11-03 20:51:43 --> Security Class Initialized
+DEBUG - 2020-11-03 20:51:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:51:43 --> Input Class Initialized
+INFO - 2020-11-03 20:51:43 --> Language Class Initialized
+INFO - 2020-11-03 20:51:43 --> Language Class Initialized
+INFO - 2020-11-03 20:51:43 --> Config Class Initialized
+INFO - 2020-11-03 20:51:43 --> Loader Class Initialized
+INFO - 2020-11-03 20:51:43 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:51:43 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:51:43 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:51:43 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:51:43 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:51:43 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:51:44 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:51:44 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:51:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:51:44 --> Email Class Initialized
+INFO - 2020-11-03 20:51:44 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:51:44 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:51:44 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:51:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:51:44 --> Model Class Initialized
+DEBUG - 2020-11-03 20:51:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:51:44 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:51:44 --> Language file loaded: language/english/auth_lang.php
+INFO - 2020-11-03 20:51:58 --> Config Class Initialized
+INFO - 2020-11-03 20:51:58 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:51:58 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:51:58 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:51:58 --> URI Class Initialized
+INFO - 2020-11-03 20:51:58 --> Router Class Initialized
+INFO - 2020-11-03 20:51:58 --> Output Class Initialized
+INFO - 2020-11-03 20:51:58 --> Security Class Initialized
+DEBUG - 2020-11-03 20:51:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:51:59 --> Input Class Initialized
+INFO - 2020-11-03 20:51:59 --> Language Class Initialized
+INFO - 2020-11-03 20:51:59 --> Language Class Initialized
+INFO - 2020-11-03 20:51:59 --> Config Class Initialized
+INFO - 2020-11-03 20:51:59 --> Loader Class Initialized
+INFO - 2020-11-03 20:51:59 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:51:59 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:51:59 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:51:59 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:51:59 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:51:59 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:51:59 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:51:59 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:51:59 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:51:59 --> Email Class Initialized
+INFO - 2020-11-03 20:51:59 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:51:59 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:52:00 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:52:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:52:00 --> Model Class Initialized
+DEBUG - 2020-11-03 20:52:00 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:52:00 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:52:00 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:52:00 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+ERROR - 2020-11-03 20:52:00 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-03 20:55:05 --> Config Class Initialized
+INFO - 2020-11-03 20:55:05 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:55:05 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:55:05 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:55:05 --> URI Class Initialized
+INFO - 2020-11-03 20:55:05 --> Router Class Initialized
+INFO - 2020-11-03 20:55:05 --> Output Class Initialized
+INFO - 2020-11-03 20:55:05 --> Security Class Initialized
+DEBUG - 2020-11-03 20:55:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:55:05 --> Input Class Initialized
+INFO - 2020-11-03 20:55:06 --> Language Class Initialized
+INFO - 2020-11-03 20:55:06 --> Language Class Initialized
+INFO - 2020-11-03 20:55:06 --> Config Class Initialized
+INFO - 2020-11-03 20:55:06 --> Loader Class Initialized
+INFO - 2020-11-03 20:55:06 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:55:06 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:55:06 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:55:06 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:55:06 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:55:06 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:55:06 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:55:06 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:55:06 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:55:06 --> Email Class Initialized
+INFO - 2020-11-03 20:55:06 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:55:06 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:55:06 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:55:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:55:07 --> Model Class Initialized
+DEBUG - 2020-11-03 20:55:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:55:07 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:55:07 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:55:07 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+INFO - 2020-11-03 20:57:21 --> Config Class Initialized
+INFO - 2020-11-03 20:57:21 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:57:21 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:57:21 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:57:21 --> URI Class Initialized
+INFO - 2020-11-03 20:57:21 --> Router Class Initialized
+INFO - 2020-11-03 20:57:21 --> Output Class Initialized
+INFO - 2020-11-03 20:57:21 --> Security Class Initialized
+DEBUG - 2020-11-03 20:57:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:57:21 --> Input Class Initialized
+INFO - 2020-11-03 20:57:21 --> Language Class Initialized
+INFO - 2020-11-03 20:57:21 --> Language Class Initialized
+INFO - 2020-11-03 20:57:22 --> Config Class Initialized
+INFO - 2020-11-03 20:57:22 --> Loader Class Initialized
+INFO - 2020-11-03 20:57:22 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:57:22 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:57:22 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:57:22 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:57:22 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:57:22 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:57:22 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:57:22 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:57:22 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:57:22 --> Email Class Initialized
+INFO - 2020-11-03 20:57:22 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:57:22 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:57:22 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:57:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:57:22 --> Model Class Initialized
+DEBUG - 2020-11-03 20:57:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:57:23 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:57:23 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:57:23 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+INFO - 2020-11-03 20:57:33 --> Config Class Initialized
+INFO - 2020-11-03 20:57:33 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:57:33 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:57:33 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:57:33 --> URI Class Initialized
+INFO - 2020-11-03 20:57:33 --> Router Class Initialized
+INFO - 2020-11-03 20:57:33 --> Output Class Initialized
+INFO - 2020-11-03 20:57:33 --> Security Class Initialized
+DEBUG - 2020-11-03 20:57:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:57:33 --> Input Class Initialized
+INFO - 2020-11-03 20:57:33 --> Language Class Initialized
+INFO - 2020-11-03 20:57:33 --> Language Class Initialized
+INFO - 2020-11-03 20:57:33 --> Config Class Initialized
+INFO - 2020-11-03 20:57:33 --> Loader Class Initialized
+INFO - 2020-11-03 20:57:33 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:57:34 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:57:34 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:57:34 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:57:34 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:57:34 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:57:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:57:34 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:57:34 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:57:34 --> Email Class Initialized
+INFO - 2020-11-03 20:57:34 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:57:34 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:57:34 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:57:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:57:34 --> Model Class Initialized
+DEBUG - 2020-11-03 20:57:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:57:34 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:57:34 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:57:35 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+INFO - 2020-11-03 20:58:38 --> Config Class Initialized
+INFO - 2020-11-03 20:58:38 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:58:38 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:58:38 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:58:39 --> URI Class Initialized
+INFO - 2020-11-03 20:58:39 --> Router Class Initialized
+INFO - 2020-11-03 20:58:39 --> Output Class Initialized
+INFO - 2020-11-03 20:58:39 --> Security Class Initialized
+DEBUG - 2020-11-03 20:58:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:58:39 --> Input Class Initialized
+INFO - 2020-11-03 20:58:39 --> Language Class Initialized
+INFO - 2020-11-03 20:58:39 --> Language Class Initialized
+INFO - 2020-11-03 20:58:39 --> Config Class Initialized
+INFO - 2020-11-03 20:58:39 --> Loader Class Initialized
+INFO - 2020-11-03 20:58:39 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:58:39 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:58:39 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:58:39 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:58:39 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:58:39 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:58:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:58:40 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:58:40 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:58:40 --> Email Class Initialized
+INFO - 2020-11-03 20:58:40 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:58:40 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:58:40 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:58:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:58:40 --> Model Class Initialized
+DEBUG - 2020-11-03 20:58:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:58:40 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:58:40 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 20:58:40 --> Severity: error --> Exception: Call to undefined method Home::_render_page() C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 70
+INFO - 2020-11-03 20:59:36 --> Config Class Initialized
+INFO - 2020-11-03 20:59:36 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:59:36 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:59:36 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:59:36 --> URI Class Initialized
+INFO - 2020-11-03 20:59:36 --> Router Class Initialized
+INFO - 2020-11-03 20:59:36 --> Output Class Initialized
+INFO - 2020-11-03 20:59:37 --> Security Class Initialized
+DEBUG - 2020-11-03 20:59:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:59:37 --> Input Class Initialized
+INFO - 2020-11-03 20:59:37 --> Language Class Initialized
+INFO - 2020-11-03 20:59:37 --> Language Class Initialized
+INFO - 2020-11-03 20:59:37 --> Config Class Initialized
+INFO - 2020-11-03 20:59:37 --> Loader Class Initialized
+INFO - 2020-11-03 20:59:37 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:59:37 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:59:37 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:59:37 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:59:37 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:59:37 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:59:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:59:37 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:59:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:59:37 --> Email Class Initialized
+INFO - 2020-11-03 20:59:38 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:59:38 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:59:38 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:59:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:59:38 --> Model Class Initialized
+DEBUG - 2020-11-03 20:59:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:59:38 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:59:38 --> Language file loaded: language/english/auth_lang.php
+INFO - 2020-11-03 20:59:49 --> Config Class Initialized
+INFO - 2020-11-03 20:59:49 --> Hooks Class Initialized
+DEBUG - 2020-11-03 20:59:49 --> UTF-8 Support Enabled
+INFO - 2020-11-03 20:59:49 --> Utf8 Class Initialized
+INFO - 2020-11-03 20:59:49 --> URI Class Initialized
+INFO - 2020-11-03 20:59:49 --> Router Class Initialized
+INFO - 2020-11-03 20:59:49 --> Output Class Initialized
+INFO - 2020-11-03 20:59:49 --> Security Class Initialized
+DEBUG - 2020-11-03 20:59:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 20:59:50 --> Input Class Initialized
+INFO - 2020-11-03 20:59:50 --> Language Class Initialized
+INFO - 2020-11-03 20:59:50 --> Language Class Initialized
+INFO - 2020-11-03 20:59:50 --> Config Class Initialized
+INFO - 2020-11-03 20:59:50 --> Loader Class Initialized
+INFO - 2020-11-03 20:59:50 --> Helper loaded: form_helper
+INFO - 2020-11-03 20:59:50 --> Helper loaded: url_helper
+INFO - 2020-11-03 20:59:50 --> Helper loaded: file_helper
+INFO - 2020-11-03 20:59:50 --> Database Driver Class Initialized
+INFO - 2020-11-03 20:59:50 --> Controller Class Initialized
+DEBUG - 2020-11-03 20:59:50 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 20:59:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 20:59:50 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 20:59:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 20:59:50 --> Email Class Initialized
+INFO - 2020-11-03 20:59:50 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 20:59:51 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 20:59:51 --> Helper loaded: language_helper
+INFO - 2020-11-03 20:59:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 20:59:51 --> Model Class Initialized
+DEBUG - 2020-11-03 20:59:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 20:59:51 --> Form Validation Class Initialized
+INFO - 2020-11-03 20:59:51 --> Language file loaded: language/english/auth_lang.php
+INFO - 2020-11-03 21:00:26 --> Config Class Initialized
+INFO - 2020-11-03 21:00:26 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:00:26 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:00:26 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:00:26 --> URI Class Initialized
+INFO - 2020-11-03 21:00:26 --> Router Class Initialized
+INFO - 2020-11-03 21:00:26 --> Output Class Initialized
+INFO - 2020-11-03 21:00:26 --> Security Class Initialized
+DEBUG - 2020-11-03 21:00:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:00:26 --> Input Class Initialized
+INFO - 2020-11-03 21:00:26 --> Language Class Initialized
+INFO - 2020-11-03 21:00:26 --> Language Class Initialized
+INFO - 2020-11-03 21:00:26 --> Config Class Initialized
+INFO - 2020-11-03 21:00:27 --> Loader Class Initialized
+INFO - 2020-11-03 21:00:27 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:00:27 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:00:27 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:00:27 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:00:27 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:00:27 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:00:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:00:27 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:00:27 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:00:27 --> Email Class Initialized
+INFO - 2020-11-03 21:00:27 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:00:27 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:00:27 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:00:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:00:27 --> Model Class Initialized
+DEBUG - 2020-11-03 21:00:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:00:28 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:00:28 --> Language file loaded: language/english/auth_lang.php
+DEBUG - 2020-11-03 21:00:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/views/\login.php
+INFO - 2020-11-03 21:00:54 --> Config Class Initialized
+INFO - 2020-11-03 21:00:54 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:00:54 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:00:54 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:00:54 --> URI Class Initialized
+INFO - 2020-11-03 21:00:54 --> Router Class Initialized
+INFO - 2020-11-03 21:00:54 --> Output Class Initialized
+INFO - 2020-11-03 21:00:55 --> Security Class Initialized
+DEBUG - 2020-11-03 21:00:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:00:55 --> Input Class Initialized
+INFO - 2020-11-03 21:00:55 --> Language Class Initialized
+INFO - 2020-11-03 21:00:55 --> Language Class Initialized
+INFO - 2020-11-03 21:00:55 --> Config Class Initialized
+INFO - 2020-11-03 21:00:55 --> Loader Class Initialized
+INFO - 2020-11-03 21:00:55 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:00:55 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:00:55 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:00:55 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:00:55 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:00:55 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:00:55 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:00:55 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:00:55 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:00:55 --> Email Class Initialized
+INFO - 2020-11-03 21:00:56 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:00:56 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:00:56 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:00:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:00:56 --> Model Class Initialized
+DEBUG - 2020-11-03 21:00:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:00:56 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:00:56 --> Language file loaded: language/english/auth_lang.php
+INFO - 2020-11-03 21:01:15 --> Config Class Initialized
+INFO - 2020-11-03 21:01:15 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:01:15 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:01:15 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:01:15 --> URI Class Initialized
+INFO - 2020-11-03 21:01:15 --> Router Class Initialized
+INFO - 2020-11-03 21:01:16 --> Output Class Initialized
+INFO - 2020-11-03 21:01:16 --> Security Class Initialized
+DEBUG - 2020-11-03 21:01:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:01:16 --> Input Class Initialized
+INFO - 2020-11-03 21:01:16 --> Language Class Initialized
+INFO - 2020-11-03 21:01:16 --> Language Class Initialized
+INFO - 2020-11-03 21:01:16 --> Config Class Initialized
+INFO - 2020-11-03 21:01:16 --> Loader Class Initialized
+INFO - 2020-11-03 21:01:16 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:01:16 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:01:16 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:01:16 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:01:16 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:01:16 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:01:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:01:16 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:01:16 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:01:16 --> Email Class Initialized
+INFO - 2020-11-03 21:01:17 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:01:17 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:01:17 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:01:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:01:17 --> Model Class Initialized
+DEBUG - 2020-11-03 21:01:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:01:17 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:01:17 --> Language file loaded: language/english/auth_lang.php
+DEBUG - 2020-11-03 21:01:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/views/login.php
+INFO - 2020-11-03 21:01:26 --> Config Class Initialized
+INFO - 2020-11-03 21:01:26 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:01:26 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:01:26 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:01:26 --> URI Class Initialized
+INFO - 2020-11-03 21:01:26 --> Router Class Initialized
+INFO - 2020-11-03 21:01:26 --> Output Class Initialized
+INFO - 2020-11-03 21:01:26 --> Security Class Initialized
+DEBUG - 2020-11-03 21:01:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:01:26 --> Input Class Initialized
+INFO - 2020-11-03 21:01:26 --> Language Class Initialized
+INFO - 2020-11-03 21:01:26 --> Language Class Initialized
+INFO - 2020-11-03 21:01:26 --> Config Class Initialized
+INFO - 2020-11-03 21:01:26 --> Loader Class Initialized
+INFO - 2020-11-03 21:01:26 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:01:26 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:01:27 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:01:27 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:01:27 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:01:27 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:01:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:01:27 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:01:27 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:01:27 --> Email Class Initialized
+INFO - 2020-11-03 21:01:27 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:01:27 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:01:27 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:01:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:01:27 --> Model Class Initialized
+DEBUG - 2020-11-03 21:01:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:01:27 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:01:27 --> Language file loaded: language/english/auth_lang.php
+DEBUG - 2020-11-03 21:01:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/home.php
+DEBUG - 2020-11-03 21:01:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+INFO - 2020-11-03 21:01:28 --> Final output sent to browser
+DEBUG - 2020-11-03 21:01:28 --> Total execution time: 2.0287
+INFO - 2020-11-03 21:01:33 --> Config Class Initialized
+INFO - 2020-11-03 21:01:33 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:01:33 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:01:33 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:01:33 --> URI Class Initialized
+INFO - 2020-11-03 21:01:33 --> Router Class Initialized
+INFO - 2020-11-03 21:01:33 --> Output Class Initialized
+INFO - 2020-11-03 21:01:33 --> Security Class Initialized
+DEBUG - 2020-11-03 21:01:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:01:33 --> Input Class Initialized
+INFO - 2020-11-03 21:01:33 --> Language Class Initialized
+INFO - 2020-11-03 21:01:33 --> Language Class Initialized
+INFO - 2020-11-03 21:01:33 --> Config Class Initialized
+INFO - 2020-11-03 21:01:33 --> Loader Class Initialized
+INFO - 2020-11-03 21:01:33 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:01:33 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:01:34 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:01:34 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:01:34 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:01:34 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:01:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:01:34 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:01:34 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:01:34 --> Email Class Initialized
+INFO - 2020-11-03 21:01:34 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:01:34 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:01:34 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:01:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:01:34 --> Model Class Initialized
+DEBUG - 2020-11-03 21:01:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:01:34 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:01:34 --> Language file loaded: language/english/auth_lang.php
+DEBUG - 2020-11-03 21:01:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/views/login.php
+INFO - 2020-11-03 21:02:02 --> Config Class Initialized
+INFO - 2020-11-03 21:02:02 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:02:02 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:02:02 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:02:02 --> URI Class Initialized
+INFO - 2020-11-03 21:02:02 --> Router Class Initialized
+INFO - 2020-11-03 21:02:02 --> Output Class Initialized
+INFO - 2020-11-03 21:02:02 --> Security Class Initialized
+DEBUG - 2020-11-03 21:02:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:02:02 --> Input Class Initialized
+INFO - 2020-11-03 21:02:02 --> Language Class Initialized
+INFO - 2020-11-03 21:02:02 --> Language Class Initialized
+INFO - 2020-11-03 21:02:03 --> Config Class Initialized
+INFO - 2020-11-03 21:02:03 --> Loader Class Initialized
+INFO - 2020-11-03 21:02:03 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:02:03 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:02:03 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:02:03 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:02:03 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:02:03 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:02:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:02:03 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:02:03 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:02:03 --> Email Class Initialized
+INFO - 2020-11-03 21:02:03 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:02:03 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:02:03 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:02:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:02:04 --> Model Class Initialized
+DEBUG - 2020-11-03 21:02:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:02:04 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:02:04 --> Language file loaded: language/english/auth_lang.php
+INFO - 2020-11-03 21:02:17 --> Config Class Initialized
+INFO - 2020-11-03 21:02:17 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:02:17 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:02:17 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:02:17 --> URI Class Initialized
+INFO - 2020-11-03 21:02:17 --> Router Class Initialized
+INFO - 2020-11-03 21:02:17 --> Output Class Initialized
+INFO - 2020-11-03 21:02:17 --> Security Class Initialized
+DEBUG - 2020-11-03 21:02:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:02:17 --> Input Class Initialized
+INFO - 2020-11-03 21:02:17 --> Language Class Initialized
+INFO - 2020-11-03 21:02:18 --> Language Class Initialized
+INFO - 2020-11-03 21:02:18 --> Config Class Initialized
+INFO - 2020-11-03 21:02:18 --> Loader Class Initialized
+INFO - 2020-11-03 21:02:18 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:02:18 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:02:18 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:02:18 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:02:18 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:02:18 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:02:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:02:18 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:02:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:02:18 --> Email Class Initialized
+INFO - 2020-11-03 21:02:18 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:02:18 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:02:18 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:02:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:02:18 --> Model Class Initialized
+DEBUG - 2020-11-03 21:02:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:02:19 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:02:19 --> Language file loaded: language/english/auth_lang.php
+DEBUG - 2020-11-03 21:02:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/views/login.php
+INFO - 2020-11-03 21:02:53 --> Config Class Initialized
+INFO - 2020-11-03 21:02:53 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:02:53 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:02:53 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:02:53 --> URI Class Initialized
+INFO - 2020-11-03 21:02:53 --> Router Class Initialized
+INFO - 2020-11-03 21:02:53 --> Output Class Initialized
+INFO - 2020-11-03 21:02:54 --> Security Class Initialized
+DEBUG - 2020-11-03 21:02:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:02:54 --> Input Class Initialized
+INFO - 2020-11-03 21:02:54 --> Language Class Initialized
+INFO - 2020-11-03 21:02:54 --> Language Class Initialized
+INFO - 2020-11-03 21:02:54 --> Config Class Initialized
+INFO - 2020-11-03 21:02:54 --> Loader Class Initialized
+INFO - 2020-11-03 21:02:54 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:02:54 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:02:54 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:02:54 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:02:54 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:02:54 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:02:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:02:54 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:02:54 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:02:54 --> Email Class Initialized
+INFO - 2020-11-03 21:02:54 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:02:55 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:02:55 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:02:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:02:55 --> Model Class Initialized
+DEBUG - 2020-11-03 21:02:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:02:55 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:02:55 --> Language file loaded: language/english/auth_lang.php
+ERROR - 2020-11-03 21:02:55 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\hmvc\application\modules\Home\controllers\Home.php 69
+DEBUG - 2020-11-03 21:02:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/views/login.php
+INFO - 2020-11-03 21:03:49 --> Config Class Initialized
+INFO - 2020-11-03 21:03:50 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:03:50 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:03:50 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:03:50 --> URI Class Initialized
+INFO - 2020-11-03 21:03:50 --> Router Class Initialized
+INFO - 2020-11-03 21:03:50 --> Output Class Initialized
+INFO - 2020-11-03 21:03:50 --> Security Class Initialized
+DEBUG - 2020-11-03 21:03:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:03:50 --> Input Class Initialized
+INFO - 2020-11-03 21:03:50 --> Language Class Initialized
+INFO - 2020-11-03 21:03:50 --> Language Class Initialized
+INFO - 2020-11-03 21:03:50 --> Config Class Initialized
+INFO - 2020-11-03 21:03:50 --> Loader Class Initialized
+INFO - 2020-11-03 21:03:50 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:03:50 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:03:50 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:03:50 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:03:51 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:03:51 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:03:51 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:03:51 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:03:51 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/ion_auth.php
+INFO - 2020-11-03 21:03:51 --> Email Class Initialized
+INFO - 2020-11-03 21:03:51 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2020-11-03 21:03:51 --> Helper loaded: cookie_helper
+INFO - 2020-11-03 21:03:51 --> Helper loaded: language_helper
+INFO - 2020-11-03 21:03:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-03 21:03:51 --> Model Class Initialized
+DEBUG - 2020-11-03 21:03:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/Ion_auth_model.php
+INFO - 2020-11-03 21:03:51 --> Form Validation Class Initialized
+INFO - 2020-11-03 21:03:51 --> Language file loaded: language/english/auth_lang.php
+DEBUG - 2020-11-03 21:03:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/views/login.php
+INFO - 2020-11-03 21:12:41 --> Config Class Initialized
+INFO - 2020-11-03 21:12:41 --> Hooks Class Initialized
+DEBUG - 2020-11-03 21:12:41 --> UTF-8 Support Enabled
+INFO - 2020-11-03 21:12:41 --> Utf8 Class Initialized
+INFO - 2020-11-03 21:12:41 --> URI Class Initialized
+INFO - 2020-11-03 21:12:41 --> Router Class Initialized
+INFO - 2020-11-03 21:12:41 --> Output Class Initialized
+INFO - 2020-11-03 21:12:41 --> Security Class Initialized
+DEBUG - 2020-11-03 21:12:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-03 21:12:41 --> Input Class Initialized
+INFO - 2020-11-03 21:12:41 --> Language Class Initialized
+INFO - 2020-11-03 21:12:41 --> Language Class Initialized
+INFO - 2020-11-03 21:12:41 --> Config Class Initialized
+INFO - 2020-11-03 21:12:41 --> Loader Class Initialized
+INFO - 2020-11-03 21:12:41 --> Helper loaded: form_helper
+INFO - 2020-11-03 21:12:42 --> Helper loaded: url_helper
+INFO - 2020-11-03 21:12:42 --> Helper loaded: file_helper
+INFO - 2020-11-03 21:12:42 --> Database Driver Class Initialized
+INFO - 2020-11-03 21:12:42 --> Controller Class Initialized
+DEBUG - 2020-11-03 21:12:42 --> Home MX_Controller Initialized
+DEBUG - 2020-11-03 21:12:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-03 21:12:42 --> Template MX_Controller Initialized
+DEBUG - 2020-11-03 21:12:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/login.php
+DEBUG - 2020-11-03 21:12:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+INFO - 2020-11-03 21:12:42 --> Final output sent to browser
+DEBUG - 2020-11-03 21:12:42 --> Total execution time: 1.4887

@@ -93,8 +93,12 @@
                     </div>
                     <div id="top-links" class="nav pull-right flip">
                         <ul>
-                            <li><a href="#">ورود</a></li>
-                            <li><a href="#">ثبت نام</a></li>
+                            <?php  if (!isset($_SESSION['user_logged'])){?>
+                                <li><a href="login">ورود</a></li>
+                                <li><a href="register">ثبت نام</a></li>
+                            <?php }else{?>
+                                <li><a href="logout">خروج</a></li>
+                            <?php }?>
                         </ul>
                     </div>
                 </div>

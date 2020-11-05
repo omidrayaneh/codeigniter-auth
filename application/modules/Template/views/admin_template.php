@@ -175,7 +175,7 @@
                         <img src="https://www.gravatar.com/avatar/52f0fbcbedee04a121cba8dad1174462?s=200&d=mm&r=g" class="img-circle elevation-2" alt="User Image">
                     </div>
                     <div class="info">
-                        <a href="#" class="d-block">کابر</a>
+                        <a href="#" class="d-block"> سلام <?php echo $_SESSION['username'] ?></a>
                     </div>
                 </div>
 
@@ -201,7 +201,14 @@
                                 </li>
                             </ul>
                         </li>
-
+                        <li class="nav-item has-treeview">
+                            <a href="<?php echo base_url(); ?>logout" class="nav-link">
+                                <i class="nav-icon fa fa-power-off " style="color: red"></i>
+                                <p>
+                                    خروج
+                                </p>
+                            </a>
+                        </li>
                     </ul>
                 </nav>
                 <!-- /.sidebar-menu -->
