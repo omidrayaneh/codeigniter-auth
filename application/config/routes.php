@@ -56,3 +56,11 @@ $route['register'] = 'home/register';
 $route['logout'] = 'home/logout';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
+
+####  create category
+$route['api/categories/create']='api/v1/categories/createCategories';
+####  delete category with slug
+$route['api/categories/(:any)/delete']['DELETE']='api/v1/categories/deleteCategories/$1';
+####  update category with slug
+$route['api/categories/update']='api/v1/categories/updateCategories';

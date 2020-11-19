@@ -1,21 +1,886 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b5d382be-7a31-4974-8279-e9031531fe2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/config/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/autoload.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/logs/log-2020-11-03.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/logs/log-2020-11-03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/core/MY_Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/core/MY_Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/core/MY_Loader.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/core/MY_Loader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/core/MY_Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/core/MY_Router.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/Dashboard/controllers/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/Dashboard/controllers/Dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/Home/controllers/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/Home/controllers/Home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/Home/views/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/Home/views/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/Home/views/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/Home/views/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/Home/views/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/Home/views/register.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/Template/views/admin_template.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/Template/views/admin_template.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/Template/views/auth_template.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/Template/views/auth_template.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmvc.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/libraries/Session/Session.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/libraries/Session/Session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/MX/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/MX/Base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/MX/Ci.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/MX/Ci.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/MX/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/MX/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/MX/Lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/MX/Lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/js/.jscsrc" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/js/.jscsrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/js/AdminLTE.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/js/AdminLTE.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/js/ControlSidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/js/ControlSidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/js/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/js/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/js/PushMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/js/PushMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/js/SiteSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/js/SiteSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/js/Treeview.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/js/Treeview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/js/Widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/js/Widget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/npm/Plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/npm/Plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/npm/Publish.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/npm/Publish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/.csslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/.csslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/AdminLTE-raw.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/AdminLTE-raw.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/AdminLTE.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/AdminLTE.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_404_500_errors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_404_500_errors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_alerts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_alerts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_bootstrap-variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_bootstrap-variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_brand.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_brand.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_callout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_callout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_cards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_cards.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_control-sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_control-sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_direct-chat.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_direct-chat.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_elevation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_elevation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_fullcalendar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_fullcalendar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_info-box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_info-box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_invoice.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_invoice.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_labels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_labels.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_lockscreen.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_lockscreen.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_login_and_register.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_login_and_register.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_mailbox.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_mailbox.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_main-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_main-header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_main-sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_main-sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_miscellaneous.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_miscellaneous.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_navs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_navs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_print.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_products.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_products.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_profile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_profile.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_progress-bars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_progress-bars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_select2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_select2.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_sidebar-mini.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_sidebar-mini.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_small-box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_small-box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_social-widgets.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_social-widgets.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_timeline.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_timeline.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_users-list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_users-list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/build/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/build/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/css/adminlte.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/css/adminlte.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/css/adminlte.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/css/adminlte.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/css/adminlte.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/css/adminlte.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/css/custom-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/css/custom-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/css/persian-datepicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/css/persian-datepicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/adminlte.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/adminlte.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/adminlte.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/adminlte.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/pages/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/pages/dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/pages/dashboard2.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/pages/dashboard2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/pages/dashboard3.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/pages/dashboard3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/persian-date.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/persian-date.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/persian-datepicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/persian-datepicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chart.js2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chart.js2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/Chart.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/Chart.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/linear.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/linear.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/logarithmic.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/logarithmic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/time.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/cartesian/time.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/labelling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/labelling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/radial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/radial/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/radial/linear.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/radial/linear.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/styling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/axes/styling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/area.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/bar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/bubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/bubble.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/doughnut.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/doughnut.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/line.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/line.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/mixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/mixed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/polar.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/polar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/radar.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/radar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/scatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/charts/scatter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/animations.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/animations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/legend.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/legend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/tooltip.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/configuration/tooltip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/axes.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/axes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/contributing.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/contributing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/updates.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/developers/updates.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/colors.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/colors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/device-pixel-ratio.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/device-pixel-ratio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/fonts.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/fonts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/interactions/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/interactions/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/interactions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/interactions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/interactions/modes.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/interactions/modes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/options.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/options.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/general/responsive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/getting-started/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/getting-started/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/getting-started/installation.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/getting-started/installation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/getting-started/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/getting-started/integration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/getting-started/usage.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/getting-started/usage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-anchorjs/anchor-style.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-anchorjs/anchor-style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-fontsettings/website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-ga/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-ga/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-highlight/ebook.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-highlight/website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/jquery.mark.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/jquery.mark.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-sharing/buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/gitbook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/gitbook/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/notes/comparison.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/notes/comparison.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/notes/extensions.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/notes/extensions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/notes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/notes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/notes/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/notes/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/dist/js/plugins/chartjs2/docs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-slider/bootstrap-slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-slider/bootstrap-slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-slider/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-slider/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/Chart.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/Chart.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/linear.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/linear.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/logarithmic.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/logarithmic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/time.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/cartesian/time.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/labelling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/labelling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/radial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/radial/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/radial/linear.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/radial/linear.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/styling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/axes/styling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/area.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/area.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/bar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/bubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/bubble.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/doughnut.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/doughnut.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/line.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/line.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/mixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/mixed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/polar.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/polar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/radar.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/radar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/scatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/charts/scatter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/animations.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/animations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/legend.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/legend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/tooltip.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/configuration/tooltip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/axes.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/axes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/contributing.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/contributing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/updates.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/developers/updates.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/colors.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/colors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/device-pixel-ratio.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/device-pixel-ratio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/device-pixel-ratio.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/device-pixel-ratio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/fonts.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/fonts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/interactions/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/interactions/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/interactions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/interactions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/interactions/modes.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/interactions/modes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/options.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/options.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/general/responsive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/getting-started/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/getting-started/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/getting-started/installation.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/getting-started/installation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/getting-started/integration.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/getting-started/integration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/getting-started/usage.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/getting-started/usage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-anchorjs/anchor-style.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-anchorjs/anchor-style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-chartjs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-fontsettings/website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-ga/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-ga/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-highlight/ebook.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-highlight/website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-search-plus/jquery.mark.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-search-plus/jquery.mark.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-search-plus/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-search-plus/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-search-plus/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-search-plus/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook-plugin-sharing/buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/gitbook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/gitbook/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/notes/comparison.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/notes/comparison.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/notes/extensions.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/notes/extensions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/notes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/notes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/notes/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/notes/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chart.js/docs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chartjs-old/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chartjs-old/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/chartjs-old/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/chartjs-old/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/ckeditor/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/ckeditor/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/colorpicker/bootstrap-colorpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/colorpicker/bootstrap-colorpicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/colorpicker/bootstrap-colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/colorpicker/bootstrap-colorpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/colorpicker/bootstrap-colorpicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/colorpicker/bootstrap-colorpicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/dataTables.bootstrap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/dataTables.bootstrap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/dataTables.bootstrap4.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/dataTables.bootstrap4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/columns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/complete-callback.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/complete-callback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/fill-both.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/fill-both.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/fill-horizontal.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/fill-horizontal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/scrolling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/scrolling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/step-callback.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/examples/step-callback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/alt_insert.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/alt_insert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/col_filter.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/col_filter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/colvis.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/colvis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/fixedcolumns.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/fixedcolumns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/fixedheader.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/fixedheader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/jqueryui.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/jqueryui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/new_init.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/new_init.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/predefined.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/predefined.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/realtime.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/realtime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/reset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/scrolling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/scrolling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/server_side.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/server_side.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/state_save.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/examples/state_save.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/css/dataTables.colVis.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/css/dataTables.colVis.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/css/dataTables.colVis.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/css/dataTables.colVis.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/css/dataTables.colvis.jqueryui.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/css/dataTables.colvis.jqueryui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/button_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/button_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/exclude_columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/exclude_columns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/group_columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/group_columns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/jqueryui.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/jqueryui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/mouseover.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/mouseover.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/new_init.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/new_init.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/restore.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/restore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/title_callback.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/title_callback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/two_tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/two_tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/two_tables_identical.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/examples/two_tables_identical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/js/dataTables.colVis.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/js/dataTables.colVis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/js/dataTables.colVis.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/ColVis/js/dataTables.colVis.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/col_filter.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/col_filter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/colvis.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/colvis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/css_size.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/css_size.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/index_column.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/index_column.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/left_right_columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/left_right_columns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/right_column.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/right_column.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/rowspan.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/rowspan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/server-side-processing.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/server-side-processing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/size_fixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/size_fixed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/size_fluid.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/size_fluid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/two_columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/examples/two_columns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/header_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/header_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/top_left_right.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/top_left_right.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/two_tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/two_tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/zIndexes.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/examples/zIndexes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/scrolling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/scrolling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/examples/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/css/dataTables.responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/css/dataTables.responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/css/dataTables.responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/css/dataTables.responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/column-control.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/column-control.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/custom-renderer.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/custom-renderer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/disable-child-rows.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/disable-child-rows.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/right-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/right-column.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/whole-row-control.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/child-rows/whole-row-control.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/auto.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/auto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/complexHeader.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/complexHeader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/fixedHeader.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/fixedHeader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/init-classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/display-control/init-classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/ajax.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/ajax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/className.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/className.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/option.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/initialisation/option.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/compact.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/compact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/foundation.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/foundation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/scrolling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/examples/styling/scrolling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/js/dataTables.responsive.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/js/dataTables.responsive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/css/dataTables.scroller.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/css/dataTables.scroller.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/css/dataTables.scroller.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/css/dataTables.scroller.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/api_scrolling.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/api_scrolling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/data/2500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/data/2500.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/data/ssp.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/data/ssp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/large_js_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/large_js_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/server-side_processing.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/server-side_processing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/state_saving.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/examples/state_saving.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/js/dataTables.scroller.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/js/dataTables.scroller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/js/dataTables.scroller.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/Scroller/js/dataTables.scroller.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/ajax.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/ajax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/alter_buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/alter_buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/button_text.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/button_text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/defaults.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/defaults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/jqueryui.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/jqueryui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/multi_instance.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/multi_instance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/multiple_tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/multiple_tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/new_init.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/new_init.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/pdf_message.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/pdf_message.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/plug-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/plug-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/select_column.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/select_column.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/select_multi.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/select_multi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/select_os.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/select_os.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/select_single.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/select_single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/swf_path.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/examples/swf_path.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables_themeroller.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datatables/jquery.dataTables_themeroller.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/bootstrap-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/bootstrap-datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/datepicker3.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/datepicker3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.az.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.da.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.de.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.el.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.es.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.et.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.he.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.id.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.is.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.it.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ka.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ka.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.kk.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.kk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.kr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.kr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.nl-BE.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.nl-BE.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.no.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.no.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.pt-BR.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.pt-BR.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.rs-latin.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.rs-latin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.rs.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.rs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.th.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ua.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.ua.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.zh-TW.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/datepicker/locales/bootstrap-datepicker.zh-TW.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/daterangepicker/daterangepicker-bs3.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/daterangepicker/daterangepicker-bs3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/daterangepicker/daterangepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/daterangepicker/daterangepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/daterangepicker/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/daterangepicker/moment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/daterangepicker/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/daterangepicker/moment.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/fastclick/fastclick.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/fastclick/fastclick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/excanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/excanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.colorhelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.colorhelpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.crosshair.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.crosshair.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.errorbars.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.errorbars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.fillbetween.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.fillbetween.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.image.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.navigate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.selection.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.selection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.threshold.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.threshold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.time.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/flot/jquery.flot.time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/font-awesome/css/font-awesome.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/font-awesome/css/font-awesome.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.print.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/fullcalendar/fullcalendar.print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/_all.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/_all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/aero.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/aero.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/flat.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/flat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/green.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/grey.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/grey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/orange.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/orange.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/pink.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/pink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/purple.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/purple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/red.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/yellow.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/flat/yellow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/futurico/futurico.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/futurico/futurico.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/icheck.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/icheck.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/icheck.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/icheck.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/_all.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/_all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/aero.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/aero.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/green.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/grey.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/grey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/line.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/line.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/orange.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/orange.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/pink.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/pink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/purple.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/purple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/red.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/yellow.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/line/yellow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/_all.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/_all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/aero.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/aero.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/green.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/grey.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/grey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/minimal.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/minimal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/orange.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/orange.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/pink.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/pink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/purple.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/purple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/red.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/yellow.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/minimal/yellow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/polaris/polaris.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/polaris/polaris.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/_all.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/_all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/aero.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/aero.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/green.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/grey.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/grey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/orange.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/orange.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/pink.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/pink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/purple.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/purple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/red.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/square.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/square.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/yellow.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/iCheck/square/yellow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.date.extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.date.extensions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.extensions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.numeric.extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.numeric.extensions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.phone.extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.phone.extensions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.regex.extensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/input-mask/jquery.inputmask.regex.extensions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/input-mask/phone-codes/phone-be.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/input-mask/phone-codes/phone-be.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/input-mask/phone-codes/phone-codes.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/input-mask/phone-codes/phone-codes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/ionslider/ion.rangeSlider.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/ionslider/ion.rangeSlider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/ionslider/ion.rangeSlider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/ionslider/ion.rangeSlider.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/ionslider/ion.rangeSlider.skinFlat.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/ionslider/ion.rangeSlider.skinFlat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/ionslider/ion.rangeSlider.skinNice.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/ionslider/ion.rangeSlider.skinNice.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jQueryUI/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jQueryUI/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jQueryUI/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jQueryUI/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jquery/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jquery/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jquery/jquery.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jquery/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jquery/jquery.slim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/knob/jquery.knob.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/knob/jquery.knob.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/morris/morris.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/morris/morris.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/morris/morris.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/morris/morris.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/morris/morris.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/morris/morris.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/pace/pace.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/pace/pace.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/pace/pace.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/pace/pace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/pace/pace.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/pace/pace.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/esm/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/esm/popper-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/esm/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/esm/popper-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/esm/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/esm/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/esm/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/esm/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/popper-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/popper-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/umd/popper-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/umd/popper-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/umd/popper-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/umd/popper-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/umd/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/umd/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/popper/umd/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/popper/umd/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/pt-BR.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/pt-BR.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/zh-TW.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/i18n/zh-TW.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.full.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.full.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.full.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.full.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/select2/select2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/slimScroll/jquery.slimscroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/slimScroll/jquery.slimscroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/sparkline/jquery.sparkline.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/sparkline/jquery.sparkline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/sparkline/jquery.sparkline.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/sparkline/jquery.sparkline.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/timepicker/bootstrap-timepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/timepicker/bootstrap-timepicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/timepicker/bootstrap-timepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/timepicker/bootstrap-timepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/timepicker/bootstrap-timepicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/timepicker/bootstrap-timepicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/admin/plugins/timepicker/bootstrap-timepicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/plugins/timepicker/bootstrap-timepicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/css/responsive-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/css/responsive-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/css/stylesheet-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/css/stylesheet-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/css/stylesheet-skin2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/css/stylesheet-skin2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/css/stylesheet-skin3.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/css/stylesheet-skin3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/css/stylesheet-skin4.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/css/stylesheet-skin4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/css/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/js/jquery-2.1.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/js/jquery-2.1.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/js/jquery.dcjqaccordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/js/jquery.dcjqaccordion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/js/jquery.easing-1.3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/js/jquery.easing-1.3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/js/jquery.elevatezoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/js/jquery.elevatezoom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/js/swipebox/src/css/swipebox.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/home/js/swipebox/src/css/swipebox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/core/Security.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/core/Security.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/DCO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_downloads/ELDocs.tmbundle.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_images/appflowchart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_images/smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/ci-icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/comment-bright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/comment-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/css/badge_only.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/doctools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/down-pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/js/oldtheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/pygments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/searchtools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/underscore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/up-pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/_static/websupport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/contributing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/caching.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/call_function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/configuration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/connecting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/db_driver_reference.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/forge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/helpers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/metadata.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/queries.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/query_builder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/transactions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/database/utilities.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/documentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/alternative_php.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/ancillary_classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/autoloader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/caching.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/cli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/common_functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/compatibility_functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/controllers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/core_classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/creating_drivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/creating_libraries.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/credits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/drivers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/environments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/errors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/helpers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/hooks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/libraries.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/managing_apps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/models.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/profiling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/requirements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/reserved_names.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/routing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/security.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/styleguide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/urls.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/views.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/general/welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/genindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/array_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/captcha_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/cookie_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/date_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/directory_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/download_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/email_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/file_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/form_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/html_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/inflector_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/language_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/number_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/path_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/security_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/smiley_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/string_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/text_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/typography_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/url_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/helpers/xml_helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/downloads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/troubleshooting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_120.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_130.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_131.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_132.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_133.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_140.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_141.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_150.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_152.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_153.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_154.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_160.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_161.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_162.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_163.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_170.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_171.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_172.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_201.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_202.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_203.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_210.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_211.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_212.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_213.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_214.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_220.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_221.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_300.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_b11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/installation/upgrading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/benchmark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/caching.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/config.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/encrypt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/encryption.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/file_uploading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/form_validation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/ftp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/image_lib.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/input.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/language.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/migration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/parser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/security.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/trackback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/unit_testing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/uri.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/user_agent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/xmlrpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/libraries/zip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/license.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/objects.inv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/overview/appflow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/overview/at_a_glance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/overview/features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/overview/getting_started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/overview/goals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/overview/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/overview/mvc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/searchindex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/tutorial/conclusion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/tutorial/create_news_items.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/tutorial/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/tutorial/news_section.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/tutorial/static_pages.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,28 +901,33 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/modules/Template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/modules/Dashboard/models" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\hmvc\application\modules\Template" />
-      <recent name="C:\xampp\htdocs\hmvc\application\modules" />
-      <recent name="C:\xampp\htdocs\hmvc\application\modules\Admin" />
-      <recent name="C:\xampp\htdocs\hmvc\application\modules\Login" />
-      <recent name="C:\xampp\htdocs\hmvc\system\assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\hmvc\application\modules\Home\controllers" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Api\models\api" />
+      <recent name="C:\xampp\htdocs\hmvc\application\models" />
       <recent name="C:\xampp\htdocs\hmvc\application\modules" />
-      <recent name="C:\xampp\htdocs\hmvc\application\modules\Login\views" />
-      <recent name="C:\xampp\htdocs\hmvc\application" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Dashboard" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Home\controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Dashboard\models" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Dashboard\views" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\User" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Dashboard\controllers" />
+      <recent name="C:\xampp\htdocs\hmvc\application\modules\Template" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -76,19 +946,57 @@
       <workItem from="1604396997274" duration="23738000" />
       <workItem from="1604477093170" duration="19054000" />
       <workItem from="1604548923600" duration="3333000" />
-      <workItem from="1604553009095" duration="22601000" />
+      <workItem from="1604553009095" duration="34351000" />
+      <workItem from="1604691762326" duration="1053000" />
+      <workItem from="1605323005232" duration="10033000" />
+      <workItem from="1605334816832" duration="16576000" />
+      <workItem from="1605363683921" duration="6000" />
+      <workItem from="1605418531902" duration="11670000" />
+      <workItem from="1605434099569" duration="6000" />
+      <workItem from="1605464805414" duration="1055000" />
+      <workItem from="1605776509206" duration="1711000" />
+      <workItem from="1605778269776" duration="7662000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2160" y="133" key="NewPhpFileDialog" timestamp="1604484336121">
-      <screen x="1366" y="-310" width="1920" height="1040" />
+    <state x="1918" y="-135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605418831804">
+      <screen x="1366" y="-313" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="-135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-313.1920.1040@1366.-313.1920.1040" timestamp="1605418831804" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1605418790386">
+      <screen x="1366" y="-313" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728/1366.-313.1920.1040@1366.-313.1920.1040" timestamp="1605418790386" />
+    <state x="1906" y="-50" key="IDE.errors.dialog" timestamp="1605428132273">
+      <screen x="1366" y="-313" width="1920" height="1040" />
+    </state>
+    <state x="1906" y="-50" key="IDE.errors.dialog/0.0.1366.728/1366.-313.1920.1040@1366.-313.1920.1040" timestamp="1605428132273" />
+    <state x="2120" y="-70" key="NewPhpClassDialog" timestamp="1605464852424">
+      <screen x="1366" y="-313" width="1920" height="1040" />
+    </state>
+    <state x="2120" y="-70" key="NewPhpClassDialog/0.0.1366.728/1366.-313.1920.1040@1366.-313.1920.1040" timestamp="1605464852424" />
+    <state x="2160" y="130" key="NewPhpFileDialog" timestamp="1605465135887">
+      <screen x="1366" y="-313" width="1920" height="1040" />
     </state>
     <state x="565" y="310" key="NewPhpFileDialog/0.0.1366.728/1366.-310.1920.1040@0.0.1366.728" timestamp="1604388193420" />
     <state x="2160" y="133" key="NewPhpFileDialog/0.0.1366.728/1366.-310.1920.1040@1366.-310.1920.1040" timestamp="1604484336121" />
+    <state x="2160" y="130" key="NewPhpFileDialog/0.0.1366.728/1366.-313.1920.1040@1366.-313.1920.1040" timestamp="1605465135887" />
     <state x="1982" y="85" key="run.anything.popup" timestamp="1604588031038">
       <screen x="1366" y="-310" width="1920" height="1040" />
     </state>

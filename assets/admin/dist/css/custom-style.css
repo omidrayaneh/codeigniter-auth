@@ -271,3 +271,63 @@ ul {
 .datepicker-plot-area {
     font-family: 'Vazir', sans-serif;
 }
+
+/* button table icone style */
+.btn-delete{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+/* color */
+blue {
+    color: #3490dc;
+}
+
+.indigo {
+    color: #6574cd;
+}
+
+.purple {
+    color: #9561e2;
+}
+
+.pink {
+    color: #f66d9b;
+}
+
+.red {
+    color: #e3342f !important;
+}
+
+.orange {
+    color: #f65d00;
+}
+
+.yellow {
+    color: #ffed4a;
+}
+
+.green {
+    color: #38c172 !important;
+}
+.gray{
+    color: rgba(199, 199, 199, 0.44);
+}
+
+.teal {
+    color: #4dc0b5;
+}
+
+.cyan {
+    color: #6cb2eb;
+}
+.redd {
+    color: #eb2584;
+}
+.blue-green {
+    color: #6bebe2;
+}
+/* color */
