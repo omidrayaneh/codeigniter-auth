@@ -14,7 +14,7 @@
                 <p>اگر قبلا حساب کاربریتان را ایجاد کرد اید جهت ورود به <a href="login.html">صفحه لاگین</a> مراجعه کنید.</p>
 
                    <?php echo validation_errors(
-                           ' <div class="alert alert-danger" role="alert">','</div>');
+                           ' <div class="alert alert-danger text-center" role="alert">','</div>');
                    ?>
                 <form class="form-horizontal" action="" method="post">
                     <fieldset id="account">

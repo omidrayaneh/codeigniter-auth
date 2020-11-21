@@ -3,10 +3,8 @@ class Home extends MY_Controller{
        public function __construct()
        {
            parent::__construct();
-           $this->load->model('User_Model');
+           $this->load->model('/User_Model');
            $this->load->library('session');
-
-
        }
 
     public function index()
@@ -17,12 +15,15 @@ class Home extends MY_Controller{
     }
     public function login()
     {
-        if (isset($_SESSION['user_logged'])){
+
+       if (isset($_SESSION['user_logged'])){
             redirect('dashboard');
         }
         if (isset($_POST['login'])){
-            $this->form_validation->set_rules('email','Email','required|valid_email');
-            $this->form_validation->set_rules('password','Password','required|min_length[8]');
+            $this->form_validation->set_rules('email','Email','required|valid_email',
+                array('required'=>'ایمیل الزامیست','valid_email'=>'ایمیل را صحیح وارد کنید'));
+            $this->form_validation->set_rules('password','Password','required|min_length[8]',
+                array('required'=>'رمز عبور الزامیست','min_length'=>'رمز عبور وارد شده کمتر از 8 کاراکتر می باشد'));
 
             if ($this->form_validation->run() == TRUE){
 
@@ -68,10 +69,19 @@ class Home extends MY_Controller{
             redirect('dashboard');
         }
         if (isset($_POST['register'])){
-            $this->form_validation->set_rules('username','Username','required|min_length[3]|is_unique[users.username]');
-            $this->form_validation->set_rules('email','Email','required|valid_email|is_unique[users.email]');
-            $this->form_validation->set_rules('password','Password','required|min_length[8]');
-            $this->form_validation->set_rules('confirm_password', 'Confirm Password', 'required|matches[password]');
+            $this->form_validation->set_rules('username','Username','required|min_length[5]|is_unique[users.username]',
+                array('required'=>'نام کاربری الزامیست','min_length'=>'نام کاربری کمتر از 5 کاراکتر می باشد','is_unique'=>'نام کاربری قبلا وارد شده است'));
+
+            $this->form_validation->set_rules('email','Email','required|valid_email|is_unique[users.email]',
+                array('required'=>'ایمیل الزامیست','valid_email'=>'ایمیل را صحیح وارد کنید','is_unique'=>'ایمیل قبلا وارد شده است'));
+
+            $this->form_validation->set_rules('password','Password','required|min_length[8]',
+                array('required'=>'رمز عبور الزامیست','min_length'=>'رمز عبور کمتر از 8 کاراکتر می باشد'));
+
+
+            $this->form_validation->set_rules('confirm_password', 'Confirm Password', 'required|min_length[8]|matches[password]',
+                array('required'=>'تکرار رمز عبور الزامیست','min_length'=>'تکرار رمز عبور کمتر از 8 کاراکتر می باشد','matches'=>'تکرار رمز عبور اشتباه وارد شده است'));
+
             if ($this->form_validation->run() == TRUE){
                 $data=array(
                     'username'=>$_POST['username'],

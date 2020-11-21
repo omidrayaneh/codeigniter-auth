@@ -635,6 +635,10 @@
 <script type="text/javascript" src="<?php echo base_url(); ?>assets/home/js/jquery.dcjqaccordion.min.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>assets/home/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>assets/home/js/custom.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<script href="https://cdn.jsdelivr.net/npm/promise-polyfill@7/dist/polyfill.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.all.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/admin/dist/js/sweetalert210.js"></script>
 <!-- JS Part End-->
 </body>
 </html>

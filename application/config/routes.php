@@ -51,16 +51,28 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 $route['default_controller'] = 'home';
-$route['login'] = 'home/login';
-$route['register'] = 'home/register';
-$route['logout'] = 'home/logout';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 
+
+$route['login'] = 'home/login';
+$route['register'] = 'home/register';
+$route['logout'] = 'home/logout';
+
+
+###########			User API Route     ########################
+
+####  user login
+$route['api/login']= 'api/v1/user/login';
+####  user register
+$route['api/user/register']= 'api/user/register';
+
+###########			category API Route     ########################
+
 ####  create category
-$route['api/categories/create']='api/v1/categories/createCategories';
+$route['api/categories/create']='api/categories/createCategories';
 ####  delete category with slug
-$route['api/categories/(:any)/delete']['DELETE']='api/v1/categories/deleteCategories/$1';
+$route['api/categories/(:any)/delete']['DELETE']='api/categories/deleteCategories/$1';
 ####  update category with slug
-$route['api/categories/update']='api/v1/categories/updateCategories';
+$route['api/categories/update']['PATCH']='api/categories/updateCategories';

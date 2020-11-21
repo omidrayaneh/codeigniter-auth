@@ -1,146 +1,154 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php defined('BASEPATH') or exit('No direct script access allowed');
 require APPPATH . 'libraries/Rest_Controller.php';
 
 class User extends REST_Controller
 {
 
-	public function __construct()
-	{
-		parent::__construct();
-		//load model
-		$this->load->model(array("api/user_model"));
-	}
+    public function __construct()
+    {
+        parent::__construct();
+        //load model
+        $this->load->model(array("api/user_model"));
+    }
 
-	/**
-	 *            user register API
-	 * ----------------------------------------
-	 * @param: username and email and password
-	 *
-	 *-----------------------------------------
-	 * @link: /register
-	 */
-	public function register_post()
-	{
-		header("Access-Control-Allow-Origin: *");
-		//insert data method
-		//echo 'post method';
+    /**
+     *            user register API
+     * ----------------------------------------
+     * @param: username and email and password
+     *
+     *-----------------------------------------
+     * @link: /register
+     */
+    public function register_post()
+    {
+        header("Access-Control-Allow-Origin: *");
+        //insert data method
+        //echo 'post method';
 
-		//form data value with xss
-		$_POST=$this->security->xss_clean($_POST);
+        //form data value with xss
+        $_POST = $this->security->xss_clean($_POST);
 
-		$username = $this->input->post("username");
-		$email = $this->input->post("email");
-		$password = $this->input->post("password");
+        $username = $this->input->post("username");
+        $email = $this->input->post("email");
+        $password = $this->input->post("password");
 
-		//form data validation
-		$this->form_validation->set_rules('username','Username','trim|required|min_length[5]|is_unique[users.username]',
-			array('required' => 'نام کاربری را وارد کنید','min_length'=>'نام کاربری حداقل 5 کاراکتر باشد' ,'is_unique'=>'نام کاربری وارد شده تکراری می باشد'));
-		$this->form_validation->set_rules('email','Email','trim|required|valid_email|is_unique[users.email]',
-			array('required' => 'ایمیل را وارد کنید','valid_email'=>'ایمل معتبر را وارد کنید','is_unique'=>'ایمیل تکراری می باشد'));
-		$this->form_validation->set_rules('password','Password','trim|required|min_length[8]',
-			array('required' => 'رمز عبور را وارد کنید','min_length'=>'رمز عبور حداقل 8 کاراکتر باشد'));
+        //form data validation
+        $this->form_validation->set_rules('username', 'Username', 'trim|required|min_length[5]|is_unique[users.username]',
+            array('required' => 'نام کاربری را وارد کنید', 'min_length' => 'نام کاربری حداقل 5 کاراکتر باشد', 'is_unique' => 'نام کاربری وارد شده تکراری می باشد'));
+        $this->form_validation->set_rules('email', 'Email', 'trim|required|valid_email|is_unique[users.email]',
+            array('required' => 'ایمیل را وارد کنید', 'valid_email' => 'ایمل معتبر را وارد کنید', 'is_unique' => 'ایمیل تکراری می باشد'));
+        $this->form_validation->set_rules('password', 'Password', 'trim|required|min_length[8]',
+            array('required' => 'رمز عبور را وارد کنید', 'min_length' => 'رمز عبور حداقل 8 کاراکتر باشد'));
 
-		//check form data validation
-		if ($this->form_validation->run() == FALSE) {
-			$this->response(array(
-				'status' => 0,
-				'error'=>$this->form_validation->error_array(),
-				'message'=>validation_errors()
-			), REST_Controller::HTTP_NOT_FOUND);
-		} else {
+        //check form data validation
+        if ($this->form_validation->run() == FALSE) {
+            $this->response(array(
+                'status' => 0,
+                'error' => $this->form_validation->error_array(),
+                'message' => validation_errors()
+            ), REST_Controller::HTTP_NOT_FOUND);
+        } else {
 
-			$user = array(
-				'username' => $username,
-				'email' => $email,
-				'password' => password_hash($password, PASSWORD_DEFAULT),
-				'created_at' => date('Y-m-d H:i:s')
-			);
-			//
-			$output=$this->user_model->insert_user($user);
-			if ($output>0 && !empty($output)) {
-				$this->response(array(
-					'status' => 1,
-					'message' => 'user has been created successfully'
-				), REST_Controller::HTTP_OK);
-			} else {
-				$this->response(array(
-					'status' => 0,
-					'message' => 'Failed to created user'
-				), REST_Controller::HTTP_INTERNAL_SERVER_ERROR);
-			}
-		}
-	}
+            $user = array(
+                'username' => $username,
+                'email' => $email,
+                'password' => password_hash($password, PASSWORD_DEFAULT),
+                'created_at' => date('Y-m-d H:i:s')
+            );
+            //
+            $output = $this->user_model->insert_user($user);
+            if ($output > 0 && !empty($output)) {
+                $this->response(array(
+                    'status' => 1,
+                    'message' => 'user has been created successfully'
+                ), REST_Controller::HTTP_OK);
+            } else {
+                $this->response(array(
+                    'status' => 0,
+                    'message' => 'Failed to created user'
+                ), REST_Controller::HTTP_INTERNAL_SERVER_ERROR);
+            }
+        }
+    }
 
-	/**
-	 *            user login API
-	 * ----------------------------------------
-	 * @param:  email and password
-	 *-----------------------------------------
-	 * @link: /login
-	 */
-	public function login_post()
-	{
-		header("Access-Control-Allow-Origin: *");
-		//insert data method
-		//echo 'post method';
+    /**
+     *            user login API
+     * ----------------------------------------
+     * @param:  email and password
+     *-----------------------------------------
+     * @link: /login
+     */
+    public function login_post()
+    {
+        header("Access-Control-Allow-Origin: *");
+        //insert data method
+        //echo 'post method';
 
-		//form data value with xss
-		$_POST=$this->security->xss_clean($_POST);
+        //form data value with xss
+        $_POST = $this->security->xss_clean($_POST);
+        $email = $this->input->post("email");
+        $password = $this->input->post("password");
 
-		$email = $this->input->post("email");
-		$password = $this->input->post("password");
+        //form data validation
+        $this->form_validation->set_rules('email', 'Email', 'trim|required', array('required' => 'ایمیل را وارد کنید'));
+        $this->form_validation->set_rules('password', 'Password', 'trim|required', array('required' => 'رمز عبور را وارد کنید'));
 
-		//form data validation
-		$this->form_validation->set_rules('email','Email','trim|required', array('required' => 'ایمیل را وارد کنید'));
-		$this->form_validation->set_rules('password','Password','trim|required', array('required' => 'رمز عبور را وارد کنید'));
+        //check form data validation
+        if ($this->form_validation->run() == FALSE) {
+            $this->response(array(
+                'status' => 0,
+                'error' => $this->form_validation->error_array(),
+                'message' => validation_errors()
+            ), REST_Controller::HTTP_BAD_REQUEST);
+        } else {
+            $output = $this->user_model->user_login($email, $password);
 
-		//check form data validation
-		if ($this->form_validation->run() == FALSE) {
-			$this->response(array(
-				'status' => 0,
-				'error'=>$this->form_validation->error_array(),
-				'message'=>validation_errors()
-			), REST_Controller::HTTP_NOT_FOUND);
-		} else {
-			$output=$this->user_model->user_login($email,$password);
+            if (!empty($output)) {
 
-			if (!empty($output)) {
+                //load authorization Token library
+                $this->load->library('Authorization_Token');
 
-				//load authorization Token library
-				$this->load->library('Authorization_Token');
+                $token_data['id'] = $output->id;
+                $token_data['username'] = $output->username;
+                $token_data['email'] = $output->email;
+                $token_data['role'] = $output->role;
+                $token_data['created_at'] = $output->created_at;
+                $token_data['time'] = time();
 
-				$token_data['id']=$output->id;
-				$token_data['username']=$output->username;
-				$token_data['email']=$output->email;
-				$token_data['role']=$output->role;
-				$token_data['created_at']=$output->created_at;
-				$token_data['time']=time();
+                //generate token
+                $user_token = $this->authorization_token->generateToken($token_data);
 
-				//generate token
-				$user_token=$this->authorization_token->generateToken($token_data);
+                $user = array(
+                    'user_id' => $output->id,
+                    'username' => $output->username,
+                    'email' => $output->email,
+                    'role' => $output->role,
+                    'created_at' => $output->created_at,
+                    'token' => $user_token
+                );
+                // store session for login user
+                $this->session->set_flashdata('success','بدون خطا');
+                $_SESSION['user_logged']=TRUE;
+                $_SESSION['username']=$output->username;
+                $_SESSION['user_id']=$output->id;
+                $_SESSION['email']=$output->email;
+                $_SESSION['role']=md5($output->role);
+                $_SESSION['created_at']=$output->created_at;
+                $_SESSION['token']=$user_token;
+                $this->response(array(
+                    'status' => 1,
+                    'data' => $user,
+                    'message' => 'user successfully logged in'
+                ), REST_Controller::HTTP_OK);
 
-				$user=array(
-					'user_id'=>$output->id,
-					'username'=>$output->username,
-					'email'=>$output->email,
-					'role'=>$output->role,
-					'created_at'=>$output->created_at,
-					'token'=>$user_token
-				);
-
-				$this->response(array(
-					'status' => 1,
-					'data'=>$user,
-					'message'=>'user successfully logged in'
-				), REST_Controller::HTTP_OK);
-			}else{
-				$this->response(array(
-					'status' => 0,
-					'message'=>'invalid email or password'
-				), REST_Controller::HTTP_NOT_FOUND);
-			}
-		}
-	}
+            } else {
+                $this->response(array(
+                    'status' => 0,
+                    'message' => 'invalid email or password'
+                ), REST_Controller::HTTP_INTERNAL_SERVER_ERROR);
+            }
+        }
+    }
 
 
 //	public function index_patch()
