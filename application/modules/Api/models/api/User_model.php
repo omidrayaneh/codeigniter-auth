@@ -46,8 +46,8 @@ class User_model extends CI_Model {
 		   if (password_verify($password,$user_password)) {
 		       return $query->row();
 		   }
-		}else{
-			echo 'user not exists';
 		}
+		return null;
+
 	}
 }

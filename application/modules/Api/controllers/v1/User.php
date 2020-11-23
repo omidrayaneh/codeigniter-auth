@@ -1,5 +1,5 @@
 <?php defined('BASEPATH') or exit('No direct script access allowed');
-require APPPATH . 'libraries/Rest_Controller.php';
+require APPPATH . 'libraries/REST_Controller.php';
 
 class User extends REST_Controller
 {
@@ -31,6 +31,7 @@ class User extends REST_Controller
         $username = $this->input->post("username");
         $email = $this->input->post("email");
         $password = $this->input->post("password");
+        $confirm = $this->input->post("confirm");
 
         //form data validation
         $this->form_validation->set_rules('username', 'Username', 'trim|required|min_length[5]|is_unique[users.username]',
@@ -39,14 +40,15 @@ class User extends REST_Controller
             array('required' => 'ایمیل را وارد کنید', 'valid_email' => 'ایمل معتبر را وارد کنید', 'is_unique' => 'ایمیل تکراری می باشد'));
         $this->form_validation->set_rules('password', 'Password', 'trim|required|min_length[8]',
             array('required' => 'رمز عبور را وارد کنید', 'min_length' => 'رمز عبور حداقل 8 کاراکتر باشد'));
-
+        $this->form_validation->set_rules('confirm', 'confirm password', 'trim|required|matches[password]',
+            array('required' => 'تکرار رمز عبور را وارد کنید', 'matches' => 'تکرار رمز عبور اشتباه است'));
         //check form data validation
         if ($this->form_validation->run() == FALSE) {
             $this->response(array(
                 'status' => 0,
                 'error' => $this->form_validation->error_array(),
                 'message' => validation_errors()
-            ), REST_Controller::HTTP_NOT_FOUND);
+            ), REST_Controller::HTTP_BAD_REQUEST);
         } else {
 
             $user = array(
@@ -90,7 +92,7 @@ class User extends REST_Controller
         $password = $this->input->post("password");
 
         //form data validation
-        $this->form_validation->set_rules('email', 'Email', 'trim|required', array('required' => 'ایمیل را وارد کنید'));
+        $this->form_validation->set_rules('email', 'Email', 'trim|required|valid_email', array('required' => 'ایمیل را وارد کنید','valid_email'=>'ایمیل را صحیح وارد کنید'));
         $this->form_validation->set_rules('password', 'Password', 'trim|required', array('required' => 'رمز عبور را وارد کنید'));
 
         //check form data validation
@@ -144,7 +146,7 @@ class User extends REST_Controller
             } else {
                 $this->response(array(
                     'status' => 0,
-                    'message' => 'invalid email or password'
+                    'message' => 'رمز عبور یا نام کاربری اشتباه می باشد'
                 ), REST_Controller::HTTP_INTERNAL_SERVER_ERROR);
             }
         }

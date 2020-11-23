@@ -54,11 +54,15 @@ $route['default_controller'] = 'home';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
+###########			View Route     ########################
 
 
 $route['login'] = 'home/login';
 $route['register'] = 'home/register';
 $route['logout'] = 'home/logout';
+$route['dashboard/categories'] = 'dashboard/categories';
+$route['dashboard/categories/create'] = 'dashboard/create';
+$route['dashboard/categories/update/(:any)'] = 'dashboard/update/1$';
 
 
 ###########			User API Route     ########################
@@ -66,13 +70,15 @@ $route['logout'] = 'home/logout';
 ####  user login
 $route['api/login']= 'api/v1/user/login';
 ####  user register
-$route['api/user/register']= 'api/user/register';
+$route['api/register']= 'api/v1/user/register';
 
 ###########			category API Route     ########################
 
+####  get all categories
+$route['api/categories']='api/v1/categories/allCategories';
 ####  create category
-$route['api/categories/create']='api/categories/createCategories';
+$route['api/categories/create']='api/v1/categories/createCategories';
 ####  delete category with slug
-$route['api/categories/(:any)/delete']['DELETE']='api/categories/deleteCategories/$1';
+$route['api/categories/(:any)/delete']='api/v1/categories/deleteCategories/$1';
 ####  update category with slug
-$route['api/categories/update']['PATCH']='api/categories/updateCategories';
+$route['api/categories/update']='api/v1/categories/updateCategories';

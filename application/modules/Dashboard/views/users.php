@@ -30,7 +30,7 @@
                             <td><?php echo$user['id'];  ?></td>
                             <td><?php echo$user['username'];  ?></td>
                             <td><?php echo$user['email'];  ?></td>
-                            <td><?php if ($user['is_admin']=='admin') {echo '<span class="badge badge-success">ادمین سایت</span>';}
+                            <td><?php if ($user['role']=='admin') {echo '<span class="badge badge-success">ادمین سایت</span>';}
                                 else {echo '<span class="badge badge-danger">کاربر عادی</span>';}?></td>
                             <td><?php if ($user['status']==1) {echo '<span class="badge badge-success">تایید شده</span>';}
                             else {echo '<span class="badge badge-danger">تایید نشده</span>';}?>
@@ -79,7 +79,8 @@
                 $.ajax(
                     {
                         url: <?php echo base_url(); ?>+"/dashboard/users/" + $(this).data("id"),
-                        type: 'GET',
+                        type: 'POST',
+                        token: <?php echo $_SESSION['token']; ?>,
                         success: function (result) {
                             window.location.replace('/dashboard/users/');
                         }

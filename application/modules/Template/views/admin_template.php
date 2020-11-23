@@ -185,21 +185,22 @@
                         <!-- Add icons to the links using the .nav-icon class
                              with font-awesome or any other icon font library -->
                         <li class="nav-item has-treeview">
-                            <a href="#" class="nav-link">
-                                <i class="nav-icon fa fa-pie-chart"></i>
+                            <a href="<?php echo base_url();?>dashboard/users" class="nav-link">
+                                <i class="nav-icon fa fa-users green"></i>
                                 <p>
-                                    چارت‌ها
-                                    <i class="right fa fa-angle-left"></i>
+                                    کاربرها
                                 </p>
                             </a>
-                            <ul class="nav nav-treeview">
-                                <li class="nav-item">
-                                    <a href="" class="nav-link">
-                                        <i class="fa fa-circle-o nav-icon"></i>
-                                        <p>نمودار ChartJS</p>
-                                    </a>
-                                </li>
-                            </ul>
+
+                        </li>
+                        <li class="nav-item has-treeview">
+                            <a href="<?php echo base_url();?>dashboard/categories" class="nav-link">
+                                <i class="nav-icon fa fa-list-ul blue"></i>
+                                <p>
+                                    گروه ها
+                                </p>
+                            </a>
+
                         </li>
                         <li class="nav-item has-treeview">
                             <a href="<?php echo base_url(); ?>logout" class="nav-link">
@@ -273,8 +274,7 @@
 <!-- Sparkline -->
 <script src="<?php echo base_url(); ?>assets/admin/plugins/sparkline/jquery.sparkline.min.js"></script>
 <!-- jvectormap -->
-<script src="<?php echo base_url(); ?>assets/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
-<script src="<?php echo base_url(); ?>assets/admin/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+
 <!-- jQuery Knob Chart -->
 <script src="<?php echo base_url(); ?>assets/admin/plugins/knob/jquery.knob.js"></script>
 <!-- daterangepicker -->

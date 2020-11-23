@@ -21,8 +21,9 @@
                         <div id="error" class="alert alert-danger" ><?php echo  $_SESSION['error']; ?></div>
                     <?php  }?>
                     <?php echo validation_errors(
-                        ' <div class="alert alert-danger text-center" role="alert">','</div>');
+                        ' <div class="alert alert-danger text-center " role="alert">','</div>');
                     ?>
+                    <div id="error1" class="alert alert-danger invisible" ></div>
                     <div id="login-form"  class="form-horizontal"  >
                         <div class="col-sm-6">
                             <h2 class="subtitle">مشتری جدید</h2>
@@ -58,56 +59,34 @@
 
         /*Checking the value of inputs*/
         var email = $("input[name='email']").val();
-        var pass_message = document.getElementById("pass-error");
-        var email_message = document.getElementById("email-error");
+        var error = document.getElementById("error1");
         var password = $("input[name='password']").val();
 
-        /*Validating the values of inputs that it is neither null nor undefined.*/
-
-        if (email === '' || email === undefined) {
-            $('#email').css('border', '1px solid red');
-            email_message.style.display = "block";
-            email_message.innerHTML = 'ایمیل الزامی می باشد';
-
-        }else {
-            $('#email').css('border', '1px solid green');
-             email_message = document.getElementById("email-error");
-            email_message.style.display = "none";
-        }
-        if (password === '' || password === undefined) {
-          //  $('#password').css('border', '1px solid red');
-
-            pass_message.style.display = "block";
-            pass_message.innerHTML = 'رمز عبور الزامی می باشد';
-        }else {
-            $('#email').css('border', '1px solid green');
-            email_message = document.getElementById("pass-error");
-            email_message.style.display = "none";
-        }
             /*Ajax call*/
             $.ajax({
                 url: "<?php echo base_url('api/login') ?>",
                 method: 'POST',
                 data: {email: email, password: password},
                 statusCode: {
+                    404: function (xhr) {
+                        $("#error1").removeClass('invisible');
+                        error.innerHTML='';
+                        error.innerHTML +=  xhr.responseJSON.message;
+                    },
                     400: function (xhr) {
-                        Swal.fire({
-                            icon: 'error',
-                            title: 'خطا',
-                            text: 'رمز عبور و نام کاربری اجباری می باشد',
-                        })
+                        $("#error1").removeClass('invisible');
+                        error.innerHTML='';
+                        error.innerHTML +=  xhr.responseJSON.message;
                     },
                     500:function (xhr){
-                        Swal.fire({
-                            icon: 'error',
-                            title: 'خطا',
-                            text: 'رمز عبور یا نام کاربری اشتباه می باشد',
-                        })
+                        console.log(xhr.responseText)
+                        $("#error1").removeClass('invisible');
+                        error.innerHTML='';
+                        error.innerHTML +=  xhr.responseJSON.message;
                     }
                 },
                 success: function (result) {
                     /*result is the response from LoginController.php file under getLogin.php function*/
-
                     if (result.data.role === 'admin'){
                          window.location.href = "/dashboard";
                     }else{

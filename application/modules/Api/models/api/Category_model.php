@@ -9,10 +9,25 @@ class Category_model extends CI_Model
 
 	protected $category_table = 'categories';
 
+    /***
+     * @param string : title name
+     * @return  string : slug
+     */
 	public function makeSlug($string)
 	{
 		return preg_replace('/\s+/u', '-', trim($string));
 	}
+
+    /***
+     *   get all categories table
+     */
+
+    public function get_categories()
+    {
+        $query = $this->db->get($this->category_table);
+       return $query->result_array();
+    }
+
 
 	/***
 	 *
@@ -37,7 +52,8 @@ class Category_model extends CI_Model
 	 * @param $slug
 	 */
 	public function update_category(array $data,$slug){
-
+        $slug = $this->security->xss_clean($slug);
+        var_dump($slug);die();
 		$this->db->where('slug', $slug);
 		return $this->db->update($this->category_table, $data);
 	}
@@ -59,6 +75,7 @@ class Category_model extends CI_Model
 		 *
 		 *  check category exist in table and if exist delete it
 		 */
+
 		$category=$this->db->where('slug',$data)->get($this->category_table)->num_rows();
 		$query=$this->db->where('slug',$data);
 		if ($category>0) {

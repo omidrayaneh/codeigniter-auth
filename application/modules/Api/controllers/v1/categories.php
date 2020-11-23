@@ -8,7 +8,31 @@ class Categories extends REST_Controller
 	{
 		parent::__construct();
 		$this->load->model(array('api/category_model'));
+        $this->load->library('Authorization_Token');
+
+    }
+
+    /***
+     * get all categories
+     */
+    public function allCategories_get()
+    {
+        header("Access-Control-Allow-Origin: *");
+        //select data method
+        //echo 'get method';
+        if (isset($_SESSION['token']) ) {
+            $output = $this->category_model->get_categories();
+                $this->response(array(
+                    'status' => 1,
+                    'message'=>'ok',
+                    'data' => $output,
+                ), REST_Controller::HTTP_OK);
+
+        }
+
 	}
+
+
 
 	/**
 	 * add new categories with API
@@ -25,16 +49,14 @@ class Categories extends REST_Controller
 
 		$validate_token = $this->authorization_token->validateToken();
 
-		/**
+        /**
 		 * --------------------------------------------
 		 *                User validate token
 		 *----------------------------------------------
 		 */
-
 		if (!empty($validate_token) && $validate_token['status'] == TRUE) {
 			//form data value with xss
 			$_POST = $this->security->xss_clean($_POST);
-
 
 			/**
 			 *
@@ -58,6 +80,7 @@ class Categories extends REST_Controller
 
 				//load category model
 
+
 				$parent_id=$this->input->post('parent_id');
 				if (empty($parent_id)) {
 					$parent_id=NULL;
@@ -67,6 +90,7 @@ class Categories extends REST_Controller
 				$insert_category_data =array(
 					'title'=>$this->input->post('title'),
 					'slug'=> $this->category_model->makeSlug($title),
+					'status'=> $this->input->post('status'),
 					'parent_id'=>$parent_id,
 					'user_id'=>$validate_token['data']->id,
 					'created_at' => date('Y-m-d H:i:s'),
@@ -112,7 +136,6 @@ class Categories extends REST_Controller
 		$this->load->library('Authorization_Token');
 
 		$validate_token = $this->authorization_token->validateToken();
-
 		/**
 		 * --------------------------------------------
 		 *                User validate token
