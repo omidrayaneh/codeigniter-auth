@@ -57,12 +57,12 @@ $route['translate_uri_dashes'] = FALSE;
 ###########			View Route     ########################
 
 
-$route['login'] = 'home/login';
-$route['register'] = 'home/register';
-$route['logout'] = 'home/logout';
-$route['dashboard/categories'] = 'dashboard/categories';
-$route['dashboard/categories/create'] = 'dashboard/create';
-$route['dashboard/categories/update/(:any)'] = 'dashboard/update/1$';
+$route['login'] = 'Home/login';
+$route['register'] = 'Home/register';
+$route['logout'] = 'Home/logout';
+$route['dashboard/categories'] = 'Dashboard/categories';
+$route['dashboard/categories/create'] = 'Dashboard/create';
+$route['dashboard/categories/update/(:any)'] = 'Dashboard/update/$1';
 
 
 ###########			User API Route     ########################

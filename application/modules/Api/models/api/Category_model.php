@@ -52,8 +52,7 @@ class Category_model extends CI_Model
 	 * @param $slug
 	 */
 	public function update_category(array $data,$slug){
-        $slug = $this->security->xss_clean($slug);
-        var_dump($slug);die();
+
 		$this->db->where('slug', $slug);
 		return $this->db->update($this->category_table, $data);
 	}
@@ -94,7 +93,7 @@ class Category_model extends CI_Model
 	{
 		$this->db->where('slug',$slug);
 		$query=$this->db->get($this->category_table);
-		return$query->row()->id;
+		return$query->row();
 	}
 
 

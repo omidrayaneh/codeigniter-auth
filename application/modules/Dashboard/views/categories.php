@@ -57,7 +57,7 @@
                         "<td>" + val.created_at + "</td>" +
                         "<td>" + val.updated_at + "</td>" +
                         "<td>" + "<div>" +
-                        "<a id='editRecord' "+"data-id=" + val.slug +" class='btn-delete  mt-auto ml-1 mr-1' >" +
+                        "<a id='editRecord' "+"href=" +'<?php echo base_url()?>dashboard/categories/update/' +val.slug +" class='btn-delete  mt-auto ml-1 mr-1' >" +
                         "<i class='fa fa-edit blue' data-toggle='tooltip' title='ویرایش'>" + "</i>"+"</a>"+  " | " +
 
                         "<button id='deleteRecord' "+"data-id=" + val.slug +" class='btn-delete '  >" +

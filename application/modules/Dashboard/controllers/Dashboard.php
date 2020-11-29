@@ -49,12 +49,17 @@ class Dashboard extends MY_Controller{
 
     public function update($slug)
     {
+        //get slug from categories page
+        $slug = $this->security->xss_clean($slug);
 
+
+        //get all categories
         $this->load->model('Api/api/Category_model');
         $categories=$this->Category_model->get_categories();
-        $data['content_view']='Dashboard/update_category';
-        $data['slug']=$this->security->xss_clean($slug);
+        $category=$this->Category_model->findBySlug($slug);
         $data['categories']=$categories;
+        $data['category']=$category;
+        $data['content_view']='Dashboard/update_category';
         $this->template->admin_template($data);
     }
 

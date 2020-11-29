@@ -15331,3 +15331,12855 @@ INFO - 2020-11-23 10:52:00 --> Model Class Initialized
 DEBUG - 2020-11-23 10:52:00 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
 INFO - 2020-11-23 10:52:00 --> Final output sent to browser
 DEBUG - 2020-11-23 10:52:00 --> Total execution time: 0.6032
+INFO - 2020-11-23 11:09:44 --> Config Class Initialized
+INFO - 2020-11-23 11:09:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 11:09:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 11:09:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 11:09:44 --> URI Class Initialized
+INFO - 2020-11-23 11:09:44 --> Router Class Initialized
+INFO - 2020-11-23 11:09:44 --> Output Class Initialized
+INFO - 2020-11-23 11:09:44 --> Security Class Initialized
+DEBUG - 2020-11-23 11:09:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 11:09:44 --> Input Class Initialized
+INFO - 2020-11-23 11:09:44 --> Language Class Initialized
+INFO - 2020-11-23 11:09:44 --> Language Class Initialized
+INFO - 2020-11-23 11:09:44 --> Config Class Initialized
+INFO - 2020-11-23 11:09:44 --> Loader Class Initialized
+INFO - 2020-11-23 11:09:44 --> Helper loaded: form_helper
+INFO - 2020-11-23 11:09:44 --> Helper loaded: url_helper
+INFO - 2020-11-23 11:09:44 --> Helper loaded: file_helper
+INFO - 2020-11-23 11:09:44 --> Helper loaded: security_helper
+INFO - 2020-11-23 11:09:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 11:09:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 11:09:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 11:09:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 11:09:45 --> Home MX_Controller Initialized
+DEBUG - 2020-11-23 11:09:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 11:09:45 --> Template MX_Controller Initialized
+INFO - 2020-11-23 11:09:45 --> Model Class Initialized
+DEBUG - 2020-11-23 11:09:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/User_model.php
+INFO - 2020-11-23 11:09:45 --> Model Class Initialized
+INFO - 2020-11-23 11:09:45 --> Config Class Initialized
+INFO - 2020-11-23 11:09:45 --> Hooks Class Initialized
+DEBUG - 2020-11-23 11:09:45 --> UTF-8 Support Enabled
+INFO - 2020-11-23 11:09:45 --> Utf8 Class Initialized
+INFO - 2020-11-23 11:09:45 --> URI Class Initialized
+DEBUG - 2020-11-23 11:09:45 --> No URI present. Default controller set.
+INFO - 2020-11-23 11:09:45 --> Router Class Initialized
+INFO - 2020-11-23 11:09:45 --> Output Class Initialized
+INFO - 2020-11-23 11:09:45 --> Security Class Initialized
+DEBUG - 2020-11-23 11:09:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 11:09:45 --> Input Class Initialized
+INFO - 2020-11-23 11:09:45 --> Language Class Initialized
+INFO - 2020-11-23 11:09:45 --> Language Class Initialized
+INFO - 2020-11-23 11:09:45 --> Config Class Initialized
+INFO - 2020-11-23 11:09:45 --> Loader Class Initialized
+INFO - 2020-11-23 11:09:45 --> Helper loaded: form_helper
+INFO - 2020-11-23 11:09:45 --> Helper loaded: url_helper
+INFO - 2020-11-23 11:09:45 --> Helper loaded: file_helper
+INFO - 2020-11-23 11:09:45 --> Helper loaded: security_helper
+INFO - 2020-11-23 11:09:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 11:09:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 11:09:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 11:09:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 11:09:45 --> Home MX_Controller Initialized
+DEBUG - 2020-11-23 11:09:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 11:09:45 --> Template MX_Controller Initialized
+INFO - 2020-11-23 11:09:45 --> Model Class Initialized
+DEBUG - 2020-11-23 11:09:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/User_model.php
+INFO - 2020-11-23 11:09:45 --> Model Class Initialized
+DEBUG - 2020-11-23 11:09:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/home.php
+DEBUG - 2020-11-23 11:09:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+INFO - 2020-11-23 11:09:45 --> Final output sent to browser
+DEBUG - 2020-11-23 11:09:45 --> Total execution time: 0.5904
+INFO - 2020-11-23 15:09:03 --> Config Class Initialized
+INFO - 2020-11-23 15:09:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:09:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:09:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:09:03 --> URI Class Initialized
+DEBUG - 2020-11-23 15:09:03 --> No URI present. Default controller set.
+INFO - 2020-11-23 15:09:03 --> Router Class Initialized
+INFO - 2020-11-23 15:09:04 --> Output Class Initialized
+INFO - 2020-11-23 15:09:04 --> Security Class Initialized
+DEBUG - 2020-11-23 15:09:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:09:04 --> Input Class Initialized
+INFO - 2020-11-23 15:09:04 --> Language Class Initialized
+INFO - 2020-11-23 15:09:04 --> Language Class Initialized
+INFO - 2020-11-23 15:09:04 --> Config Class Initialized
+INFO - 2020-11-23 15:09:04 --> Loader Class Initialized
+INFO - 2020-11-23 15:09:04 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:09:04 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:09:04 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:09:04 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:09:04 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:09:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:09:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:09:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:09:04 --> Home MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:09:04 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:09:04 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/User_model.php
+INFO - 2020-11-23 15:09:04 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/home.php
+DEBUG - 2020-11-23 15:09:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+INFO - 2020-11-23 15:09:04 --> Final output sent to browser
+DEBUG - 2020-11-23 15:09:04 --> Total execution time: 0.6689
+INFO - 2020-11-23 15:09:06 --> Config Class Initialized
+INFO - 2020-11-23 15:09:06 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:09:06 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:09:06 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:09:06 --> URI Class Initialized
+INFO - 2020-11-23 15:09:06 --> Router Class Initialized
+INFO - 2020-11-23 15:09:07 --> Output Class Initialized
+INFO - 2020-11-23 15:09:07 --> Security Class Initialized
+DEBUG - 2020-11-23 15:09:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:09:07 --> Input Class Initialized
+INFO - 2020-11-23 15:09:07 --> Language Class Initialized
+INFO - 2020-11-23 15:09:07 --> Language Class Initialized
+INFO - 2020-11-23 15:09:07 --> Config Class Initialized
+INFO - 2020-11-23 15:09:07 --> Loader Class Initialized
+INFO - 2020-11-23 15:09:07 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:09:07 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:09:07 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:09:07 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:09:07 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:09:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:09:07 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:09:07 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:09:07 --> Home MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:07 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:09:07 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:09:07 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/User_model.php
+INFO - 2020-11-23 15:09:07 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/views/login.php
+DEBUG - 2020-11-23 15:09:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+INFO - 2020-11-23 15:09:07 --> Final output sent to browser
+DEBUG - 2020-11-23 15:09:07 --> Total execution time: 0.6050
+INFO - 2020-11-23 15:09:16 --> Config Class Initialized
+INFO - 2020-11-23 15:09:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:09:16 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:09:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:09:17 --> URI Class Initialized
+INFO - 2020-11-23 15:09:17 --> Router Class Initialized
+INFO - 2020-11-23 15:09:17 --> Output Class Initialized
+INFO - 2020-11-23 15:09:17 --> Security Class Initialized
+DEBUG - 2020-11-23 15:09:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:09:17 --> Input Class Initialized
+INFO - 2020-11-23 15:09:17 --> Language Class Initialized
+INFO - 2020-11-23 15:09:17 --> Language Class Initialized
+INFO - 2020-11-23 15:09:17 --> Config Class Initialized
+INFO - 2020-11-23 15:09:17 --> Loader Class Initialized
+INFO - 2020-11-23 15:09:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:09:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:09:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:09:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:09:17 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:09:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:09:17 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:09:17 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:09:17 --> User MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:17 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:09:17 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:09:17 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:09:17 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:09:17 --> Model Class Initialized
+INFO - 2020-11-23 15:09:17 --> Model Class Initialized
+INFO - 2020-11-23 15:09:17 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2020-11-23 15:09:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:09:17 --> Final output sent to browser
+DEBUG - 2020-11-23 15:09:17 --> Total execution time: 0.7746
+INFO - 2020-11-23 15:09:17 --> Config Class Initialized
+INFO - 2020-11-23 15:09:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:09:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:09:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:09:17 --> URI Class Initialized
+INFO - 2020-11-23 15:09:17 --> Router Class Initialized
+INFO - 2020-11-23 15:09:17 --> Output Class Initialized
+INFO - 2020-11-23 15:09:17 --> Security Class Initialized
+DEBUG - 2020-11-23 15:09:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:09:17 --> Input Class Initialized
+INFO - 2020-11-23 15:09:17 --> Language Class Initialized
+INFO - 2020-11-23 15:09:17 --> Language Class Initialized
+INFO - 2020-11-23 15:09:17 --> Config Class Initialized
+INFO - 2020-11-23 15:09:18 --> Loader Class Initialized
+INFO - 2020-11-23 15:09:18 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:09:18 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:09:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:09:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:09:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:09:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:09:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:09:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:09:18 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:09:18 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:09:18 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:09:18 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/dashboard.php
+DEBUG - 2020-11-23 15:09:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:09:18 --> Final output sent to browser
+DEBUG - 2020-11-23 15:09:18 --> Total execution time: 0.6058
+INFO - 2020-11-23 15:09:18 --> Config Class Initialized
+INFO - 2020-11-23 15:09:18 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:09:18 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:09:18 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:09:18 --> URI Class Initialized
+INFO - 2020-11-23 15:09:18 --> Router Class Initialized
+INFO - 2020-11-23 15:09:18 --> Output Class Initialized
+INFO - 2020-11-23 15:09:19 --> Security Class Initialized
+DEBUG - 2020-11-23 15:09:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:09:19 --> Input Class Initialized
+INFO - 2020-11-23 15:09:19 --> Language Class Initialized
+INFO - 2020-11-23 15:09:19 --> Language Class Initialized
+INFO - 2020-11-23 15:09:19 --> Config Class Initialized
+INFO - 2020-11-23 15:09:19 --> Loader Class Initialized
+INFO - 2020-11-23 15:09:19 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:09:19 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:09:19 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:09:19 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:09:19 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:09:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:09:19 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:09:19 --> Controller Class Initialized
+ERROR - 2020-11-23 15:09:19 --> 404 Page Not Found: /index
+INFO - 2020-11-23 15:09:20 --> Config Class Initialized
+INFO - 2020-11-23 15:09:20 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:09:20 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:09:20 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:09:20 --> URI Class Initialized
+INFO - 2020-11-23 15:09:20 --> Router Class Initialized
+INFO - 2020-11-23 15:09:20 --> Output Class Initialized
+INFO - 2020-11-23 15:09:20 --> Security Class Initialized
+DEBUG - 2020-11-23 15:09:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:09:20 --> Input Class Initialized
+INFO - 2020-11-23 15:09:20 --> Language Class Initialized
+INFO - 2020-11-23 15:09:20 --> Language Class Initialized
+INFO - 2020-11-23 15:09:20 --> Config Class Initialized
+INFO - 2020-11-23 15:09:20 --> Loader Class Initialized
+INFO - 2020-11-23 15:09:20 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:09:20 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:09:20 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:09:20 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:09:20 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:09:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:09:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:09:21 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:09:21 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:09:21 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:09:21 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:09:21 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/users.php
+DEBUG - 2020-11-23 15:09:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:09:21 --> Final output sent to browser
+DEBUG - 2020-11-23 15:09:21 --> Total execution time: 0.5597
+INFO - 2020-11-23 15:09:22 --> Config Class Initialized
+INFO - 2020-11-23 15:09:22 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:09:22 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:09:22 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:09:22 --> URI Class Initialized
+INFO - 2020-11-23 15:09:22 --> Router Class Initialized
+INFO - 2020-11-23 15:09:22 --> Output Class Initialized
+INFO - 2020-11-23 15:09:22 --> Security Class Initialized
+DEBUG - 2020-11-23 15:09:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:09:22 --> Input Class Initialized
+INFO - 2020-11-23 15:09:22 --> Language Class Initialized
+INFO - 2020-11-23 15:09:22 --> Language Class Initialized
+INFO - 2020-11-23 15:09:22 --> Config Class Initialized
+INFO - 2020-11-23 15:09:22 --> Loader Class Initialized
+INFO - 2020-11-23 15:09:22 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:09:22 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:09:22 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:09:22 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:09:22 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:09:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:09:22 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:09:22 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:09:22 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:22 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:09:22 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:09:22 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:09:22 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:09:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:09:22 --> Final output sent to browser
+DEBUG - 2020-11-23 15:09:22 --> Total execution time: 0.5637
+INFO - 2020-11-23 15:09:22 --> Config Class Initialized
+INFO - 2020-11-23 15:09:22 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:09:22 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:09:22 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:09:22 --> URI Class Initialized
+INFO - 2020-11-23 15:09:22 --> Router Class Initialized
+INFO - 2020-11-23 15:09:22 --> Output Class Initialized
+INFO - 2020-11-23 15:09:22 --> Security Class Initialized
+DEBUG - 2020-11-23 15:09:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:09:22 --> Input Class Initialized
+INFO - 2020-11-23 15:09:22 --> Language Class Initialized
+INFO - 2020-11-23 15:09:22 --> Language Class Initialized
+INFO - 2020-11-23 15:09:22 --> Config Class Initialized
+INFO - 2020-11-23 15:09:22 --> Loader Class Initialized
+INFO - 2020-11-23 15:09:23 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:09:23 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:09:23 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:09:23 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:09:23 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:09:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:09:23 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:09:23 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:09:23 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:23 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:09:23 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:09:23 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:09:23 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:09:23 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:09:23 --> Model Class Initialized
+INFO - 2020-11-23 15:09:23 --> Model Class Initialized
+DEBUG - 2020-11-23 15:09:23 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:09:23 --> Final output sent to browser
+DEBUG - 2020-11-23 15:09:23 --> Total execution time: 0.6186
+INFO - 2020-11-23 15:11:02 --> Config Class Initialized
+INFO - 2020-11-23 15:11:02 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:11:02 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:11:02 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:11:02 --> URI Class Initialized
+INFO - 2020-11-23 15:11:03 --> Router Class Initialized
+INFO - 2020-11-23 15:11:03 --> Output Class Initialized
+INFO - 2020-11-23 15:11:03 --> Security Class Initialized
+DEBUG - 2020-11-23 15:11:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:11:03 --> Input Class Initialized
+INFO - 2020-11-23 15:11:03 --> Language Class Initialized
+INFO - 2020-11-23 15:11:03 --> Language Class Initialized
+INFO - 2020-11-23 15:11:03 --> Config Class Initialized
+INFO - 2020-11-23 15:11:03 --> Loader Class Initialized
+INFO - 2020-11-23 15:11:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:11:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:11:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:11:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:11:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:11:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:11:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:11:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:11:03 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:11:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:11:03 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:11:03 --> Model Class Initialized
+DEBUG - 2020-11-23 15:11:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:11:03 --> Model Class Initialized
+DEBUG - 2020-11-23 15:11:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:11:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:11:03 --> Final output sent to browser
+DEBUG - 2020-11-23 15:11:03 --> Total execution time: 1.1028
+INFO - 2020-11-23 15:11:04 --> Config Class Initialized
+INFO - 2020-11-23 15:11:04 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:11:04 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:11:04 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:11:04 --> URI Class Initialized
+INFO - 2020-11-23 15:11:04 --> Router Class Initialized
+INFO - 2020-11-23 15:11:04 --> Output Class Initialized
+INFO - 2020-11-23 15:11:04 --> Security Class Initialized
+DEBUG - 2020-11-23 15:11:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:11:04 --> Input Class Initialized
+INFO - 2020-11-23 15:11:04 --> Language Class Initialized
+INFO - 2020-11-23 15:11:04 --> Language Class Initialized
+INFO - 2020-11-23 15:11:04 --> Config Class Initialized
+INFO - 2020-11-23 15:11:04 --> Loader Class Initialized
+INFO - 2020-11-23 15:11:04 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:11:04 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:11:04 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:11:04 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:11:04 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:11:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:11:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:11:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:11:04 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:11:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:11:04 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:11:04 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:11:04 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:11:04 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:11:04 --> Model Class Initialized
+INFO - 2020-11-23 15:11:04 --> Model Class Initialized
+DEBUG - 2020-11-23 15:11:04 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:11:05 --> Final output sent to browser
+DEBUG - 2020-11-23 15:11:05 --> Total execution time: 0.8937
+INFO - 2020-11-23 15:27:35 --> Config Class Initialized
+INFO - 2020-11-23 15:27:35 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:27:35 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:27:35 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:27:35 --> URI Class Initialized
+INFO - 2020-11-23 15:27:35 --> Router Class Initialized
+INFO - 2020-11-23 15:27:35 --> Output Class Initialized
+INFO - 2020-11-23 15:27:35 --> Security Class Initialized
+DEBUG - 2020-11-23 15:27:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:27:35 --> Input Class Initialized
+INFO - 2020-11-23 15:27:35 --> Language Class Initialized
+INFO - 2020-11-23 15:27:35 --> Language Class Initialized
+INFO - 2020-11-23 15:27:35 --> Config Class Initialized
+INFO - 2020-11-23 15:27:35 --> Loader Class Initialized
+INFO - 2020-11-23 15:27:35 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:27:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:27:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:27:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:27:35 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:27:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:27:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:27:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:27:36 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:27:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:27:36 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:27:36 --> Model Class Initialized
+DEBUG - 2020-11-23 15:27:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:27:36 --> Model Class Initialized
+DEBUG - 2020-11-23 15:27:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:27:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:27:36 --> Final output sent to browser
+DEBUG - 2020-11-23 15:27:36 --> Total execution time: 0.6224
+INFO - 2020-11-23 15:27:36 --> Config Class Initialized
+INFO - 2020-11-23 15:27:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:27:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:27:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:27:36 --> URI Class Initialized
+INFO - 2020-11-23 15:27:36 --> Router Class Initialized
+INFO - 2020-11-23 15:27:36 --> Output Class Initialized
+INFO - 2020-11-23 15:27:36 --> Security Class Initialized
+DEBUG - 2020-11-23 15:27:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:27:36 --> Input Class Initialized
+INFO - 2020-11-23 15:27:36 --> Language Class Initialized
+INFO - 2020-11-23 15:27:36 --> Language Class Initialized
+INFO - 2020-11-23 15:27:36 --> Config Class Initialized
+INFO - 2020-11-23 15:27:36 --> Loader Class Initialized
+INFO - 2020-11-23 15:27:36 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:27:36 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:27:36 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:27:36 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:27:36 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:27:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:27:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:27:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:27:36 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:27:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:27:36 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:27:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:27:37 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:27:37 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:27:37 --> Model Class Initialized
+INFO - 2020-11-23 15:27:37 --> Model Class Initialized
+DEBUG - 2020-11-23 15:27:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:27:37 --> Final output sent to browser
+DEBUG - 2020-11-23 15:27:37 --> Total execution time: 0.6047
+INFO - 2020-11-23 15:32:57 --> Config Class Initialized
+INFO - 2020-11-23 15:32:57 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:32:57 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:32:57 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:32:57 --> URI Class Initialized
+INFO - 2020-11-23 15:32:57 --> Router Class Initialized
+INFO - 2020-11-23 15:32:57 --> Output Class Initialized
+INFO - 2020-11-23 15:32:57 --> Security Class Initialized
+DEBUG - 2020-11-23 15:32:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:32:57 --> Input Class Initialized
+INFO - 2020-11-23 15:32:57 --> Language Class Initialized
+INFO - 2020-11-23 15:32:57 --> Language Class Initialized
+INFO - 2020-11-23 15:32:57 --> Config Class Initialized
+INFO - 2020-11-23 15:32:57 --> Loader Class Initialized
+INFO - 2020-11-23 15:32:58 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:32:58 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:32:58 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:32:58 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:32:58 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:32:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:32:58 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:32:58 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:32:58 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:32:58 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:32:58 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:32:58 --> Model Class Initialized
+DEBUG - 2020-11-23 15:32:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:32:58 --> Model Class Initialized
+DEBUG - 2020-11-23 15:32:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:32:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:32:58 --> Final output sent to browser
+DEBUG - 2020-11-23 15:32:58 --> Total execution time: 0.5757
+INFO - 2020-11-23 15:32:58 --> Config Class Initialized
+INFO - 2020-11-23 15:32:58 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:32:58 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:32:58 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:32:58 --> URI Class Initialized
+INFO - 2020-11-23 15:32:58 --> Router Class Initialized
+INFO - 2020-11-23 15:32:58 --> Output Class Initialized
+INFO - 2020-11-23 15:32:58 --> Security Class Initialized
+DEBUG - 2020-11-23 15:32:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:32:58 --> Input Class Initialized
+INFO - 2020-11-23 15:32:58 --> Language Class Initialized
+INFO - 2020-11-23 15:32:58 --> Language Class Initialized
+INFO - 2020-11-23 15:32:58 --> Config Class Initialized
+INFO - 2020-11-23 15:32:58 --> Loader Class Initialized
+INFO - 2020-11-23 15:32:58 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:32:58 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:32:59 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:32:59 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:32:59 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:32:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:32:59 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:32:59 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:32:59 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:32:59 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:32:59 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:32:59 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:32:59 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:32:59 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:32:59 --> Model Class Initialized
+INFO - 2020-11-23 15:32:59 --> Model Class Initialized
+DEBUG - 2020-11-23 15:32:59 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:32:59 --> Final output sent to browser
+DEBUG - 2020-11-23 15:32:59 --> Total execution time: 0.7160
+INFO - 2020-11-23 15:33:23 --> Config Class Initialized
+INFO - 2020-11-23 15:33:23 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:33:23 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:33:23 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:33:23 --> URI Class Initialized
+INFO - 2020-11-23 15:33:23 --> Router Class Initialized
+INFO - 2020-11-23 15:33:23 --> Output Class Initialized
+INFO - 2020-11-23 15:33:23 --> Security Class Initialized
+DEBUG - 2020-11-23 15:33:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:33:23 --> Input Class Initialized
+INFO - 2020-11-23 15:33:23 --> Language Class Initialized
+INFO - 2020-11-23 15:33:23 --> Language Class Initialized
+INFO - 2020-11-23 15:33:23 --> Config Class Initialized
+INFO - 2020-11-23 15:33:23 --> Loader Class Initialized
+INFO - 2020-11-23 15:33:23 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:33:23 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:33:23 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:33:23 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:33:23 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:33:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:33:23 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:33:23 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:33:23 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:33:23 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:33:23 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:33:23 --> Model Class Initialized
+DEBUG - 2020-11-23 15:33:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:33:23 --> Model Class Initialized
+DEBUG - 2020-11-23 15:33:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:33:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:33:23 --> Final output sent to browser
+DEBUG - 2020-11-23 15:33:23 --> Total execution time: 0.5879
+INFO - 2020-11-23 15:33:24 --> Config Class Initialized
+INFO - 2020-11-23 15:33:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:33:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:33:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:33:24 --> URI Class Initialized
+INFO - 2020-11-23 15:33:24 --> Router Class Initialized
+INFO - 2020-11-23 15:33:24 --> Output Class Initialized
+INFO - 2020-11-23 15:33:24 --> Security Class Initialized
+DEBUG - 2020-11-23 15:33:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:33:24 --> Input Class Initialized
+INFO - 2020-11-23 15:33:24 --> Language Class Initialized
+INFO - 2020-11-23 15:33:24 --> Language Class Initialized
+INFO - 2020-11-23 15:33:24 --> Config Class Initialized
+INFO - 2020-11-23 15:33:24 --> Loader Class Initialized
+INFO - 2020-11-23 15:33:24 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:33:24 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:33:24 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:33:24 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:33:24 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:33:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:33:24 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:33:24 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:33:24 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:33:24 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:33:24 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:33:24 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:33:24 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:33:24 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:33:24 --> Model Class Initialized
+INFO - 2020-11-23 15:33:24 --> Model Class Initialized
+DEBUG - 2020-11-23 15:33:24 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:33:24 --> Final output sent to browser
+DEBUG - 2020-11-23 15:33:24 --> Total execution time: 0.7032
+INFO - 2020-11-23 15:33:48 --> Config Class Initialized
+INFO - 2020-11-23 15:33:48 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:33:48 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:33:48 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:33:48 --> URI Class Initialized
+INFO - 2020-11-23 15:33:48 --> Router Class Initialized
+INFO - 2020-11-23 15:33:48 --> Output Class Initialized
+INFO - 2020-11-23 15:33:48 --> Security Class Initialized
+DEBUG - 2020-11-23 15:33:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:33:48 --> Input Class Initialized
+INFO - 2020-11-23 15:33:48 --> Language Class Initialized
+INFO - 2020-11-23 15:33:48 --> Language Class Initialized
+INFO - 2020-11-23 15:33:48 --> Config Class Initialized
+INFO - 2020-11-23 15:33:48 --> Loader Class Initialized
+INFO - 2020-11-23 15:33:48 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:33:48 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:33:48 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:33:48 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:33:48 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:33:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:33:49 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:33:49 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:33:49 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:33:49 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:33:49 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:33:49 --> Model Class Initialized
+DEBUG - 2020-11-23 15:33:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:33:49 --> Model Class Initialized
+DEBUG - 2020-11-23 15:33:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:33:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:33:49 --> Final output sent to browser
+DEBUG - 2020-11-23 15:33:49 --> Total execution time: 0.6268
+INFO - 2020-11-23 15:33:49 --> Config Class Initialized
+INFO - 2020-11-23 15:33:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:33:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:33:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:33:49 --> URI Class Initialized
+INFO - 2020-11-23 15:33:49 --> Router Class Initialized
+INFO - 2020-11-23 15:33:49 --> Output Class Initialized
+INFO - 2020-11-23 15:33:49 --> Security Class Initialized
+DEBUG - 2020-11-23 15:33:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:33:49 --> Input Class Initialized
+INFO - 2020-11-23 15:33:49 --> Language Class Initialized
+INFO - 2020-11-23 15:33:49 --> Language Class Initialized
+INFO - 2020-11-23 15:33:49 --> Config Class Initialized
+INFO - 2020-11-23 15:33:49 --> Loader Class Initialized
+INFO - 2020-11-23 15:33:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:33:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:33:49 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:33:49 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:33:49 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:33:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:33:49 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:33:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:33:50 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:33:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:33:50 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:33:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:33:50 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:33:50 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:33:50 --> Model Class Initialized
+INFO - 2020-11-23 15:33:50 --> Model Class Initialized
+DEBUG - 2020-11-23 15:33:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:33:50 --> Final output sent to browser
+DEBUG - 2020-11-23 15:33:50 --> Total execution time: 0.7209
+INFO - 2020-11-23 15:34:16 --> Config Class Initialized
+INFO - 2020-11-23 15:34:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:34:16 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:34:16 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:34:16 --> URI Class Initialized
+INFO - 2020-11-23 15:34:16 --> Router Class Initialized
+INFO - 2020-11-23 15:34:16 --> Output Class Initialized
+INFO - 2020-11-23 15:34:16 --> Security Class Initialized
+DEBUG - 2020-11-23 15:34:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:34:16 --> Input Class Initialized
+INFO - 2020-11-23 15:34:16 --> Language Class Initialized
+INFO - 2020-11-23 15:34:16 --> Language Class Initialized
+INFO - 2020-11-23 15:34:16 --> Config Class Initialized
+INFO - 2020-11-23 15:34:17 --> Loader Class Initialized
+INFO - 2020-11-23 15:34:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:34:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:34:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:34:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:34:17 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:34:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:34:17 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:34:17 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:34:17 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:17 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:34:17 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:34:17 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:34:17 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:34:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:34:17 --> Final output sent to browser
+DEBUG - 2020-11-23 15:34:17 --> Total execution time: 0.6255
+INFO - 2020-11-23 15:34:17 --> Config Class Initialized
+INFO - 2020-11-23 15:34:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:34:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:34:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:34:17 --> URI Class Initialized
+INFO - 2020-11-23 15:34:17 --> Router Class Initialized
+INFO - 2020-11-23 15:34:17 --> Output Class Initialized
+INFO - 2020-11-23 15:34:17 --> Security Class Initialized
+DEBUG - 2020-11-23 15:34:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:34:17 --> Input Class Initialized
+INFO - 2020-11-23 15:34:17 --> Language Class Initialized
+INFO - 2020-11-23 15:34:17 --> Language Class Initialized
+INFO - 2020-11-23 15:34:17 --> Config Class Initialized
+INFO - 2020-11-23 15:34:17 --> Loader Class Initialized
+INFO - 2020-11-23 15:34:18 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:34:18 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:34:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:34:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:34:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:34:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:34:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:34:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:34:18 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:34:18 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:34:18 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:34:18 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:34:18 --> Model Class Initialized
+INFO - 2020-11-23 15:34:18 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:34:18 --> Final output sent to browser
+DEBUG - 2020-11-23 15:34:18 --> Total execution time: 0.6572
+INFO - 2020-11-23 15:34:35 --> Config Class Initialized
+INFO - 2020-11-23 15:34:35 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:34:35 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:34:35 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:34:35 --> URI Class Initialized
+INFO - 2020-11-23 15:34:35 --> Router Class Initialized
+INFO - 2020-11-23 15:34:35 --> Output Class Initialized
+INFO - 2020-11-23 15:34:35 --> Security Class Initialized
+DEBUG - 2020-11-23 15:34:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:34:35 --> Input Class Initialized
+INFO - 2020-11-23 15:34:35 --> Language Class Initialized
+INFO - 2020-11-23 15:34:35 --> Language Class Initialized
+INFO - 2020-11-23 15:34:35 --> Config Class Initialized
+INFO - 2020-11-23 15:34:35 --> Loader Class Initialized
+INFO - 2020-11-23 15:34:35 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:34:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:34:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:34:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:34:35 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:34:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:34:35 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:34:35 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:34:35 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:35 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:34:35 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:34:35 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:34:35 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:34:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:34:36 --> Final output sent to browser
+DEBUG - 2020-11-23 15:34:36 --> Total execution time: 0.6455
+INFO - 2020-11-23 15:34:36 --> Config Class Initialized
+INFO - 2020-11-23 15:34:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:34:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:34:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:34:36 --> URI Class Initialized
+INFO - 2020-11-23 15:34:36 --> Router Class Initialized
+INFO - 2020-11-23 15:34:36 --> Output Class Initialized
+INFO - 2020-11-23 15:34:36 --> Security Class Initialized
+DEBUG - 2020-11-23 15:34:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:34:36 --> Input Class Initialized
+INFO - 2020-11-23 15:34:36 --> Language Class Initialized
+INFO - 2020-11-23 15:34:36 --> Language Class Initialized
+INFO - 2020-11-23 15:34:36 --> Config Class Initialized
+INFO - 2020-11-23 15:34:36 --> Loader Class Initialized
+INFO - 2020-11-23 15:34:36 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:34:36 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:34:36 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:34:36 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:34:36 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:34:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:34:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:34:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:34:36 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:34:36 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:34:36 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:34:36 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:34:36 --> Model Class Initialized
+INFO - 2020-11-23 15:34:36 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:34:37 --> Final output sent to browser
+DEBUG - 2020-11-23 15:34:37 --> Total execution time: 0.7106
+INFO - 2020-11-23 15:34:45 --> Config Class Initialized
+INFO - 2020-11-23 15:34:45 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:34:45 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:34:45 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:34:45 --> URI Class Initialized
+INFO - 2020-11-23 15:34:45 --> Router Class Initialized
+INFO - 2020-11-23 15:34:45 --> Output Class Initialized
+INFO - 2020-11-23 15:34:45 --> Security Class Initialized
+DEBUG - 2020-11-23 15:34:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:34:45 --> Input Class Initialized
+INFO - 2020-11-23 15:34:45 --> Language Class Initialized
+INFO - 2020-11-23 15:34:45 --> Language Class Initialized
+INFO - 2020-11-23 15:34:45 --> Config Class Initialized
+INFO - 2020-11-23 15:34:45 --> Loader Class Initialized
+INFO - 2020-11-23 15:34:45 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:34:45 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:34:45 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:34:45 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:34:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:34:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:34:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:34:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:34:45 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:34:45 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:34:45 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:34:45 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:34:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:34:45 --> Final output sent to browser
+DEBUG - 2020-11-23 15:34:45 --> Total execution time: 0.6210
+INFO - 2020-11-23 15:34:46 --> Config Class Initialized
+INFO - 2020-11-23 15:34:46 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:34:46 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:34:46 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:34:46 --> URI Class Initialized
+INFO - 2020-11-23 15:34:46 --> Router Class Initialized
+INFO - 2020-11-23 15:34:46 --> Output Class Initialized
+INFO - 2020-11-23 15:34:46 --> Security Class Initialized
+DEBUG - 2020-11-23 15:34:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:34:46 --> Input Class Initialized
+INFO - 2020-11-23 15:34:46 --> Language Class Initialized
+INFO - 2020-11-23 15:34:46 --> Language Class Initialized
+INFO - 2020-11-23 15:34:46 --> Config Class Initialized
+INFO - 2020-11-23 15:34:46 --> Loader Class Initialized
+INFO - 2020-11-23 15:34:46 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:34:46 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:34:46 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:34:46 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:34:46 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:34:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:34:46 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:34:46 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:34:46 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:46 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:34:46 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:34:46 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:34:46 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:34:46 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:34:46 --> Model Class Initialized
+INFO - 2020-11-23 15:34:46 --> Model Class Initialized
+DEBUG - 2020-11-23 15:34:46 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:34:46 --> Final output sent to browser
+DEBUG - 2020-11-23 15:34:46 --> Total execution time: 0.7288
+INFO - 2020-11-23 15:35:20 --> Config Class Initialized
+INFO - 2020-11-23 15:35:20 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:35:20 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:35:20 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:35:20 --> URI Class Initialized
+INFO - 2020-11-23 15:35:20 --> Router Class Initialized
+INFO - 2020-11-23 15:35:20 --> Output Class Initialized
+INFO - 2020-11-23 15:35:20 --> Security Class Initialized
+DEBUG - 2020-11-23 15:35:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:35:20 --> Input Class Initialized
+INFO - 2020-11-23 15:35:20 --> Language Class Initialized
+INFO - 2020-11-23 15:35:20 --> Language Class Initialized
+INFO - 2020-11-23 15:35:20 --> Config Class Initialized
+INFO - 2020-11-23 15:35:20 --> Loader Class Initialized
+INFO - 2020-11-23 15:35:20 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:35:20 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:35:20 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:35:20 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:35:20 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:35:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:35:20 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:35:20 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:35:20 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:35:20 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:35:20 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:35:20 --> Model Class Initialized
+DEBUG - 2020-11-23 15:35:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:35:20 --> Model Class Initialized
+DEBUG - 2020-11-23 15:35:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:35:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:35:21 --> Final output sent to browser
+DEBUG - 2020-11-23 15:35:21 --> Total execution time: 0.6191
+INFO - 2020-11-23 15:35:21 --> Config Class Initialized
+INFO - 2020-11-23 15:35:21 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:35:21 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:35:21 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:35:21 --> URI Class Initialized
+INFO - 2020-11-23 15:35:21 --> Router Class Initialized
+INFO - 2020-11-23 15:35:21 --> Output Class Initialized
+INFO - 2020-11-23 15:35:21 --> Security Class Initialized
+DEBUG - 2020-11-23 15:35:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:35:21 --> Input Class Initialized
+INFO - 2020-11-23 15:35:21 --> Language Class Initialized
+INFO - 2020-11-23 15:35:21 --> Language Class Initialized
+INFO - 2020-11-23 15:35:21 --> Config Class Initialized
+INFO - 2020-11-23 15:35:21 --> Loader Class Initialized
+INFO - 2020-11-23 15:35:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:35:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:35:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:35:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:35:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:35:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:35:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:35:21 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:35:21 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:35:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:35:21 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:35:21 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:35:22 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:35:22 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:35:22 --> Model Class Initialized
+INFO - 2020-11-23 15:35:22 --> Model Class Initialized
+DEBUG - 2020-11-23 15:35:22 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:35:22 --> Final output sent to browser
+DEBUG - 2020-11-23 15:35:22 --> Total execution time: 0.7360
+INFO - 2020-11-23 15:35:27 --> Config Class Initialized
+INFO - 2020-11-23 15:35:27 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:35:27 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:35:27 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:35:27 --> URI Class Initialized
+INFO - 2020-11-23 15:35:27 --> Router Class Initialized
+INFO - 2020-11-23 15:35:27 --> Output Class Initialized
+INFO - 2020-11-23 15:35:27 --> Security Class Initialized
+DEBUG - 2020-11-23 15:35:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:35:27 --> Input Class Initialized
+INFO - 2020-11-23 15:35:27 --> Language Class Initialized
+INFO - 2020-11-23 15:35:27 --> Language Class Initialized
+INFO - 2020-11-23 15:35:27 --> Config Class Initialized
+INFO - 2020-11-23 15:35:27 --> Loader Class Initialized
+INFO - 2020-11-23 15:35:27 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:35:27 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:35:27 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:35:27 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:35:27 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:35:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:35:27 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:35:27 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:35:27 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:35:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:35:27 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:35:27 --> Model Class Initialized
+DEBUG - 2020-11-23 15:35:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:35:27 --> Model Class Initialized
+DEBUG - 2020-11-23 15:35:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 15:35:27 --> Model Class Initialized
+DEBUG - 2020-11-23 15:35:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 15:35:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:35:27 --> Final output sent to browser
+DEBUG - 2020-11-23 15:35:27 --> Total execution time: 0.6780
+INFO - 2020-11-23 15:49:57 --> Config Class Initialized
+INFO - 2020-11-23 15:49:57 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:49:57 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:49:57 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:49:57 --> URI Class Initialized
+INFO - 2020-11-23 15:49:57 --> Router Class Initialized
+INFO - 2020-11-23 15:49:57 --> Output Class Initialized
+INFO - 2020-11-23 15:49:57 --> Security Class Initialized
+DEBUG - 2020-11-23 15:49:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:49:57 --> Input Class Initialized
+INFO - 2020-11-23 15:49:57 --> Language Class Initialized
+INFO - 2020-11-23 15:49:57 --> Language Class Initialized
+INFO - 2020-11-23 15:49:57 --> Config Class Initialized
+INFO - 2020-11-23 15:49:57 --> Loader Class Initialized
+INFO - 2020-11-23 15:49:57 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:49:57 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:49:57 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:49:57 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:49:57 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:49:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:49:57 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:49:57 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:49:57 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:49:57 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:49:57 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:49:57 --> Model Class Initialized
+DEBUG - 2020-11-23 15:49:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:49:57 --> Model Class Initialized
+DEBUG - 2020-11-23 15:49:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:49:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:49:57 --> Final output sent to browser
+DEBUG - 2020-11-23 15:49:57 --> Total execution time: 0.6359
+INFO - 2020-11-23 15:49:58 --> Config Class Initialized
+INFO - 2020-11-23 15:49:58 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:49:58 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:49:58 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:49:58 --> URI Class Initialized
+INFO - 2020-11-23 15:49:58 --> Router Class Initialized
+INFO - 2020-11-23 15:49:58 --> Output Class Initialized
+INFO - 2020-11-23 15:49:58 --> Security Class Initialized
+DEBUG - 2020-11-23 15:49:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:49:58 --> Input Class Initialized
+INFO - 2020-11-23 15:49:58 --> Language Class Initialized
+INFO - 2020-11-23 15:49:58 --> Language Class Initialized
+INFO - 2020-11-23 15:49:59 --> Config Class Initialized
+INFO - 2020-11-23 15:49:59 --> Loader Class Initialized
+INFO - 2020-11-23 15:49:59 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:49:59 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:49:59 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:49:59 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:49:59 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:49:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:49:59 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:49:59 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:49:59 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:49:59 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:49:59 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:49:59 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:49:59 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:49:59 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:49:59 --> Model Class Initialized
+INFO - 2020-11-23 15:49:59 --> Model Class Initialized
+DEBUG - 2020-11-23 15:49:59 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:49:59 --> Final output sent to browser
+DEBUG - 2020-11-23 15:49:59 --> Total execution time: 0.6827
+INFO - 2020-11-23 15:52:07 --> Config Class Initialized
+INFO - 2020-11-23 15:52:07 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:52:07 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:52:07 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:52:07 --> URI Class Initialized
+INFO - 2020-11-23 15:52:07 --> Router Class Initialized
+INFO - 2020-11-23 15:52:07 --> Output Class Initialized
+INFO - 2020-11-23 15:52:07 --> Security Class Initialized
+DEBUG - 2020-11-23 15:52:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:52:07 --> Input Class Initialized
+INFO - 2020-11-23 15:52:07 --> Language Class Initialized
+INFO - 2020-11-23 15:52:07 --> Language Class Initialized
+INFO - 2020-11-23 15:52:07 --> Config Class Initialized
+INFO - 2020-11-23 15:52:07 --> Loader Class Initialized
+INFO - 2020-11-23 15:52:07 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:52:07 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:52:07 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:52:07 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:52:07 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:52:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:52:07 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:52:07 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:52:07 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:52:07 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:52:07 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:52:07 --> Model Class Initialized
+DEBUG - 2020-11-23 15:52:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:52:07 --> Model Class Initialized
+DEBUG - 2020-11-23 15:52:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:52:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:52:07 --> Final output sent to browser
+DEBUG - 2020-11-23 15:52:07 --> Total execution time: 0.6872
+INFO - 2020-11-23 15:52:40 --> Config Class Initialized
+INFO - 2020-11-23 15:52:40 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:52:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:52:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:52:41 --> URI Class Initialized
+INFO - 2020-11-23 15:52:41 --> Router Class Initialized
+INFO - 2020-11-23 15:52:41 --> Output Class Initialized
+INFO - 2020-11-23 15:52:41 --> Security Class Initialized
+DEBUG - 2020-11-23 15:52:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:52:41 --> Input Class Initialized
+INFO - 2020-11-23 15:52:41 --> Language Class Initialized
+INFO - 2020-11-23 15:52:41 --> Language Class Initialized
+INFO - 2020-11-23 15:52:41 --> Config Class Initialized
+INFO - 2020-11-23 15:52:41 --> Loader Class Initialized
+INFO - 2020-11-23 15:52:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:52:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:52:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:52:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:52:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:52:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:52:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:52:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:52:41 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:52:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:52:41 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:52:41 --> Model Class Initialized
+DEBUG - 2020-11-23 15:52:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:52:41 --> Model Class Initialized
+DEBUG - 2020-11-23 15:52:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:52:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:52:41 --> Final output sent to browser
+DEBUG - 2020-11-23 15:52:41 --> Total execution time: 0.6051
+INFO - 2020-11-23 15:52:41 --> Config Class Initialized
+INFO - 2020-11-23 15:52:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:52:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:52:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:52:41 --> URI Class Initialized
+INFO - 2020-11-23 15:52:41 --> Router Class Initialized
+INFO - 2020-11-23 15:52:42 --> Output Class Initialized
+INFO - 2020-11-23 15:52:42 --> Security Class Initialized
+DEBUG - 2020-11-23 15:52:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:52:42 --> Input Class Initialized
+INFO - 2020-11-23 15:52:42 --> Language Class Initialized
+INFO - 2020-11-23 15:52:42 --> Language Class Initialized
+INFO - 2020-11-23 15:52:42 --> Config Class Initialized
+INFO - 2020-11-23 15:52:42 --> Loader Class Initialized
+INFO - 2020-11-23 15:52:42 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:52:42 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:52:42 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:52:42 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:52:42 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:52:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:52:42 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:52:42 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:52:42 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:52:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:52:42 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:52:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:52:42 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:52:42 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:52:42 --> Model Class Initialized
+INFO - 2020-11-23 15:52:42 --> Model Class Initialized
+DEBUG - 2020-11-23 15:52:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:52:42 --> Final output sent to browser
+DEBUG - 2020-11-23 15:52:42 --> Total execution time: 0.6902
+INFO - 2020-11-23 15:54:43 --> Config Class Initialized
+INFO - 2020-11-23 15:54:43 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:54:43 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:54:43 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:54:43 --> URI Class Initialized
+INFO - 2020-11-23 15:54:43 --> Router Class Initialized
+INFO - 2020-11-23 15:54:44 --> Output Class Initialized
+INFO - 2020-11-23 15:54:44 --> Security Class Initialized
+DEBUG - 2020-11-23 15:54:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:54:44 --> Input Class Initialized
+INFO - 2020-11-23 15:54:44 --> Language Class Initialized
+INFO - 2020-11-23 15:54:44 --> Language Class Initialized
+INFO - 2020-11-23 15:54:44 --> Config Class Initialized
+INFO - 2020-11-23 15:54:44 --> Loader Class Initialized
+INFO - 2020-11-23 15:54:44 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:54:44 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:54:44 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:54:44 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:54:44 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:54:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:54:44 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:54:44 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:54:44 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:54:44 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:54:44 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:54:44 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:54:44 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:54:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:54:44 --> Final output sent to browser
+DEBUG - 2020-11-23 15:54:44 --> Total execution time: 0.6345
+INFO - 2020-11-23 15:54:44 --> Config Class Initialized
+INFO - 2020-11-23 15:54:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:54:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:54:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:54:44 --> URI Class Initialized
+INFO - 2020-11-23 15:54:44 --> Router Class Initialized
+INFO - 2020-11-23 15:54:45 --> Output Class Initialized
+INFO - 2020-11-23 15:54:45 --> Security Class Initialized
+DEBUG - 2020-11-23 15:54:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:54:45 --> Input Class Initialized
+INFO - 2020-11-23 15:54:45 --> Language Class Initialized
+INFO - 2020-11-23 15:54:45 --> Language Class Initialized
+INFO - 2020-11-23 15:54:45 --> Config Class Initialized
+INFO - 2020-11-23 15:54:45 --> Loader Class Initialized
+INFO - 2020-11-23 15:54:45 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:54:45 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:54:45 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:54:45 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:54:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:54:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:54:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:54:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:54:45 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:54:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:54:45 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:54:45 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:54:45 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:54:45 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:54:45 --> Model Class Initialized
+INFO - 2020-11-23 15:54:45 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:45 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:54:45 --> Final output sent to browser
+DEBUG - 2020-11-23 15:54:45 --> Total execution time: 0.6742
+INFO - 2020-11-23 15:54:47 --> Config Class Initialized
+INFO - 2020-11-23 15:54:47 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:54:47 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:54:47 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:54:47 --> URI Class Initialized
+INFO - 2020-11-23 15:54:47 --> Router Class Initialized
+INFO - 2020-11-23 15:54:47 --> Output Class Initialized
+INFO - 2020-11-23 15:54:47 --> Security Class Initialized
+DEBUG - 2020-11-23 15:54:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:54:47 --> Input Class Initialized
+INFO - 2020-11-23 15:54:47 --> Language Class Initialized
+INFO - 2020-11-23 15:54:47 --> Language Class Initialized
+INFO - 2020-11-23 15:54:47 --> Config Class Initialized
+INFO - 2020-11-23 15:54:47 --> Loader Class Initialized
+INFO - 2020-11-23 15:54:47 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:54:47 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:54:47 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:54:47 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:54:47 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:54:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:54:47 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:54:47 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:54:47 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:54:47 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:54:47 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:54:47 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:54:47 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 15:54:47 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 15:54:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:54:47 --> Final output sent to browser
+DEBUG - 2020-11-23 15:54:47 --> Total execution time: 0.6274
+INFO - 2020-11-23 15:54:50 --> Config Class Initialized
+INFO - 2020-11-23 15:54:50 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:54:50 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:54:50 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:54:50 --> URI Class Initialized
+INFO - 2020-11-23 15:54:50 --> Router Class Initialized
+INFO - 2020-11-23 15:54:50 --> Output Class Initialized
+INFO - 2020-11-23 15:54:50 --> Security Class Initialized
+DEBUG - 2020-11-23 15:54:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:54:50 --> Input Class Initialized
+INFO - 2020-11-23 15:54:50 --> Language Class Initialized
+INFO - 2020-11-23 15:54:50 --> Language Class Initialized
+INFO - 2020-11-23 15:54:50 --> Config Class Initialized
+INFO - 2020-11-23 15:54:50 --> Loader Class Initialized
+INFO - 2020-11-23 15:54:50 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:54:50 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:54:50 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:54:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:54:50 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:54:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:54:50 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:54:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:54:50 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:54:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:54:50 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:54:51 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:54:51 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 15:54:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:54:51 --> Final output sent to browser
+DEBUG - 2020-11-23 15:54:51 --> Total execution time: 0.6381
+INFO - 2020-11-23 15:54:51 --> Config Class Initialized
+INFO - 2020-11-23 15:54:51 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:54:51 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:54:51 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:54:51 --> URI Class Initialized
+INFO - 2020-11-23 15:54:51 --> Router Class Initialized
+INFO - 2020-11-23 15:54:51 --> Output Class Initialized
+INFO - 2020-11-23 15:54:51 --> Security Class Initialized
+DEBUG - 2020-11-23 15:54:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:54:51 --> Input Class Initialized
+INFO - 2020-11-23 15:54:51 --> Language Class Initialized
+INFO - 2020-11-23 15:54:51 --> Language Class Initialized
+INFO - 2020-11-23 15:54:51 --> Config Class Initialized
+INFO - 2020-11-23 15:54:51 --> Loader Class Initialized
+INFO - 2020-11-23 15:54:51 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:54:51 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:54:51 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:54:51 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:54:51 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:54:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:54:51 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:54:51 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:54:51 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 15:54:51 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:54:51 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 15:54:51 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 15:54:51 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 15:54:52 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 15:54:52 --> Model Class Initialized
+INFO - 2020-11-23 15:54:52 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:52 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 15:54:52 --> Final output sent to browser
+DEBUG - 2020-11-23 15:54:52 --> Total execution time: 0.6917
+INFO - 2020-11-23 15:54:56 --> Config Class Initialized
+INFO - 2020-11-23 15:54:56 --> Hooks Class Initialized
+DEBUG - 2020-11-23 15:54:56 --> UTF-8 Support Enabled
+INFO - 2020-11-23 15:54:56 --> Utf8 Class Initialized
+INFO - 2020-11-23 15:54:56 --> URI Class Initialized
+INFO - 2020-11-23 15:54:56 --> Router Class Initialized
+INFO - 2020-11-23 15:54:56 --> Output Class Initialized
+INFO - 2020-11-23 15:54:57 --> Security Class Initialized
+DEBUG - 2020-11-23 15:54:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 15:54:57 --> Input Class Initialized
+INFO - 2020-11-23 15:54:57 --> Language Class Initialized
+INFO - 2020-11-23 15:54:57 --> Language Class Initialized
+INFO - 2020-11-23 15:54:57 --> Config Class Initialized
+INFO - 2020-11-23 15:54:57 --> Loader Class Initialized
+INFO - 2020-11-23 15:54:57 --> Helper loaded: form_helper
+INFO - 2020-11-23 15:54:57 --> Helper loaded: url_helper
+INFO - 2020-11-23 15:54:57 --> Helper loaded: file_helper
+INFO - 2020-11-23 15:54:57 --> Helper loaded: security_helper
+INFO - 2020-11-23 15:54:57 --> Database Driver Class Initialized
+INFO - 2020-11-23 15:54:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 15:54:57 --> Form Validation Class Initialized
+INFO - 2020-11-23 15:54:57 --> Controller Class Initialized
+DEBUG - 2020-11-23 15:54:57 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 15:54:57 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 15:54:57 --> Template MX_Controller Initialized
+INFO - 2020-11-23 15:54:57 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 15:54:57 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 15:54:57 --> Model Class Initialized
+DEBUG - 2020-11-23 15:54:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 15:54:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 15:54:57 --> Final output sent to browser
+DEBUG - 2020-11-23 15:54:57 --> Total execution time: 0.6304
+INFO - 2020-11-23 16:07:13 --> Config Class Initialized
+INFO - 2020-11-23 16:07:13 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:07:13 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:07:13 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:07:13 --> URI Class Initialized
+INFO - 2020-11-23 16:07:13 --> Router Class Initialized
+INFO - 2020-11-23 16:07:13 --> Output Class Initialized
+INFO - 2020-11-23 16:07:13 --> Security Class Initialized
+DEBUG - 2020-11-23 16:07:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:07:13 --> Input Class Initialized
+INFO - 2020-11-23 16:07:13 --> Language Class Initialized
+INFO - 2020-11-23 16:07:13 --> Language Class Initialized
+INFO - 2020-11-23 16:07:13 --> Config Class Initialized
+INFO - 2020-11-23 16:07:13 --> Loader Class Initialized
+INFO - 2020-11-23 16:07:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:07:13 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:07:13 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:07:13 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:07:13 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:07:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:07:14 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:07:14 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:07:14 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:07:14 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:07:14 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:07:14 --> Model Class Initialized
+DEBUG - 2020-11-23 16:07:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:07:14 --> Model Class Initialized
+DEBUG - 2020-11-23 16:07:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 16:07:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:07:14 --> Final output sent to browser
+DEBUG - 2020-11-23 16:07:14 --> Total execution time: 0.6313
+INFO - 2020-11-23 16:07:14 --> Config Class Initialized
+INFO - 2020-11-23 16:07:14 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:07:14 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:07:14 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:07:15 --> URI Class Initialized
+INFO - 2020-11-23 16:07:15 --> Router Class Initialized
+INFO - 2020-11-23 16:07:15 --> Output Class Initialized
+INFO - 2020-11-23 16:07:15 --> Security Class Initialized
+DEBUG - 2020-11-23 16:07:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:07:15 --> Input Class Initialized
+INFO - 2020-11-23 16:07:15 --> Language Class Initialized
+INFO - 2020-11-23 16:07:15 --> Language Class Initialized
+INFO - 2020-11-23 16:07:15 --> Config Class Initialized
+INFO - 2020-11-23 16:07:15 --> Loader Class Initialized
+INFO - 2020-11-23 16:07:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:07:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:07:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:07:15 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:07:15 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:07:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:07:15 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:07:15 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:07:15 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 16:07:15 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:07:15 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 16:07:15 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 16:07:15 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 16:07:15 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 16:07:15 --> Model Class Initialized
+INFO - 2020-11-23 16:07:15 --> Model Class Initialized
+DEBUG - 2020-11-23 16:07:15 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 16:07:15 --> Final output sent to browser
+DEBUG - 2020-11-23 16:07:15 --> Total execution time: 0.7078
+INFO - 2020-11-23 16:07:17 --> Config Class Initialized
+INFO - 2020-11-23 16:07:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:07:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:07:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:07:17 --> URI Class Initialized
+INFO - 2020-11-23 16:07:17 --> Router Class Initialized
+INFO - 2020-11-23 16:07:17 --> Output Class Initialized
+INFO - 2020-11-23 16:07:17 --> Security Class Initialized
+DEBUG - 2020-11-23 16:07:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:07:17 --> Input Class Initialized
+INFO - 2020-11-23 16:07:17 --> Language Class Initialized
+INFO - 2020-11-23 16:07:17 --> Language Class Initialized
+INFO - 2020-11-23 16:07:17 --> Config Class Initialized
+INFO - 2020-11-23 16:07:17 --> Loader Class Initialized
+INFO - 2020-11-23 16:07:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:07:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:07:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:07:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:07:17 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:07:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:07:17 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:07:17 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:07:17 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:07:17 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:07:17 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:07:17 --> Model Class Initialized
+DEBUG - 2020-11-23 16:07:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:07:17 --> Model Class Initialized
+DEBUG - 2020-11-23 16:07:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:07:17 --> Model Class Initialized
+DEBUG - 2020-11-23 16:07:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:07:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:07:17 --> Final output sent to browser
+DEBUG - 2020-11-23 16:07:17 --> Total execution time: 0.6349
+INFO - 2020-11-23 16:24:04 --> Config Class Initialized
+INFO - 2020-11-23 16:24:04 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:24:04 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:24:04 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:24:04 --> URI Class Initialized
+INFO - 2020-11-23 16:24:04 --> Router Class Initialized
+INFO - 2020-11-23 16:24:04 --> Output Class Initialized
+INFO - 2020-11-23 16:24:04 --> Security Class Initialized
+DEBUG - 2020-11-23 16:24:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:24:04 --> Input Class Initialized
+INFO - 2020-11-23 16:24:04 --> Language Class Initialized
+INFO - 2020-11-23 16:24:05 --> Language Class Initialized
+INFO - 2020-11-23 16:24:05 --> Config Class Initialized
+INFO - 2020-11-23 16:24:05 --> Loader Class Initialized
+INFO - 2020-11-23 16:24:05 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:24:05 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:24:05 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:24:05 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:24:05 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:24:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:24:05 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:24:05 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:24:05 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:24:05 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:24:05 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:24:05 --> Model Class Initialized
+DEBUG - 2020-11-23 16:24:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:24:05 --> Model Class Initialized
+DEBUG - 2020-11-23 16:24:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:24:05 --> Model Class Initialized
+DEBUG - 2020-11-23 16:24:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:24:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:24:05 --> Final output sent to browser
+DEBUG - 2020-11-23 16:24:05 --> Total execution time: 0.6663
+INFO - 2020-11-23 16:28:05 --> Config Class Initialized
+INFO - 2020-11-23 16:28:05 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:28:05 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:28:05 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:28:05 --> URI Class Initialized
+INFO - 2020-11-23 16:28:05 --> Router Class Initialized
+INFO - 2020-11-23 16:28:05 --> Output Class Initialized
+INFO - 2020-11-23 16:28:05 --> Security Class Initialized
+DEBUG - 2020-11-23 16:28:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:28:05 --> Input Class Initialized
+INFO - 2020-11-23 16:28:05 --> Language Class Initialized
+INFO - 2020-11-23 16:28:05 --> Language Class Initialized
+INFO - 2020-11-23 16:28:05 --> Config Class Initialized
+INFO - 2020-11-23 16:28:05 --> Loader Class Initialized
+INFO - 2020-11-23 16:28:05 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:28:05 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:28:05 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:28:05 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:28:05 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:28:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:28:05 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:28:05 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:28:05 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:28:05 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:28:05 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:28:05 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:28:05 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:28:05 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:28:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:28:06 --> Final output sent to browser
+DEBUG - 2020-11-23 16:28:06 --> Total execution time: 0.6655
+INFO - 2020-11-23 16:28:08 --> Config Class Initialized
+INFO - 2020-11-23 16:28:08 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:28:08 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:28:08 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:28:08 --> URI Class Initialized
+INFO - 2020-11-23 16:28:08 --> Router Class Initialized
+INFO - 2020-11-23 16:28:08 --> Output Class Initialized
+INFO - 2020-11-23 16:28:08 --> Security Class Initialized
+DEBUG - 2020-11-23 16:28:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:28:08 --> Input Class Initialized
+INFO - 2020-11-23 16:28:08 --> Language Class Initialized
+INFO - 2020-11-23 16:28:09 --> Language Class Initialized
+INFO - 2020-11-23 16:28:09 --> Config Class Initialized
+INFO - 2020-11-23 16:28:09 --> Loader Class Initialized
+INFO - 2020-11-23 16:28:09 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:28:09 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:28:09 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:28:09 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:28:09 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:28:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:28:09 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:28:09 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:28:09 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:28:09 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:28:09 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:28:09 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:28:09 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:28:09 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:28:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:28:09 --> Final output sent to browser
+DEBUG - 2020-11-23 16:28:09 --> Total execution time: 0.6966
+INFO - 2020-11-23 16:28:28 --> Config Class Initialized
+INFO - 2020-11-23 16:28:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:28:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:28:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:28:28 --> URI Class Initialized
+INFO - 2020-11-23 16:28:28 --> Router Class Initialized
+INFO - 2020-11-23 16:28:28 --> Output Class Initialized
+INFO - 2020-11-23 16:28:28 --> Security Class Initialized
+DEBUG - 2020-11-23 16:28:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:28:28 --> Input Class Initialized
+INFO - 2020-11-23 16:28:28 --> Language Class Initialized
+INFO - 2020-11-23 16:28:28 --> Language Class Initialized
+INFO - 2020-11-23 16:28:28 --> Config Class Initialized
+INFO - 2020-11-23 16:28:28 --> Loader Class Initialized
+INFO - 2020-11-23 16:28:28 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:28:28 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:28:28 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:28:28 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:28:28 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:28:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:28:28 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:28:28 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:28:28 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:28:28 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:28:28 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:28:28 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:28:28 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:28:29 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:28:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:28:29 --> Final output sent to browser
+DEBUG - 2020-11-23 16:28:29 --> Total execution time: 0.6771
+INFO - 2020-11-23 16:28:53 --> Config Class Initialized
+INFO - 2020-11-23 16:28:53 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:28:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:28:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:28:53 --> URI Class Initialized
+INFO - 2020-11-23 16:28:53 --> Router Class Initialized
+INFO - 2020-11-23 16:28:53 --> Output Class Initialized
+INFO - 2020-11-23 16:28:53 --> Security Class Initialized
+DEBUG - 2020-11-23 16:28:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:28:53 --> Input Class Initialized
+INFO - 2020-11-23 16:28:53 --> Language Class Initialized
+INFO - 2020-11-23 16:28:53 --> Language Class Initialized
+INFO - 2020-11-23 16:28:53 --> Config Class Initialized
+INFO - 2020-11-23 16:28:53 --> Loader Class Initialized
+INFO - 2020-11-23 16:28:53 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:28:53 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:28:53 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:28:53 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:28:53 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:28:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:28:53 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:28:53 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:28:53 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:28:53 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:28:53 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:28:53 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:28:53 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:28:53 --> Model Class Initialized
+DEBUG - 2020-11-23 16:28:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:28:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:28:53 --> Final output sent to browser
+DEBUG - 2020-11-23 16:28:53 --> Total execution time: 0.6690
+INFO - 2020-11-23 16:31:24 --> Config Class Initialized
+INFO - 2020-11-23 16:31:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:31:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:31:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:31:24 --> URI Class Initialized
+INFO - 2020-11-23 16:31:24 --> Router Class Initialized
+INFO - 2020-11-23 16:31:24 --> Output Class Initialized
+INFO - 2020-11-23 16:31:24 --> Security Class Initialized
+DEBUG - 2020-11-23 16:31:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:31:24 --> Input Class Initialized
+INFO - 2020-11-23 16:31:24 --> Language Class Initialized
+INFO - 2020-11-23 16:31:24 --> Language Class Initialized
+INFO - 2020-11-23 16:31:24 --> Config Class Initialized
+INFO - 2020-11-23 16:31:24 --> Loader Class Initialized
+INFO - 2020-11-23 16:31:24 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:31:24 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:31:24 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:31:24 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:31:24 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:31:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:31:24 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:31:24 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:31:24 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:31:24 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:31:24 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:31:24 --> Model Class Initialized
+DEBUG - 2020-11-23 16:31:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:31:24 --> Model Class Initialized
+DEBUG - 2020-11-23 16:31:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:31:24 --> Model Class Initialized
+DEBUG - 2020-11-23 16:31:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:31:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:31:24 --> Final output sent to browser
+DEBUG - 2020-11-23 16:31:24 --> Total execution time: 0.7394
+INFO - 2020-11-23 16:31:47 --> Config Class Initialized
+INFO - 2020-11-23 16:31:47 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:31:47 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:31:47 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:31:47 --> URI Class Initialized
+INFO - 2020-11-23 16:31:47 --> Router Class Initialized
+INFO - 2020-11-23 16:31:47 --> Output Class Initialized
+INFO - 2020-11-23 16:31:47 --> Security Class Initialized
+DEBUG - 2020-11-23 16:31:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:31:47 --> Input Class Initialized
+INFO - 2020-11-23 16:31:47 --> Language Class Initialized
+INFO - 2020-11-23 16:31:47 --> Language Class Initialized
+INFO - 2020-11-23 16:31:47 --> Config Class Initialized
+INFO - 2020-11-23 16:31:47 --> Loader Class Initialized
+INFO - 2020-11-23 16:31:47 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:31:47 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:31:47 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:31:47 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:31:47 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:31:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:31:47 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:31:47 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:31:47 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:31:47 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:31:47 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:31:47 --> Model Class Initialized
+DEBUG - 2020-11-23 16:31:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:31:47 --> Model Class Initialized
+DEBUG - 2020-11-23 16:31:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:31:47 --> Model Class Initialized
+DEBUG - 2020-11-23 16:31:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:31:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:31:47 --> Final output sent to browser
+DEBUG - 2020-11-23 16:31:47 --> Total execution time: 0.6989
+INFO - 2020-11-23 16:32:03 --> Config Class Initialized
+INFO - 2020-11-23 16:32:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:32:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:32:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:32:03 --> URI Class Initialized
+INFO - 2020-11-23 16:32:03 --> Router Class Initialized
+INFO - 2020-11-23 16:32:03 --> Output Class Initialized
+INFO - 2020-11-23 16:32:03 --> Security Class Initialized
+DEBUG - 2020-11-23 16:32:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:32:03 --> Input Class Initialized
+INFO - 2020-11-23 16:32:03 --> Language Class Initialized
+INFO - 2020-11-23 16:32:03 --> Language Class Initialized
+INFO - 2020-11-23 16:32:03 --> Config Class Initialized
+INFO - 2020-11-23 16:32:03 --> Loader Class Initialized
+INFO - 2020-11-23 16:32:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:32:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:32:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:32:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:32:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:32:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:32:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:32:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:32:04 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:32:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:32:04 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:32:04 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:32:04 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:32:04 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:32:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:32:04 --> Final output sent to browser
+DEBUG - 2020-11-23 16:32:04 --> Total execution time: 0.6492
+INFO - 2020-11-23 16:32:24 --> Config Class Initialized
+INFO - 2020-11-23 16:32:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:32:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:32:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:32:24 --> URI Class Initialized
+INFO - 2020-11-23 16:32:24 --> Router Class Initialized
+INFO - 2020-11-23 16:32:24 --> Output Class Initialized
+INFO - 2020-11-23 16:32:24 --> Security Class Initialized
+DEBUG - 2020-11-23 16:32:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:32:24 --> Input Class Initialized
+INFO - 2020-11-23 16:32:24 --> Language Class Initialized
+INFO - 2020-11-23 16:32:24 --> Language Class Initialized
+INFO - 2020-11-23 16:32:24 --> Config Class Initialized
+INFO - 2020-11-23 16:32:24 --> Loader Class Initialized
+INFO - 2020-11-23 16:32:24 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:32:24 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:32:24 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:32:24 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:32:24 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:32:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:32:24 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:32:24 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:32:24 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:32:24 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:32:24 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:32:24 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:32:24 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:32:24 --> Final output sent to browser
+DEBUG - 2020-11-23 16:32:25 --> Total execution time: 0.6780
+INFO - 2020-11-23 16:32:36 --> Config Class Initialized
+INFO - 2020-11-23 16:32:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:32:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:32:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:32:36 --> URI Class Initialized
+INFO - 2020-11-23 16:32:36 --> Router Class Initialized
+INFO - 2020-11-23 16:32:36 --> Output Class Initialized
+INFO - 2020-11-23 16:32:36 --> Security Class Initialized
+DEBUG - 2020-11-23 16:32:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:32:37 --> Input Class Initialized
+INFO - 2020-11-23 16:32:37 --> Language Class Initialized
+INFO - 2020-11-23 16:32:37 --> Language Class Initialized
+INFO - 2020-11-23 16:32:37 --> Config Class Initialized
+INFO - 2020-11-23 16:32:37 --> Loader Class Initialized
+INFO - 2020-11-23 16:32:37 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:32:37 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:32:37 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:32:37 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:32:37 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:32:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:32:37 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:32:37 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:32:37 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:32:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:32:37 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:32:37 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:32:37 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:32:37 --> Model Class Initialized
+DEBUG - 2020-11-23 16:32:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:32:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:32:37 --> Final output sent to browser
+DEBUG - 2020-11-23 16:32:37 --> Total execution time: 0.7676
+INFO - 2020-11-23 16:33:02 --> Config Class Initialized
+INFO - 2020-11-23 16:33:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:33:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:33:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:33:03 --> URI Class Initialized
+INFO - 2020-11-23 16:33:03 --> Router Class Initialized
+INFO - 2020-11-23 16:33:03 --> Output Class Initialized
+INFO - 2020-11-23 16:33:03 --> Security Class Initialized
+DEBUG - 2020-11-23 16:33:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:33:03 --> Input Class Initialized
+INFO - 2020-11-23 16:33:03 --> Language Class Initialized
+INFO - 2020-11-23 16:33:03 --> Language Class Initialized
+INFO - 2020-11-23 16:33:03 --> Config Class Initialized
+INFO - 2020-11-23 16:33:03 --> Loader Class Initialized
+INFO - 2020-11-23 16:33:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:33:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:33:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:33:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:33:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:33:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:33:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:33:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:33:03 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:33:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:33:03 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:33:03 --> Model Class Initialized
+DEBUG - 2020-11-23 16:33:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:33:03 --> Model Class Initialized
+DEBUG - 2020-11-23 16:33:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:33:03 --> Model Class Initialized
+DEBUG - 2020-11-23 16:33:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:33:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:33:03 --> Final output sent to browser
+DEBUG - 2020-11-23 16:33:03 --> Total execution time: 0.7116
+INFO - 2020-11-23 16:33:29 --> Config Class Initialized
+INFO - 2020-11-23 16:33:29 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:33:29 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:33:29 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:33:29 --> URI Class Initialized
+INFO - 2020-11-23 16:33:29 --> Router Class Initialized
+INFO - 2020-11-23 16:33:29 --> Output Class Initialized
+INFO - 2020-11-23 16:33:29 --> Security Class Initialized
+DEBUG - 2020-11-23 16:33:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:33:29 --> Input Class Initialized
+INFO - 2020-11-23 16:33:29 --> Language Class Initialized
+INFO - 2020-11-23 16:33:29 --> Language Class Initialized
+INFO - 2020-11-23 16:33:29 --> Config Class Initialized
+INFO - 2020-11-23 16:33:29 --> Loader Class Initialized
+INFO - 2020-11-23 16:33:29 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:33:29 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:33:29 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:33:29 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:33:29 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:33:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:33:29 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:33:29 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:33:29 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:33:29 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:33:29 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:33:29 --> Model Class Initialized
+DEBUG - 2020-11-23 16:33:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:33:29 --> Model Class Initialized
+DEBUG - 2020-11-23 16:33:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:33:29 --> Model Class Initialized
+DEBUG - 2020-11-23 16:33:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:33:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:33:29 --> Final output sent to browser
+DEBUG - 2020-11-23 16:33:29 --> Total execution time: 0.6819
+INFO - 2020-11-23 16:34:08 --> Config Class Initialized
+INFO - 2020-11-23 16:34:08 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:34:08 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:34:08 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:34:08 --> URI Class Initialized
+INFO - 2020-11-23 16:34:08 --> Router Class Initialized
+INFO - 2020-11-23 16:34:08 --> Output Class Initialized
+INFO - 2020-11-23 16:34:08 --> Security Class Initialized
+DEBUG - 2020-11-23 16:34:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:34:08 --> Input Class Initialized
+INFO - 2020-11-23 16:34:08 --> Language Class Initialized
+INFO - 2020-11-23 16:34:08 --> Language Class Initialized
+INFO - 2020-11-23 16:34:08 --> Config Class Initialized
+INFO - 2020-11-23 16:34:08 --> Loader Class Initialized
+INFO - 2020-11-23 16:34:08 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:34:08 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:34:09 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:34:09 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:34:09 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:34:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:34:09 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:34:09 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:34:09 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:34:09 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:34:09 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:34:09 --> Model Class Initialized
+DEBUG - 2020-11-23 16:34:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:34:09 --> Model Class Initialized
+DEBUG - 2020-11-23 16:34:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:34:09 --> Model Class Initialized
+DEBUG - 2020-11-23 16:34:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:34:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:34:09 --> Final output sent to browser
+DEBUG - 2020-11-23 16:34:09 --> Total execution time: 0.7068
+INFO - 2020-11-23 16:34:12 --> Config Class Initialized
+INFO - 2020-11-23 16:34:12 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:34:12 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:34:12 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:34:12 --> URI Class Initialized
+INFO - 2020-11-23 16:34:12 --> Router Class Initialized
+INFO - 2020-11-23 16:34:12 --> Output Class Initialized
+INFO - 2020-11-23 16:34:12 --> Security Class Initialized
+DEBUG - 2020-11-23 16:34:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:34:12 --> Input Class Initialized
+INFO - 2020-11-23 16:34:12 --> Language Class Initialized
+INFO - 2020-11-23 16:34:12 --> Language Class Initialized
+INFO - 2020-11-23 16:34:12 --> Config Class Initialized
+INFO - 2020-11-23 16:34:12 --> Loader Class Initialized
+INFO - 2020-11-23 16:34:12 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:34:12 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:34:12 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:34:12 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:34:12 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:34:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:34:12 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:34:12 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:34:12 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:34:12 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:34:12 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:34:12 --> Model Class Initialized
+DEBUG - 2020-11-23 16:34:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:34:12 --> Model Class Initialized
+DEBUG - 2020-11-23 16:34:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:34:12 --> Model Class Initialized
+DEBUG - 2020-11-23 16:34:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:34:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:34:12 --> Final output sent to browser
+DEBUG - 2020-11-23 16:34:12 --> Total execution time: 0.7081
+INFO - 2020-11-23 16:49:00 --> Config Class Initialized
+INFO - 2020-11-23 16:49:00 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:49:00 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:49:00 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:49:00 --> URI Class Initialized
+INFO - 2020-11-23 16:49:00 --> Router Class Initialized
+INFO - 2020-11-23 16:49:00 --> Output Class Initialized
+INFO - 2020-11-23 16:49:00 --> Security Class Initialized
+DEBUG - 2020-11-23 16:49:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:49:00 --> Input Class Initialized
+INFO - 2020-11-23 16:49:00 --> Language Class Initialized
+INFO - 2020-11-23 16:49:00 --> Language Class Initialized
+INFO - 2020-11-23 16:49:00 --> Config Class Initialized
+INFO - 2020-11-23 16:49:00 --> Loader Class Initialized
+INFO - 2020-11-23 16:49:00 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:49:00 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:49:00 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:49:01 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:49:01 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:49:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:49:01 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:49:01 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:49:01 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:49:01 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:49:01 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:49:01 --> Model Class Initialized
+DEBUG - 2020-11-23 16:49:01 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:49:01 --> Model Class Initialized
+DEBUG - 2020-11-23 16:49:01 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:49:01 --> Model Class Initialized
+DEBUG - 2020-11-23 16:49:01 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:49:01 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:49:01 --> Final output sent to browser
+DEBUG - 2020-11-23 16:49:01 --> Total execution time: 0.6781
+INFO - 2020-11-23 16:50:34 --> Config Class Initialized
+INFO - 2020-11-23 16:50:34 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:50:34 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:50:34 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:50:34 --> URI Class Initialized
+INFO - 2020-11-23 16:50:34 --> Router Class Initialized
+INFO - 2020-11-23 16:50:34 --> Output Class Initialized
+INFO - 2020-11-23 16:50:34 --> Security Class Initialized
+DEBUG - 2020-11-23 16:50:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:50:34 --> Input Class Initialized
+INFO - 2020-11-23 16:50:34 --> Language Class Initialized
+INFO - 2020-11-23 16:50:34 --> Language Class Initialized
+INFO - 2020-11-23 16:50:34 --> Config Class Initialized
+INFO - 2020-11-23 16:50:34 --> Loader Class Initialized
+INFO - 2020-11-23 16:50:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:50:34 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:50:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:50:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:50:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:50:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:50:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:50:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:50:34 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:50:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:50:34 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:50:34 --> Model Class Initialized
+DEBUG - 2020-11-23 16:50:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:50:34 --> Model Class Initialized
+DEBUG - 2020-11-23 16:50:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:50:34 --> Model Class Initialized
+DEBUG - 2020-11-23 16:50:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:50:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:50:35 --> Final output sent to browser
+DEBUG - 2020-11-23 16:50:35 --> Total execution time: 0.7012
+INFO - 2020-11-23 16:50:49 --> Config Class Initialized
+INFO - 2020-11-23 16:50:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:50:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:50:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:50:49 --> URI Class Initialized
+INFO - 2020-11-23 16:50:49 --> Router Class Initialized
+INFO - 2020-11-23 16:50:49 --> Output Class Initialized
+INFO - 2020-11-23 16:50:49 --> Security Class Initialized
+DEBUG - 2020-11-23 16:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:50:49 --> Input Class Initialized
+INFO - 2020-11-23 16:50:49 --> Language Class Initialized
+INFO - 2020-11-23 16:50:49 --> Language Class Initialized
+INFO - 2020-11-23 16:50:50 --> Config Class Initialized
+INFO - 2020-11-23 16:50:50 --> Loader Class Initialized
+INFO - 2020-11-23 16:50:50 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:50:50 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:50:50 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:50:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:50:50 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:50:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:50:50 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:50:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:50:50 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:50:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:50:50 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:50:50 --> Model Class Initialized
+DEBUG - 2020-11-23 16:50:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:50:50 --> Model Class Initialized
+DEBUG - 2020-11-23 16:50:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:50:50 --> Model Class Initialized
+DEBUG - 2020-11-23 16:50:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:50:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:50:50 --> Final output sent to browser
+DEBUG - 2020-11-23 16:50:50 --> Total execution time: 0.7085
+INFO - 2020-11-23 16:51:27 --> Config Class Initialized
+INFO - 2020-11-23 16:51:27 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:51:27 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:51:27 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:51:27 --> URI Class Initialized
+INFO - 2020-11-23 16:51:27 --> Router Class Initialized
+INFO - 2020-11-23 16:51:27 --> Output Class Initialized
+INFO - 2020-11-23 16:51:27 --> Security Class Initialized
+DEBUG - 2020-11-23 16:51:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:51:27 --> Input Class Initialized
+INFO - 2020-11-23 16:51:27 --> Language Class Initialized
+INFO - 2020-11-23 16:51:27 --> Language Class Initialized
+INFO - 2020-11-23 16:51:27 --> Config Class Initialized
+INFO - 2020-11-23 16:51:27 --> Loader Class Initialized
+INFO - 2020-11-23 16:51:27 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:51:27 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:51:27 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:51:27 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:51:27 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:51:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:51:27 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:51:28 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:51:28 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:51:28 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:51:28 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:51:28 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:51:28 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:51:28 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:51:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:51:28 --> Final output sent to browser
+DEBUG - 2020-11-23 16:51:28 --> Total execution time: 0.6673
+INFO - 2020-11-23 16:51:32 --> Config Class Initialized
+INFO - 2020-11-23 16:51:32 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:51:32 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:51:32 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:51:32 --> URI Class Initialized
+INFO - 2020-11-23 16:51:32 --> Router Class Initialized
+INFO - 2020-11-23 16:51:32 --> Output Class Initialized
+INFO - 2020-11-23 16:51:32 --> Security Class Initialized
+DEBUG - 2020-11-23 16:51:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:51:32 --> Input Class Initialized
+INFO - 2020-11-23 16:51:32 --> Language Class Initialized
+INFO - 2020-11-23 16:51:32 --> Language Class Initialized
+INFO - 2020-11-23 16:51:32 --> Config Class Initialized
+INFO - 2020-11-23 16:51:32 --> Loader Class Initialized
+INFO - 2020-11-23 16:51:32 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:51:32 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:51:32 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:51:32 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:51:32 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:51:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:51:33 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:51:33 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:51:33 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:51:33 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:51:33 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:51:33 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:51:33 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:51:33 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:51:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:51:33 --> Final output sent to browser
+DEBUG - 2020-11-23 16:51:33 --> Total execution time: 0.6932
+INFO - 2020-11-23 16:51:52 --> Config Class Initialized
+INFO - 2020-11-23 16:51:52 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:51:52 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:51:52 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:51:52 --> URI Class Initialized
+INFO - 2020-11-23 16:51:52 --> Router Class Initialized
+INFO - 2020-11-23 16:51:52 --> Output Class Initialized
+INFO - 2020-11-23 16:51:52 --> Security Class Initialized
+DEBUG - 2020-11-23 16:51:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:51:52 --> Input Class Initialized
+INFO - 2020-11-23 16:51:52 --> Language Class Initialized
+INFO - 2020-11-23 16:51:52 --> Language Class Initialized
+INFO - 2020-11-23 16:51:52 --> Config Class Initialized
+INFO - 2020-11-23 16:51:52 --> Loader Class Initialized
+INFO - 2020-11-23 16:51:52 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:51:52 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:51:52 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:51:52 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:51:52 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:51:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:51:52 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:51:53 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:51:53 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:51:53 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:51:53 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:51:53 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:51:53 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:51:53 --> Model Class Initialized
+DEBUG - 2020-11-23 16:51:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:51:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:51:53 --> Final output sent to browser
+DEBUG - 2020-11-23 16:51:53 --> Total execution time: 0.7069
+INFO - 2020-11-23 16:52:26 --> Config Class Initialized
+INFO - 2020-11-23 16:52:26 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:52:26 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:52:26 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:52:26 --> URI Class Initialized
+INFO - 2020-11-23 16:52:26 --> Router Class Initialized
+INFO - 2020-11-23 16:52:26 --> Output Class Initialized
+INFO - 2020-11-23 16:52:26 --> Security Class Initialized
+DEBUG - 2020-11-23 16:52:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:52:26 --> Input Class Initialized
+INFO - 2020-11-23 16:52:26 --> Language Class Initialized
+INFO - 2020-11-23 16:52:26 --> Language Class Initialized
+INFO - 2020-11-23 16:52:26 --> Config Class Initialized
+INFO - 2020-11-23 16:52:26 --> Loader Class Initialized
+INFO - 2020-11-23 16:52:26 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:52:26 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:52:26 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:52:26 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:52:26 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:52:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:52:26 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:52:26 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:52:26 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:52:26 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:52:26 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:52:26 --> Model Class Initialized
+DEBUG - 2020-11-23 16:52:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:52:26 --> Model Class Initialized
+DEBUG - 2020-11-23 16:52:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:52:26 --> Model Class Initialized
+DEBUG - 2020-11-23 16:52:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:52:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:52:26 --> Final output sent to browser
+DEBUG - 2020-11-23 16:52:27 --> Total execution time: 0.7292
+INFO - 2020-11-23 16:52:45 --> Config Class Initialized
+INFO - 2020-11-23 16:52:45 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:52:45 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:52:45 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:52:45 --> URI Class Initialized
+INFO - 2020-11-23 16:52:45 --> Router Class Initialized
+INFO - 2020-11-23 16:52:46 --> Output Class Initialized
+INFO - 2020-11-23 16:52:46 --> Security Class Initialized
+DEBUG - 2020-11-23 16:52:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:52:46 --> Input Class Initialized
+INFO - 2020-11-23 16:52:46 --> Language Class Initialized
+INFO - 2020-11-23 16:52:46 --> Language Class Initialized
+INFO - 2020-11-23 16:52:46 --> Config Class Initialized
+INFO - 2020-11-23 16:52:46 --> Loader Class Initialized
+INFO - 2020-11-23 16:52:46 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:52:46 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:52:46 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:52:46 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:52:46 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:52:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:52:46 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:52:46 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:52:46 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:52:46 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:52:46 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:52:46 --> Model Class Initialized
+DEBUG - 2020-11-23 16:52:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:52:46 --> Model Class Initialized
+DEBUG - 2020-11-23 16:52:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:52:46 --> Model Class Initialized
+DEBUG - 2020-11-23 16:52:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:52:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:52:46 --> Final output sent to browser
+DEBUG - 2020-11-23 16:52:46 --> Total execution time: 0.6940
+INFO - 2020-11-23 16:54:20 --> Config Class Initialized
+INFO - 2020-11-23 16:54:20 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:54:21 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:54:21 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:54:21 --> URI Class Initialized
+INFO - 2020-11-23 16:54:21 --> Router Class Initialized
+INFO - 2020-11-23 16:54:21 --> Output Class Initialized
+INFO - 2020-11-23 16:54:21 --> Security Class Initialized
+DEBUG - 2020-11-23 16:54:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:54:21 --> Input Class Initialized
+INFO - 2020-11-23 16:54:21 --> Language Class Initialized
+INFO - 2020-11-23 16:54:21 --> Language Class Initialized
+INFO - 2020-11-23 16:54:21 --> Config Class Initialized
+INFO - 2020-11-23 16:54:21 --> Loader Class Initialized
+INFO - 2020-11-23 16:54:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:54:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:54:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:54:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:54:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:54:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:54:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:54:21 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:54:21 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:54:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:54:21 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:54:21 --> Model Class Initialized
+DEBUG - 2020-11-23 16:54:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:54:21 --> Model Class Initialized
+DEBUG - 2020-11-23 16:54:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:54:21 --> Model Class Initialized
+DEBUG - 2020-11-23 16:54:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:54:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:54:21 --> Final output sent to browser
+DEBUG - 2020-11-23 16:54:21 --> Total execution time: 0.7345
+INFO - 2020-11-23 16:57:33 --> Config Class Initialized
+INFO - 2020-11-23 16:57:33 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:57:33 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:57:33 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:57:33 --> URI Class Initialized
+INFO - 2020-11-23 16:57:33 --> Router Class Initialized
+INFO - 2020-11-23 16:57:33 --> Output Class Initialized
+INFO - 2020-11-23 16:57:33 --> Security Class Initialized
+DEBUG - 2020-11-23 16:57:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:57:33 --> Input Class Initialized
+INFO - 2020-11-23 16:57:33 --> Language Class Initialized
+INFO - 2020-11-23 16:57:33 --> Language Class Initialized
+INFO - 2020-11-23 16:57:33 --> Config Class Initialized
+INFO - 2020-11-23 16:57:33 --> Loader Class Initialized
+INFO - 2020-11-23 16:57:33 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:57:33 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:57:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:57:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:57:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:57:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:57:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:57:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:57:34 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:57:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:57:34 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:57:34 --> Model Class Initialized
+DEBUG - 2020-11-23 16:57:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:57:34 --> Model Class Initialized
+DEBUG - 2020-11-23 16:57:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 16:57:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:57:34 --> Final output sent to browser
+DEBUG - 2020-11-23 16:57:34 --> Total execution time: 0.6551
+INFO - 2020-11-23 16:57:34 --> Config Class Initialized
+INFO - 2020-11-23 16:57:34 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:57:34 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:57:34 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:57:34 --> URI Class Initialized
+INFO - 2020-11-23 16:57:34 --> Router Class Initialized
+INFO - 2020-11-23 16:57:34 --> Output Class Initialized
+INFO - 2020-11-23 16:57:34 --> Security Class Initialized
+DEBUG - 2020-11-23 16:57:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:57:35 --> Input Class Initialized
+INFO - 2020-11-23 16:57:35 --> Language Class Initialized
+INFO - 2020-11-23 16:57:35 --> Language Class Initialized
+INFO - 2020-11-23 16:57:35 --> Config Class Initialized
+INFO - 2020-11-23 16:57:35 --> Loader Class Initialized
+INFO - 2020-11-23 16:57:35 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:57:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:57:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:57:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:57:35 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:57:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:57:35 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:57:35 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:57:35 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 16:57:35 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:57:35 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 16:57:35 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 16:57:35 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 16:57:35 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 16:57:35 --> Model Class Initialized
+INFO - 2020-11-23 16:57:35 --> Model Class Initialized
+DEBUG - 2020-11-23 16:57:35 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 16:57:35 --> Final output sent to browser
+DEBUG - 2020-11-23 16:57:35 --> Total execution time: 0.6991
+INFO - 2020-11-23 16:57:37 --> Config Class Initialized
+INFO - 2020-11-23 16:57:37 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:57:37 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:57:37 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:57:37 --> URI Class Initialized
+INFO - 2020-11-23 16:57:37 --> Router Class Initialized
+INFO - 2020-11-23 16:57:37 --> Output Class Initialized
+INFO - 2020-11-23 16:57:37 --> Security Class Initialized
+DEBUG - 2020-11-23 16:57:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:57:37 --> Input Class Initialized
+INFO - 2020-11-23 16:57:37 --> Language Class Initialized
+INFO - 2020-11-23 16:57:37 --> Language Class Initialized
+INFO - 2020-11-23 16:57:37 --> Config Class Initialized
+INFO - 2020-11-23 16:57:37 --> Loader Class Initialized
+INFO - 2020-11-23 16:57:37 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:57:37 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:57:37 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:57:37 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:57:37 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:57:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:57:37 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:57:37 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:57:37 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:57:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:57:37 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:57:37 --> Model Class Initialized
+DEBUG - 2020-11-23 16:57:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:57:37 --> Model Class Initialized
+DEBUG - 2020-11-23 16:57:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 16:57:37 --> Model Class Initialized
+DEBUG - 2020-11-23 16:57:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 16:57:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:57:37 --> Final output sent to browser
+DEBUG - 2020-11-23 16:57:37 --> Total execution time: 0.7238
+INFO - 2020-11-23 16:58:11 --> Config Class Initialized
+INFO - 2020-11-23 16:58:11 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:58:11 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:58:11 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:58:12 --> URI Class Initialized
+INFO - 2020-11-23 16:58:12 --> Router Class Initialized
+INFO - 2020-11-23 16:58:12 --> Output Class Initialized
+INFO - 2020-11-23 16:58:12 --> Security Class Initialized
+DEBUG - 2020-11-23 16:58:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:58:12 --> Input Class Initialized
+INFO - 2020-11-23 16:58:12 --> Language Class Initialized
+INFO - 2020-11-23 16:58:12 --> Language Class Initialized
+INFO - 2020-11-23 16:58:12 --> Config Class Initialized
+INFO - 2020-11-23 16:58:12 --> Loader Class Initialized
+INFO - 2020-11-23 16:58:12 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:58:12 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:58:12 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:58:12 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:58:12 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:58:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:58:12 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:58:12 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:58:12 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:58:12 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:58:12 --> Model Class Initialized
+DEBUG - 2020-11-23 16:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:58:12 --> Model Class Initialized
+DEBUG - 2020-11-23 16:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 16:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 16:58:12 --> Final output sent to browser
+DEBUG - 2020-11-23 16:58:12 --> Total execution time: 0.6989
+INFO - 2020-11-23 16:58:12 --> Config Class Initialized
+INFO - 2020-11-23 16:58:12 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:58:12 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:58:12 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:58:13 --> URI Class Initialized
+INFO - 2020-11-23 16:58:13 --> Router Class Initialized
+INFO - 2020-11-23 16:58:13 --> Output Class Initialized
+INFO - 2020-11-23 16:58:13 --> Security Class Initialized
+DEBUG - 2020-11-23 16:58:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:58:13 --> Input Class Initialized
+INFO - 2020-11-23 16:58:13 --> Language Class Initialized
+INFO - 2020-11-23 16:58:13 --> Language Class Initialized
+INFO - 2020-11-23 16:58:13 --> Config Class Initialized
+INFO - 2020-11-23 16:58:13 --> Loader Class Initialized
+INFO - 2020-11-23 16:58:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:58:13 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:58:13 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:58:13 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:58:13 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:58:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:58:13 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:58:13 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:58:13 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 16:58:13 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:58:13 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 16:58:13 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 16:58:13 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 16:58:13 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 16:58:13 --> Model Class Initialized
+INFO - 2020-11-23 16:58:13 --> Model Class Initialized
+DEBUG - 2020-11-23 16:58:13 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 16:58:13 --> Final output sent to browser
+DEBUG - 2020-11-23 16:58:13 --> Total execution time: 0.7269
+INFO - 2020-11-23 16:58:14 --> Config Class Initialized
+INFO - 2020-11-23 16:58:14 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:58:14 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:58:14 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:58:14 --> URI Class Initialized
+INFO - 2020-11-23 16:58:14 --> Router Class Initialized
+INFO - 2020-11-23 16:58:14 --> Output Class Initialized
+INFO - 2020-11-23 16:58:14 --> Security Class Initialized
+DEBUG - 2020-11-23 16:58:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:58:15 --> Input Class Initialized
+INFO - 2020-11-23 16:58:15 --> Language Class Initialized
+INFO - 2020-11-23 16:58:15 --> Language Class Initialized
+INFO - 2020-11-23 16:58:15 --> Config Class Initialized
+INFO - 2020-11-23 16:58:15 --> Loader Class Initialized
+INFO - 2020-11-23 16:58:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:58:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:58:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:58:15 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:58:15 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:58:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:58:15 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:58:15 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:58:15 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:58:15 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:58:15 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:58:15 --> Model Class Initialized
+DEBUG - 2020-11-23 16:58:15 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:58:15 --> Model Class Initialized
+INFO - 2020-11-23 16:59:34 --> Config Class Initialized
+INFO - 2020-11-23 16:59:34 --> Hooks Class Initialized
+DEBUG - 2020-11-23 16:59:34 --> UTF-8 Support Enabled
+INFO - 2020-11-23 16:59:34 --> Utf8 Class Initialized
+INFO - 2020-11-23 16:59:34 --> URI Class Initialized
+INFO - 2020-11-23 16:59:34 --> Router Class Initialized
+INFO - 2020-11-23 16:59:34 --> Output Class Initialized
+INFO - 2020-11-23 16:59:34 --> Security Class Initialized
+DEBUG - 2020-11-23 16:59:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 16:59:34 --> Input Class Initialized
+INFO - 2020-11-23 16:59:34 --> Language Class Initialized
+INFO - 2020-11-23 16:59:34 --> Language Class Initialized
+INFO - 2020-11-23 16:59:34 --> Config Class Initialized
+INFO - 2020-11-23 16:59:34 --> Loader Class Initialized
+INFO - 2020-11-23 16:59:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 16:59:34 --> Helper loaded: url_helper
+INFO - 2020-11-23 16:59:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 16:59:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 16:59:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 16:59:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 16:59:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 16:59:35 --> Controller Class Initialized
+DEBUG - 2020-11-23 16:59:35 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 16:59:35 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 16:59:35 --> Template MX_Controller Initialized
+INFO - 2020-11-23 16:59:35 --> Model Class Initialized
+DEBUG - 2020-11-23 16:59:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 16:59:35 --> Model Class Initialized
+INFO - 2020-11-23 17:00:03 --> Config Class Initialized
+INFO - 2020-11-23 17:00:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:03 --> URI Class Initialized
+INFO - 2020-11-23 17:00:03 --> Router Class Initialized
+INFO - 2020-11-23 17:00:03 --> Output Class Initialized
+INFO - 2020-11-23 17:00:03 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:03 --> Input Class Initialized
+INFO - 2020-11-23 17:00:03 --> Language Class Initialized
+INFO - 2020-11-23 17:00:03 --> Language Class Initialized
+INFO - 2020-11-23 17:00:03 --> Config Class Initialized
+INFO - 2020-11-23 17:00:03 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:03 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:03 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:00:03 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:00:03 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 17:00:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:00:04 --> Final output sent to browser
+DEBUG - 2020-11-23 17:00:04 --> Total execution time: 0.7070
+INFO - 2020-11-23 17:00:04 --> Config Class Initialized
+INFO - 2020-11-23 17:00:04 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:04 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:04 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:04 --> URI Class Initialized
+INFO - 2020-11-23 17:00:04 --> Router Class Initialized
+INFO - 2020-11-23 17:00:04 --> Output Class Initialized
+INFO - 2020-11-23 17:00:04 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:04 --> Input Class Initialized
+INFO - 2020-11-23 17:00:04 --> Language Class Initialized
+INFO - 2020-11-23 17:00:04 --> Language Class Initialized
+INFO - 2020-11-23 17:00:04 --> Config Class Initialized
+INFO - 2020-11-23 17:00:04 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:04 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:04 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:04 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:04 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:04 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:04 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:04 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:04 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:00:04 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:00:05 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:00:05 --> Model Class Initialized
+INFO - 2020-11-23 17:00:05 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:05 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:00:05 --> Final output sent to browser
+DEBUG - 2020-11-23 17:00:05 --> Total execution time: 0.7316
+INFO - 2020-11-23 17:00:08 --> Config Class Initialized
+INFO - 2020-11-23 17:00:08 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:08 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:08 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:08 --> URI Class Initialized
+INFO - 2020-11-23 17:00:08 --> Router Class Initialized
+INFO - 2020-11-23 17:00:08 --> Output Class Initialized
+INFO - 2020-11-23 17:00:08 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:08 --> Input Class Initialized
+INFO - 2020-11-23 17:00:08 --> Language Class Initialized
+INFO - 2020-11-23 17:00:08 --> Language Class Initialized
+INFO - 2020-11-23 17:00:08 --> Config Class Initialized
+INFO - 2020-11-23 17:00:08 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:08 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:08 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:08 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:08 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:08 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:08 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:08 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:08 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:08 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:00:08 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:00:08 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 17:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:00:08 --> Final output sent to browser
+DEBUG - 2020-11-23 17:00:08 --> Total execution time: 0.6620
+INFO - 2020-11-23 17:00:09 --> Config Class Initialized
+INFO - 2020-11-23 17:00:09 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:09 --> URI Class Initialized
+INFO - 2020-11-23 17:00:09 --> Router Class Initialized
+INFO - 2020-11-23 17:00:09 --> Output Class Initialized
+INFO - 2020-11-23 17:00:09 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:09 --> Input Class Initialized
+INFO - 2020-11-23 17:00:09 --> Language Class Initialized
+INFO - 2020-11-23 17:00:09 --> Language Class Initialized
+INFO - 2020-11-23 17:00:09 --> Config Class Initialized
+INFO - 2020-11-23 17:00:09 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:09 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:09 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:09 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:09 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:09 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:09 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:09 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:09 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:09 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:09 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:09 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:00:09 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:00:09 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:00:09 --> Model Class Initialized
+INFO - 2020-11-23 17:00:09 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:09 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:00:09 --> Final output sent to browser
+DEBUG - 2020-11-23 17:00:09 --> Total execution time: 0.7411
+INFO - 2020-11-23 17:00:09 --> Config Class Initialized
+INFO - 2020-11-23 17:00:09 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:09 --> URI Class Initialized
+INFO - 2020-11-23 17:00:09 --> Router Class Initialized
+INFO - 2020-11-23 17:00:10 --> Output Class Initialized
+INFO - 2020-11-23 17:00:10 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:10 --> Input Class Initialized
+INFO - 2020-11-23 17:00:10 --> Language Class Initialized
+INFO - 2020-11-23 17:00:10 --> Language Class Initialized
+INFO - 2020-11-23 17:00:10 --> Config Class Initialized
+INFO - 2020-11-23 17:00:10 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:10 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:10 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:10 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:10 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:10 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:10 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:10 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:10 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:10 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:10 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:00:10 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:00:10 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:00:10 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/create_category.php
+DEBUG - 2020-11-23 17:00:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:00:10 --> Final output sent to browser
+DEBUG - 2020-11-23 17:00:10 --> Total execution time: 0.7243
+INFO - 2020-11-23 17:00:16 --> Config Class Initialized
+INFO - 2020-11-23 17:00:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:16 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:16 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:16 --> URI Class Initialized
+INFO - 2020-11-23 17:00:16 --> Router Class Initialized
+INFO - 2020-11-23 17:00:16 --> Output Class Initialized
+INFO - 2020-11-23 17:00:16 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:17 --> Input Class Initialized
+INFO - 2020-11-23 17:00:17 --> Language Class Initialized
+INFO - 2020-11-23 17:00:17 --> Language Class Initialized
+INFO - 2020-11-23 17:00:17 --> Config Class Initialized
+INFO - 2020-11-23 17:00:17 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:17 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:17 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:17 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:17 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:17 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:17 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:00:17 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:00:17 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:00:17 --> Model Class Initialized
+INFO - 2020-11-23 17:00:17 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:00:17 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 17:00:17 --> Final output sent to browser
+DEBUG - 2020-11-23 17:00:17 --> Total execution time: 0.7515
+INFO - 2020-11-23 17:00:17 --> Config Class Initialized
+INFO - 2020-11-23 17:00:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:17 --> URI Class Initialized
+INFO - 2020-11-23 17:00:17 --> Router Class Initialized
+INFO - 2020-11-23 17:00:17 --> Output Class Initialized
+INFO - 2020-11-23 17:00:17 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:17 --> Input Class Initialized
+INFO - 2020-11-23 17:00:17 --> Language Class Initialized
+INFO - 2020-11-23 17:00:17 --> Language Class Initialized
+INFO - 2020-11-23 17:00:17 --> Config Class Initialized
+INFO - 2020-11-23 17:00:17 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:18 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:18 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:00:18 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:00:18 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 17:00:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:00:18 --> Final output sent to browser
+DEBUG - 2020-11-23 17:00:18 --> Total execution time: 0.6462
+INFO - 2020-11-23 17:00:18 --> Config Class Initialized
+INFO - 2020-11-23 17:00:18 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:18 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:18 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:18 --> URI Class Initialized
+INFO - 2020-11-23 17:00:18 --> Router Class Initialized
+INFO - 2020-11-23 17:00:18 --> Output Class Initialized
+INFO - 2020-11-23 17:00:18 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:18 --> Input Class Initialized
+INFO - 2020-11-23 17:00:18 --> Language Class Initialized
+INFO - 2020-11-23 17:00:18 --> Language Class Initialized
+INFO - 2020-11-23 17:00:18 --> Config Class Initialized
+INFO - 2020-11-23 17:00:18 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:18 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:18 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:19 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:19 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:19 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:19 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:19 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:00:19 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:00:19 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:00:19 --> Model Class Initialized
+INFO - 2020-11-23 17:00:19 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:19 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:00:19 --> Final output sent to browser
+DEBUG - 2020-11-23 17:00:19 --> Total execution time: 0.7039
+INFO - 2020-11-23 17:00:21 --> Config Class Initialized
+INFO - 2020-11-23 17:00:21 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:00:21 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:00:21 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:00:21 --> URI Class Initialized
+INFO - 2020-11-23 17:00:21 --> Router Class Initialized
+INFO - 2020-11-23 17:00:21 --> Output Class Initialized
+INFO - 2020-11-23 17:00:21 --> Security Class Initialized
+DEBUG - 2020-11-23 17:00:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:00:21 --> Input Class Initialized
+INFO - 2020-11-23 17:00:21 --> Language Class Initialized
+INFO - 2020-11-23 17:00:21 --> Language Class Initialized
+INFO - 2020-11-23 17:00:21 --> Config Class Initialized
+INFO - 2020-11-23 17:00:21 --> Loader Class Initialized
+INFO - 2020-11-23 17:00:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:00:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:00:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:00:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:00:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:00:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:00:22 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:00:22 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:00:22 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:00:22 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:00:22 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:00:22 --> Model Class Initialized
+DEBUG - 2020-11-23 17:00:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:00:22 --> Model Class Initialized
+INFO - 2020-11-23 17:01:37 --> Config Class Initialized
+INFO - 2020-11-23 17:01:37 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:01:37 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:01:37 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:01:37 --> URI Class Initialized
+INFO - 2020-11-23 17:01:37 --> Router Class Initialized
+INFO - 2020-11-23 17:01:37 --> Output Class Initialized
+INFO - 2020-11-23 17:01:37 --> Security Class Initialized
+DEBUG - 2020-11-23 17:01:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:01:37 --> Input Class Initialized
+INFO - 2020-11-23 17:01:37 --> Language Class Initialized
+INFO - 2020-11-23 17:01:37 --> Language Class Initialized
+INFO - 2020-11-23 17:01:37 --> Config Class Initialized
+INFO - 2020-11-23 17:01:37 --> Loader Class Initialized
+INFO - 2020-11-23 17:01:37 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:01:37 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:01:37 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:01:38 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:01:38 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:01:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:01:38 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:01:38 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:01:38 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:01:38 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:01:38 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:01:38 --> Model Class Initialized
+DEBUG - 2020-11-23 17:01:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:01:38 --> Model Class Initialized
+DEBUG - 2020-11-23 17:01:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:01:38 --> Model Class Initialized
+DEBUG - 2020-11-23 17:01:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:01:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:01:38 --> Final output sent to browser
+DEBUG - 2020-11-23 17:01:38 --> Total execution time: 0.7499
+INFO - 2020-11-23 17:05:47 --> Config Class Initialized
+INFO - 2020-11-23 17:05:47 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:05:47 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:05:47 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:05:47 --> URI Class Initialized
+INFO - 2020-11-23 17:05:47 --> Router Class Initialized
+INFO - 2020-11-23 17:05:47 --> Output Class Initialized
+INFO - 2020-11-23 17:05:47 --> Security Class Initialized
+DEBUG - 2020-11-23 17:05:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:05:48 --> Input Class Initialized
+INFO - 2020-11-23 17:05:48 --> Language Class Initialized
+INFO - 2020-11-23 17:05:48 --> Language Class Initialized
+INFO - 2020-11-23 17:05:48 --> Config Class Initialized
+INFO - 2020-11-23 17:05:48 --> Loader Class Initialized
+INFO - 2020-11-23 17:05:48 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:05:48 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:05:48 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:05:48 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:05:48 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:05:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:05:48 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:05:48 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:05:48 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:05:48 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:05:48 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:05:48 --> Model Class Initialized
+DEBUG - 2020-11-23 17:05:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:05:48 --> Model Class Initialized
+DEBUG - 2020-11-23 17:05:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:05:48 --> Model Class Initialized
+INFO - 2020-11-23 17:11:24 --> Config Class Initialized
+INFO - 2020-11-23 17:11:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:11:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:11:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:11:24 --> URI Class Initialized
+INFO - 2020-11-23 17:11:24 --> Router Class Initialized
+INFO - 2020-11-23 17:11:24 --> Output Class Initialized
+INFO - 2020-11-23 17:11:24 --> Security Class Initialized
+DEBUG - 2020-11-23 17:11:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:11:24 --> Input Class Initialized
+INFO - 2020-11-23 17:11:24 --> Language Class Initialized
+INFO - 2020-11-23 17:11:24 --> Language Class Initialized
+INFO - 2020-11-23 17:11:24 --> Config Class Initialized
+INFO - 2020-11-23 17:11:24 --> Loader Class Initialized
+INFO - 2020-11-23 17:11:25 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:11:25 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:11:25 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:11:25 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:11:25 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:11:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:11:25 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:11:25 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:11:25 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:11:25 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:11:25 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:11:25 --> Model Class Initialized
+DEBUG - 2020-11-23 17:11:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:11:25 --> Model Class Initialized
+DEBUG - 2020-11-23 17:11:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:11:25 --> Model Class Initialized
+ERROR - 2020-11-23 17:11:25 --> Severity: error --> Exception: syntax error, unexpected '"id"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 24
+ERROR - 2020-11-23 17:11:25 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 17:14:12 --> Config Class Initialized
+INFO - 2020-11-23 17:14:12 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:14:12 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:14:12 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:14:13 --> URI Class Initialized
+INFO - 2020-11-23 17:14:13 --> Router Class Initialized
+INFO - 2020-11-23 17:14:13 --> Output Class Initialized
+INFO - 2020-11-23 17:14:13 --> Security Class Initialized
+DEBUG - 2020-11-23 17:14:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:14:13 --> Input Class Initialized
+INFO - 2020-11-23 17:14:13 --> Language Class Initialized
+INFO - 2020-11-23 17:14:13 --> Language Class Initialized
+INFO - 2020-11-23 17:14:13 --> Config Class Initialized
+INFO - 2020-11-23 17:14:13 --> Loader Class Initialized
+INFO - 2020-11-23 17:14:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:14:13 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:14:13 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:14:13 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:14:13 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:14:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:14:13 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:14:13 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:14:13 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:14:13 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:14:13 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:14:13 --> Model Class Initialized
+DEBUG - 2020-11-23 17:14:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:14:13 --> Model Class Initialized
+DEBUG - 2020-11-23 17:14:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:14:13 --> Model Class Initialized
+ERROR - 2020-11-23 17:14:13 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 17:14:13 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 17:14:25 --> Config Class Initialized
+INFO - 2020-11-23 17:14:25 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:14:25 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:14:25 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:14:25 --> URI Class Initialized
+INFO - 2020-11-23 17:14:26 --> Router Class Initialized
+INFO - 2020-11-23 17:14:26 --> Output Class Initialized
+INFO - 2020-11-23 17:14:26 --> Security Class Initialized
+DEBUG - 2020-11-23 17:14:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:14:26 --> Input Class Initialized
+INFO - 2020-11-23 17:14:26 --> Language Class Initialized
+INFO - 2020-11-23 17:14:26 --> Language Class Initialized
+INFO - 2020-11-23 17:14:26 --> Config Class Initialized
+INFO - 2020-11-23 17:14:26 --> Loader Class Initialized
+INFO - 2020-11-23 17:14:26 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:14:26 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:14:26 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:14:26 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:14:26 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:14:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:14:26 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:14:26 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:14:26 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:14:26 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:14:26 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:14:26 --> Model Class Initialized
+DEBUG - 2020-11-23 17:14:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:14:26 --> Model Class Initialized
+DEBUG - 2020-11-23 17:14:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:14:26 --> Model Class Initialized
+ERROR - 2020-11-23 17:14:26 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 17:14:26 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 17:14:50 --> Config Class Initialized
+INFO - 2020-11-23 17:14:50 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:14:50 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:14:50 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:14:50 --> URI Class Initialized
+INFO - 2020-11-23 17:14:50 --> Router Class Initialized
+INFO - 2020-11-23 17:14:50 --> Output Class Initialized
+INFO - 2020-11-23 17:14:50 --> Security Class Initialized
+DEBUG - 2020-11-23 17:14:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:14:50 --> Input Class Initialized
+INFO - 2020-11-23 17:14:50 --> Language Class Initialized
+INFO - 2020-11-23 17:14:50 --> Language Class Initialized
+INFO - 2020-11-23 17:14:50 --> Config Class Initialized
+INFO - 2020-11-23 17:14:50 --> Loader Class Initialized
+INFO - 2020-11-23 17:14:50 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:14:50 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:14:50 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:14:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:14:50 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:14:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:14:50 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:14:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:14:50 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:14:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:14:50 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:14:50 --> Model Class Initialized
+DEBUG - 2020-11-23 17:14:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:14:50 --> Model Class Initialized
+DEBUG - 2020-11-23 17:14:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:14:50 --> Model Class Initialized
+ERROR - 2020-11-23 17:14:50 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 17:14:50 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 17:14:54 --> Config Class Initialized
+INFO - 2020-11-23 17:14:54 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:14:54 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:14:54 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:14:54 --> URI Class Initialized
+INFO - 2020-11-23 17:14:54 --> Router Class Initialized
+INFO - 2020-11-23 17:14:54 --> Output Class Initialized
+INFO - 2020-11-23 17:14:54 --> Security Class Initialized
+DEBUG - 2020-11-23 17:14:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:14:54 --> Input Class Initialized
+INFO - 2020-11-23 17:14:54 --> Language Class Initialized
+INFO - 2020-11-23 17:14:54 --> Language Class Initialized
+INFO - 2020-11-23 17:14:54 --> Config Class Initialized
+INFO - 2020-11-23 17:14:54 --> Loader Class Initialized
+INFO - 2020-11-23 17:14:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:14:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:14:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:14:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:14:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:14:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:14:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:14:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:14:54 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:14:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:14:54 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:14:55 --> Model Class Initialized
+DEBUG - 2020-11-23 17:14:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:14:55 --> Model Class Initialized
+DEBUG - 2020-11-23 17:14:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:14:55 --> Model Class Initialized
+ERROR - 2020-11-23 17:14:55 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 17:14:55 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 17:15:25 --> Config Class Initialized
+INFO - 2020-11-23 17:15:25 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:15:25 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:15:25 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:15:25 --> URI Class Initialized
+INFO - 2020-11-23 17:15:25 --> Router Class Initialized
+INFO - 2020-11-23 17:15:25 --> Output Class Initialized
+INFO - 2020-11-23 17:15:25 --> Security Class Initialized
+DEBUG - 2020-11-23 17:15:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:15:25 --> Input Class Initialized
+INFO - 2020-11-23 17:15:25 --> Language Class Initialized
+INFO - 2020-11-23 17:15:25 --> Language Class Initialized
+INFO - 2020-11-23 17:15:25 --> Config Class Initialized
+INFO - 2020-11-23 17:15:25 --> Loader Class Initialized
+INFO - 2020-11-23 17:15:25 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:15:25 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:15:26 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:15:26 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:15:26 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:15:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:15:26 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:15:26 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:15:26 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:15:26 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:15:26 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:15:26 --> Model Class Initialized
+DEBUG - 2020-11-23 17:15:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:15:26 --> Model Class Initialized
+DEBUG - 2020-11-23 17:15:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:15:26 --> Model Class Initialized
+ERROR - 2020-11-23 17:15:26 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 22
+ERROR - 2020-11-23 17:15:26 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 17:15:45 --> Config Class Initialized
+INFO - 2020-11-23 17:15:45 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:15:45 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:15:45 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:15:45 --> URI Class Initialized
+INFO - 2020-11-23 17:15:45 --> Router Class Initialized
+INFO - 2020-11-23 17:15:45 --> Output Class Initialized
+INFO - 2020-11-23 17:15:45 --> Security Class Initialized
+DEBUG - 2020-11-23 17:15:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:15:45 --> Input Class Initialized
+INFO - 2020-11-23 17:15:45 --> Language Class Initialized
+INFO - 2020-11-23 17:15:45 --> Language Class Initialized
+INFO - 2020-11-23 17:15:45 --> Config Class Initialized
+INFO - 2020-11-23 17:15:46 --> Loader Class Initialized
+INFO - 2020-11-23 17:15:46 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:15:46 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:15:46 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:15:46 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:15:46 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:15:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:15:46 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:15:46 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:15:46 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:15:46 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:15:46 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:15:46 --> Model Class Initialized
+DEBUG - 2020-11-23 17:15:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:15:46 --> Model Class Initialized
+DEBUG - 2020-11-23 17:15:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:15:46 --> Model Class Initialized
+DEBUG - 2020-11-23 17:15:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:15:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:15:46 --> Final output sent to browser
+DEBUG - 2020-11-23 17:15:46 --> Total execution time: 0.7393
+INFO - 2020-11-23 17:16:38 --> Config Class Initialized
+INFO - 2020-11-23 17:16:38 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:16:38 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:16:38 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:16:38 --> URI Class Initialized
+INFO - 2020-11-23 17:16:38 --> Router Class Initialized
+INFO - 2020-11-23 17:16:39 --> Output Class Initialized
+INFO - 2020-11-23 17:16:39 --> Security Class Initialized
+DEBUG - 2020-11-23 17:16:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:16:39 --> Input Class Initialized
+INFO - 2020-11-23 17:16:39 --> Language Class Initialized
+INFO - 2020-11-23 17:16:39 --> Language Class Initialized
+INFO - 2020-11-23 17:16:39 --> Config Class Initialized
+INFO - 2020-11-23 17:16:39 --> Loader Class Initialized
+INFO - 2020-11-23 17:16:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:16:39 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:16:39 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:16:39 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:16:39 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:16:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:16:39 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:16:39 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:16:39 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:16:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:16:39 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:16:39 --> Model Class Initialized
+DEBUG - 2020-11-23 17:16:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:16:39 --> Model Class Initialized
+DEBUG - 2020-11-23 17:16:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:16:39 --> Model Class Initialized
+INFO - 2020-11-23 17:16:54 --> Config Class Initialized
+INFO - 2020-11-23 17:16:54 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:16:54 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:16:54 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:16:54 --> URI Class Initialized
+INFO - 2020-11-23 17:16:54 --> Router Class Initialized
+INFO - 2020-11-23 17:16:54 --> Output Class Initialized
+INFO - 2020-11-23 17:16:54 --> Security Class Initialized
+DEBUG - 2020-11-23 17:16:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:16:54 --> Input Class Initialized
+INFO - 2020-11-23 17:16:54 --> Language Class Initialized
+INFO - 2020-11-23 17:16:54 --> Language Class Initialized
+INFO - 2020-11-23 17:16:55 --> Config Class Initialized
+INFO - 2020-11-23 17:16:55 --> Loader Class Initialized
+INFO - 2020-11-23 17:16:55 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:16:55 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:16:55 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:16:55 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:16:55 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:16:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:16:55 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:16:55 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:16:55 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:16:55 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:16:55 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:16:55 --> Model Class Initialized
+DEBUG - 2020-11-23 17:16:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:16:55 --> Model Class Initialized
+DEBUG - 2020-11-23 17:16:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:16:55 --> Model Class Initialized
+INFO - 2020-11-23 17:17:17 --> Config Class Initialized
+INFO - 2020-11-23 17:17:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:17:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:17:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:17:17 --> URI Class Initialized
+INFO - 2020-11-23 17:17:17 --> Router Class Initialized
+INFO - 2020-11-23 17:17:17 --> Output Class Initialized
+INFO - 2020-11-23 17:17:17 --> Security Class Initialized
+DEBUG - 2020-11-23 17:17:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:17:17 --> Input Class Initialized
+INFO - 2020-11-23 17:17:17 --> Language Class Initialized
+INFO - 2020-11-23 17:17:17 --> Language Class Initialized
+INFO - 2020-11-23 17:17:17 --> Config Class Initialized
+INFO - 2020-11-23 17:17:17 --> Loader Class Initialized
+INFO - 2020-11-23 17:17:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:17:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:17:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:17:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:17:17 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:17:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:17:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:17:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:17:18 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:17:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:17:18 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:17:18 --> Model Class Initialized
+DEBUG - 2020-11-23 17:17:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:17:18 --> Model Class Initialized
+DEBUG - 2020-11-23 17:17:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:17:18 --> Model Class Initialized
+DEBUG - 2020-11-23 17:17:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:17:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:17:18 --> Final output sent to browser
+DEBUG - 2020-11-23 17:17:18 --> Total execution time: 0.7048
+INFO - 2020-11-23 17:17:45 --> Config Class Initialized
+INFO - 2020-11-23 17:17:45 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:17:45 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:17:45 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:17:45 --> URI Class Initialized
+INFO - 2020-11-23 17:17:45 --> Router Class Initialized
+INFO - 2020-11-23 17:17:45 --> Output Class Initialized
+INFO - 2020-11-23 17:17:45 --> Security Class Initialized
+DEBUG - 2020-11-23 17:17:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:17:45 --> Input Class Initialized
+INFO - 2020-11-23 17:17:45 --> Language Class Initialized
+INFO - 2020-11-23 17:17:45 --> Language Class Initialized
+INFO - 2020-11-23 17:17:45 --> Config Class Initialized
+INFO - 2020-11-23 17:17:45 --> Loader Class Initialized
+INFO - 2020-11-23 17:17:45 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:17:45 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:17:45 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:17:45 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:17:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:17:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:17:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:17:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:17:45 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:17:46 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:17:46 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:17:46 --> Model Class Initialized
+DEBUG - 2020-11-23 17:17:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:17:46 --> Model Class Initialized
+DEBUG - 2020-11-23 17:17:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:17:46 --> Model Class Initialized
+INFO - 2020-11-23 17:19:03 --> Config Class Initialized
+INFO - 2020-11-23 17:19:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:19:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:19:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:19:03 --> URI Class Initialized
+INFO - 2020-11-23 17:19:03 --> Router Class Initialized
+INFO - 2020-11-23 17:19:03 --> Output Class Initialized
+INFO - 2020-11-23 17:19:03 --> Security Class Initialized
+DEBUG - 2020-11-23 17:19:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:19:03 --> Input Class Initialized
+INFO - 2020-11-23 17:19:03 --> Language Class Initialized
+INFO - 2020-11-23 17:19:03 --> Language Class Initialized
+INFO - 2020-11-23 17:19:03 --> Config Class Initialized
+INFO - 2020-11-23 17:19:03 --> Loader Class Initialized
+INFO - 2020-11-23 17:19:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:19:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:19:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:19:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:19:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:19:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:19:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:19:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:19:03 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:19:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:19:03 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:19:03 --> Model Class Initialized
+DEBUG - 2020-11-23 17:19:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:19:03 --> Model Class Initialized
+DEBUG - 2020-11-23 17:19:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:19:03 --> Model Class Initialized
+ERROR - 2020-11-23 17:19:03 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 14
+ERROR - 2020-11-23 17:19:03 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 17:25:49 --> Config Class Initialized
+INFO - 2020-11-23 17:25:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:25:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:25:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:25:49 --> URI Class Initialized
+INFO - 2020-11-23 17:25:49 --> Router Class Initialized
+INFO - 2020-11-23 17:25:49 --> Output Class Initialized
+INFO - 2020-11-23 17:25:49 --> Security Class Initialized
+DEBUG - 2020-11-23 17:25:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:25:49 --> Input Class Initialized
+INFO - 2020-11-23 17:25:49 --> Language Class Initialized
+INFO - 2020-11-23 17:25:49 --> Language Class Initialized
+INFO - 2020-11-23 17:25:49 --> Config Class Initialized
+INFO - 2020-11-23 17:25:49 --> Loader Class Initialized
+INFO - 2020-11-23 17:25:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:25:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:25:49 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:25:49 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:25:49 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:25:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:25:49 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:25:49 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:25:49 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:25:49 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:25:49 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:25:49 --> Model Class Initialized
+DEBUG - 2020-11-23 17:25:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:25:50 --> Model Class Initialized
+DEBUG - 2020-11-23 17:25:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:25:50 --> Model Class Initialized
+ERROR - 2020-11-23 17:25:50 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 14
+DEBUG - 2020-11-23 17:25:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:25:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:25:50 --> Final output sent to browser
+DEBUG - 2020-11-23 17:25:50 --> Total execution time: 0.7441
+INFO - 2020-11-23 17:26:30 --> Config Class Initialized
+INFO - 2020-11-23 17:26:30 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:26:30 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:26:30 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:26:30 --> URI Class Initialized
+INFO - 2020-11-23 17:26:30 --> Router Class Initialized
+INFO - 2020-11-23 17:26:30 --> Output Class Initialized
+INFO - 2020-11-23 17:26:30 --> Security Class Initialized
+DEBUG - 2020-11-23 17:26:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:26:30 --> Input Class Initialized
+INFO - 2020-11-23 17:26:30 --> Language Class Initialized
+INFO - 2020-11-23 17:26:30 --> Language Class Initialized
+INFO - 2020-11-23 17:26:30 --> Config Class Initialized
+INFO - 2020-11-23 17:26:30 --> Loader Class Initialized
+INFO - 2020-11-23 17:26:30 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:26:30 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:26:30 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:26:30 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:26:30 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:26:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:26:30 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:26:30 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:26:30 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:26:30 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:26:30 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:26:30 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:26:30 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:26:31 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:26:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:26:31 --> Final output sent to browser
+DEBUG - 2020-11-23 17:26:31 --> Total execution time: 0.7635
+INFO - 2020-11-23 17:26:38 --> Config Class Initialized
+INFO - 2020-11-23 17:26:38 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:26:38 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:26:38 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:26:38 --> URI Class Initialized
+INFO - 2020-11-23 17:26:38 --> Router Class Initialized
+INFO - 2020-11-23 17:26:38 --> Output Class Initialized
+INFO - 2020-11-23 17:26:38 --> Security Class Initialized
+DEBUG - 2020-11-23 17:26:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:26:38 --> Input Class Initialized
+INFO - 2020-11-23 17:26:38 --> Language Class Initialized
+INFO - 2020-11-23 17:26:38 --> Language Class Initialized
+INFO - 2020-11-23 17:26:38 --> Config Class Initialized
+INFO - 2020-11-23 17:26:38 --> Loader Class Initialized
+INFO - 2020-11-23 17:26:38 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:26:38 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:26:38 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:26:38 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:26:38 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:26:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:26:38 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:26:38 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:26:38 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:26:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:26:39 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:26:39 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:26:39 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:26:39 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:26:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:26:39 --> Final output sent to browser
+DEBUG - 2020-11-23 17:26:39 --> Total execution time: 0.7511
+INFO - 2020-11-23 17:26:49 --> Config Class Initialized
+INFO - 2020-11-23 17:26:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:26:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:26:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:26:49 --> URI Class Initialized
+INFO - 2020-11-23 17:26:49 --> Router Class Initialized
+INFO - 2020-11-23 17:26:49 --> Output Class Initialized
+INFO - 2020-11-23 17:26:49 --> Security Class Initialized
+DEBUG - 2020-11-23 17:26:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:26:49 --> Input Class Initialized
+INFO - 2020-11-23 17:26:49 --> Language Class Initialized
+INFO - 2020-11-23 17:26:49 --> Language Class Initialized
+INFO - 2020-11-23 17:26:49 --> Config Class Initialized
+INFO - 2020-11-23 17:26:49 --> Loader Class Initialized
+INFO - 2020-11-23 17:26:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:26:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:26:50 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:26:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:26:50 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:26:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:26:50 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:26:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:26:50 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:26:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:26:50 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:26:50 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:26:50 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:26:50 --> Model Class Initialized
+DEBUG - 2020-11-23 17:26:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:26:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:26:50 --> Final output sent to browser
+DEBUG - 2020-11-23 17:26:50 --> Total execution time: 0.7526
+INFO - 2020-11-23 17:28:21 --> Config Class Initialized
+INFO - 2020-11-23 17:28:21 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:28:21 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:28:21 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:28:21 --> URI Class Initialized
+INFO - 2020-11-23 17:28:21 --> Router Class Initialized
+INFO - 2020-11-23 17:28:21 --> Output Class Initialized
+INFO - 2020-11-23 17:28:21 --> Security Class Initialized
+DEBUG - 2020-11-23 17:28:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:28:21 --> Input Class Initialized
+INFO - 2020-11-23 17:28:21 --> Language Class Initialized
+INFO - 2020-11-23 17:28:21 --> Language Class Initialized
+INFO - 2020-11-23 17:28:21 --> Config Class Initialized
+INFO - 2020-11-23 17:28:21 --> Loader Class Initialized
+INFO - 2020-11-23 17:28:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:28:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:28:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:28:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:28:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:28:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:28:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:28:21 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:28:21 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:28:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:28:21 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:28:21 --> Model Class Initialized
+DEBUG - 2020-11-23 17:28:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:28:21 --> Model Class Initialized
+DEBUG - 2020-11-23 17:28:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:28:21 --> Model Class Initialized
+DEBUG - 2020-11-23 17:28:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:28:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:28:22 --> Final output sent to browser
+DEBUG - 2020-11-23 17:28:22 --> Total execution time: 0.7613
+INFO - 2020-11-23 17:28:44 --> Config Class Initialized
+INFO - 2020-11-23 17:28:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:28:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:28:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:28:44 --> URI Class Initialized
+INFO - 2020-11-23 17:28:44 --> Router Class Initialized
+INFO - 2020-11-23 17:28:44 --> Output Class Initialized
+INFO - 2020-11-23 17:28:45 --> Security Class Initialized
+DEBUG - 2020-11-23 17:28:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:28:45 --> Input Class Initialized
+INFO - 2020-11-23 17:28:45 --> Language Class Initialized
+INFO - 2020-11-23 17:28:45 --> Language Class Initialized
+INFO - 2020-11-23 17:28:45 --> Config Class Initialized
+INFO - 2020-11-23 17:28:45 --> Loader Class Initialized
+INFO - 2020-11-23 17:28:45 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:28:45 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:28:45 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:28:45 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:28:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:28:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:28:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:28:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:28:45 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:28:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:28:45 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:28:45 --> Model Class Initialized
+DEBUG - 2020-11-23 17:28:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:28:45 --> Model Class Initialized
+DEBUG - 2020-11-23 17:28:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:28:45 --> Model Class Initialized
+DEBUG - 2020-11-23 17:28:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:28:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:28:45 --> Final output sent to browser
+DEBUG - 2020-11-23 17:28:45 --> Total execution time: 0.7229
+INFO - 2020-11-23 17:29:19 --> Config Class Initialized
+INFO - 2020-11-23 17:29:19 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:29:19 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:29:19 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:29:19 --> URI Class Initialized
+INFO - 2020-11-23 17:29:19 --> Router Class Initialized
+INFO - 2020-11-23 17:29:19 --> Output Class Initialized
+INFO - 2020-11-23 17:29:19 --> Security Class Initialized
+DEBUG - 2020-11-23 17:29:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:29:19 --> Input Class Initialized
+INFO - 2020-11-23 17:29:19 --> Language Class Initialized
+INFO - 2020-11-23 17:29:19 --> Language Class Initialized
+INFO - 2020-11-23 17:29:19 --> Config Class Initialized
+INFO - 2020-11-23 17:29:19 --> Loader Class Initialized
+INFO - 2020-11-23 17:29:19 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:29:20 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:29:20 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:29:20 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:29:20 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:29:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:29:20 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:29:20 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:29:20 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:29:20 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:29:20 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:29:20 --> Model Class Initialized
+DEBUG - 2020-11-23 17:29:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:29:20 --> Model Class Initialized
+DEBUG - 2020-11-23 17:29:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:29:20 --> Model Class Initialized
+DEBUG - 2020-11-23 17:29:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:29:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:29:20 --> Final output sent to browser
+DEBUG - 2020-11-23 17:29:20 --> Total execution time: 0.7942
+INFO - 2020-11-23 17:30:01 --> Config Class Initialized
+INFO - 2020-11-23 17:30:01 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:30:01 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:30:01 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:30:01 --> URI Class Initialized
+INFO - 2020-11-23 17:30:01 --> Router Class Initialized
+INFO - 2020-11-23 17:30:01 --> Output Class Initialized
+INFO - 2020-11-23 17:30:01 --> Security Class Initialized
+DEBUG - 2020-11-23 17:30:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:30:02 --> Input Class Initialized
+INFO - 2020-11-23 17:30:02 --> Language Class Initialized
+INFO - 2020-11-23 17:30:02 --> Language Class Initialized
+INFO - 2020-11-23 17:30:02 --> Config Class Initialized
+INFO - 2020-11-23 17:30:02 --> Loader Class Initialized
+INFO - 2020-11-23 17:30:02 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:30:02 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:30:02 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:30:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:30:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:30:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:30:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:30:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:30:02 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:30:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:30:02 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:30:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:30:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:30:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:30:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:30:02 --> Final output sent to browser
+DEBUG - 2020-11-23 17:30:02 --> Total execution time: 0.7278
+INFO - 2020-11-23 17:30:12 --> Config Class Initialized
+INFO - 2020-11-23 17:30:12 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:30:12 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:30:12 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:30:12 --> URI Class Initialized
+INFO - 2020-11-23 17:30:12 --> Router Class Initialized
+INFO - 2020-11-23 17:30:12 --> Output Class Initialized
+INFO - 2020-11-23 17:30:12 --> Security Class Initialized
+DEBUG - 2020-11-23 17:30:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:30:12 --> Input Class Initialized
+INFO - 2020-11-23 17:30:12 --> Language Class Initialized
+INFO - 2020-11-23 17:30:12 --> Language Class Initialized
+INFO - 2020-11-23 17:30:12 --> Config Class Initialized
+INFO - 2020-11-23 17:30:12 --> Loader Class Initialized
+INFO - 2020-11-23 17:30:12 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:30:12 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:30:12 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:30:12 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:30:12 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:30:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:30:12 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:30:12 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:30:12 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:30:12 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:30:12 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:30:12 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:30:12 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:30:12 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:30:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:30:12 --> Final output sent to browser
+DEBUG - 2020-11-23 17:30:13 --> Total execution time: 0.7280
+INFO - 2020-11-23 17:30:42 --> Config Class Initialized
+INFO - 2020-11-23 17:30:42 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:30:42 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:30:42 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:30:42 --> URI Class Initialized
+INFO - 2020-11-23 17:30:42 --> Router Class Initialized
+INFO - 2020-11-23 17:30:42 --> Output Class Initialized
+INFO - 2020-11-23 17:30:42 --> Security Class Initialized
+DEBUG - 2020-11-23 17:30:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:30:42 --> Input Class Initialized
+INFO - 2020-11-23 17:30:42 --> Language Class Initialized
+INFO - 2020-11-23 17:30:42 --> Language Class Initialized
+INFO - 2020-11-23 17:30:42 --> Config Class Initialized
+INFO - 2020-11-23 17:30:42 --> Loader Class Initialized
+INFO - 2020-11-23 17:30:42 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:30:42 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:30:42 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:30:42 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:30:42 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:30:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:30:43 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:30:43 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:30:43 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:30:43 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:30:43 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:30:43 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:30:43 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:30:43 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:30:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:30:43 --> Final output sent to browser
+DEBUG - 2020-11-23 17:30:43 --> Total execution time: 0.7765
+INFO - 2020-11-23 17:30:53 --> Config Class Initialized
+INFO - 2020-11-23 17:30:53 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:30:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:30:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:30:53 --> URI Class Initialized
+INFO - 2020-11-23 17:30:53 --> Router Class Initialized
+INFO - 2020-11-23 17:30:53 --> Output Class Initialized
+INFO - 2020-11-23 17:30:53 --> Security Class Initialized
+DEBUG - 2020-11-23 17:30:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:30:53 --> Input Class Initialized
+INFO - 2020-11-23 17:30:53 --> Language Class Initialized
+INFO - 2020-11-23 17:30:53 --> Language Class Initialized
+INFO - 2020-11-23 17:30:53 --> Config Class Initialized
+INFO - 2020-11-23 17:30:53 --> Loader Class Initialized
+INFO - 2020-11-23 17:30:53 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:30:53 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:30:53 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:30:53 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:30:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:30:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:30:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:30:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:30:54 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:30:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:30:54 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:30:54 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:30:54 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 17:30:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:30:54 --> Final output sent to browser
+DEBUG - 2020-11-23 17:30:54 --> Total execution time: 0.7263
+INFO - 2020-11-23 17:30:55 --> Config Class Initialized
+INFO - 2020-11-23 17:30:55 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:30:55 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:30:55 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:30:55 --> URI Class Initialized
+INFO - 2020-11-23 17:30:55 --> Router Class Initialized
+INFO - 2020-11-23 17:30:55 --> Output Class Initialized
+INFO - 2020-11-23 17:30:55 --> Security Class Initialized
+DEBUG - 2020-11-23 17:30:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:30:55 --> Input Class Initialized
+INFO - 2020-11-23 17:30:55 --> Language Class Initialized
+INFO - 2020-11-23 17:30:55 --> Language Class Initialized
+INFO - 2020-11-23 17:30:55 --> Config Class Initialized
+INFO - 2020-11-23 17:30:55 --> Loader Class Initialized
+INFO - 2020-11-23 17:30:55 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:30:55 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:30:55 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:30:55 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:30:55 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:30:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:30:55 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:30:55 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:30:55 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:30:56 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:30:56 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:30:56 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:30:56 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:30:56 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:30:56 --> Model Class Initialized
+INFO - 2020-11-23 17:30:56 --> Model Class Initialized
+DEBUG - 2020-11-23 17:30:56 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:30:56 --> Final output sent to browser
+DEBUG - 2020-11-23 17:30:56 --> Total execution time: 0.7770
+INFO - 2020-11-23 17:31:07 --> Config Class Initialized
+INFO - 2020-11-23 17:31:07 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:31:07 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:31:07 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:31:07 --> URI Class Initialized
+INFO - 2020-11-23 17:31:07 --> Router Class Initialized
+INFO - 2020-11-23 17:31:07 --> Output Class Initialized
+INFO - 2020-11-23 17:31:07 --> Security Class Initialized
+DEBUG - 2020-11-23 17:31:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:31:07 --> Input Class Initialized
+INFO - 2020-11-23 17:31:07 --> Language Class Initialized
+INFO - 2020-11-23 17:31:07 --> Language Class Initialized
+INFO - 2020-11-23 17:31:07 --> Config Class Initialized
+INFO - 2020-11-23 17:31:07 --> Loader Class Initialized
+INFO - 2020-11-23 17:31:07 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:31:07 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:31:07 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:31:07 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:31:07 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:31:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:31:08 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:31:08 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:31:08 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:31:08 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:31:08 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:31:08 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:31:08 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:31:08 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/create_category.php
+DEBUG - 2020-11-23 17:31:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:31:08 --> Final output sent to browser
+DEBUG - 2020-11-23 17:31:08 --> Total execution time: 0.7698
+INFO - 2020-11-23 17:31:14 --> Config Class Initialized
+INFO - 2020-11-23 17:31:14 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:31:14 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:31:14 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:31:14 --> URI Class Initialized
+INFO - 2020-11-23 17:31:14 --> Router Class Initialized
+INFO - 2020-11-23 17:31:14 --> Output Class Initialized
+INFO - 2020-11-23 17:31:14 --> Security Class Initialized
+DEBUG - 2020-11-23 17:31:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:31:14 --> Input Class Initialized
+INFO - 2020-11-23 17:31:14 --> Language Class Initialized
+INFO - 2020-11-23 17:31:14 --> Language Class Initialized
+INFO - 2020-11-23 17:31:14 --> Config Class Initialized
+INFO - 2020-11-23 17:31:15 --> Loader Class Initialized
+INFO - 2020-11-23 17:31:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:31:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:31:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:31:15 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:31:15 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:31:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:31:15 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:31:15 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:31:15 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:31:15 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:31:15 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:31:15 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:31:15 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:31:15 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:31:15 --> Model Class Initialized
+INFO - 2020-11-23 17:31:15 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:15 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:31:15 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 17:31:15 --> Final output sent to browser
+DEBUG - 2020-11-23 17:31:15 --> Total execution time: 0.7541
+INFO - 2020-11-23 17:31:15 --> Config Class Initialized
+INFO - 2020-11-23 17:31:15 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:31:15 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:31:15 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:31:15 --> URI Class Initialized
+INFO - 2020-11-23 17:31:15 --> Router Class Initialized
+INFO - 2020-11-23 17:31:15 --> Output Class Initialized
+INFO - 2020-11-23 17:31:15 --> Security Class Initialized
+DEBUG - 2020-11-23 17:31:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:31:15 --> Input Class Initialized
+INFO - 2020-11-23 17:31:15 --> Language Class Initialized
+INFO - 2020-11-23 17:31:15 --> Language Class Initialized
+INFO - 2020-11-23 17:31:15 --> Config Class Initialized
+INFO - 2020-11-23 17:31:15 --> Loader Class Initialized
+INFO - 2020-11-23 17:31:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:31:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:31:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:31:15 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:31:15 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:31:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:31:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:31:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:31:16 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:31:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:31:16 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:31:16 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:31:16 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 17:31:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:31:16 --> Final output sent to browser
+DEBUG - 2020-11-23 17:31:16 --> Total execution time: 0.7286
+INFO - 2020-11-23 17:31:16 --> Config Class Initialized
+INFO - 2020-11-23 17:31:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:31:16 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:31:16 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:31:16 --> URI Class Initialized
+INFO - 2020-11-23 17:31:16 --> Router Class Initialized
+INFO - 2020-11-23 17:31:16 --> Output Class Initialized
+INFO - 2020-11-23 17:31:16 --> Security Class Initialized
+DEBUG - 2020-11-23 17:31:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:31:16 --> Input Class Initialized
+INFO - 2020-11-23 17:31:16 --> Language Class Initialized
+INFO - 2020-11-23 17:31:16 --> Language Class Initialized
+INFO - 2020-11-23 17:31:16 --> Config Class Initialized
+INFO - 2020-11-23 17:31:16 --> Loader Class Initialized
+INFO - 2020-11-23 17:31:16 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:31:16 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:31:16 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:31:16 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:31:16 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:31:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:31:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:31:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:31:16 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:31:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:31:16 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:31:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:31:17 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:31:17 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:31:17 --> Model Class Initialized
+INFO - 2020-11-23 17:31:17 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:31:17 --> Final output sent to browser
+DEBUG - 2020-11-23 17:31:17 --> Total execution time: 0.7201
+INFO - 2020-11-23 17:31:21 --> Config Class Initialized
+INFO - 2020-11-23 17:31:21 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:31:21 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:31:21 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:31:21 --> URI Class Initialized
+INFO - 2020-11-23 17:31:21 --> Router Class Initialized
+INFO - 2020-11-23 17:31:21 --> Output Class Initialized
+INFO - 2020-11-23 17:31:21 --> Security Class Initialized
+DEBUG - 2020-11-23 17:31:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:31:21 --> Input Class Initialized
+INFO - 2020-11-23 17:31:21 --> Language Class Initialized
+INFO - 2020-11-23 17:31:21 --> Language Class Initialized
+INFO - 2020-11-23 17:31:21 --> Config Class Initialized
+INFO - 2020-11-23 17:31:21 --> Loader Class Initialized
+INFO - 2020-11-23 17:31:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:31:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:31:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:31:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:31:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:31:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:31:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:31:21 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:31:21 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:31:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:31:22 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:31:22 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:31:22 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:31:22 --> Model Class Initialized
+DEBUG - 2020-11-23 17:31:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:31:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:31:22 --> Final output sent to browser
+DEBUG - 2020-11-23 17:31:22 --> Total execution time: 0.7674
+INFO - 2020-11-23 17:33:17 --> Config Class Initialized
+INFO - 2020-11-23 17:33:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:33:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:33:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:33:17 --> URI Class Initialized
+INFO - 2020-11-23 17:33:17 --> Router Class Initialized
+INFO - 2020-11-23 17:33:17 --> Output Class Initialized
+INFO - 2020-11-23 17:33:17 --> Security Class Initialized
+DEBUG - 2020-11-23 17:33:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:33:17 --> Input Class Initialized
+INFO - 2020-11-23 17:33:17 --> Language Class Initialized
+INFO - 2020-11-23 17:33:17 --> Language Class Initialized
+INFO - 2020-11-23 17:33:17 --> Config Class Initialized
+INFO - 2020-11-23 17:33:17 --> Loader Class Initialized
+INFO - 2020-11-23 17:33:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:33:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:33:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:33:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:33:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:33:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:33:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:33:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:33:18 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:33:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:33:18 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:33:18 --> Model Class Initialized
+DEBUG - 2020-11-23 17:33:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:33:18 --> Model Class Initialized
+DEBUG - 2020-11-23 17:33:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:33:18 --> Model Class Initialized
+DEBUG - 2020-11-23 17:33:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:33:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:33:18 --> Final output sent to browser
+DEBUG - 2020-11-23 17:33:18 --> Total execution time: 0.7338
+INFO - 2020-11-23 17:41:18 --> Config Class Initialized
+INFO - 2020-11-23 17:41:18 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:41:18 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:41:18 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:41:18 --> URI Class Initialized
+INFO - 2020-11-23 17:41:18 --> Router Class Initialized
+INFO - 2020-11-23 17:41:18 --> Output Class Initialized
+INFO - 2020-11-23 17:41:18 --> Security Class Initialized
+DEBUG - 2020-11-23 17:41:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:41:18 --> Input Class Initialized
+INFO - 2020-11-23 17:41:18 --> Language Class Initialized
+INFO - 2020-11-23 17:41:18 --> Language Class Initialized
+INFO - 2020-11-23 17:41:18 --> Config Class Initialized
+INFO - 2020-11-23 17:41:18 --> Loader Class Initialized
+INFO - 2020-11-23 17:41:18 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:41:18 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:41:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:41:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:41:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:41:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:41:19 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:41:19 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:41:19 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:41:19 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:41:19 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:41:19 --> Model Class Initialized
+DEBUG - 2020-11-23 17:41:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:41:19 --> Model Class Initialized
+DEBUG - 2020-11-23 17:41:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:41:19 --> Model Class Initialized
+DEBUG - 2020-11-23 17:41:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:41:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:41:19 --> Final output sent to browser
+DEBUG - 2020-11-23 17:41:19 --> Total execution time: 0.7614
+INFO - 2020-11-23 17:43:01 --> Config Class Initialized
+INFO - 2020-11-23 17:43:01 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:43:01 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:43:01 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:43:01 --> URI Class Initialized
+INFO - 2020-11-23 17:43:01 --> Router Class Initialized
+INFO - 2020-11-23 17:43:01 --> Output Class Initialized
+INFO - 2020-11-23 17:43:01 --> Security Class Initialized
+DEBUG - 2020-11-23 17:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:43:01 --> Input Class Initialized
+INFO - 2020-11-23 17:43:01 --> Language Class Initialized
+INFO - 2020-11-23 17:43:01 --> Language Class Initialized
+INFO - 2020-11-23 17:43:01 --> Config Class Initialized
+INFO - 2020-11-23 17:43:01 --> Loader Class Initialized
+INFO - 2020-11-23 17:43:01 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:43:01 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:43:01 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:43:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:43:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:43:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:43:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:43:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:43:02 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:43:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:43:02 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:43:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:43:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:43:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:43:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:43:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:43:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:43:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:43:02 --> Final output sent to browser
+DEBUG - 2020-11-23 17:43:02 --> Total execution time: 0.7452
+INFO - 2020-11-23 17:44:01 --> Config Class Initialized
+INFO - 2020-11-23 17:44:01 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:44:01 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:44:01 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:44:01 --> URI Class Initialized
+INFO - 2020-11-23 17:44:01 --> Router Class Initialized
+INFO - 2020-11-23 17:44:01 --> Output Class Initialized
+INFO - 2020-11-23 17:44:01 --> Security Class Initialized
+DEBUG - 2020-11-23 17:44:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:44:01 --> Input Class Initialized
+INFO - 2020-11-23 17:44:01 --> Language Class Initialized
+INFO - 2020-11-23 17:44:01 --> Language Class Initialized
+INFO - 2020-11-23 17:44:01 --> Config Class Initialized
+INFO - 2020-11-23 17:44:01 --> Loader Class Initialized
+INFO - 2020-11-23 17:44:01 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:44:01 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:44:01 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:44:01 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:44:01 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:44:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:44:01 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:44:01 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:44:01 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:44:01 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:44:01 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:44:01 --> Model Class Initialized
+DEBUG - 2020-11-23 17:44:01 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:44:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:44:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:44:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:44:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:44:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:44:02 --> Final output sent to browser
+DEBUG - 2020-11-23 17:44:02 --> Total execution time: 0.7750
+INFO - 2020-11-23 17:44:32 --> Config Class Initialized
+INFO - 2020-11-23 17:44:32 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:44:32 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:44:32 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:44:32 --> URI Class Initialized
+INFO - 2020-11-23 17:44:32 --> Router Class Initialized
+INFO - 2020-11-23 17:44:32 --> Output Class Initialized
+INFO - 2020-11-23 17:44:32 --> Security Class Initialized
+DEBUG - 2020-11-23 17:44:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:44:32 --> Input Class Initialized
+INFO - 2020-11-23 17:44:32 --> Language Class Initialized
+INFO - 2020-11-23 17:44:32 --> Language Class Initialized
+INFO - 2020-11-23 17:44:32 --> Config Class Initialized
+INFO - 2020-11-23 17:44:32 --> Loader Class Initialized
+INFO - 2020-11-23 17:44:32 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:44:32 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:44:32 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:44:32 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:44:32 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:44:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:44:32 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:44:32 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:44:32 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:44:32 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:44:32 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:44:32 --> Model Class Initialized
+DEBUG - 2020-11-23 17:44:32 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:44:32 --> Model Class Initialized
+DEBUG - 2020-11-23 17:44:32 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:44:32 --> Model Class Initialized
+DEBUG - 2020-11-23 17:44:32 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:44:32 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:44:32 --> Final output sent to browser
+DEBUG - 2020-11-23 17:44:33 --> Total execution time: 0.7364
+INFO - 2020-11-23 17:46:04 --> Config Class Initialized
+INFO - 2020-11-23 17:46:04 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:46:04 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:46:04 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:46:04 --> URI Class Initialized
+INFO - 2020-11-23 17:46:04 --> Router Class Initialized
+INFO - 2020-11-23 17:46:04 --> Output Class Initialized
+INFO - 2020-11-23 17:46:04 --> Security Class Initialized
+DEBUG - 2020-11-23 17:46:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:46:04 --> Input Class Initialized
+INFO - 2020-11-23 17:46:04 --> Language Class Initialized
+INFO - 2020-11-23 17:46:04 --> Language Class Initialized
+INFO - 2020-11-23 17:46:04 --> Config Class Initialized
+INFO - 2020-11-23 17:46:04 --> Loader Class Initialized
+INFO - 2020-11-23 17:46:04 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:46:04 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:46:04 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:46:04 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:46:04 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:46:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:46:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:46:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:46:05 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:46:05 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:46:05 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:46:05 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:46:05 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:46:05 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:46:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:46:05 --> Final output sent to browser
+DEBUG - 2020-11-23 17:46:05 --> Total execution time: 0.7396
+INFO - 2020-11-23 17:46:09 --> Config Class Initialized
+INFO - 2020-11-23 17:46:09 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:46:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:46:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:46:09 --> URI Class Initialized
+INFO - 2020-11-23 17:46:09 --> Router Class Initialized
+INFO - 2020-11-23 17:46:09 --> Output Class Initialized
+INFO - 2020-11-23 17:46:09 --> Security Class Initialized
+DEBUG - 2020-11-23 17:46:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:46:09 --> Input Class Initialized
+INFO - 2020-11-23 17:46:09 --> Language Class Initialized
+INFO - 2020-11-23 17:46:09 --> Language Class Initialized
+INFO - 2020-11-23 17:46:09 --> Config Class Initialized
+INFO - 2020-11-23 17:46:09 --> Loader Class Initialized
+INFO - 2020-11-23 17:46:09 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:46:09 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:46:09 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:46:09 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:46:09 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:46:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:46:09 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:46:09 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:46:09 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:46:10 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:46:10 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:46:10 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:46:10 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:46:10 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:46:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:46:10 --> Final output sent to browser
+DEBUG - 2020-11-23 17:46:10 --> Total execution time: 0.7370
+INFO - 2020-11-23 17:46:51 --> Config Class Initialized
+INFO - 2020-11-23 17:46:51 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:46:51 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:46:51 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:46:51 --> URI Class Initialized
+INFO - 2020-11-23 17:46:51 --> Router Class Initialized
+INFO - 2020-11-23 17:46:51 --> Output Class Initialized
+INFO - 2020-11-23 17:46:51 --> Security Class Initialized
+DEBUG - 2020-11-23 17:46:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:46:51 --> Input Class Initialized
+INFO - 2020-11-23 17:46:51 --> Language Class Initialized
+INFO - 2020-11-23 17:46:51 --> Language Class Initialized
+INFO - 2020-11-23 17:46:51 --> Config Class Initialized
+INFO - 2020-11-23 17:46:51 --> Loader Class Initialized
+INFO - 2020-11-23 17:46:51 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:46:51 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:46:51 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:46:51 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:46:51 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:46:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:46:52 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:46:52 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:46:52 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:46:52 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:46:52 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:46:52 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:52 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:46:52 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:52 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:46:52 --> Model Class Initialized
+DEBUG - 2020-11-23 17:46:52 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:46:52 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:46:52 --> Final output sent to browser
+DEBUG - 2020-11-23 17:46:52 --> Total execution time: 0.7507
+INFO - 2020-11-23 17:47:01 --> Config Class Initialized
+INFO - 2020-11-23 17:47:01 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:47:01 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:47:01 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:47:01 --> URI Class Initialized
+INFO - 2020-11-23 17:47:01 --> Router Class Initialized
+INFO - 2020-11-23 17:47:02 --> Output Class Initialized
+INFO - 2020-11-23 17:47:02 --> Security Class Initialized
+DEBUG - 2020-11-23 17:47:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:47:02 --> Input Class Initialized
+INFO - 2020-11-23 17:47:02 --> Language Class Initialized
+INFO - 2020-11-23 17:47:02 --> Language Class Initialized
+INFO - 2020-11-23 17:47:02 --> Config Class Initialized
+INFO - 2020-11-23 17:47:02 --> Loader Class Initialized
+INFO - 2020-11-23 17:47:02 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:47:02 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:47:02 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:47:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:47:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:47:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:47:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:47:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:47:02 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:47:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:47:02 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:47:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:47:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:47:02 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:47:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:47:02 --> Final output sent to browser
+DEBUG - 2020-11-23 17:47:02 --> Total execution time: 0.7804
+INFO - 2020-11-23 17:47:19 --> Config Class Initialized
+INFO - 2020-11-23 17:47:19 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:47:19 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:47:19 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:47:19 --> URI Class Initialized
+INFO - 2020-11-23 17:47:19 --> Router Class Initialized
+INFO - 2020-11-23 17:47:19 --> Output Class Initialized
+INFO - 2020-11-23 17:47:19 --> Security Class Initialized
+DEBUG - 2020-11-23 17:47:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:47:19 --> Input Class Initialized
+INFO - 2020-11-23 17:47:19 --> Language Class Initialized
+INFO - 2020-11-23 17:47:19 --> Language Class Initialized
+INFO - 2020-11-23 17:47:19 --> Config Class Initialized
+INFO - 2020-11-23 17:47:19 --> Loader Class Initialized
+INFO - 2020-11-23 17:47:19 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:47:19 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:47:19 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:47:19 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:47:19 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:47:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:47:19 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:47:19 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:47:19 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:47:19 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:47:19 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:47:19 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:47:19 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:47:20 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:47:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:47:20 --> Final output sent to browser
+DEBUG - 2020-11-23 17:47:20 --> Total execution time: 0.7930
+INFO - 2020-11-23 17:47:32 --> Config Class Initialized
+INFO - 2020-11-23 17:47:32 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:47:32 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:47:32 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:47:33 --> URI Class Initialized
+INFO - 2020-11-23 17:47:33 --> Router Class Initialized
+INFO - 2020-11-23 17:47:33 --> Output Class Initialized
+INFO - 2020-11-23 17:47:33 --> Security Class Initialized
+DEBUG - 2020-11-23 17:47:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:47:33 --> Input Class Initialized
+INFO - 2020-11-23 17:47:33 --> Language Class Initialized
+INFO - 2020-11-23 17:47:33 --> Language Class Initialized
+INFO - 2020-11-23 17:47:33 --> Config Class Initialized
+INFO - 2020-11-23 17:47:33 --> Loader Class Initialized
+INFO - 2020-11-23 17:47:33 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:47:33 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:47:33 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:47:33 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:47:33 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:47:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:47:33 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:47:33 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:47:33 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:47:33 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:47:33 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:47:33 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:47:33 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:47:33 --> Model Class Initialized
+DEBUG - 2020-11-23 17:47:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:47:33 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:47:33 --> Final output sent to browser
+DEBUG - 2020-11-23 17:47:33 --> Total execution time: 0.7973
+INFO - 2020-11-23 17:49:08 --> Config Class Initialized
+INFO - 2020-11-23 17:49:08 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:49:08 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:49:08 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:49:08 --> URI Class Initialized
+INFO - 2020-11-23 17:49:08 --> Router Class Initialized
+INFO - 2020-11-23 17:49:08 --> Output Class Initialized
+INFO - 2020-11-23 17:49:08 --> Security Class Initialized
+DEBUG - 2020-11-23 17:49:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:49:08 --> Input Class Initialized
+INFO - 2020-11-23 17:49:08 --> Language Class Initialized
+INFO - 2020-11-23 17:49:08 --> Language Class Initialized
+INFO - 2020-11-23 17:49:08 --> Config Class Initialized
+INFO - 2020-11-23 17:49:08 --> Loader Class Initialized
+INFO - 2020-11-23 17:49:08 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:49:08 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:49:08 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:49:08 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:49:08 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:49:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:49:08 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:49:08 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:49:08 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:49:08 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:49:08 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:49:08 --> Model Class Initialized
+DEBUG - 2020-11-23 17:49:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:49:08 --> Model Class Initialized
+DEBUG - 2020-11-23 17:49:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:49:08 --> Model Class Initialized
+DEBUG - 2020-11-23 17:49:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:49:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:49:09 --> Final output sent to browser
+DEBUG - 2020-11-23 17:49:09 --> Total execution time: 0.7501
+INFO - 2020-11-23 17:50:39 --> Config Class Initialized
+INFO - 2020-11-23 17:50:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:50:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:50:39 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:50:39 --> URI Class Initialized
+INFO - 2020-11-23 17:50:39 --> Router Class Initialized
+INFO - 2020-11-23 17:50:39 --> Output Class Initialized
+INFO - 2020-11-23 17:50:39 --> Security Class Initialized
+DEBUG - 2020-11-23 17:50:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:50:39 --> Input Class Initialized
+INFO - 2020-11-23 17:50:39 --> Language Class Initialized
+INFO - 2020-11-23 17:50:39 --> Language Class Initialized
+INFO - 2020-11-23 17:50:39 --> Config Class Initialized
+INFO - 2020-11-23 17:50:39 --> Loader Class Initialized
+INFO - 2020-11-23 17:50:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:50:39 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:50:39 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:50:39 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:50:39 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:50:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:50:39 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:50:39 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:50:39 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:50:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:50:39 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:50:40 --> Model Class Initialized
+DEBUG - 2020-11-23 17:50:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:50:40 --> Model Class Initialized
+DEBUG - 2020-11-23 17:50:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:50:40 --> Model Class Initialized
+DEBUG - 2020-11-23 17:50:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:50:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:50:40 --> Final output sent to browser
+DEBUG - 2020-11-23 17:50:40 --> Total execution time: 0.7930
+INFO - 2020-11-23 17:50:42 --> Config Class Initialized
+INFO - 2020-11-23 17:50:42 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:50:42 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:50:42 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:50:42 --> URI Class Initialized
+INFO - 2020-11-23 17:50:42 --> Router Class Initialized
+INFO - 2020-11-23 17:50:42 --> Output Class Initialized
+INFO - 2020-11-23 17:50:42 --> Security Class Initialized
+DEBUG - 2020-11-23 17:50:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:50:42 --> Input Class Initialized
+INFO - 2020-11-23 17:50:42 --> Language Class Initialized
+INFO - 2020-11-23 17:50:42 --> Language Class Initialized
+INFO - 2020-11-23 17:50:42 --> Config Class Initialized
+INFO - 2020-11-23 17:50:42 --> Loader Class Initialized
+INFO - 2020-11-23 17:50:42 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:50:42 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:50:42 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:50:42 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:50:42 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:50:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:50:42 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:50:42 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:50:42 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:50:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:50:43 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:50:43 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:50:43 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:50:43 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:50:43 --> Model Class Initialized
+INFO - 2020-11-23 17:50:43 --> Model Class Initialized
+DEBUG - 2020-11-23 17:50:43 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:50:43 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 17:50:43 --> Final output sent to browser
+DEBUG - 2020-11-23 17:50:43 --> Total execution time: 0.7154
+INFO - 2020-11-23 17:51:57 --> Config Class Initialized
+INFO - 2020-11-23 17:51:57 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:51:57 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:51:57 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:51:57 --> URI Class Initialized
+INFO - 2020-11-23 17:51:57 --> Router Class Initialized
+INFO - 2020-11-23 17:51:57 --> Output Class Initialized
+INFO - 2020-11-23 17:51:57 --> Security Class Initialized
+DEBUG - 2020-11-23 17:51:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:51:57 --> Input Class Initialized
+INFO - 2020-11-23 17:51:57 --> Language Class Initialized
+INFO - 2020-11-23 17:51:57 --> Language Class Initialized
+INFO - 2020-11-23 17:51:57 --> Config Class Initialized
+INFO - 2020-11-23 17:51:57 --> Loader Class Initialized
+INFO - 2020-11-23 17:51:57 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:51:57 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:51:57 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:51:57 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:51:57 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:51:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:51:57 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:51:57 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:51:57 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 17:51:57 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:51:57 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 17:51:57 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 17:51:58 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 17:51:58 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 17:51:58 --> Model Class Initialized
+INFO - 2020-11-23 17:51:58 --> Model Class Initialized
+DEBUG - 2020-11-23 17:51:58 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 17:51:58 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 17:51:58 --> Final output sent to browser
+DEBUG - 2020-11-23 17:51:58 --> Total execution time: 0.7804
+INFO - 2020-11-23 17:52:12 --> Config Class Initialized
+INFO - 2020-11-23 17:52:12 --> Hooks Class Initialized
+DEBUG - 2020-11-23 17:52:13 --> UTF-8 Support Enabled
+INFO - 2020-11-23 17:52:13 --> Utf8 Class Initialized
+INFO - 2020-11-23 17:52:13 --> URI Class Initialized
+INFO - 2020-11-23 17:52:13 --> Router Class Initialized
+INFO - 2020-11-23 17:52:13 --> Output Class Initialized
+INFO - 2020-11-23 17:52:13 --> Security Class Initialized
+DEBUG - 2020-11-23 17:52:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 17:52:13 --> Input Class Initialized
+INFO - 2020-11-23 17:52:13 --> Language Class Initialized
+INFO - 2020-11-23 17:52:13 --> Language Class Initialized
+INFO - 2020-11-23 17:52:13 --> Config Class Initialized
+INFO - 2020-11-23 17:52:13 --> Loader Class Initialized
+INFO - 2020-11-23 17:52:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 17:52:13 --> Helper loaded: url_helper
+INFO - 2020-11-23 17:52:13 --> Helper loaded: file_helper
+INFO - 2020-11-23 17:52:13 --> Helper loaded: security_helper
+INFO - 2020-11-23 17:52:13 --> Database Driver Class Initialized
+INFO - 2020-11-23 17:52:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 17:52:13 --> Form Validation Class Initialized
+INFO - 2020-11-23 17:52:13 --> Controller Class Initialized
+DEBUG - 2020-11-23 17:52:13 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 17:52:13 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 17:52:13 --> Template MX_Controller Initialized
+INFO - 2020-11-23 17:52:13 --> Model Class Initialized
+DEBUG - 2020-11-23 17:52:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 17:52:13 --> Model Class Initialized
+DEBUG - 2020-11-23 17:52:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 17:52:13 --> Model Class Initialized
+DEBUG - 2020-11-23 17:52:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 17:52:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 17:52:13 --> Final output sent to browser
+DEBUG - 2020-11-23 17:52:13 --> Total execution time: 0.7601
+INFO - 2020-11-23 18:00:13 --> Config Class Initialized
+INFO - 2020-11-23 18:00:13 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:00:13 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:00:13 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:00:13 --> URI Class Initialized
+INFO - 2020-11-23 18:00:13 --> Router Class Initialized
+INFO - 2020-11-23 18:00:13 --> Output Class Initialized
+INFO - 2020-11-23 18:00:13 --> Security Class Initialized
+DEBUG - 2020-11-23 18:00:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:00:13 --> Input Class Initialized
+INFO - 2020-11-23 18:00:13 --> Language Class Initialized
+INFO - 2020-11-23 18:00:13 --> Language Class Initialized
+INFO - 2020-11-23 18:00:13 --> Config Class Initialized
+INFO - 2020-11-23 18:00:13 --> Loader Class Initialized
+INFO - 2020-11-23 18:00:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:00:13 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:00:13 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:00:13 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:00:13 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:00:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:00:13 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:00:13 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:00:13 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:00:13 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:00:13 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:00:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:00:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:00:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:00:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:00:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:00:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:00:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:00:13 --> Final output sent to browser
+DEBUG - 2020-11-23 18:00:13 --> Total execution time: 0.7716
+INFO - 2020-11-23 18:00:20 --> Config Class Initialized
+INFO - 2020-11-23 18:00:20 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:00:20 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:00:20 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:00:20 --> URI Class Initialized
+INFO - 2020-11-23 18:00:20 --> Router Class Initialized
+INFO - 2020-11-23 18:00:20 --> Output Class Initialized
+INFO - 2020-11-23 18:00:20 --> Security Class Initialized
+DEBUG - 2020-11-23 18:00:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:00:20 --> Input Class Initialized
+INFO - 2020-11-23 18:00:20 --> Language Class Initialized
+INFO - 2020-11-23 18:00:21 --> Language Class Initialized
+INFO - 2020-11-23 18:00:21 --> Config Class Initialized
+INFO - 2020-11-23 18:00:21 --> Loader Class Initialized
+INFO - 2020-11-23 18:00:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:00:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:00:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:00:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:00:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:00:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:00:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:00:21 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:00:21 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:00:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:00:21 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:00:21 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:00:21 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:00:21 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:00:21 --> Model Class Initialized
+INFO - 2020-11-23 18:00:21 --> Model Class Initialized
+DEBUG - 2020-11-23 18:00:21 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:00:21 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:00:21 --> Final output sent to browser
+DEBUG - 2020-11-23 18:00:21 --> Total execution time: 0.7655
+INFO - 2020-11-23 18:00:44 --> Config Class Initialized
+INFO - 2020-11-23 18:00:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:00:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:00:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:00:44 --> URI Class Initialized
+INFO - 2020-11-23 18:00:44 --> Router Class Initialized
+INFO - 2020-11-23 18:00:44 --> Output Class Initialized
+INFO - 2020-11-23 18:00:44 --> Security Class Initialized
+DEBUG - 2020-11-23 18:00:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:00:44 --> Input Class Initialized
+INFO - 2020-11-23 18:00:44 --> Language Class Initialized
+INFO - 2020-11-23 18:00:44 --> Language Class Initialized
+INFO - 2020-11-23 18:00:44 --> Config Class Initialized
+INFO - 2020-11-23 18:00:44 --> Loader Class Initialized
+INFO - 2020-11-23 18:00:44 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:00:44 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:00:44 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:00:44 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:00:44 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:00:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:00:44 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:00:44 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:00:44 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:00:44 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:00:44 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:00:44 --> Model Class Initialized
+DEBUG - 2020-11-23 18:00:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:00:44 --> Model Class Initialized
+DEBUG - 2020-11-23 18:00:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:00:44 --> Model Class Initialized
+DEBUG - 2020-11-23 18:00:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:00:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:00:45 --> Final output sent to browser
+DEBUG - 2020-11-23 18:00:45 --> Total execution time: 0.7711
+INFO - 2020-11-23 18:00:50 --> Config Class Initialized
+INFO - 2020-11-23 18:00:50 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:00:50 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:00:50 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:00:50 --> URI Class Initialized
+INFO - 2020-11-23 18:00:50 --> Router Class Initialized
+INFO - 2020-11-23 18:00:50 --> Output Class Initialized
+INFO - 2020-11-23 18:00:50 --> Security Class Initialized
+DEBUG - 2020-11-23 18:00:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:00:50 --> Input Class Initialized
+INFO - 2020-11-23 18:00:50 --> Language Class Initialized
+INFO - 2020-11-23 18:00:50 --> Language Class Initialized
+INFO - 2020-11-23 18:00:50 --> Config Class Initialized
+INFO - 2020-11-23 18:00:50 --> Loader Class Initialized
+INFO - 2020-11-23 18:00:50 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:00:50 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:00:50 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:00:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:00:50 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:00:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:00:50 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:00:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:00:50 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:00:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:00:50 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:00:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:00:50 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:00:50 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:00:50 --> Model Class Initialized
+INFO - 2020-11-23 18:00:51 --> Model Class Initialized
+DEBUG - 2020-11-23 18:00:51 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:00:51 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:00:51 --> Final output sent to browser
+DEBUG - 2020-11-23 18:00:51 --> Total execution time: 0.7670
+INFO - 2020-11-23 18:01:41 --> Config Class Initialized
+INFO - 2020-11-23 18:01:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:01:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:01:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:01:41 --> URI Class Initialized
+INFO - 2020-11-23 18:01:41 --> Router Class Initialized
+INFO - 2020-11-23 18:01:41 --> Output Class Initialized
+INFO - 2020-11-23 18:01:41 --> Security Class Initialized
+DEBUG - 2020-11-23 18:01:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:01:41 --> Input Class Initialized
+INFO - 2020-11-23 18:01:41 --> Language Class Initialized
+INFO - 2020-11-23 18:01:41 --> Language Class Initialized
+INFO - 2020-11-23 18:01:41 --> Config Class Initialized
+INFO - 2020-11-23 18:01:41 --> Loader Class Initialized
+INFO - 2020-11-23 18:01:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:01:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:01:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:01:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:01:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:01:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:01:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:01:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:01:41 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:01:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:01:41 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:01:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:01:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:01:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:01:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:01:42 --> Model Class Initialized
+DEBUG - 2020-11-23 18:01:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:01:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:01:42 --> Final output sent to browser
+DEBUG - 2020-11-23 18:01:42 --> Total execution time: 0.7428
+INFO - 2020-11-23 18:01:48 --> Config Class Initialized
+INFO - 2020-11-23 18:01:48 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:01:48 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:01:48 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:01:48 --> URI Class Initialized
+INFO - 2020-11-23 18:01:48 --> Router Class Initialized
+INFO - 2020-11-23 18:01:48 --> Output Class Initialized
+INFO - 2020-11-23 18:01:49 --> Security Class Initialized
+DEBUG - 2020-11-23 18:01:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:01:49 --> Input Class Initialized
+INFO - 2020-11-23 18:01:49 --> Language Class Initialized
+INFO - 2020-11-23 18:01:49 --> Language Class Initialized
+INFO - 2020-11-23 18:01:49 --> Config Class Initialized
+INFO - 2020-11-23 18:01:49 --> Loader Class Initialized
+INFO - 2020-11-23 18:01:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:01:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:01:49 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:01:49 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:01:49 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:01:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:01:49 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:01:49 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:01:49 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:01:49 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:01:49 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:01:49 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:01:49 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:01:49 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:01:49 --> Model Class Initialized
+INFO - 2020-11-23 18:01:49 --> Model Class Initialized
+DEBUG - 2020-11-23 18:01:49 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:01:49 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:01:49 --> Final output sent to browser
+DEBUG - 2020-11-23 18:01:49 --> Total execution time: 0.7578
+INFO - 2020-11-23 18:04:18 --> Config Class Initialized
+INFO - 2020-11-23 18:04:18 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:04:18 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:04:18 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:04:18 --> URI Class Initialized
+INFO - 2020-11-23 18:04:18 --> Router Class Initialized
+INFO - 2020-11-23 18:04:18 --> Output Class Initialized
+INFO - 2020-11-23 18:04:18 --> Security Class Initialized
+DEBUG - 2020-11-23 18:04:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:04:18 --> Input Class Initialized
+INFO - 2020-11-23 18:04:18 --> Language Class Initialized
+INFO - 2020-11-23 18:04:18 --> Language Class Initialized
+INFO - 2020-11-23 18:04:18 --> Config Class Initialized
+INFO - 2020-11-23 18:04:18 --> Loader Class Initialized
+INFO - 2020-11-23 18:04:18 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:04:18 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:04:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:04:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:04:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:04:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:04:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:04:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:04:18 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:04:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:04:18 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:04:18 --> Model Class Initialized
+DEBUG - 2020-11-23 18:04:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:04:18 --> Model Class Initialized
+DEBUG - 2020-11-23 18:04:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:04:18 --> Model Class Initialized
+DEBUG - 2020-11-23 18:04:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:04:18 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:04:18 --> Final output sent to browser
+DEBUG - 2020-11-23 18:04:19 --> Total execution time: 0.7554
+INFO - 2020-11-23 18:04:23 --> Config Class Initialized
+INFO - 2020-11-23 18:04:23 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:04:23 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:04:23 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:04:23 --> URI Class Initialized
+INFO - 2020-11-23 18:04:23 --> Router Class Initialized
+INFO - 2020-11-23 18:04:23 --> Output Class Initialized
+INFO - 2020-11-23 18:04:23 --> Security Class Initialized
+DEBUG - 2020-11-23 18:04:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:04:23 --> Input Class Initialized
+INFO - 2020-11-23 18:04:23 --> Language Class Initialized
+INFO - 2020-11-23 18:04:23 --> Language Class Initialized
+INFO - 2020-11-23 18:04:23 --> Config Class Initialized
+INFO - 2020-11-23 18:04:23 --> Loader Class Initialized
+INFO - 2020-11-23 18:04:23 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:04:23 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:04:23 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:04:23 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:04:23 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:04:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:04:23 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:04:23 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:04:23 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:04:23 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:04:24 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:04:24 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:04:24 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:04:24 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:04:24 --> Model Class Initialized
+INFO - 2020-11-23 18:04:24 --> Model Class Initialized
+DEBUG - 2020-11-23 18:04:24 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:04:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:04:24 --> Final output sent to browser
+DEBUG - 2020-11-23 18:04:24 --> Total execution time: 0.8025
+INFO - 2020-11-23 18:05:35 --> Config Class Initialized
+INFO - 2020-11-23 18:05:35 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:05:35 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:05:35 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:05:35 --> URI Class Initialized
+INFO - 2020-11-23 18:05:35 --> Router Class Initialized
+INFO - 2020-11-23 18:05:35 --> Output Class Initialized
+INFO - 2020-11-23 18:05:35 --> Security Class Initialized
+DEBUG - 2020-11-23 18:05:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:05:35 --> Input Class Initialized
+INFO - 2020-11-23 18:05:35 --> Language Class Initialized
+INFO - 2020-11-23 18:05:35 --> Language Class Initialized
+INFO - 2020-11-23 18:05:35 --> Config Class Initialized
+INFO - 2020-11-23 18:05:35 --> Loader Class Initialized
+INFO - 2020-11-23 18:05:35 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:05:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:05:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:05:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:05:36 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:05:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:05:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:05:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:05:36 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:05:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:05:36 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:05:36 --> Model Class Initialized
+DEBUG - 2020-11-23 18:05:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:05:36 --> Model Class Initialized
+DEBUG - 2020-11-23 18:05:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:05:36 --> Model Class Initialized
+DEBUG - 2020-11-23 18:05:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:05:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:05:36 --> Final output sent to browser
+DEBUG - 2020-11-23 18:05:36 --> Total execution time: 0.7690
+INFO - 2020-11-23 18:05:39 --> Config Class Initialized
+INFO - 2020-11-23 18:05:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:05:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:05:39 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:05:40 --> URI Class Initialized
+INFO - 2020-11-23 18:05:40 --> Router Class Initialized
+INFO - 2020-11-23 18:05:40 --> Output Class Initialized
+INFO - 2020-11-23 18:05:40 --> Security Class Initialized
+DEBUG - 2020-11-23 18:05:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:05:40 --> Input Class Initialized
+INFO - 2020-11-23 18:05:40 --> Language Class Initialized
+INFO - 2020-11-23 18:05:40 --> Language Class Initialized
+INFO - 2020-11-23 18:05:40 --> Config Class Initialized
+INFO - 2020-11-23 18:05:40 --> Loader Class Initialized
+INFO - 2020-11-23 18:05:40 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:05:40 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:05:40 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:05:40 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:05:40 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:05:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:05:40 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:05:40 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:05:40 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:05:40 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:05:40 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:05:40 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:05:40 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:05:40 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:05:40 --> Model Class Initialized
+INFO - 2020-11-23 18:05:40 --> Model Class Initialized
+DEBUG - 2020-11-23 18:05:40 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 18:05:40 --> Severity: error --> Exception: Too few arguments to function Categories::updateCategories_patch(), 0 passed in C:\xampp\htdocs\hmvc\application\libraries\REST_Controller.php on line 736 and exactly 1 expected C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 200
+ERROR - 2020-11-23 18:05:40 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ArgumentCountError given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(ArgumentCountError))
+#1 [internal function]: _exception_handler(Object(ArgumentCountError))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 18:05:49 --> Config Class Initialized
+INFO - 2020-11-23 18:05:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:05:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:05:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:05:49 --> URI Class Initialized
+INFO - 2020-11-23 18:05:49 --> Router Class Initialized
+INFO - 2020-11-23 18:05:49 --> Output Class Initialized
+INFO - 2020-11-23 18:05:49 --> Security Class Initialized
+DEBUG - 2020-11-23 18:05:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:05:49 --> Input Class Initialized
+INFO - 2020-11-23 18:05:49 --> Language Class Initialized
+INFO - 2020-11-23 18:05:49 --> Language Class Initialized
+INFO - 2020-11-23 18:05:49 --> Config Class Initialized
+INFO - 2020-11-23 18:05:49 --> Loader Class Initialized
+INFO - 2020-11-23 18:05:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:05:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:05:49 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:05:49 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:05:49 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:05:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:05:49 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:05:49 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:05:49 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:05:49 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:05:49 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:05:49 --> Model Class Initialized
+DEBUG - 2020-11-23 18:05:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:05:49 --> Model Class Initialized
+DEBUG - 2020-11-23 18:05:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:05:49 --> Model Class Initialized
+DEBUG - 2020-11-23 18:05:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:05:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:05:50 --> Final output sent to browser
+DEBUG - 2020-11-23 18:05:50 --> Total execution time: 0.8293
+INFO - 2020-11-23 18:05:54 --> Config Class Initialized
+INFO - 2020-11-23 18:05:54 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:05:54 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:05:54 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:05:54 --> URI Class Initialized
+INFO - 2020-11-23 18:05:54 --> Router Class Initialized
+INFO - 2020-11-23 18:05:54 --> Output Class Initialized
+INFO - 2020-11-23 18:05:54 --> Security Class Initialized
+DEBUG - 2020-11-23 18:05:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:05:54 --> Input Class Initialized
+INFO - 2020-11-23 18:05:54 --> Language Class Initialized
+INFO - 2020-11-23 18:05:54 --> Language Class Initialized
+INFO - 2020-11-23 18:05:54 --> Config Class Initialized
+INFO - 2020-11-23 18:05:54 --> Loader Class Initialized
+INFO - 2020-11-23 18:05:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:05:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:05:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:05:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:05:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:05:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:05:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:05:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:05:54 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:05:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:05:54 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:05:54 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:05:54 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:05:55 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:05:55 --> Model Class Initialized
+INFO - 2020-11-23 18:05:55 --> Model Class Initialized
+DEBUG - 2020-11-23 18:05:55 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 18:05:55 --> Severity: error --> Exception: Too few arguments to function Categories::updateCategories_patch(), 0 passed in C:\xampp\htdocs\hmvc\application\libraries\REST_Controller.php on line 736 and exactly 1 expected C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 200
+ERROR - 2020-11-23 18:05:55 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ArgumentCountError given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(ArgumentCountError))
+#1 [internal function]: _exception_handler(Object(ArgumentCountError))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 18:06:06 --> Config Class Initialized
+INFO - 2020-11-23 18:06:06 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:06:06 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:06:06 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:06:06 --> URI Class Initialized
+INFO - 2020-11-23 18:06:06 --> Router Class Initialized
+INFO - 2020-11-23 18:06:06 --> Output Class Initialized
+INFO - 2020-11-23 18:06:06 --> Security Class Initialized
+DEBUG - 2020-11-23 18:06:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:06:06 --> Input Class Initialized
+INFO - 2020-11-23 18:06:06 --> Language Class Initialized
+INFO - 2020-11-23 18:06:06 --> Language Class Initialized
+INFO - 2020-11-23 18:06:06 --> Config Class Initialized
+INFO - 2020-11-23 18:06:06 --> Loader Class Initialized
+INFO - 2020-11-23 18:06:07 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:06:07 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:06:07 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:06:07 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:06:07 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:06:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:06:07 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:06:07 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:06:07 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:07 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:06:07 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:07 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:06:07 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:06:07 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:06:07 --> Model Class Initialized
+INFO - 2020-11-23 18:06:07 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:07 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:06:07 --> Config Class Initialized
+INFO - 2020-11-23 18:06:07 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:06:07 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:06:07 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:06:07 --> URI Class Initialized
+INFO - 2020-11-23 18:06:07 --> Router Class Initialized
+INFO - 2020-11-23 18:06:07 --> Output Class Initialized
+INFO - 2020-11-23 18:06:07 --> Security Class Initialized
+DEBUG - 2020-11-23 18:06:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:06:07 --> Input Class Initialized
+INFO - 2020-11-23 18:06:07 --> Language Class Initialized
+INFO - 2020-11-23 18:06:07 --> Language Class Initialized
+INFO - 2020-11-23 18:06:07 --> Config Class Initialized
+INFO - 2020-11-23 18:06:07 --> Loader Class Initialized
+INFO - 2020-11-23 18:06:07 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:06:07 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:06:07 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:06:07 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:06:07 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:06:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:06:07 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:06:07 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:06:07 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:08 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:06:08 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:06:08 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:06:08 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:06:08 --> Model Class Initialized
+ERROR - 2020-11-23 18:06:08 --> Severity: Notice --> Trying to get property 'title' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 14
+ERROR - 2020-11-23 18:06:08 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:08 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:08 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:08 --> Severity: Notice --> Trying to get property 'status' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 32
+DEBUG - 2020-11-23 18:06:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:06:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:06:08 --> Final output sent to browser
+DEBUG - 2020-11-23 18:06:08 --> Total execution time: 0.8873
+INFO - 2020-11-23 18:06:23 --> Config Class Initialized
+INFO - 2020-11-23 18:06:23 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:06:23 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:06:23 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:06:23 --> URI Class Initialized
+INFO - 2020-11-23 18:06:23 --> Router Class Initialized
+INFO - 2020-11-23 18:06:23 --> Output Class Initialized
+INFO - 2020-11-23 18:06:24 --> Security Class Initialized
+DEBUG - 2020-11-23 18:06:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:06:24 --> Input Class Initialized
+INFO - 2020-11-23 18:06:24 --> Language Class Initialized
+INFO - 2020-11-23 18:06:24 --> Language Class Initialized
+INFO - 2020-11-23 18:06:24 --> Config Class Initialized
+INFO - 2020-11-23 18:06:24 --> Loader Class Initialized
+INFO - 2020-11-23 18:06:24 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:06:24 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:06:24 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:06:24 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:06:24 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:06:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:06:24 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:06:24 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:06:24 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:24 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:06:24 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:06:24 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:06:24 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:06:24 --> Model Class Initialized
+ERROR - 2020-11-23 18:06:24 --> Severity: Notice --> Trying to get property 'title' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 14
+ERROR - 2020-11-23 18:06:24 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:24 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:24 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:24 --> Severity: Notice --> Trying to get property 'status' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 32
+DEBUG - 2020-11-23 18:06:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:06:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:06:24 --> Final output sent to browser
+DEBUG - 2020-11-23 18:06:24 --> Total execution time: 0.8945
+INFO - 2020-11-23 18:06:29 --> Config Class Initialized
+INFO - 2020-11-23 18:06:29 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:06:29 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:06:29 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:06:29 --> URI Class Initialized
+INFO - 2020-11-23 18:06:29 --> Router Class Initialized
+INFO - 2020-11-23 18:06:29 --> Output Class Initialized
+INFO - 2020-11-23 18:06:29 --> Security Class Initialized
+DEBUG - 2020-11-23 18:06:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:06:29 --> Input Class Initialized
+INFO - 2020-11-23 18:06:29 --> Language Class Initialized
+INFO - 2020-11-23 18:06:29 --> Language Class Initialized
+INFO - 2020-11-23 18:06:29 --> Config Class Initialized
+INFO - 2020-11-23 18:06:29 --> Loader Class Initialized
+INFO - 2020-11-23 18:06:29 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:06:29 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:06:29 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:06:29 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:06:29 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:06:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:06:29 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:06:29 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:06:29 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:30 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:06:30 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:06:30 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:06:30 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 18:06:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:06:30 --> Final output sent to browser
+DEBUG - 2020-11-23 18:06:30 --> Total execution time: 0.7439
+INFO - 2020-11-23 18:06:30 --> Config Class Initialized
+INFO - 2020-11-23 18:06:30 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:06:30 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:06:30 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:06:30 --> URI Class Initialized
+INFO - 2020-11-23 18:06:30 --> Router Class Initialized
+INFO - 2020-11-23 18:06:30 --> Output Class Initialized
+INFO - 2020-11-23 18:06:30 --> Security Class Initialized
+DEBUG - 2020-11-23 18:06:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:06:30 --> Input Class Initialized
+INFO - 2020-11-23 18:06:30 --> Language Class Initialized
+INFO - 2020-11-23 18:06:30 --> Language Class Initialized
+INFO - 2020-11-23 18:06:30 --> Config Class Initialized
+INFO - 2020-11-23 18:06:30 --> Loader Class Initialized
+INFO - 2020-11-23 18:06:31 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:06:31 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:06:31 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:06:31 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:06:31 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:06:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:06:31 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:06:31 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:06:31 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:31 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:06:31 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:31 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:06:31 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:06:31 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:06:31 --> Model Class Initialized
+INFO - 2020-11-23 18:06:31 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:31 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:06:31 --> Final output sent to browser
+DEBUG - 2020-11-23 18:06:31 --> Total execution time: 0.7693
+INFO - 2020-11-23 18:06:33 --> Config Class Initialized
+INFO - 2020-11-23 18:06:33 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:06:33 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:06:34 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:06:34 --> URI Class Initialized
+INFO - 2020-11-23 18:06:34 --> Router Class Initialized
+INFO - 2020-11-23 18:06:34 --> Output Class Initialized
+INFO - 2020-11-23 18:06:34 --> Security Class Initialized
+DEBUG - 2020-11-23 18:06:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:06:34 --> Input Class Initialized
+INFO - 2020-11-23 18:06:34 --> Language Class Initialized
+INFO - 2020-11-23 18:06:34 --> Language Class Initialized
+INFO - 2020-11-23 18:06:34 --> Config Class Initialized
+INFO - 2020-11-23 18:06:34 --> Loader Class Initialized
+INFO - 2020-11-23 18:06:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:06:34 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:06:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:06:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:06:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:06:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:06:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:06:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:06:34 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:06:34 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:06:34 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:06:34 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:06:34 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:06:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:06:34 --> Final output sent to browser
+DEBUG - 2020-11-23 18:06:34 --> Total execution time: 0.7749
+INFO - 2020-11-23 18:06:39 --> Config Class Initialized
+INFO - 2020-11-23 18:06:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:06:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:06:39 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:06:39 --> URI Class Initialized
+INFO - 2020-11-23 18:06:39 --> Router Class Initialized
+INFO - 2020-11-23 18:06:39 --> Output Class Initialized
+INFO - 2020-11-23 18:06:39 --> Security Class Initialized
+DEBUG - 2020-11-23 18:06:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:06:39 --> Input Class Initialized
+INFO - 2020-11-23 18:06:39 --> Language Class Initialized
+INFO - 2020-11-23 18:06:39 --> Language Class Initialized
+INFO - 2020-11-23 18:06:39 --> Config Class Initialized
+INFO - 2020-11-23 18:06:39 --> Loader Class Initialized
+INFO - 2020-11-23 18:06:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:06:40 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:06:40 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:06:40 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:06:40 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:06:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:06:40 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:06:40 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:06:40 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:40 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:06:40 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:40 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:06:40 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:06:40 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:06:40 --> Model Class Initialized
+INFO - 2020-11-23 18:06:40 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:40 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:06:40 --> Config Class Initialized
+INFO - 2020-11-23 18:06:40 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:06:40 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:06:40 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:06:40 --> URI Class Initialized
+INFO - 2020-11-23 18:06:40 --> Router Class Initialized
+INFO - 2020-11-23 18:06:40 --> Output Class Initialized
+INFO - 2020-11-23 18:06:40 --> Security Class Initialized
+DEBUG - 2020-11-23 18:06:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:06:40 --> Input Class Initialized
+INFO - 2020-11-23 18:06:40 --> Language Class Initialized
+INFO - 2020-11-23 18:06:40 --> Language Class Initialized
+INFO - 2020-11-23 18:06:40 --> Config Class Initialized
+INFO - 2020-11-23 18:06:40 --> Loader Class Initialized
+INFO - 2020-11-23 18:06:40 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:06:40 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:06:40 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:06:40 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:06:40 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:06:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:06:40 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:06:40 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:06:40 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:06:40 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:06:40 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:06:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:06:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:06:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:06:41 --> Model Class Initialized
+ERROR - 2020-11-23 18:06:41 --> Severity: Notice --> Trying to get property 'title' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 14
+ERROR - 2020-11-23 18:06:41 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:41 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:41 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:06:41 --> Severity: Notice --> Trying to get property 'status' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 32
+DEBUG - 2020-11-23 18:06:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:06:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:06:41 --> Final output sent to browser
+DEBUG - 2020-11-23 18:06:41 --> Total execution time: 0.8944
+INFO - 2020-11-23 18:07:28 --> Config Class Initialized
+INFO - 2020-11-23 18:07:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:07:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:07:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:07:28 --> URI Class Initialized
+INFO - 2020-11-23 18:07:28 --> Router Class Initialized
+INFO - 2020-11-23 18:07:28 --> Output Class Initialized
+INFO - 2020-11-23 18:07:28 --> Security Class Initialized
+DEBUG - 2020-11-23 18:07:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:07:28 --> Input Class Initialized
+INFO - 2020-11-23 18:07:28 --> Language Class Initialized
+INFO - 2020-11-23 18:07:28 --> Language Class Initialized
+INFO - 2020-11-23 18:07:28 --> Config Class Initialized
+INFO - 2020-11-23 18:07:28 --> Loader Class Initialized
+INFO - 2020-11-23 18:07:28 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:07:28 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:07:28 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:07:28 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:07:28 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:07:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:07:28 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:07:28 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:07:28 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:07:28 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:07:28 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:07:28 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:07:28 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:07:28 --> Model Class Initialized
+ERROR - 2020-11-23 18:07:28 --> Severity: Notice --> Trying to get property 'title' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 14
+ERROR - 2020-11-23 18:07:29 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:07:29 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:07:29 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:07:29 --> Severity: Notice --> Trying to get property 'status' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 32
+DEBUG - 2020-11-23 18:07:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:07:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:07:29 --> Final output sent to browser
+DEBUG - 2020-11-23 18:07:29 --> Total execution time: 0.8942
+INFO - 2020-11-23 18:07:34 --> Config Class Initialized
+INFO - 2020-11-23 18:07:34 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:07:34 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:07:34 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:07:34 --> URI Class Initialized
+INFO - 2020-11-23 18:07:34 --> Router Class Initialized
+INFO - 2020-11-23 18:07:34 --> Output Class Initialized
+INFO - 2020-11-23 18:07:34 --> Security Class Initialized
+DEBUG - 2020-11-23 18:07:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:07:34 --> Input Class Initialized
+INFO - 2020-11-23 18:07:34 --> Language Class Initialized
+INFO - 2020-11-23 18:07:34 --> Language Class Initialized
+INFO - 2020-11-23 18:07:34 --> Config Class Initialized
+INFO - 2020-11-23 18:07:34 --> Loader Class Initialized
+INFO - 2020-11-23 18:07:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:07:34 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:07:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:07:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:07:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:07:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:07:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:07:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:07:34 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:07:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:07:34 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:07:34 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:07:34 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/users.php
+DEBUG - 2020-11-23 18:07:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:07:34 --> Final output sent to browser
+DEBUG - 2020-11-23 18:07:34 --> Total execution time: 0.7364
+INFO - 2020-11-23 18:07:35 --> Config Class Initialized
+INFO - 2020-11-23 18:07:35 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:07:35 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:07:35 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:07:35 --> URI Class Initialized
+INFO - 2020-11-23 18:07:35 --> Router Class Initialized
+INFO - 2020-11-23 18:07:35 --> Output Class Initialized
+INFO - 2020-11-23 18:07:35 --> Security Class Initialized
+DEBUG - 2020-11-23 18:07:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:07:35 --> Input Class Initialized
+INFO - 2020-11-23 18:07:35 --> Language Class Initialized
+INFO - 2020-11-23 18:07:35 --> Language Class Initialized
+INFO - 2020-11-23 18:07:35 --> Config Class Initialized
+INFO - 2020-11-23 18:07:35 --> Loader Class Initialized
+INFO - 2020-11-23 18:07:35 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:07:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:07:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:07:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:07:35 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:07:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:07:35 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:07:35 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:07:35 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:07:35 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:07:35 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:07:35 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:07:35 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 18:07:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:07:35 --> Final output sent to browser
+DEBUG - 2020-11-23 18:07:35 --> Total execution time: 0.7206
+INFO - 2020-11-23 18:07:36 --> Config Class Initialized
+INFO - 2020-11-23 18:07:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:07:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:07:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:07:36 --> URI Class Initialized
+INFO - 2020-11-23 18:07:36 --> Router Class Initialized
+INFO - 2020-11-23 18:07:36 --> Output Class Initialized
+INFO - 2020-11-23 18:07:36 --> Security Class Initialized
+DEBUG - 2020-11-23 18:07:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:07:36 --> Input Class Initialized
+INFO - 2020-11-23 18:07:36 --> Language Class Initialized
+INFO - 2020-11-23 18:07:36 --> Language Class Initialized
+INFO - 2020-11-23 18:07:36 --> Config Class Initialized
+INFO - 2020-11-23 18:07:36 --> Loader Class Initialized
+INFO - 2020-11-23 18:07:36 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:07:36 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:07:36 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:07:36 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:07:36 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:07:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:07:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:07:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:07:36 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:07:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:07:36 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:07:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:07:36 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:07:36 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:07:36 --> Model Class Initialized
+INFO - 2020-11-23 18:07:36 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:07:37 --> Final output sent to browser
+DEBUG - 2020-11-23 18:07:37 --> Total execution time: 0.8271
+INFO - 2020-11-23 18:07:39 --> Config Class Initialized
+INFO - 2020-11-23 18:07:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:07:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:07:39 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:07:39 --> URI Class Initialized
+INFO - 2020-11-23 18:07:39 --> Router Class Initialized
+INFO - 2020-11-23 18:07:39 --> Output Class Initialized
+INFO - 2020-11-23 18:07:39 --> Security Class Initialized
+DEBUG - 2020-11-23 18:07:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:07:39 --> Input Class Initialized
+INFO - 2020-11-23 18:07:39 --> Language Class Initialized
+INFO - 2020-11-23 18:07:39 --> Language Class Initialized
+INFO - 2020-11-23 18:07:39 --> Config Class Initialized
+INFO - 2020-11-23 18:07:39 --> Loader Class Initialized
+INFO - 2020-11-23 18:07:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:07:39 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:07:39 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:07:39 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:07:39 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:07:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:07:39 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:07:39 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:07:39 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:07:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:07:40 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:07:40 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:07:40 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:07:40 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:07:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:07:40 --> Final output sent to browser
+DEBUG - 2020-11-23 18:07:40 --> Total execution time: 0.7615
+INFO - 2020-11-23 18:07:43 --> Config Class Initialized
+INFO - 2020-11-23 18:07:43 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:07:43 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:07:43 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:07:43 --> URI Class Initialized
+INFO - 2020-11-23 18:07:43 --> Router Class Initialized
+INFO - 2020-11-23 18:07:43 --> Output Class Initialized
+INFO - 2020-11-23 18:07:43 --> Security Class Initialized
+DEBUG - 2020-11-23 18:07:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:07:43 --> Input Class Initialized
+INFO - 2020-11-23 18:07:43 --> Language Class Initialized
+INFO - 2020-11-23 18:07:43 --> Language Class Initialized
+INFO - 2020-11-23 18:07:43 --> Config Class Initialized
+INFO - 2020-11-23 18:07:43 --> Loader Class Initialized
+INFO - 2020-11-23 18:07:43 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:07:43 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:07:43 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:07:43 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:07:43 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:07:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:07:43 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:07:43 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:07:43 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:07:43 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:07:43 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:07:43 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:07:43 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:07:43 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:07:43 --> Model Class Initialized
+INFO - 2020-11-23 18:07:43 --> Model Class Initialized
+DEBUG - 2020-11-23 18:07:43 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:08:55 --> Config Class Initialized
+INFO - 2020-11-23 18:08:55 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:08:55 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:08:55 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:08:55 --> URI Class Initialized
+INFO - 2020-11-23 18:08:55 --> Router Class Initialized
+INFO - 2020-11-23 18:08:55 --> Output Class Initialized
+INFO - 2020-11-23 18:08:55 --> Security Class Initialized
+DEBUG - 2020-11-23 18:08:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:08:55 --> Input Class Initialized
+INFO - 2020-11-23 18:08:55 --> Language Class Initialized
+INFO - 2020-11-23 18:08:55 --> Language Class Initialized
+INFO - 2020-11-23 18:08:55 --> Config Class Initialized
+INFO - 2020-11-23 18:08:55 --> Loader Class Initialized
+INFO - 2020-11-23 18:08:56 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:08:56 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:08:56 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:08:56 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:08:56 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:08:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:08:56 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:08:56 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:08:56 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:08:56 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:08:56 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:08:56 --> Model Class Initialized
+DEBUG - 2020-11-23 18:08:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:08:56 --> Model Class Initialized
+DEBUG - 2020-11-23 18:08:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:08:56 --> Model Class Initialized
+DEBUG - 2020-11-23 18:08:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:08:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:08:56 --> Final output sent to browser
+DEBUG - 2020-11-23 18:08:56 --> Total execution time: 0.7822
+INFO - 2020-11-23 18:08:59 --> Config Class Initialized
+INFO - 2020-11-23 18:08:59 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:08:59 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:08:59 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:08:59 --> URI Class Initialized
+INFO - 2020-11-23 18:08:59 --> Router Class Initialized
+INFO - 2020-11-23 18:08:59 --> Output Class Initialized
+INFO - 2020-11-23 18:08:59 --> Security Class Initialized
+DEBUG - 2020-11-23 18:08:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:08:59 --> Input Class Initialized
+INFO - 2020-11-23 18:08:59 --> Language Class Initialized
+INFO - 2020-11-23 18:08:59 --> Language Class Initialized
+INFO - 2020-11-23 18:08:59 --> Config Class Initialized
+INFO - 2020-11-23 18:08:59 --> Loader Class Initialized
+INFO - 2020-11-23 18:08:59 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:08:59 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:08:59 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:08:59 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:08:59 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:08:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:08:59 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:08:59 --> Controller Class Initialized
+ERROR - 2020-11-23 18:08:59 --> 404 Page Not Found: ../modules/api/controllers//index
+INFO - 2020-11-23 18:10:25 --> Config Class Initialized
+INFO - 2020-11-23 18:10:25 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:10:25 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:10:25 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:10:25 --> URI Class Initialized
+INFO - 2020-11-23 18:10:25 --> Router Class Initialized
+INFO - 2020-11-23 18:10:25 --> Output Class Initialized
+INFO - 2020-11-23 18:10:25 --> Security Class Initialized
+DEBUG - 2020-11-23 18:10:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:10:25 --> Input Class Initialized
+INFO - 2020-11-23 18:10:25 --> Language Class Initialized
+INFO - 2020-11-23 18:10:25 --> Language Class Initialized
+INFO - 2020-11-23 18:10:26 --> Config Class Initialized
+INFO - 2020-11-23 18:10:26 --> Loader Class Initialized
+INFO - 2020-11-23 18:10:26 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:10:26 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:10:26 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:10:26 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:10:26 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:10:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:10:26 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:10:26 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:10:26 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:10:26 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:10:26 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:10:26 --> Model Class Initialized
+DEBUG - 2020-11-23 18:10:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:10:26 --> Model Class Initialized
+DEBUG - 2020-11-23 18:10:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:10:26 --> Model Class Initialized
+DEBUG - 2020-11-23 18:10:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:10:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:10:26 --> Final output sent to browser
+DEBUG - 2020-11-23 18:10:26 --> Total execution time: 0.8359
+INFO - 2020-11-23 18:10:28 --> Config Class Initialized
+INFO - 2020-11-23 18:10:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:10:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:10:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:10:28 --> URI Class Initialized
+INFO - 2020-11-23 18:10:28 --> Router Class Initialized
+INFO - 2020-11-23 18:10:28 --> Output Class Initialized
+INFO - 2020-11-23 18:10:28 --> Security Class Initialized
+DEBUG - 2020-11-23 18:10:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:10:28 --> Input Class Initialized
+INFO - 2020-11-23 18:10:28 --> Language Class Initialized
+INFO - 2020-11-23 18:10:28 --> Language Class Initialized
+INFO - 2020-11-23 18:10:28 --> Config Class Initialized
+INFO - 2020-11-23 18:10:28 --> Loader Class Initialized
+INFO - 2020-11-23 18:10:28 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:10:28 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:10:28 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:10:28 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:10:28 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:10:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:10:28 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:10:28 --> Controller Class Initialized
+ERROR - 2020-11-23 18:10:28 --> 404 Page Not Found: ../modules/api/controllers//index
+INFO - 2020-11-23 18:11:13 --> Config Class Initialized
+INFO - 2020-11-23 18:11:13 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:11:13 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:11:13 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:11:13 --> URI Class Initialized
+INFO - 2020-11-23 18:11:13 --> Router Class Initialized
+INFO - 2020-11-23 18:11:13 --> Output Class Initialized
+INFO - 2020-11-23 18:11:13 --> Security Class Initialized
+DEBUG - 2020-11-23 18:11:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:11:13 --> Input Class Initialized
+INFO - 2020-11-23 18:11:13 --> Language Class Initialized
+INFO - 2020-11-23 18:11:13 --> Language Class Initialized
+INFO - 2020-11-23 18:11:13 --> Config Class Initialized
+INFO - 2020-11-23 18:11:13 --> Loader Class Initialized
+INFO - 2020-11-23 18:11:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:11:14 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:11:14 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:11:14 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:11:14 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:11:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:11:14 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:11:14 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:11:14 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:11:14 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:11:14 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:11:14 --> Model Class Initialized
+DEBUG - 2020-11-23 18:11:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:11:14 --> Model Class Initialized
+DEBUG - 2020-11-23 18:11:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:11:14 --> Model Class Initialized
+DEBUG - 2020-11-23 18:11:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:11:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:11:14 --> Final output sent to browser
+DEBUG - 2020-11-23 18:11:14 --> Total execution time: 0.7847
+INFO - 2020-11-23 18:11:16 --> Config Class Initialized
+INFO - 2020-11-23 18:11:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:11:16 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:11:16 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:11:16 --> URI Class Initialized
+INFO - 2020-11-23 18:11:16 --> Router Class Initialized
+INFO - 2020-11-23 18:11:16 --> Output Class Initialized
+INFO - 2020-11-23 18:11:16 --> Security Class Initialized
+DEBUG - 2020-11-23 18:11:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:11:16 --> Input Class Initialized
+INFO - 2020-11-23 18:11:16 --> Language Class Initialized
+INFO - 2020-11-23 18:11:16 --> Language Class Initialized
+INFO - 2020-11-23 18:11:16 --> Config Class Initialized
+INFO - 2020-11-23 18:11:16 --> Loader Class Initialized
+INFO - 2020-11-23 18:11:16 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:11:16 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:11:16 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:11:16 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:11:16 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:11:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:11:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:11:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:11:16 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:11:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:11:16 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:11:16 --> Model Class Initialized
+DEBUG - 2020-11-23 18:11:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:11:17 --> Model Class Initialized
+DEBUG - 2020-11-23 18:11:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:11:17 --> Model Class Initialized
+ERROR - 2020-11-23 18:11:17 --> Severity: Notice --> Trying to get property 'title' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 14
+ERROR - 2020-11-23 18:11:17 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:11:17 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:11:17 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 21
+ERROR - 2020-11-23 18:11:17 --> Severity: Notice --> Trying to get property 'status' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 32
+DEBUG - 2020-11-23 18:11:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:11:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:11:17 --> Final output sent to browser
+DEBUG - 2020-11-23 18:11:17 --> Total execution time: 0.8950
+INFO - 2020-11-23 18:13:12 --> Config Class Initialized
+INFO - 2020-11-23 18:13:12 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:13:12 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:13:12 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:13:12 --> URI Class Initialized
+INFO - 2020-11-23 18:13:12 --> Router Class Initialized
+INFO - 2020-11-23 18:13:12 --> Output Class Initialized
+INFO - 2020-11-23 18:13:12 --> Security Class Initialized
+DEBUG - 2020-11-23 18:13:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:13:12 --> Input Class Initialized
+INFO - 2020-11-23 18:13:12 --> Language Class Initialized
+INFO - 2020-11-23 18:13:12 --> Language Class Initialized
+INFO - 2020-11-23 18:13:12 --> Config Class Initialized
+INFO - 2020-11-23 18:13:13 --> Loader Class Initialized
+INFO - 2020-11-23 18:13:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:13:13 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:13:13 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:13:13 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:13:13 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:13:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:13:13 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:13:13 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:13:13 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:13:13 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:13:13 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:13:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:13:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:13:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:13:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:13:13 --> Final output sent to browser
+DEBUG - 2020-11-23 18:13:13 --> Total execution time: 0.8058
+INFO - 2020-11-23 18:13:19 --> Config Class Initialized
+INFO - 2020-11-23 18:13:19 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:13:19 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:13:19 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:13:19 --> URI Class Initialized
+INFO - 2020-11-23 18:13:19 --> Router Class Initialized
+INFO - 2020-11-23 18:13:19 --> Output Class Initialized
+INFO - 2020-11-23 18:13:19 --> Security Class Initialized
+DEBUG - 2020-11-23 18:13:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:13:19 --> Input Class Initialized
+INFO - 2020-11-23 18:13:19 --> Language Class Initialized
+INFO - 2020-11-23 18:13:19 --> Language Class Initialized
+INFO - 2020-11-23 18:13:19 --> Config Class Initialized
+INFO - 2020-11-23 18:13:19 --> Loader Class Initialized
+INFO - 2020-11-23 18:13:19 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:13:19 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:13:19 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:13:19 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:13:19 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:13:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:13:19 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:13:19 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:13:19 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:13:19 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:13:19 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:13:19 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:13:19 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:13:20 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:13:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:13:20 --> Final output sent to browser
+DEBUG - 2020-11-23 18:13:20 --> Total execution time: 0.8051
+INFO - 2020-11-23 18:13:38 --> Config Class Initialized
+INFO - 2020-11-23 18:13:38 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:13:38 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:13:38 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:13:38 --> URI Class Initialized
+INFO - 2020-11-23 18:13:38 --> Router Class Initialized
+INFO - 2020-11-23 18:13:38 --> Output Class Initialized
+INFO - 2020-11-23 18:13:38 --> Security Class Initialized
+DEBUG - 2020-11-23 18:13:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:13:38 --> Input Class Initialized
+INFO - 2020-11-23 18:13:38 --> Language Class Initialized
+INFO - 2020-11-23 18:13:38 --> Language Class Initialized
+INFO - 2020-11-23 18:13:38 --> Config Class Initialized
+INFO - 2020-11-23 18:13:38 --> Loader Class Initialized
+INFO - 2020-11-23 18:13:38 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:13:38 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:13:38 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:13:38 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:13:38 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:13:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:13:38 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:13:38 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:13:38 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:13:38 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:13:38 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:13:38 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:13:38 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:13:38 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:13:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:13:38 --> Final output sent to browser
+DEBUG - 2020-11-23 18:13:39 --> Total execution time: 0.7755
+INFO - 2020-11-23 18:13:55 --> Config Class Initialized
+INFO - 2020-11-23 18:13:55 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:13:55 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:13:55 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:13:55 --> URI Class Initialized
+INFO - 2020-11-23 18:13:55 --> Router Class Initialized
+INFO - 2020-11-23 18:13:55 --> Output Class Initialized
+INFO - 2020-11-23 18:13:55 --> Security Class Initialized
+DEBUG - 2020-11-23 18:13:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:13:55 --> Input Class Initialized
+INFO - 2020-11-23 18:13:55 --> Language Class Initialized
+INFO - 2020-11-23 18:13:55 --> Language Class Initialized
+INFO - 2020-11-23 18:13:55 --> Config Class Initialized
+INFO - 2020-11-23 18:13:55 --> Loader Class Initialized
+INFO - 2020-11-23 18:13:55 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:13:55 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:13:55 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:13:55 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:13:55 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:13:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:13:55 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:13:55 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:13:55 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:13:55 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:13:55 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:13:55 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:13:55 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:13:55 --> Model Class Initialized
+DEBUG - 2020-11-23 18:13:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:13:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:13:55 --> Final output sent to browser
+DEBUG - 2020-11-23 18:13:56 --> Total execution time: 0.8032
+INFO - 2020-11-23 18:14:22 --> Config Class Initialized
+INFO - 2020-11-23 18:14:22 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:14:22 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:14:22 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:14:22 --> URI Class Initialized
+INFO - 2020-11-23 18:14:22 --> Router Class Initialized
+INFO - 2020-11-23 18:14:22 --> Output Class Initialized
+INFO - 2020-11-23 18:14:22 --> Security Class Initialized
+DEBUG - 2020-11-23 18:14:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:14:22 --> Input Class Initialized
+INFO - 2020-11-23 18:14:22 --> Language Class Initialized
+INFO - 2020-11-23 18:14:22 --> Language Class Initialized
+INFO - 2020-11-23 18:14:22 --> Config Class Initialized
+INFO - 2020-11-23 18:14:22 --> Loader Class Initialized
+INFO - 2020-11-23 18:14:22 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:14:23 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:14:23 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:14:23 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:14:23 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:14:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:14:23 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:14:23 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:14:23 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:14:23 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:14:23 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:14:23 --> Model Class Initialized
+DEBUG - 2020-11-23 18:14:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:14:23 --> Model Class Initialized
+DEBUG - 2020-11-23 18:14:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:14:23 --> Model Class Initialized
+DEBUG - 2020-11-23 18:14:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:14:23 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:14:23 --> Final output sent to browser
+DEBUG - 2020-11-23 18:14:23 --> Total execution time: 0.8065
+INFO - 2020-11-23 18:14:44 --> Config Class Initialized
+INFO - 2020-11-23 18:14:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:14:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:14:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:14:44 --> URI Class Initialized
+INFO - 2020-11-23 18:14:44 --> Router Class Initialized
+INFO - 2020-11-23 18:14:44 --> Output Class Initialized
+INFO - 2020-11-23 18:14:44 --> Security Class Initialized
+DEBUG - 2020-11-23 18:14:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:14:44 --> Input Class Initialized
+INFO - 2020-11-23 18:14:44 --> Language Class Initialized
+INFO - 2020-11-23 18:14:44 --> Language Class Initialized
+INFO - 2020-11-23 18:14:44 --> Config Class Initialized
+INFO - 2020-11-23 18:14:44 --> Loader Class Initialized
+INFO - 2020-11-23 18:14:44 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:14:44 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:14:44 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:14:44 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:14:44 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:14:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:14:44 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:14:44 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:14:44 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:14:44 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:14:44 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:14:44 --> Model Class Initialized
+DEBUG - 2020-11-23 18:14:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:14:44 --> Model Class Initialized
+DEBUG - 2020-11-23 18:14:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:14:44 --> Model Class Initialized
+DEBUG - 2020-11-23 18:14:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:14:44 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:14:44 --> Final output sent to browser
+DEBUG - 2020-11-23 18:14:44 --> Total execution time: 0.8456
+INFO - 2020-11-23 18:14:46 --> Config Class Initialized
+INFO - 2020-11-23 18:14:46 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:14:46 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:14:46 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:14:46 --> URI Class Initialized
+INFO - 2020-11-23 18:14:46 --> Router Class Initialized
+INFO - 2020-11-23 18:14:46 --> Output Class Initialized
+INFO - 2020-11-23 18:14:46 --> Security Class Initialized
+DEBUG - 2020-11-23 18:14:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:14:46 --> Input Class Initialized
+INFO - 2020-11-23 18:14:46 --> Language Class Initialized
+INFO - 2020-11-23 18:14:46 --> Language Class Initialized
+INFO - 2020-11-23 18:14:46 --> Config Class Initialized
+INFO - 2020-11-23 18:14:46 --> Loader Class Initialized
+INFO - 2020-11-23 18:14:46 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:14:46 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:14:46 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:14:46 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:14:46 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:14:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:14:46 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:14:46 --> Controller Class Initialized
+ERROR - 2020-11-23 18:14:46 --> 404 Page Not Found: ../modules/api/controllers//index
+INFO - 2020-11-23 18:15:53 --> Config Class Initialized
+INFO - 2020-11-23 18:15:53 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:15:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:15:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:15:54 --> URI Class Initialized
+INFO - 2020-11-23 18:15:54 --> Router Class Initialized
+INFO - 2020-11-23 18:15:54 --> Output Class Initialized
+INFO - 2020-11-23 18:15:54 --> Security Class Initialized
+DEBUG - 2020-11-23 18:15:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:15:54 --> Input Class Initialized
+INFO - 2020-11-23 18:15:54 --> Language Class Initialized
+INFO - 2020-11-23 18:15:54 --> Language Class Initialized
+INFO - 2020-11-23 18:15:54 --> Config Class Initialized
+INFO - 2020-11-23 18:15:54 --> Loader Class Initialized
+INFO - 2020-11-23 18:15:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:15:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:15:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:15:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:15:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:15:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:15:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:15:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:15:54 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:15:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:15:54 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:15:54 --> Model Class Initialized
+DEBUG - 2020-11-23 18:15:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:15:54 --> Model Class Initialized
+DEBUG - 2020-11-23 18:15:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:15:54 --> Model Class Initialized
+DEBUG - 2020-11-23 18:15:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:15:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:15:54 --> Final output sent to browser
+DEBUG - 2020-11-23 18:15:54 --> Total execution time: 0.8367
+INFO - 2020-11-23 18:15:56 --> Config Class Initialized
+INFO - 2020-11-23 18:15:56 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:15:56 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:15:56 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:15:56 --> URI Class Initialized
+INFO - 2020-11-23 18:15:56 --> Router Class Initialized
+INFO - 2020-11-23 18:15:56 --> Output Class Initialized
+INFO - 2020-11-23 18:15:56 --> Security Class Initialized
+DEBUG - 2020-11-23 18:15:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:15:56 --> Input Class Initialized
+INFO - 2020-11-23 18:15:56 --> Language Class Initialized
+INFO - 2020-11-23 18:15:56 --> Language Class Initialized
+INFO - 2020-11-23 18:15:56 --> Config Class Initialized
+INFO - 2020-11-23 18:15:56 --> Loader Class Initialized
+INFO - 2020-11-23 18:15:56 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:15:56 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:15:56 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:15:56 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:15:56 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:15:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:15:56 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:15:56 --> Controller Class Initialized
+ERROR - 2020-11-23 18:15:56 --> 404 Page Not Found: ../modules/api/controllers//index
+INFO - 2020-11-23 18:16:14 --> Config Class Initialized
+INFO - 2020-11-23 18:16:14 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:16:14 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:16:14 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:16:14 --> URI Class Initialized
+INFO - 2020-11-23 18:16:14 --> Router Class Initialized
+INFO - 2020-11-23 18:16:14 --> Output Class Initialized
+INFO - 2020-11-23 18:16:14 --> Security Class Initialized
+DEBUG - 2020-11-23 18:16:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:16:14 --> Input Class Initialized
+INFO - 2020-11-23 18:16:14 --> Language Class Initialized
+INFO - 2020-11-23 18:16:14 --> Language Class Initialized
+INFO - 2020-11-23 18:16:14 --> Config Class Initialized
+INFO - 2020-11-23 18:16:14 --> Loader Class Initialized
+INFO - 2020-11-23 18:16:14 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:16:14 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:16:14 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:16:15 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:16:15 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:16:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:16:15 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:16:15 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:16:15 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:16:15 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:16:15 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:16:15 --> Model Class Initialized
+DEBUG - 2020-11-23 18:16:15 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:16:15 --> Model Class Initialized
+DEBUG - 2020-11-23 18:16:15 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:16:15 --> Model Class Initialized
+DEBUG - 2020-11-23 18:16:15 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:16:15 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:16:15 --> Final output sent to browser
+DEBUG - 2020-11-23 18:16:15 --> Total execution time: 0.7928
+INFO - 2020-11-23 18:16:16 --> Config Class Initialized
+INFO - 2020-11-23 18:16:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:16:16 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:16:16 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:16:17 --> URI Class Initialized
+INFO - 2020-11-23 18:16:17 --> Router Class Initialized
+INFO - 2020-11-23 18:16:17 --> Output Class Initialized
+INFO - 2020-11-23 18:16:17 --> Security Class Initialized
+DEBUG - 2020-11-23 18:16:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:16:17 --> Input Class Initialized
+INFO - 2020-11-23 18:16:17 --> Language Class Initialized
+INFO - 2020-11-23 18:16:17 --> Language Class Initialized
+INFO - 2020-11-23 18:16:17 --> Config Class Initialized
+INFO - 2020-11-23 18:16:17 --> Loader Class Initialized
+INFO - 2020-11-23 18:16:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:16:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:16:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:16:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:16:17 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:16:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:16:17 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:16:17 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:16:17 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:16:17 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:16:17 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:16:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:16:17 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:16:17 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:16:17 --> Model Class Initialized
+INFO - 2020-11-23 18:16:17 --> Model Class Initialized
+DEBUG - 2020-11-23 18:16:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:17:11 --> Config Class Initialized
+INFO - 2020-11-23 18:17:11 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:17:11 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:17:11 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:17:11 --> URI Class Initialized
+INFO - 2020-11-23 18:17:11 --> Router Class Initialized
+INFO - 2020-11-23 18:17:11 --> Output Class Initialized
+INFO - 2020-11-23 18:17:11 --> Security Class Initialized
+DEBUG - 2020-11-23 18:17:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:17:11 --> Input Class Initialized
+INFO - 2020-11-23 18:17:11 --> Language Class Initialized
+INFO - 2020-11-23 18:17:11 --> Language Class Initialized
+INFO - 2020-11-23 18:17:11 --> Config Class Initialized
+INFO - 2020-11-23 18:17:11 --> Loader Class Initialized
+INFO - 2020-11-23 18:17:11 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:17:11 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:17:11 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:17:11 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:17:11 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:17:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:17:11 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:17:11 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:17:11 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:17:11 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:17:11 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:17:11 --> Model Class Initialized
+DEBUG - 2020-11-23 18:17:11 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:17:11 --> Model Class Initialized
+DEBUG - 2020-11-23 18:17:11 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:17:11 --> Model Class Initialized
+DEBUG - 2020-11-23 18:17:11 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:17:11 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:17:11 --> Final output sent to browser
+DEBUG - 2020-11-23 18:17:11 --> Total execution time: 0.8076
+INFO - 2020-11-23 18:17:27 --> Config Class Initialized
+INFO - 2020-11-23 18:17:27 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:17:27 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:17:27 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:17:27 --> URI Class Initialized
+INFO - 2020-11-23 18:17:27 --> Router Class Initialized
+INFO - 2020-11-23 18:17:27 --> Output Class Initialized
+INFO - 2020-11-23 18:17:27 --> Security Class Initialized
+DEBUG - 2020-11-23 18:17:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:17:27 --> Input Class Initialized
+INFO - 2020-11-23 18:17:27 --> Language Class Initialized
+INFO - 2020-11-23 18:17:27 --> Language Class Initialized
+INFO - 2020-11-23 18:17:27 --> Config Class Initialized
+INFO - 2020-11-23 18:17:27 --> Loader Class Initialized
+INFO - 2020-11-23 18:17:27 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:17:27 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:17:27 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:17:27 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:17:27 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:17:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:17:27 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:17:27 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:17:27 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:17:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:17:27 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:17:27 --> Model Class Initialized
+DEBUG - 2020-11-23 18:17:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:17:27 --> Model Class Initialized
+DEBUG - 2020-11-23 18:17:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:17:27 --> Model Class Initialized
+DEBUG - 2020-11-23 18:17:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:17:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:17:27 --> Final output sent to browser
+DEBUG - 2020-11-23 18:17:27 --> Total execution time: 0.8236
+INFO - 2020-11-23 18:18:21 --> Config Class Initialized
+INFO - 2020-11-23 18:18:21 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:18:21 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:18:21 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:18:21 --> URI Class Initialized
+INFO - 2020-11-23 18:18:21 --> Router Class Initialized
+INFO - 2020-11-23 18:18:21 --> Output Class Initialized
+INFO - 2020-11-23 18:18:21 --> Security Class Initialized
+DEBUG - 2020-11-23 18:18:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:18:21 --> Input Class Initialized
+INFO - 2020-11-23 18:18:21 --> Language Class Initialized
+INFO - 2020-11-23 18:18:21 --> Language Class Initialized
+INFO - 2020-11-23 18:18:21 --> Config Class Initialized
+INFO - 2020-11-23 18:18:21 --> Loader Class Initialized
+INFO - 2020-11-23 18:18:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:18:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:18:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:18:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:18:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:18:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:18:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:18:21 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:18:21 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:18:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:18:21 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:18:21 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:21 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:18:22 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:18:22 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:18:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:18:22 --> Final output sent to browser
+DEBUG - 2020-11-23 18:18:22 --> Total execution time: 0.8427
+INFO - 2020-11-23 18:18:28 --> Config Class Initialized
+INFO - 2020-11-23 18:18:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:18:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:18:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:18:28 --> URI Class Initialized
+INFO - 2020-11-23 18:18:28 --> Router Class Initialized
+INFO - 2020-11-23 18:18:28 --> Output Class Initialized
+INFO - 2020-11-23 18:18:29 --> Security Class Initialized
+DEBUG - 2020-11-23 18:18:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:18:29 --> Input Class Initialized
+INFO - 2020-11-23 18:18:29 --> Language Class Initialized
+INFO - 2020-11-23 18:18:29 --> Language Class Initialized
+INFO - 2020-11-23 18:18:29 --> Config Class Initialized
+INFO - 2020-11-23 18:18:29 --> Loader Class Initialized
+INFO - 2020-11-23 18:18:29 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:18:29 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:18:29 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:18:29 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:18:29 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:18:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:18:29 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:18:29 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:18:29 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:18:29 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:18:29 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:18:29 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:18:29 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:18:29 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:18:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:18:29 --> Final output sent to browser
+DEBUG - 2020-11-23 18:18:29 --> Total execution time: 0.8050
+INFO - 2020-11-23 18:18:32 --> Config Class Initialized
+INFO - 2020-11-23 18:18:32 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:18:32 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:18:32 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:18:32 --> URI Class Initialized
+INFO - 2020-11-23 18:18:32 --> Router Class Initialized
+INFO - 2020-11-23 18:18:32 --> Output Class Initialized
+INFO - 2020-11-23 18:18:32 --> Security Class Initialized
+DEBUG - 2020-11-23 18:18:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:18:32 --> Input Class Initialized
+INFO - 2020-11-23 18:18:32 --> Language Class Initialized
+INFO - 2020-11-23 18:18:32 --> Language Class Initialized
+INFO - 2020-11-23 18:18:32 --> Config Class Initialized
+INFO - 2020-11-23 18:18:32 --> Loader Class Initialized
+INFO - 2020-11-23 18:18:32 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:18:32 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:18:32 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:18:32 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:18:32 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:18:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:18:32 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:18:32 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:18:32 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:18:32 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:18:32 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:18:32 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:18:32 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:18:32 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:18:32 --> Model Class Initialized
+INFO - 2020-11-23 18:18:32 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:32 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:18:54 --> Config Class Initialized
+INFO - 2020-11-23 18:18:54 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:18:54 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:18:54 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:18:54 --> URI Class Initialized
+INFO - 2020-11-23 18:18:54 --> Router Class Initialized
+INFO - 2020-11-23 18:18:54 --> Output Class Initialized
+INFO - 2020-11-23 18:18:54 --> Security Class Initialized
+DEBUG - 2020-11-23 18:18:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:18:54 --> Input Class Initialized
+INFO - 2020-11-23 18:18:54 --> Language Class Initialized
+INFO - 2020-11-23 18:18:54 --> Language Class Initialized
+INFO - 2020-11-23 18:18:54 --> Config Class Initialized
+INFO - 2020-11-23 18:18:54 --> Loader Class Initialized
+INFO - 2020-11-23 18:18:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:18:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:18:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:18:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:18:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:18:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:18:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:18:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:18:54 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:18:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:18:55 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:18:55 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:18:55 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:18:55 --> Model Class Initialized
+DEBUG - 2020-11-23 18:18:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:18:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:18:55 --> Final output sent to browser
+DEBUG - 2020-11-23 18:18:55 --> Total execution time: 0.7974
+INFO - 2020-11-23 18:19:37 --> Config Class Initialized
+INFO - 2020-11-23 18:19:37 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:19:37 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:19:37 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:19:37 --> URI Class Initialized
+INFO - 2020-11-23 18:19:37 --> Router Class Initialized
+INFO - 2020-11-23 18:19:37 --> Output Class Initialized
+INFO - 2020-11-23 18:19:37 --> Security Class Initialized
+DEBUG - 2020-11-23 18:19:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:19:37 --> Input Class Initialized
+INFO - 2020-11-23 18:19:37 --> Language Class Initialized
+INFO - 2020-11-23 18:19:37 --> Language Class Initialized
+INFO - 2020-11-23 18:19:37 --> Config Class Initialized
+INFO - 2020-11-23 18:19:37 --> Loader Class Initialized
+INFO - 2020-11-23 18:19:37 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:19:37 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:19:37 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:19:37 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:19:37 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:19:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:19:37 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:19:37 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:19:37 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:19:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:19:37 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:19:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:19:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:19:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:19:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:19:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:19:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:19:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:19:37 --> Final output sent to browser
+DEBUG - 2020-11-23 18:19:38 --> Total execution time: 0.8220
+INFO - 2020-11-23 18:19:41 --> Config Class Initialized
+INFO - 2020-11-23 18:19:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:19:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:19:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:19:41 --> URI Class Initialized
+INFO - 2020-11-23 18:19:41 --> Router Class Initialized
+INFO - 2020-11-23 18:19:41 --> Output Class Initialized
+INFO - 2020-11-23 18:19:41 --> Security Class Initialized
+DEBUG - 2020-11-23 18:19:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:19:41 --> Input Class Initialized
+INFO - 2020-11-23 18:19:41 --> Language Class Initialized
+INFO - 2020-11-23 18:19:41 --> Language Class Initialized
+INFO - 2020-11-23 18:19:41 --> Config Class Initialized
+INFO - 2020-11-23 18:19:41 --> Loader Class Initialized
+INFO - 2020-11-23 18:19:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:19:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:19:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:19:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:19:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:19:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:19:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:19:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:19:42 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:19:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:19:42 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:19:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:19:42 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:19:42 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:19:42 --> Model Class Initialized
+INFO - 2020-11-23 18:19:42 --> Model Class Initialized
+DEBUG - 2020-11-23 18:19:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:20:12 --> Config Class Initialized
+INFO - 2020-11-23 18:20:12 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:20:12 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:20:12 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:20:12 --> URI Class Initialized
+INFO - 2020-11-23 18:20:12 --> Router Class Initialized
+INFO - 2020-11-23 18:20:12 --> Output Class Initialized
+INFO - 2020-11-23 18:20:12 --> Security Class Initialized
+DEBUG - 2020-11-23 18:20:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:20:12 --> Input Class Initialized
+INFO - 2020-11-23 18:20:12 --> Language Class Initialized
+INFO - 2020-11-23 18:20:12 --> Language Class Initialized
+INFO - 2020-11-23 18:20:12 --> Config Class Initialized
+INFO - 2020-11-23 18:20:12 --> Loader Class Initialized
+INFO - 2020-11-23 18:20:12 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:20:12 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:20:12 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:20:12 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:20:13 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:20:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:20:13 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:20:13 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:20:13 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:20:13 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:20:13 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:20:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:20:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:20:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:20:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:20:13 --> Model Class Initialized
+DEBUG - 2020-11-23 18:20:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:20:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:20:13 --> Final output sent to browser
+DEBUG - 2020-11-23 18:20:13 --> Total execution time: 0.8302
+INFO - 2020-11-23 18:20:21 --> Config Class Initialized
+INFO - 2020-11-23 18:20:21 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:20:21 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:20:21 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:20:21 --> URI Class Initialized
+INFO - 2020-11-23 18:20:21 --> Router Class Initialized
+INFO - 2020-11-23 18:20:21 --> Output Class Initialized
+INFO - 2020-11-23 18:20:21 --> Security Class Initialized
+DEBUG - 2020-11-23 18:20:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:20:21 --> Input Class Initialized
+INFO - 2020-11-23 18:20:21 --> Language Class Initialized
+INFO - 2020-11-23 18:20:21 --> Language Class Initialized
+INFO - 2020-11-23 18:20:21 --> Config Class Initialized
+INFO - 2020-11-23 18:20:21 --> Loader Class Initialized
+INFO - 2020-11-23 18:20:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:20:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:20:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:20:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:20:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:20:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:20:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:20:21 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:20:21 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:20:21 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:20:21 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:20:21 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:20:21 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:20:21 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:20:21 --> Model Class Initialized
+INFO - 2020-11-23 18:20:21 --> Model Class Initialized
+DEBUG - 2020-11-23 18:20:21 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:21:56 --> Config Class Initialized
+INFO - 2020-11-23 18:21:56 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:21:56 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:21:56 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:21:56 --> URI Class Initialized
+INFO - 2020-11-23 18:21:56 --> Router Class Initialized
+INFO - 2020-11-23 18:21:56 --> Output Class Initialized
+INFO - 2020-11-23 18:21:56 --> Security Class Initialized
+DEBUG - 2020-11-23 18:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:21:56 --> Input Class Initialized
+INFO - 2020-11-23 18:21:56 --> Language Class Initialized
+INFO - 2020-11-23 18:21:56 --> Language Class Initialized
+INFO - 2020-11-23 18:21:56 --> Config Class Initialized
+INFO - 2020-11-23 18:21:56 --> Loader Class Initialized
+INFO - 2020-11-23 18:21:56 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:21:56 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:21:56 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:21:56 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:21:56 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:21:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:21:56 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:21:56 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:21:56 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:21:56 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:21:56 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:21:56 --> Model Class Initialized
+DEBUG - 2020-11-23 18:21:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:21:56 --> Model Class Initialized
+DEBUG - 2020-11-23 18:21:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:21:56 --> Model Class Initialized
+ERROR - 2020-11-23 18:21:56 --> Severity: Warning --> implode(): Invalid arguments passed C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 47
+DEBUG - 2020-11-23 18:21:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:21:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:21:57 --> Final output sent to browser
+DEBUG - 2020-11-23 18:21:57 --> Total execution time: 0.8215
+INFO - 2020-11-23 18:22:16 --> Config Class Initialized
+INFO - 2020-11-23 18:22:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:22:16 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:22:16 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:22:16 --> URI Class Initialized
+INFO - 2020-11-23 18:22:16 --> Router Class Initialized
+INFO - 2020-11-23 18:22:16 --> Output Class Initialized
+INFO - 2020-11-23 18:22:16 --> Security Class Initialized
+DEBUG - 2020-11-23 18:22:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:22:16 --> Input Class Initialized
+INFO - 2020-11-23 18:22:16 --> Language Class Initialized
+INFO - 2020-11-23 18:22:16 --> Language Class Initialized
+INFO - 2020-11-23 18:22:16 --> Config Class Initialized
+INFO - 2020-11-23 18:22:16 --> Loader Class Initialized
+INFO - 2020-11-23 18:22:16 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:22:16 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:22:16 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:22:16 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:22:16 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:22:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:22:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:22:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:22:16 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:22:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:22:16 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:22:16 --> Model Class Initialized
+DEBUG - 2020-11-23 18:22:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:22:16 --> Model Class Initialized
+DEBUG - 2020-11-23 18:22:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:22:16 --> Model Class Initialized
+ERROR - 2020-11-23 18:22:17 --> Severity: Warning --> implode(): Invalid arguments passed C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 47
+DEBUG - 2020-11-23 18:22:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:22:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:22:17 --> Final output sent to browser
+DEBUG - 2020-11-23 18:22:17 --> Total execution time: 0.8626
+INFO - 2020-11-23 18:24:24 --> Config Class Initialized
+INFO - 2020-11-23 18:24:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:24:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:24:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:24:24 --> URI Class Initialized
+INFO - 2020-11-23 18:24:24 --> Router Class Initialized
+INFO - 2020-11-23 18:24:24 --> Output Class Initialized
+INFO - 2020-11-23 18:24:24 --> Security Class Initialized
+DEBUG - 2020-11-23 18:24:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:24:24 --> Input Class Initialized
+INFO - 2020-11-23 18:24:24 --> Language Class Initialized
+INFO - 2020-11-23 18:24:25 --> Language Class Initialized
+INFO - 2020-11-23 18:24:25 --> Config Class Initialized
+INFO - 2020-11-23 18:24:25 --> Loader Class Initialized
+INFO - 2020-11-23 18:24:25 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:24:25 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:24:25 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:24:25 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:24:25 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:24:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:24:25 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:24:25 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:24:25 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:24:25 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:24:25 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:24:25 --> Model Class Initialized
+DEBUG - 2020-11-23 18:24:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:24:25 --> Model Class Initialized
+DEBUG - 2020-11-23 18:24:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:24:25 --> Model Class Initialized
+DEBUG - 2020-11-23 18:24:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:24:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:24:25 --> Final output sent to browser
+DEBUG - 2020-11-23 18:24:25 --> Total execution time: 0.8249
+INFO - 2020-11-23 18:24:40 --> Config Class Initialized
+INFO - 2020-11-23 18:24:40 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:24:40 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:24:40 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:24:40 --> URI Class Initialized
+INFO - 2020-11-23 18:24:40 --> Router Class Initialized
+INFO - 2020-11-23 18:24:40 --> Output Class Initialized
+INFO - 2020-11-23 18:24:40 --> Security Class Initialized
+DEBUG - 2020-11-23 18:24:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:24:40 --> Input Class Initialized
+INFO - 2020-11-23 18:24:40 --> Language Class Initialized
+INFO - 2020-11-23 18:24:40 --> Language Class Initialized
+INFO - 2020-11-23 18:24:40 --> Config Class Initialized
+INFO - 2020-11-23 18:24:40 --> Loader Class Initialized
+INFO - 2020-11-23 18:24:40 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:24:40 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:24:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:24:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:24:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:24:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:24:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:24:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:24:41 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:24:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:24:41 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:24:41 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:24:41 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:24:41 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:24:41 --> Model Class Initialized
+INFO - 2020-11-23 18:24:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:24:41 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:24:52 --> Config Class Initialized
+INFO - 2020-11-23 18:24:53 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:24:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:24:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:24:53 --> URI Class Initialized
+INFO - 2020-11-23 18:24:53 --> Router Class Initialized
+INFO - 2020-11-23 18:24:53 --> Output Class Initialized
+INFO - 2020-11-23 18:24:53 --> Security Class Initialized
+DEBUG - 2020-11-23 18:24:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:24:53 --> Input Class Initialized
+INFO - 2020-11-23 18:24:53 --> Language Class Initialized
+INFO - 2020-11-23 18:24:53 --> Language Class Initialized
+INFO - 2020-11-23 18:24:53 --> Config Class Initialized
+INFO - 2020-11-23 18:24:53 --> Loader Class Initialized
+INFO - 2020-11-23 18:24:53 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:24:53 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:24:53 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:24:53 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:24:53 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:24:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:24:53 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:24:53 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:24:53 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:24:53 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:24:53 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:24:53 --> Model Class Initialized
+DEBUG - 2020-11-23 18:24:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:24:53 --> Model Class Initialized
+DEBUG - 2020-11-23 18:24:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:24:53 --> Model Class Initialized
+ERROR - 2020-11-23 18:24:53 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+ERROR - 2020-11-23 18:24:53 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+ERROR - 2020-11-23 18:24:53 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+ERROR - 2020-11-23 18:24:53 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+ERROR - 2020-11-23 18:24:53 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+ERROR - 2020-11-23 18:24:53 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+ERROR - 2020-11-23 18:24:53 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+ERROR - 2020-11-23 18:24:53 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+DEBUG - 2020-11-23 18:24:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:24:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:24:54 --> Final output sent to browser
+DEBUG - 2020-11-23 18:24:54 --> Total execution time: 1.0513
+INFO - 2020-11-23 18:25:05 --> Config Class Initialized
+INFO - 2020-11-23 18:25:05 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:25:06 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:25:06 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:25:06 --> URI Class Initialized
+INFO - 2020-11-23 18:25:06 --> Router Class Initialized
+INFO - 2020-11-23 18:25:06 --> Output Class Initialized
+INFO - 2020-11-23 18:25:06 --> Security Class Initialized
+DEBUG - 2020-11-23 18:25:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:25:06 --> Input Class Initialized
+INFO - 2020-11-23 18:25:06 --> Language Class Initialized
+INFO - 2020-11-23 18:25:06 --> Language Class Initialized
+INFO - 2020-11-23 18:25:06 --> Config Class Initialized
+INFO - 2020-11-23 18:25:06 --> Loader Class Initialized
+INFO - 2020-11-23 18:25:06 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:25:06 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:25:06 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:25:06 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:25:06 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:25:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:25:06 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:25:06 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:25:06 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:25:06 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:25:06 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:25:06 --> Model Class Initialized
+DEBUG - 2020-11-23 18:25:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:25:06 --> Model Class Initialized
+DEBUG - 2020-11-23 18:25:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:25:06 --> Model Class Initialized
+DEBUG - 2020-11-23 18:25:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:25:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:25:06 --> Final output sent to browser
+DEBUG - 2020-11-23 18:25:06 --> Total execution time: 0.8058
+INFO - 2020-11-23 18:25:25 --> Config Class Initialized
+INFO - 2020-11-23 18:25:25 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:25:25 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:25:25 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:25:25 --> URI Class Initialized
+INFO - 2020-11-23 18:25:25 --> Router Class Initialized
+INFO - 2020-11-23 18:25:25 --> Output Class Initialized
+INFO - 2020-11-23 18:25:25 --> Security Class Initialized
+DEBUG - 2020-11-23 18:25:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:25:25 --> Input Class Initialized
+INFO - 2020-11-23 18:25:25 --> Language Class Initialized
+INFO - 2020-11-23 18:25:25 --> Language Class Initialized
+INFO - 2020-11-23 18:25:25 --> Config Class Initialized
+INFO - 2020-11-23 18:25:26 --> Loader Class Initialized
+INFO - 2020-11-23 18:25:26 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:25:26 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:25:26 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:25:26 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:25:26 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:25:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:25:26 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:25:26 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:25:26 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:25:26 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:25:26 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:25:26 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:25:26 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:25:26 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:25:26 --> Model Class Initialized
+INFO - 2020-11-23 18:25:26 --> Model Class Initialized
+DEBUG - 2020-11-23 18:25:26 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:25:26 --> Config Class Initialized
+INFO - 2020-11-23 18:25:26 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:25:26 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:25:26 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:25:26 --> URI Class Initialized
+INFO - 2020-11-23 18:25:26 --> Router Class Initialized
+INFO - 2020-11-23 18:25:26 --> Output Class Initialized
+INFO - 2020-11-23 18:25:26 --> Security Class Initialized
+DEBUG - 2020-11-23 18:25:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:25:26 --> Input Class Initialized
+INFO - 2020-11-23 18:25:26 --> Language Class Initialized
+INFO - 2020-11-23 18:25:26 --> Language Class Initialized
+INFO - 2020-11-23 18:25:26 --> Config Class Initialized
+INFO - 2020-11-23 18:25:26 --> Loader Class Initialized
+INFO - 2020-11-23 18:25:26 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:25:26 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:25:26 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:25:27 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:25:27 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:25:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:25:27 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:25:27 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:25:27 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:25:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:25:27 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:25:27 --> Model Class Initialized
+DEBUG - 2020-11-23 18:25:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:25:27 --> Model Class Initialized
+DEBUG - 2020-11-23 18:25:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:25:27 --> Model Class Initialized
+ERROR - 2020-11-23 18:25:27 --> Severity: Notice --> Uninitialized string offset: 1 C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+ERROR - 2020-11-23 18:25:27 --> Severity: Notice --> Uninitialized string offset: 1 C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 53
+DEBUG - 2020-11-23 18:25:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:25:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:25:27 --> Final output sent to browser
+DEBUG - 2020-11-23 18:25:27 --> Total execution time: 0.8793
+INFO - 2020-11-23 18:31:09 --> Config Class Initialized
+INFO - 2020-11-23 18:31:09 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:31:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:31:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:31:09 --> URI Class Initialized
+INFO - 2020-11-23 18:31:09 --> Router Class Initialized
+INFO - 2020-11-23 18:31:09 --> Output Class Initialized
+INFO - 2020-11-23 18:31:09 --> Security Class Initialized
+DEBUG - 2020-11-23 18:31:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:31:09 --> Input Class Initialized
+INFO - 2020-11-23 18:31:09 --> Language Class Initialized
+INFO - 2020-11-23 18:31:09 --> Language Class Initialized
+INFO - 2020-11-23 18:31:09 --> Config Class Initialized
+INFO - 2020-11-23 18:31:09 --> Loader Class Initialized
+INFO - 2020-11-23 18:31:09 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:31:09 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:31:09 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:31:09 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:31:09 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:31:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:31:09 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:31:09 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:31:09 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:31:09 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:31:09 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:31:09 --> Model Class Initialized
+DEBUG - 2020-11-23 18:31:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:31:09 --> Model Class Initialized
+DEBUG - 2020-11-23 18:31:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:31:09 --> Model Class Initialized
+DEBUG - 2020-11-23 18:31:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:31:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:31:09 --> Final output sent to browser
+DEBUG - 2020-11-23 18:31:09 --> Total execution time: 0.8017
+INFO - 2020-11-23 18:31:14 --> Config Class Initialized
+INFO - 2020-11-23 18:31:14 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:31:14 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:31:14 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:31:14 --> URI Class Initialized
+INFO - 2020-11-23 18:31:14 --> Router Class Initialized
+INFO - 2020-11-23 18:31:14 --> Output Class Initialized
+INFO - 2020-11-23 18:31:14 --> Security Class Initialized
+DEBUG - 2020-11-23 18:31:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:31:14 --> Input Class Initialized
+INFO - 2020-11-23 18:31:14 --> Language Class Initialized
+INFO - 2020-11-23 18:31:14 --> Language Class Initialized
+INFO - 2020-11-23 18:31:14 --> Config Class Initialized
+INFO - 2020-11-23 18:31:14 --> Loader Class Initialized
+INFO - 2020-11-23 18:31:14 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:31:14 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:31:14 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:31:14 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:31:14 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:31:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:31:14 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:31:14 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:31:15 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:31:15 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:31:15 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:31:15 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:31:15 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:31:15 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:31:15 --> Model Class Initialized
+INFO - 2020-11-23 18:31:15 --> Model Class Initialized
+DEBUG - 2020-11-23 18:31:15 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:31:25 --> Config Class Initialized
+INFO - 2020-11-23 18:31:25 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:31:25 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:31:25 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:31:25 --> URI Class Initialized
+INFO - 2020-11-23 18:31:25 --> Router Class Initialized
+INFO - 2020-11-23 18:31:25 --> Output Class Initialized
+INFO - 2020-11-23 18:31:25 --> Security Class Initialized
+DEBUG - 2020-11-23 18:31:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:31:25 --> Input Class Initialized
+INFO - 2020-11-23 18:31:25 --> Language Class Initialized
+INFO - 2020-11-23 18:31:25 --> Language Class Initialized
+INFO - 2020-11-23 18:31:25 --> Config Class Initialized
+INFO - 2020-11-23 18:31:25 --> Loader Class Initialized
+INFO - 2020-11-23 18:31:25 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:31:25 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:31:25 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:31:25 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:31:25 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:31:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:31:25 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:31:25 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:31:25 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:31:25 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:31:25 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:31:25 --> Model Class Initialized
+DEBUG - 2020-11-23 18:31:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:31:26 --> Model Class Initialized
+DEBUG - 2020-11-23 18:31:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:31:26 --> Model Class Initialized
+DEBUG - 2020-11-23 18:31:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:31:26 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:31:26 --> Final output sent to browser
+DEBUG - 2020-11-23 18:31:26 --> Total execution time: 0.8867
+INFO - 2020-11-23 18:31:29 --> Config Class Initialized
+INFO - 2020-11-23 18:31:29 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:31:29 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:31:29 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:31:29 --> URI Class Initialized
+INFO - 2020-11-23 18:31:29 --> Router Class Initialized
+INFO - 2020-11-23 18:31:29 --> Output Class Initialized
+INFO - 2020-11-23 18:31:29 --> Security Class Initialized
+DEBUG - 2020-11-23 18:31:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:31:29 --> Input Class Initialized
+INFO - 2020-11-23 18:31:29 --> Language Class Initialized
+INFO - 2020-11-23 18:31:29 --> Language Class Initialized
+INFO - 2020-11-23 18:31:29 --> Config Class Initialized
+INFO - 2020-11-23 18:31:29 --> Loader Class Initialized
+INFO - 2020-11-23 18:31:29 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:31:29 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:31:29 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:31:29 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:31:29 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:31:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:31:29 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:31:29 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:31:29 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:31:29 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:31:29 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:31:29 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:31:30 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:31:30 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:31:30 --> Model Class Initialized
+INFO - 2020-11-23 18:31:30 --> Model Class Initialized
+DEBUG - 2020-11-23 18:31:30 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:32:09 --> Config Class Initialized
+INFO - 2020-11-23 18:32:09 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:32:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:32:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:32:09 --> URI Class Initialized
+INFO - 2020-11-23 18:32:10 --> Router Class Initialized
+INFO - 2020-11-23 18:32:10 --> Output Class Initialized
+INFO - 2020-11-23 18:32:10 --> Security Class Initialized
+DEBUG - 2020-11-23 18:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:32:10 --> Input Class Initialized
+INFO - 2020-11-23 18:32:10 --> Language Class Initialized
+INFO - 2020-11-23 18:32:10 --> Language Class Initialized
+INFO - 2020-11-23 18:32:10 --> Config Class Initialized
+INFO - 2020-11-23 18:32:10 --> Loader Class Initialized
+INFO - 2020-11-23 18:32:10 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:32:10 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:32:10 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:32:10 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:32:10 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:32:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:32:10 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:32:10 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:32:10 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:32:10 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:32:10 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:32:10 --> Model Class Initialized
+DEBUG - 2020-11-23 18:32:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:32:10 --> Model Class Initialized
+DEBUG - 2020-11-23 18:32:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:32:10 --> Model Class Initialized
+DEBUG - 2020-11-23 18:32:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:32:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:32:10 --> Final output sent to browser
+DEBUG - 2020-11-23 18:32:10 --> Total execution time: 0.8526
+INFO - 2020-11-23 18:32:24 --> Config Class Initialized
+INFO - 2020-11-23 18:32:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:32:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:32:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:32:24 --> URI Class Initialized
+INFO - 2020-11-23 18:32:24 --> Router Class Initialized
+INFO - 2020-11-23 18:32:24 --> Output Class Initialized
+INFO - 2020-11-23 18:32:24 --> Security Class Initialized
+DEBUG - 2020-11-23 18:32:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:32:24 --> Input Class Initialized
+INFO - 2020-11-23 18:32:24 --> Language Class Initialized
+INFO - 2020-11-23 18:32:24 --> Language Class Initialized
+INFO - 2020-11-23 18:32:24 --> Config Class Initialized
+INFO - 2020-11-23 18:32:24 --> Loader Class Initialized
+INFO - 2020-11-23 18:32:24 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:32:24 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:32:24 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:32:24 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:32:24 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:32:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:32:24 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:32:24 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:32:24 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:32:24 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:32:24 --> Model Class Initialized
+DEBUG - 2020-11-23 18:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:32:24 --> Model Class Initialized
+DEBUG - 2020-11-23 18:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:32:24 --> Model Class Initialized
+DEBUG - 2020-11-23 18:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:32:24 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:32:24 --> Final output sent to browser
+DEBUG - 2020-11-23 18:32:24 --> Total execution time: 0.8718
+INFO - 2020-11-23 18:32:27 --> Config Class Initialized
+INFO - 2020-11-23 18:32:27 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:32:27 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:32:27 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:32:27 --> URI Class Initialized
+INFO - 2020-11-23 18:32:27 --> Router Class Initialized
+INFO - 2020-11-23 18:32:27 --> Output Class Initialized
+INFO - 2020-11-23 18:32:27 --> Security Class Initialized
+DEBUG - 2020-11-23 18:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:32:27 --> Input Class Initialized
+INFO - 2020-11-23 18:32:27 --> Language Class Initialized
+INFO - 2020-11-23 18:32:27 --> Language Class Initialized
+INFO - 2020-11-23 18:32:27 --> Config Class Initialized
+INFO - 2020-11-23 18:32:27 --> Loader Class Initialized
+INFO - 2020-11-23 18:32:27 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:32:27 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:32:27 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:32:27 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:32:27 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:32:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:32:27 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:32:27 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:32:27 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:32:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:32:27 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:32:27 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:32:27 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:32:27 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:32:27 --> Model Class Initialized
+INFO - 2020-11-23 18:32:28 --> Model Class Initialized
+DEBUG - 2020-11-23 18:32:28 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:32:28 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:32:28 --> Final output sent to browser
+DEBUG - 2020-11-23 18:32:28 --> Total execution time: 0.8056
+INFO - 2020-11-23 18:34:35 --> Config Class Initialized
+INFO - 2020-11-23 18:34:35 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:34:35 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:34:35 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:34:35 --> URI Class Initialized
+INFO - 2020-11-23 18:34:35 --> Router Class Initialized
+INFO - 2020-11-23 18:34:35 --> Output Class Initialized
+INFO - 2020-11-23 18:34:35 --> Security Class Initialized
+DEBUG - 2020-11-23 18:34:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:34:35 --> Input Class Initialized
+INFO - 2020-11-23 18:34:35 --> Language Class Initialized
+INFO - 2020-11-23 18:34:35 --> Language Class Initialized
+INFO - 2020-11-23 18:34:35 --> Config Class Initialized
+INFO - 2020-11-23 18:34:35 --> Loader Class Initialized
+INFO - 2020-11-23 18:34:35 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:34:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:34:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:34:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:34:35 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:34:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:34:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:34:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:34:36 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:34:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:34:36 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:34:36 --> Model Class Initialized
+DEBUG - 2020-11-23 18:34:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:34:36 --> Model Class Initialized
+DEBUG - 2020-11-23 18:34:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:34:36 --> Model Class Initialized
+DEBUG - 2020-11-23 18:34:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:34:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:34:36 --> Final output sent to browser
+DEBUG - 2020-11-23 18:34:36 --> Total execution time: 0.8409
+INFO - 2020-11-23 18:34:40 --> Config Class Initialized
+INFO - 2020-11-23 18:34:40 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:34:40 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:34:40 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:34:40 --> URI Class Initialized
+INFO - 2020-11-23 18:34:40 --> Router Class Initialized
+INFO - 2020-11-23 18:34:40 --> Output Class Initialized
+INFO - 2020-11-23 18:34:41 --> Security Class Initialized
+DEBUG - 2020-11-23 18:34:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:34:41 --> Input Class Initialized
+INFO - 2020-11-23 18:34:41 --> Language Class Initialized
+INFO - 2020-11-23 18:34:41 --> Language Class Initialized
+INFO - 2020-11-23 18:34:41 --> Config Class Initialized
+INFO - 2020-11-23 18:34:41 --> Loader Class Initialized
+INFO - 2020-11-23 18:34:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:34:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:34:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:34:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:34:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:34:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:34:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:34:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:34:41 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:34:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:34:41 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:34:41 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:34:41 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:34:41 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:34:41 --> Model Class Initialized
+INFO - 2020-11-23 18:34:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:34:41 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:36:02 --> Config Class Initialized
+INFO - 2020-11-23 18:36:02 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:36:02 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:36:02 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:36:02 --> URI Class Initialized
+INFO - 2020-11-23 18:36:02 --> Router Class Initialized
+INFO - 2020-11-23 18:36:02 --> Output Class Initialized
+INFO - 2020-11-23 18:36:02 --> Security Class Initialized
+DEBUG - 2020-11-23 18:36:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:36:02 --> Input Class Initialized
+INFO - 2020-11-23 18:36:02 --> Language Class Initialized
+INFO - 2020-11-23 18:36:02 --> Language Class Initialized
+INFO - 2020-11-23 18:36:02 --> Config Class Initialized
+INFO - 2020-11-23 18:36:02 --> Loader Class Initialized
+INFO - 2020-11-23 18:36:02 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:36:02 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:36:02 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:36:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:36:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:36:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:36:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:36:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:36:02 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:36:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:36:02 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:36:02 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:36:02 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:36:03 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:36:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:36:03 --> Final output sent to browser
+DEBUG - 2020-11-23 18:36:03 --> Total execution time: 0.8592
+INFO - 2020-11-23 18:36:36 --> Config Class Initialized
+INFO - 2020-11-23 18:36:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:36:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:36:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:36:37 --> URI Class Initialized
+INFO - 2020-11-23 18:36:37 --> Router Class Initialized
+INFO - 2020-11-23 18:36:37 --> Output Class Initialized
+INFO - 2020-11-23 18:36:37 --> Security Class Initialized
+DEBUG - 2020-11-23 18:36:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:36:37 --> Input Class Initialized
+INFO - 2020-11-23 18:36:37 --> Language Class Initialized
+INFO - 2020-11-23 18:36:37 --> Language Class Initialized
+INFO - 2020-11-23 18:36:37 --> Config Class Initialized
+INFO - 2020-11-23 18:36:37 --> Loader Class Initialized
+INFO - 2020-11-23 18:36:37 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:36:37 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:36:37 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:36:37 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:36:37 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:36:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:36:37 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:36:37 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:36:37 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:36:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:36:37 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:36:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:36:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:36:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:36:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:36:37 --> Final output sent to browser
+DEBUG - 2020-11-23 18:36:37 --> Total execution time: 0.8389
+INFO - 2020-11-23 18:36:53 --> Config Class Initialized
+INFO - 2020-11-23 18:36:53 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:36:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:36:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:36:53 --> URI Class Initialized
+INFO - 2020-11-23 18:36:53 --> Router Class Initialized
+INFO - 2020-11-23 18:36:53 --> Output Class Initialized
+INFO - 2020-11-23 18:36:53 --> Security Class Initialized
+DEBUG - 2020-11-23 18:36:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:36:53 --> Input Class Initialized
+INFO - 2020-11-23 18:36:53 --> Language Class Initialized
+INFO - 2020-11-23 18:36:53 --> Language Class Initialized
+INFO - 2020-11-23 18:36:53 --> Config Class Initialized
+INFO - 2020-11-23 18:36:53 --> Loader Class Initialized
+INFO - 2020-11-23 18:36:53 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:36:53 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:36:53 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:36:53 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:36:53 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:36:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:36:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:36:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:36:54 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:36:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:36:54 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:36:54 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:36:54 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:36:54 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:36:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:36:54 --> Final output sent to browser
+DEBUG - 2020-11-23 18:36:54 --> Total execution time: 0.8981
+INFO - 2020-11-23 18:36:55 --> Config Class Initialized
+INFO - 2020-11-23 18:36:55 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:36:55 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:36:55 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:36:55 --> URI Class Initialized
+INFO - 2020-11-23 18:36:55 --> Router Class Initialized
+INFO - 2020-11-23 18:36:55 --> Output Class Initialized
+INFO - 2020-11-23 18:36:55 --> Security Class Initialized
+DEBUG - 2020-11-23 18:36:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:36:55 --> Input Class Initialized
+INFO - 2020-11-23 18:36:55 --> Language Class Initialized
+INFO - 2020-11-23 18:36:55 --> Language Class Initialized
+INFO - 2020-11-23 18:36:55 --> Config Class Initialized
+INFO - 2020-11-23 18:36:55 --> Loader Class Initialized
+INFO - 2020-11-23 18:36:55 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:36:55 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:36:55 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:36:55 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:36:55 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:36:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:36:55 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:36:55 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:36:55 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:36:55 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:36:55 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:36:56 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:36:56 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:36:56 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:36:56 --> Model Class Initialized
+INFO - 2020-11-23 18:36:56 --> Config Class Initialized
+INFO - 2020-11-23 18:36:56 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:36:56 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:36:56 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:36:56 --> URI Class Initialized
+INFO - 2020-11-23 18:36:56 --> Router Class Initialized
+INFO - 2020-11-23 18:36:56 --> Output Class Initialized
+INFO - 2020-11-23 18:36:56 --> Security Class Initialized
+DEBUG - 2020-11-23 18:36:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:36:56 --> Input Class Initialized
+INFO - 2020-11-23 18:36:56 --> Language Class Initialized
+INFO - 2020-11-23 18:36:56 --> Language Class Initialized
+INFO - 2020-11-23 18:36:56 --> Config Class Initialized
+INFO - 2020-11-23 18:36:56 --> Loader Class Initialized
+INFO - 2020-11-23 18:36:56 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:36:56 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:36:56 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:36:56 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:36:56 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:36:56 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:56 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:36:56 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:36:56 --> Final output sent to browser
+DEBUG - 2020-11-23 18:36:56 --> Total execution time: 0.7858
+INFO - 2020-11-23 18:36:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:36:56 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:36:56 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:36:56 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:36:56 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:36:56 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:36:56 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:36:56 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:36:56 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:36:56 --> Model Class Initialized
+INFO - 2020-11-23 18:36:56 --> Model Class Initialized
+DEBUG - 2020-11-23 18:36:56 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:36:56 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:36:56 --> Final output sent to browser
+DEBUG - 2020-11-23 18:36:56 --> Total execution time: 0.4705
+INFO - 2020-11-23 18:37:13 --> Config Class Initialized
+INFO - 2020-11-23 18:37:13 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:37:13 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:37:13 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:37:14 --> URI Class Initialized
+INFO - 2020-11-23 18:37:14 --> Router Class Initialized
+INFO - 2020-11-23 18:37:14 --> Output Class Initialized
+INFO - 2020-11-23 18:37:14 --> Security Class Initialized
+DEBUG - 2020-11-23 18:37:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:37:14 --> Input Class Initialized
+INFO - 2020-11-23 18:37:14 --> Language Class Initialized
+INFO - 2020-11-23 18:37:14 --> Language Class Initialized
+INFO - 2020-11-23 18:37:14 --> Config Class Initialized
+INFO - 2020-11-23 18:37:14 --> Loader Class Initialized
+INFO - 2020-11-23 18:37:14 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:37:14 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:37:14 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:37:14 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:37:14 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:37:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:37:14 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:37:14 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:37:14 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:14 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:37:14 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:37:14 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:37:14 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:37:14 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:37:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:37:14 --> Final output sent to browser
+DEBUG - 2020-11-23 18:37:14 --> Total execution time: 0.8412
+INFO - 2020-11-23 18:37:17 --> Config Class Initialized
+INFO - 2020-11-23 18:37:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:37:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:37:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:37:17 --> URI Class Initialized
+INFO - 2020-11-23 18:37:17 --> Router Class Initialized
+INFO - 2020-11-23 18:37:17 --> Output Class Initialized
+INFO - 2020-11-23 18:37:17 --> Security Class Initialized
+DEBUG - 2020-11-23 18:37:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:37:17 --> Input Class Initialized
+INFO - 2020-11-23 18:37:17 --> Language Class Initialized
+INFO - 2020-11-23 18:37:17 --> Language Class Initialized
+INFO - 2020-11-23 18:37:17 --> Config Class Initialized
+INFO - 2020-11-23 18:37:17 --> Loader Class Initialized
+INFO - 2020-11-23 18:37:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:37:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:37:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:37:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:37:17 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:37:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:37:17 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:37:17 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:37:17 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:17 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:37:18 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:37:18 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:37:18 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:37:18 --> Model Class Initialized
+INFO - 2020-11-23 18:37:18 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:37:18 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:37:18 --> Final output sent to browser
+DEBUG - 2020-11-23 18:37:18 --> Total execution time: 0.8461
+INFO - 2020-11-23 18:37:24 --> Config Class Initialized
+INFO - 2020-11-23 18:37:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:37:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:37:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:37:24 --> URI Class Initialized
+INFO - 2020-11-23 18:37:24 --> Router Class Initialized
+INFO - 2020-11-23 18:37:24 --> Output Class Initialized
+INFO - 2020-11-23 18:37:24 --> Security Class Initialized
+DEBUG - 2020-11-23 18:37:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:37:24 --> Input Class Initialized
+INFO - 2020-11-23 18:37:24 --> Language Class Initialized
+INFO - 2020-11-23 18:37:24 --> Language Class Initialized
+INFO - 2020-11-23 18:37:25 --> Config Class Initialized
+INFO - 2020-11-23 18:37:25 --> Loader Class Initialized
+INFO - 2020-11-23 18:37:25 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:37:25 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:37:25 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:37:25 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:37:25 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:37:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:37:25 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:37:25 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:37:25 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:25 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:37:25 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:37:25 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:37:25 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:37:25 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:37:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:37:25 --> Final output sent to browser
+DEBUG - 2020-11-23 18:37:25 --> Total execution time: 0.8356
+INFO - 2020-11-23 18:37:28 --> Config Class Initialized
+INFO - 2020-11-23 18:37:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:37:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:37:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:37:28 --> URI Class Initialized
+INFO - 2020-11-23 18:37:28 --> Router Class Initialized
+INFO - 2020-11-23 18:37:28 --> Output Class Initialized
+INFO - 2020-11-23 18:37:28 --> Security Class Initialized
+DEBUG - 2020-11-23 18:37:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:37:28 --> Input Class Initialized
+INFO - 2020-11-23 18:37:28 --> Language Class Initialized
+INFO - 2020-11-23 18:37:28 --> Language Class Initialized
+INFO - 2020-11-23 18:37:28 --> Config Class Initialized
+INFO - 2020-11-23 18:37:28 --> Loader Class Initialized
+INFO - 2020-11-23 18:37:28 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:37:28 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:37:28 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:37:28 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:37:28 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:37:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:37:28 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:37:28 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:37:28 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:28 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:37:29 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:29 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:37:29 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:37:29 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:37:29 --> Model Class Initialized
+INFO - 2020-11-23 18:37:29 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:29 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:37:29 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:37:29 --> Final output sent to browser
+DEBUG - 2020-11-23 18:37:29 --> Total execution time: 0.8686
+INFO - 2020-11-23 18:37:41 --> Config Class Initialized
+INFO - 2020-11-23 18:37:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:37:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:37:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:37:41 --> URI Class Initialized
+INFO - 2020-11-23 18:37:41 --> Router Class Initialized
+INFO - 2020-11-23 18:37:41 --> Output Class Initialized
+INFO - 2020-11-23 18:37:41 --> Security Class Initialized
+DEBUG - 2020-11-23 18:37:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:37:41 --> Input Class Initialized
+INFO - 2020-11-23 18:37:41 --> Language Class Initialized
+INFO - 2020-11-23 18:37:41 --> Language Class Initialized
+INFO - 2020-11-23 18:37:41 --> Config Class Initialized
+INFO - 2020-11-23 18:37:41 --> Loader Class Initialized
+INFO - 2020-11-23 18:37:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:37:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:37:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:37:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:37:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:37:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:37:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:37:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:37:41 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:37:41 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:37:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:37:42 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:37:42 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:37:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:37:42 --> Final output sent to browser
+DEBUG - 2020-11-23 18:37:42 --> Total execution time: 0.8842
+INFO - 2020-11-23 18:37:43 --> Config Class Initialized
+INFO - 2020-11-23 18:37:43 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:37:43 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:37:43 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:37:43 --> URI Class Initialized
+INFO - 2020-11-23 18:37:43 --> Router Class Initialized
+INFO - 2020-11-23 18:37:43 --> Output Class Initialized
+INFO - 2020-11-23 18:37:43 --> Security Class Initialized
+DEBUG - 2020-11-23 18:37:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:37:43 --> Input Class Initialized
+INFO - 2020-11-23 18:37:43 --> Language Class Initialized
+INFO - 2020-11-23 18:37:43 --> Language Class Initialized
+INFO - 2020-11-23 18:37:43 --> Config Class Initialized
+INFO - 2020-11-23 18:37:43 --> Loader Class Initialized
+INFO - 2020-11-23 18:37:43 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:37:43 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:37:43 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:37:43 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:37:43 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:37:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:37:43 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:37:43 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:37:43 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:43 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:37:43 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:37:43 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:37:43 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:37:43 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:37:43 --> Model Class Initialized
+INFO - 2020-11-23 18:37:44 --> Model Class Initialized
+DEBUG - 2020-11-23 18:37:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:37:44 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:37:44 --> Final output sent to browser
+DEBUG - 2020-11-23 18:37:44 --> Total execution time: 0.8246
+INFO - 2020-11-23 18:44:51 --> Config Class Initialized
+INFO - 2020-11-23 18:44:51 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:44:51 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:44:51 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:44:51 --> URI Class Initialized
+INFO - 2020-11-23 18:44:51 --> Router Class Initialized
+INFO - 2020-11-23 18:44:51 --> Output Class Initialized
+INFO - 2020-11-23 18:44:51 --> Security Class Initialized
+DEBUG - 2020-11-23 18:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:44:51 --> Input Class Initialized
+INFO - 2020-11-23 18:44:51 --> Language Class Initialized
+INFO - 2020-11-23 18:44:51 --> Language Class Initialized
+INFO - 2020-11-23 18:44:51 --> Config Class Initialized
+INFO - 2020-11-23 18:44:51 --> Loader Class Initialized
+INFO - 2020-11-23 18:44:51 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:44:51 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:44:51 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:44:51 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:44:51 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:44:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:44:51 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:44:51 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:44:51 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:44:51 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:44:51 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:44:51 --> Model Class Initialized
+DEBUG - 2020-11-23 18:44:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:44:51 --> Model Class Initialized
+DEBUG - 2020-11-23 18:44:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:44:51 --> Model Class Initialized
+DEBUG - 2020-11-23 18:44:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:44:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:44:51 --> Final output sent to browser
+DEBUG - 2020-11-23 18:44:51 --> Total execution time: 0.8620
+INFO - 2020-11-23 18:44:56 --> Config Class Initialized
+INFO - 2020-11-23 18:44:56 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:44:56 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:44:56 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:44:56 --> URI Class Initialized
+INFO - 2020-11-23 18:44:56 --> Router Class Initialized
+INFO - 2020-11-23 18:44:56 --> Output Class Initialized
+INFO - 2020-11-23 18:44:56 --> Security Class Initialized
+DEBUG - 2020-11-23 18:44:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:44:56 --> Input Class Initialized
+INFO - 2020-11-23 18:44:56 --> Language Class Initialized
+INFO - 2020-11-23 18:44:56 --> Language Class Initialized
+INFO - 2020-11-23 18:44:57 --> Config Class Initialized
+INFO - 2020-11-23 18:44:57 --> Loader Class Initialized
+INFO - 2020-11-23 18:44:57 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:44:57 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:44:57 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:44:57 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:44:57 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:44:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:44:57 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:44:57 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:44:57 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:44:57 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:44:57 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:44:57 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:44:57 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:44:57 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:44:57 --> Model Class Initialized
+INFO - 2020-11-23 18:44:57 --> Model Class Initialized
+DEBUG - 2020-11-23 18:44:57 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:46:11 --> Config Class Initialized
+INFO - 2020-11-23 18:46:11 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:46:11 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:46:11 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:46:11 --> URI Class Initialized
+INFO - 2020-11-23 18:46:11 --> Router Class Initialized
+INFO - 2020-11-23 18:46:12 --> Output Class Initialized
+INFO - 2020-11-23 18:46:12 --> Security Class Initialized
+DEBUG - 2020-11-23 18:46:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:46:12 --> Input Class Initialized
+INFO - 2020-11-23 18:46:12 --> Language Class Initialized
+INFO - 2020-11-23 18:46:12 --> Language Class Initialized
+INFO - 2020-11-23 18:46:12 --> Config Class Initialized
+INFO - 2020-11-23 18:46:12 --> Loader Class Initialized
+INFO - 2020-11-23 18:46:12 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:46:12 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:46:12 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:46:12 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:46:12 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:46:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:46:12 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:46:12 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:46:12 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:46:12 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:46:12 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:46:12 --> Model Class Initialized
+DEBUG - 2020-11-23 18:46:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:46:12 --> Model Class Initialized
+DEBUG - 2020-11-23 18:46:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:46:12 --> Model Class Initialized
+DEBUG - 2020-11-23 18:46:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:46:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:46:12 --> Final output sent to browser
+DEBUG - 2020-11-23 18:46:12 --> Total execution time: 0.8256
+INFO - 2020-11-23 18:46:20 --> Config Class Initialized
+INFO - 2020-11-23 18:46:20 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:46:20 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:46:20 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:46:20 --> URI Class Initialized
+INFO - 2020-11-23 18:46:20 --> Router Class Initialized
+INFO - 2020-11-23 18:46:20 --> Output Class Initialized
+INFO - 2020-11-23 18:46:20 --> Security Class Initialized
+DEBUG - 2020-11-23 18:46:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:46:20 --> Input Class Initialized
+INFO - 2020-11-23 18:46:20 --> Language Class Initialized
+INFO - 2020-11-23 18:46:20 --> Language Class Initialized
+INFO - 2020-11-23 18:46:20 --> Config Class Initialized
+INFO - 2020-11-23 18:46:20 --> Loader Class Initialized
+INFO - 2020-11-23 18:46:20 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:46:20 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:46:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:46:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:46:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:46:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:46:21 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:46:21 --> Controller Class Initialized
+ERROR - 2020-11-23 18:46:21 --> 404 Page Not Found: ../modules/api/controllers//index
+INFO - 2020-11-23 18:46:40 --> Config Class Initialized
+INFO - 2020-11-23 18:46:40 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:46:40 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:46:40 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:46:40 --> URI Class Initialized
+INFO - 2020-11-23 18:46:40 --> Router Class Initialized
+INFO - 2020-11-23 18:46:40 --> Output Class Initialized
+INFO - 2020-11-23 18:46:40 --> Security Class Initialized
+DEBUG - 2020-11-23 18:46:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:46:41 --> Input Class Initialized
+INFO - 2020-11-23 18:46:41 --> Language Class Initialized
+INFO - 2020-11-23 18:46:41 --> Language Class Initialized
+INFO - 2020-11-23 18:46:41 --> Config Class Initialized
+INFO - 2020-11-23 18:46:41 --> Loader Class Initialized
+INFO - 2020-11-23 18:46:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:46:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:46:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:46:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:46:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:46:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:46:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:46:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:46:41 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:46:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:46:41 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:46:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:46:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:46:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:46:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:46:41 --> Model Class Initialized
+DEBUG - 2020-11-23 18:46:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:46:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:46:41 --> Final output sent to browser
+DEBUG - 2020-11-23 18:46:41 --> Total execution time: 0.8147
+INFO - 2020-11-23 18:46:44 --> Config Class Initialized
+INFO - 2020-11-23 18:46:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:46:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:46:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:46:44 --> URI Class Initialized
+INFO - 2020-11-23 18:46:44 --> Router Class Initialized
+INFO - 2020-11-23 18:46:44 --> Output Class Initialized
+INFO - 2020-11-23 18:46:44 --> Security Class Initialized
+DEBUG - 2020-11-23 18:46:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:46:44 --> Input Class Initialized
+INFO - 2020-11-23 18:46:44 --> Language Class Initialized
+INFO - 2020-11-23 18:46:44 --> Language Class Initialized
+INFO - 2020-11-23 18:46:44 --> Config Class Initialized
+INFO - 2020-11-23 18:46:44 --> Loader Class Initialized
+INFO - 2020-11-23 18:46:44 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:46:44 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:46:44 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:46:44 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:46:44 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:46:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:46:44 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:46:44 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:46:44 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:46:44 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:46:44 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:46:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:46:44 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:46:44 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:46:44 --> Model Class Initialized
+INFO - 2020-11-23 18:46:44 --> Model Class Initialized
+DEBUG - 2020-11-23 18:46:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:47:36 --> Config Class Initialized
+INFO - 2020-11-23 18:47:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:47:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:47:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:47:36 --> URI Class Initialized
+INFO - 2020-11-23 18:47:36 --> Router Class Initialized
+INFO - 2020-11-23 18:47:37 --> Output Class Initialized
+INFO - 2020-11-23 18:47:37 --> Security Class Initialized
+DEBUG - 2020-11-23 18:47:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:47:37 --> Input Class Initialized
+INFO - 2020-11-23 18:47:37 --> Language Class Initialized
+INFO - 2020-11-23 18:47:37 --> Language Class Initialized
+INFO - 2020-11-23 18:47:37 --> Config Class Initialized
+INFO - 2020-11-23 18:47:37 --> Loader Class Initialized
+INFO - 2020-11-23 18:47:37 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:47:37 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:47:37 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:47:37 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:47:37 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:47:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:47:37 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:47:37 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:47:37 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:47:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:47:37 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:47:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:47:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:47:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:47:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:47:37 --> Model Class Initialized
+DEBUG - 2020-11-23 18:47:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:47:37 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:47:37 --> Final output sent to browser
+DEBUG - 2020-11-23 18:47:37 --> Total execution time: 0.8228
+INFO - 2020-11-23 18:47:39 --> Config Class Initialized
+INFO - 2020-11-23 18:47:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:47:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:47:39 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:47:39 --> URI Class Initialized
+INFO - 2020-11-23 18:47:39 --> Router Class Initialized
+INFO - 2020-11-23 18:47:39 --> Output Class Initialized
+INFO - 2020-11-23 18:47:39 --> Security Class Initialized
+DEBUG - 2020-11-23 18:47:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:47:39 --> Input Class Initialized
+INFO - 2020-11-23 18:47:39 --> Language Class Initialized
+INFO - 2020-11-23 18:47:39 --> Language Class Initialized
+INFO - 2020-11-23 18:47:39 --> Config Class Initialized
+INFO - 2020-11-23 18:47:39 --> Loader Class Initialized
+INFO - 2020-11-23 18:47:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:47:39 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:47:39 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:47:39 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:47:39 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:47:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:47:39 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:47:39 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:47:39 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:47:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:47:39 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:47:39 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:47:39 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:47:39 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:47:39 --> Model Class Initialized
+INFO - 2020-11-23 18:47:39 --> Model Class Initialized
+DEBUG - 2020-11-23 18:47:40 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:48:51 --> Config Class Initialized
+INFO - 2020-11-23 18:48:51 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:48:51 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:48:51 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:48:51 --> URI Class Initialized
+INFO - 2020-11-23 18:48:51 --> Router Class Initialized
+INFO - 2020-11-23 18:48:51 --> Output Class Initialized
+INFO - 2020-11-23 18:48:51 --> Security Class Initialized
+DEBUG - 2020-11-23 18:48:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:48:51 --> Input Class Initialized
+INFO - 2020-11-23 18:48:51 --> Language Class Initialized
+INFO - 2020-11-23 18:48:51 --> Language Class Initialized
+INFO - 2020-11-23 18:48:51 --> Config Class Initialized
+INFO - 2020-11-23 18:48:51 --> Loader Class Initialized
+INFO - 2020-11-23 18:48:51 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:48:51 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:48:51 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:48:51 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:48:51 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:48:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:48:51 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:48:51 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:48:51 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:48:51 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:48:51 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:48:51 --> Model Class Initialized
+DEBUG - 2020-11-23 18:48:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:48:51 --> Model Class Initialized
+DEBUG - 2020-11-23 18:48:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:48:51 --> Model Class Initialized
+DEBUG - 2020-11-23 18:48:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:48:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:48:51 --> Final output sent to browser
+DEBUG - 2020-11-23 18:48:51 --> Total execution time: 0.8430
+INFO - 2020-11-23 18:48:53 --> Config Class Initialized
+INFO - 2020-11-23 18:48:53 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:48:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:48:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:48:53 --> URI Class Initialized
+INFO - 2020-11-23 18:48:53 --> Router Class Initialized
+INFO - 2020-11-23 18:48:53 --> Output Class Initialized
+INFO - 2020-11-23 18:48:53 --> Security Class Initialized
+DEBUG - 2020-11-23 18:48:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:48:53 --> Input Class Initialized
+INFO - 2020-11-23 18:48:53 --> Language Class Initialized
+INFO - 2020-11-23 18:48:53 --> Language Class Initialized
+INFO - 2020-11-23 18:48:53 --> Config Class Initialized
+INFO - 2020-11-23 18:48:53 --> Loader Class Initialized
+INFO - 2020-11-23 18:48:53 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:48:53 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:48:53 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:48:53 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:48:53 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:48:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:48:53 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:48:53 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:48:53 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:48:53 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:48:53 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:48:53 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:48:53 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:48:53 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:48:53 --> Model Class Initialized
+INFO - 2020-11-23 18:48:53 --> Model Class Initialized
+DEBUG - 2020-11-23 18:48:53 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:50:31 --> Config Class Initialized
+INFO - 2020-11-23 18:50:31 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:50:31 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:50:31 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:50:31 --> URI Class Initialized
+INFO - 2020-11-23 18:50:31 --> Router Class Initialized
+INFO - 2020-11-23 18:50:31 --> Output Class Initialized
+INFO - 2020-11-23 18:50:32 --> Security Class Initialized
+DEBUG - 2020-11-23 18:50:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:50:32 --> Input Class Initialized
+INFO - 2020-11-23 18:50:32 --> Language Class Initialized
+INFO - 2020-11-23 18:50:32 --> Language Class Initialized
+INFO - 2020-11-23 18:50:32 --> Config Class Initialized
+INFO - 2020-11-23 18:50:32 --> Loader Class Initialized
+INFO - 2020-11-23 18:50:32 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:50:32 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:50:32 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:50:32 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:50:32 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:50:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:50:32 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:50:32 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:50:32 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:50:32 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:50:32 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:50:32 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:50:32 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:50:32 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:50:32 --> Model Class Initialized
+INFO - 2020-11-23 18:50:32 --> Model Class Initialized
+DEBUG - 2020-11-23 18:50:32 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:50:32 --> Final output sent to browser
+DEBUG - 2020-11-23 18:50:32 --> Total execution time: 0.8503
+INFO - 2020-11-23 18:52:07 --> Config Class Initialized
+INFO - 2020-11-23 18:52:07 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:52:07 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:52:07 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:52:07 --> URI Class Initialized
+INFO - 2020-11-23 18:52:08 --> Router Class Initialized
+INFO - 2020-11-23 18:52:08 --> Output Class Initialized
+INFO - 2020-11-23 18:52:08 --> Security Class Initialized
+DEBUG - 2020-11-23 18:52:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:52:08 --> Input Class Initialized
+INFO - 2020-11-23 18:52:08 --> Language Class Initialized
+INFO - 2020-11-23 18:52:08 --> Language Class Initialized
+INFO - 2020-11-23 18:52:08 --> Config Class Initialized
+INFO - 2020-11-23 18:52:08 --> Loader Class Initialized
+INFO - 2020-11-23 18:52:08 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:52:08 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:52:08 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:52:08 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:52:08 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:52:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:52:08 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:52:08 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:52:08 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:52:08 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:52:08 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:52:08 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:52:08 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:52:08 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:52:08 --> Model Class Initialized
+INFO - 2020-11-23 18:52:08 --> Model Class Initialized
+DEBUG - 2020-11-23 18:52:08 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:52:08 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 18:52:08 --> Final output sent to browser
+DEBUG - 2020-11-23 18:52:08 --> Total execution time: 0.8845
+INFO - 2020-11-23 18:53:02 --> Config Class Initialized
+INFO - 2020-11-23 18:53:02 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:53:02 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:53:02 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:53:02 --> URI Class Initialized
+INFO - 2020-11-23 18:53:02 --> Router Class Initialized
+INFO - 2020-11-23 18:53:02 --> Output Class Initialized
+INFO - 2020-11-23 18:53:02 --> Security Class Initialized
+DEBUG - 2020-11-23 18:53:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:53:02 --> Input Class Initialized
+INFO - 2020-11-23 18:53:02 --> Language Class Initialized
+INFO - 2020-11-23 18:53:02 --> Language Class Initialized
+INFO - 2020-11-23 18:53:02 --> Config Class Initialized
+INFO - 2020-11-23 18:53:02 --> Loader Class Initialized
+INFO - 2020-11-23 18:53:02 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:53:02 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:53:02 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:53:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:53:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:53:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:53:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:53:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:53:02 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:53:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:53:02 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:53:02 --> Model Class Initialized
+DEBUG - 2020-11-23 18:53:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:53:03 --> Model Class Initialized
+DEBUG - 2020-11-23 18:53:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:53:03 --> Model Class Initialized
+DEBUG - 2020-11-23 18:53:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:53:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:53:03 --> Final output sent to browser
+DEBUG - 2020-11-23 18:53:03 --> Total execution time: 0.8628
+INFO - 2020-11-23 18:53:07 --> Config Class Initialized
+INFO - 2020-11-23 18:53:07 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:53:07 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:53:07 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:53:07 --> URI Class Initialized
+INFO - 2020-11-23 18:53:07 --> Router Class Initialized
+INFO - 2020-11-23 18:53:07 --> Output Class Initialized
+INFO - 2020-11-23 18:53:07 --> Security Class Initialized
+DEBUG - 2020-11-23 18:53:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:53:07 --> Input Class Initialized
+INFO - 2020-11-23 18:53:07 --> Language Class Initialized
+INFO - 2020-11-23 18:53:07 --> Language Class Initialized
+INFO - 2020-11-23 18:53:07 --> Config Class Initialized
+INFO - 2020-11-23 18:53:07 --> Loader Class Initialized
+INFO - 2020-11-23 18:53:07 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:53:07 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:53:07 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:53:07 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:53:08 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:53:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:53:08 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:53:08 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:53:08 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:53:08 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:53:08 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:53:08 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:53:08 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:53:08 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:53:08 --> Model Class Initialized
+INFO - 2020-11-23 18:53:08 --> Model Class Initialized
+DEBUG - 2020-11-23 18:53:08 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:53:15 --> Config Class Initialized
+INFO - 2020-11-23 18:53:15 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:53:15 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:53:15 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:53:15 --> URI Class Initialized
+INFO - 2020-11-23 18:53:15 --> Router Class Initialized
+INFO - 2020-11-23 18:53:15 --> Output Class Initialized
+INFO - 2020-11-23 18:53:15 --> Security Class Initialized
+DEBUG - 2020-11-23 18:53:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:53:15 --> Input Class Initialized
+INFO - 2020-11-23 18:53:15 --> Language Class Initialized
+INFO - 2020-11-23 18:53:15 --> Language Class Initialized
+INFO - 2020-11-23 18:53:15 --> Config Class Initialized
+INFO - 2020-11-23 18:53:15 --> Loader Class Initialized
+INFO - 2020-11-23 18:53:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:53:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:53:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:53:16 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:53:16 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:53:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:53:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:53:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:53:16 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:53:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:53:16 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:53:16 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:53:16 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:53:16 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:53:16 --> Model Class Initialized
+INFO - 2020-11-23 18:53:16 --> Model Class Initialized
+DEBUG - 2020-11-23 18:53:16 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 18:58:11 --> Config Class Initialized
+INFO - 2020-11-23 18:58:11 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:58:11 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:58:11 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:58:11 --> URI Class Initialized
+INFO - 2020-11-23 18:58:11 --> Router Class Initialized
+INFO - 2020-11-23 18:58:11 --> Output Class Initialized
+INFO - 2020-11-23 18:58:11 --> Security Class Initialized
+DEBUG - 2020-11-23 18:58:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:58:11 --> Input Class Initialized
+INFO - 2020-11-23 18:58:11 --> Language Class Initialized
+INFO - 2020-11-23 18:58:11 --> Language Class Initialized
+INFO - 2020-11-23 18:58:11 --> Config Class Initialized
+INFO - 2020-11-23 18:58:11 --> Loader Class Initialized
+INFO - 2020-11-23 18:58:11 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:58:12 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:58:12 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:58:12 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:58:12 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:58:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:58:12 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:58:12 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:58:12 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:58:12 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:58:12 --> Model Class Initialized
+DEBUG - 2020-11-23 18:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:58:12 --> Model Class Initialized
+DEBUG - 2020-11-23 18:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:58:12 --> Model Class Initialized
+DEBUG - 2020-11-23 18:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:58:12 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:58:12 --> Final output sent to browser
+DEBUG - 2020-11-23 18:58:12 --> Total execution time: 0.8524
+INFO - 2020-11-23 18:58:13 --> Config Class Initialized
+INFO - 2020-11-23 18:58:13 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:58:13 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:58:14 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:58:14 --> URI Class Initialized
+INFO - 2020-11-23 18:58:14 --> Router Class Initialized
+INFO - 2020-11-23 18:58:14 --> Output Class Initialized
+INFO - 2020-11-23 18:58:14 --> Security Class Initialized
+DEBUG - 2020-11-23 18:58:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:58:14 --> Input Class Initialized
+INFO - 2020-11-23 18:58:14 --> Language Class Initialized
+INFO - 2020-11-23 18:58:14 --> Language Class Initialized
+INFO - 2020-11-23 18:58:14 --> Config Class Initialized
+INFO - 2020-11-23 18:58:14 --> Loader Class Initialized
+INFO - 2020-11-23 18:58:14 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:58:14 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:58:14 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:58:14 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:58:14 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:58:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:58:14 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:58:14 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:58:14 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:58:14 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:58:14 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:58:14 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:58:14 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:58:14 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:58:14 --> Model Class Initialized
+INFO - 2020-11-23 18:58:14 --> Model Class Initialized
+DEBUG - 2020-11-23 18:58:14 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 18:58:14 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 221
+INFO - 2020-11-23 18:59:03 --> Config Class Initialized
+INFO - 2020-11-23 18:59:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:59:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:59:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:59:03 --> URI Class Initialized
+INFO - 2020-11-23 18:59:03 --> Router Class Initialized
+INFO - 2020-11-23 18:59:03 --> Output Class Initialized
+INFO - 2020-11-23 18:59:03 --> Security Class Initialized
+DEBUG - 2020-11-23 18:59:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:59:03 --> Input Class Initialized
+INFO - 2020-11-23 18:59:03 --> Language Class Initialized
+INFO - 2020-11-23 18:59:03 --> Language Class Initialized
+INFO - 2020-11-23 18:59:03 --> Config Class Initialized
+INFO - 2020-11-23 18:59:03 --> Loader Class Initialized
+INFO - 2020-11-23 18:59:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:59:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:59:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:59:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:59:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:59:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:59:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:59:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:59:03 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 18:59:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:59:03 --> Template MX_Controller Initialized
+INFO - 2020-11-23 18:59:03 --> Model Class Initialized
+DEBUG - 2020-11-23 18:59:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 18:59:04 --> Model Class Initialized
+DEBUG - 2020-11-23 18:59:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 18:59:04 --> Model Class Initialized
+DEBUG - 2020-11-23 18:59:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 18:59:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 18:59:04 --> Final output sent to browser
+DEBUG - 2020-11-23 18:59:04 --> Total execution time: 0.8716
+INFO - 2020-11-23 18:59:05 --> Config Class Initialized
+INFO - 2020-11-23 18:59:05 --> Hooks Class Initialized
+DEBUG - 2020-11-23 18:59:05 --> UTF-8 Support Enabled
+INFO - 2020-11-23 18:59:05 --> Utf8 Class Initialized
+INFO - 2020-11-23 18:59:05 --> URI Class Initialized
+INFO - 2020-11-23 18:59:05 --> Router Class Initialized
+INFO - 2020-11-23 18:59:05 --> Output Class Initialized
+INFO - 2020-11-23 18:59:05 --> Security Class Initialized
+DEBUG - 2020-11-23 18:59:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 18:59:05 --> Input Class Initialized
+INFO - 2020-11-23 18:59:05 --> Language Class Initialized
+INFO - 2020-11-23 18:59:05 --> Language Class Initialized
+INFO - 2020-11-23 18:59:05 --> Config Class Initialized
+INFO - 2020-11-23 18:59:05 --> Loader Class Initialized
+INFO - 2020-11-23 18:59:05 --> Helper loaded: form_helper
+INFO - 2020-11-23 18:59:05 --> Helper loaded: url_helper
+INFO - 2020-11-23 18:59:05 --> Helper loaded: file_helper
+INFO - 2020-11-23 18:59:05 --> Helper loaded: security_helper
+INFO - 2020-11-23 18:59:05 --> Database Driver Class Initialized
+INFO - 2020-11-23 18:59:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 18:59:05 --> Form Validation Class Initialized
+INFO - 2020-11-23 18:59:05 --> Controller Class Initialized
+DEBUG - 2020-11-23 18:59:05 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 18:59:05 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 18:59:05 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 18:59:05 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 18:59:06 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 18:59:06 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 18:59:06 --> Model Class Initialized
+INFO - 2020-11-23 18:59:06 --> Model Class Initialized
+DEBUG - 2020-11-23 18:59:06 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:01:55 --> Config Class Initialized
+INFO - 2020-11-23 19:01:55 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:01:55 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:01:55 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:01:55 --> URI Class Initialized
+INFO - 2020-11-23 19:01:55 --> Router Class Initialized
+INFO - 2020-11-23 19:01:55 --> Output Class Initialized
+INFO - 2020-11-23 19:01:55 --> Security Class Initialized
+DEBUG - 2020-11-23 19:01:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:01:55 --> Input Class Initialized
+INFO - 2020-11-23 19:01:55 --> Language Class Initialized
+INFO - 2020-11-23 19:01:55 --> Language Class Initialized
+INFO - 2020-11-23 19:01:55 --> Config Class Initialized
+INFO - 2020-11-23 19:01:55 --> Loader Class Initialized
+INFO - 2020-11-23 19:01:55 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:01:55 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:01:55 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:01:55 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:01:55 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:01:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:01:55 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:01:55 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:01:55 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:01:55 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:01:55 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:01:55 --> Model Class Initialized
+DEBUG - 2020-11-23 19:01:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:01:55 --> Model Class Initialized
+DEBUG - 2020-11-23 19:01:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:01:55 --> Model Class Initialized
+DEBUG - 2020-11-23 19:01:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:01:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:01:55 --> Final output sent to browser
+DEBUG - 2020-11-23 19:01:56 --> Total execution time: 0.8776
+INFO - 2020-11-23 19:01:57 --> Config Class Initialized
+INFO - 2020-11-23 19:01:57 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:01:57 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:01:57 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:01:57 --> URI Class Initialized
+INFO - 2020-11-23 19:01:57 --> Router Class Initialized
+INFO - 2020-11-23 19:01:57 --> Output Class Initialized
+INFO - 2020-11-23 19:01:57 --> Security Class Initialized
+DEBUG - 2020-11-23 19:01:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:01:57 --> Input Class Initialized
+INFO - 2020-11-23 19:01:57 --> Language Class Initialized
+INFO - 2020-11-23 19:01:57 --> Language Class Initialized
+INFO - 2020-11-23 19:01:57 --> Config Class Initialized
+INFO - 2020-11-23 19:01:57 --> Loader Class Initialized
+INFO - 2020-11-23 19:01:57 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:01:57 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:01:57 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:01:58 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:01:58 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:01:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:01:58 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:01:58 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:01:58 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:01:58 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:01:58 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:01:58 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:01:58 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:01:58 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:01:58 --> Model Class Initialized
+INFO - 2020-11-23 19:01:58 --> Model Class Initialized
+DEBUG - 2020-11-23 19:01:58 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:03:28 --> Config Class Initialized
+INFO - 2020-11-23 19:03:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:03:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:03:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:03:28 --> URI Class Initialized
+INFO - 2020-11-23 19:03:28 --> Router Class Initialized
+INFO - 2020-11-23 19:03:28 --> Output Class Initialized
+INFO - 2020-11-23 19:03:28 --> Security Class Initialized
+DEBUG - 2020-11-23 19:03:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:03:28 --> Input Class Initialized
+INFO - 2020-11-23 19:03:28 --> Language Class Initialized
+INFO - 2020-11-23 19:03:28 --> Language Class Initialized
+INFO - 2020-11-23 19:03:28 --> Config Class Initialized
+INFO - 2020-11-23 19:03:28 --> Loader Class Initialized
+INFO - 2020-11-23 19:03:28 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:03:28 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:03:28 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:03:28 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:03:28 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:03:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:03:28 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:03:28 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:03:28 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:03:28 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:03:28 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:03:28 --> Model Class Initialized
+DEBUG - 2020-11-23 19:03:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:03:28 --> Model Class Initialized
+DEBUG - 2020-11-23 19:03:28 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:03:28 --> Model Class Initialized
+DEBUG - 2020-11-23 19:03:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:03:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:03:29 --> Final output sent to browser
+DEBUG - 2020-11-23 19:03:29 --> Total execution time: 0.8851
+INFO - 2020-11-23 19:03:30 --> Config Class Initialized
+INFO - 2020-11-23 19:03:30 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:03:30 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:03:30 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:03:30 --> URI Class Initialized
+INFO - 2020-11-23 19:03:30 --> Router Class Initialized
+INFO - 2020-11-23 19:03:30 --> Output Class Initialized
+INFO - 2020-11-23 19:03:30 --> Security Class Initialized
+DEBUG - 2020-11-23 19:03:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:03:30 --> Input Class Initialized
+INFO - 2020-11-23 19:03:30 --> Language Class Initialized
+INFO - 2020-11-23 19:03:30 --> Language Class Initialized
+INFO - 2020-11-23 19:03:30 --> Config Class Initialized
+INFO - 2020-11-23 19:03:30 --> Loader Class Initialized
+INFO - 2020-11-23 19:03:30 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:03:30 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:03:30 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:03:30 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:03:30 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:03:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:03:30 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:03:31 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:03:31 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:03:31 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:03:31 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:03:31 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:03:31 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:03:31 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:03:31 --> Model Class Initialized
+INFO - 2020-11-23 19:03:31 --> Model Class Initialized
+DEBUG - 2020-11-23 19:03:31 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:06:47 --> Config Class Initialized
+INFO - 2020-11-23 19:06:47 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:06:47 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:06:47 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:06:47 --> URI Class Initialized
+INFO - 2020-11-23 19:06:47 --> Router Class Initialized
+INFO - 2020-11-23 19:06:47 --> Output Class Initialized
+INFO - 2020-11-23 19:06:47 --> Security Class Initialized
+DEBUG - 2020-11-23 19:06:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:06:47 --> Input Class Initialized
+INFO - 2020-11-23 19:06:47 --> Language Class Initialized
+INFO - 2020-11-23 19:06:47 --> Language Class Initialized
+INFO - 2020-11-23 19:06:47 --> Config Class Initialized
+INFO - 2020-11-23 19:06:47 --> Loader Class Initialized
+INFO - 2020-11-23 19:06:47 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:06:47 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:06:47 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:06:47 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:06:47 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:06:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:06:47 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:06:47 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:06:47 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:06:47 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:06:47 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:06:47 --> Model Class Initialized
+DEBUG - 2020-11-23 19:06:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:06:48 --> Model Class Initialized
+DEBUG - 2020-11-23 19:06:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:06:48 --> Model Class Initialized
+DEBUG - 2020-11-23 19:06:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:06:48 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:06:48 --> Final output sent to browser
+DEBUG - 2020-11-23 19:06:48 --> Total execution time: 0.8753
+INFO - 2020-11-23 19:06:51 --> Config Class Initialized
+INFO - 2020-11-23 19:06:51 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:06:51 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:06:51 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:06:51 --> URI Class Initialized
+INFO - 2020-11-23 19:06:51 --> Router Class Initialized
+INFO - 2020-11-23 19:06:51 --> Output Class Initialized
+INFO - 2020-11-23 19:06:51 --> Security Class Initialized
+DEBUG - 2020-11-23 19:06:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:06:51 --> Input Class Initialized
+INFO - 2020-11-23 19:06:51 --> Language Class Initialized
+INFO - 2020-11-23 19:06:51 --> Language Class Initialized
+INFO - 2020-11-23 19:06:51 --> Config Class Initialized
+INFO - 2020-11-23 19:06:51 --> Loader Class Initialized
+INFO - 2020-11-23 19:06:51 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:06:51 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:06:51 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:06:51 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:06:51 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:06:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:06:51 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:06:51 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:06:51 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:06:51 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:06:51 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:06:51 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:06:51 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:06:51 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:06:51 --> Model Class Initialized
+INFO - 2020-11-23 19:06:51 --> Model Class Initialized
+DEBUG - 2020-11-23 19:06:51 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:09:37 --> Config Class Initialized
+INFO - 2020-11-23 19:09:38 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:09:38 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:09:38 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:09:38 --> URI Class Initialized
+INFO - 2020-11-23 19:09:38 --> Router Class Initialized
+INFO - 2020-11-23 19:09:38 --> Output Class Initialized
+INFO - 2020-11-23 19:09:38 --> Security Class Initialized
+DEBUG - 2020-11-23 19:09:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:09:38 --> Input Class Initialized
+INFO - 2020-11-23 19:09:38 --> Language Class Initialized
+INFO - 2020-11-23 19:09:38 --> Language Class Initialized
+INFO - 2020-11-23 19:09:38 --> Config Class Initialized
+INFO - 2020-11-23 19:09:38 --> Loader Class Initialized
+INFO - 2020-11-23 19:09:38 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:09:38 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:09:38 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:09:38 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:09:38 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:09:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:09:38 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:09:38 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:09:38 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:09:38 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:09:38 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:09:38 --> Model Class Initialized
+DEBUG - 2020-11-23 19:09:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:09:38 --> Model Class Initialized
+DEBUG - 2020-11-23 19:09:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:09:38 --> Model Class Initialized
+DEBUG - 2020-11-23 19:09:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:09:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:09:38 --> Final output sent to browser
+DEBUG - 2020-11-23 19:09:38 --> Total execution time: 0.8929
+INFO - 2020-11-23 19:09:41 --> Config Class Initialized
+INFO - 2020-11-23 19:09:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:09:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:09:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:09:41 --> URI Class Initialized
+INFO - 2020-11-23 19:09:41 --> Router Class Initialized
+INFO - 2020-11-23 19:09:41 --> Output Class Initialized
+INFO - 2020-11-23 19:09:41 --> Security Class Initialized
+DEBUG - 2020-11-23 19:09:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:09:41 --> Input Class Initialized
+INFO - 2020-11-23 19:09:41 --> Language Class Initialized
+INFO - 2020-11-23 19:09:41 --> Language Class Initialized
+INFO - 2020-11-23 19:09:41 --> Config Class Initialized
+INFO - 2020-11-23 19:09:41 --> Loader Class Initialized
+INFO - 2020-11-23 19:09:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:09:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:09:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:09:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:09:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:09:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:09:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:09:42 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:09:42 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:09:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:09:42 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:09:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:09:42 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:09:42 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:09:42 --> Model Class Initialized
+INFO - 2020-11-23 19:09:42 --> Model Class Initialized
+DEBUG - 2020-11-23 19:09:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:09:53 --> Config Class Initialized
+INFO - 2020-11-23 19:09:54 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:09:54 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:09:54 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:09:54 --> URI Class Initialized
+INFO - 2020-11-23 19:09:54 --> Router Class Initialized
+INFO - 2020-11-23 19:09:54 --> Output Class Initialized
+INFO - 2020-11-23 19:09:54 --> Security Class Initialized
+DEBUG - 2020-11-23 19:09:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:09:54 --> Input Class Initialized
+INFO - 2020-11-23 19:09:54 --> Language Class Initialized
+INFO - 2020-11-23 19:09:54 --> Language Class Initialized
+INFO - 2020-11-23 19:09:54 --> Config Class Initialized
+INFO - 2020-11-23 19:09:54 --> Loader Class Initialized
+INFO - 2020-11-23 19:09:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:09:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:09:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:09:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:09:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:09:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:09:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:09:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:09:54 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:09:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:09:54 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:09:54 --> Model Class Initialized
+DEBUG - 2020-11-23 19:09:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:09:54 --> Model Class Initialized
+DEBUG - 2020-11-23 19:09:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:09:54 --> Model Class Initialized
+DEBUG - 2020-11-23 19:09:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:09:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:09:54 --> Final output sent to browser
+DEBUG - 2020-11-23 19:09:54 --> Total execution time: 0.9274
+INFO - 2020-11-23 19:09:55 --> Config Class Initialized
+INFO - 2020-11-23 19:09:55 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:09:56 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:09:56 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:09:56 --> URI Class Initialized
+INFO - 2020-11-23 19:09:56 --> Router Class Initialized
+INFO - 2020-11-23 19:09:56 --> Output Class Initialized
+INFO - 2020-11-23 19:09:56 --> Security Class Initialized
+DEBUG - 2020-11-23 19:09:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:09:56 --> Input Class Initialized
+INFO - 2020-11-23 19:09:56 --> Language Class Initialized
+INFO - 2020-11-23 19:09:56 --> Language Class Initialized
+INFO - 2020-11-23 19:09:56 --> Config Class Initialized
+INFO - 2020-11-23 19:09:56 --> Loader Class Initialized
+INFO - 2020-11-23 19:09:56 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:09:56 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:09:56 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:09:56 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:09:56 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:09:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:09:56 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:09:56 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:09:56 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:09:56 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:09:56 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:09:56 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:09:56 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:09:56 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:09:56 --> Model Class Initialized
+INFO - 2020-11-23 19:09:56 --> Model Class Initialized
+DEBUG - 2020-11-23 19:09:56 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:10:13 --> Config Class Initialized
+INFO - 2020-11-23 19:10:13 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:10:13 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:10:13 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:10:13 --> URI Class Initialized
+INFO - 2020-11-23 19:10:13 --> Router Class Initialized
+INFO - 2020-11-23 19:10:13 --> Output Class Initialized
+INFO - 2020-11-23 19:10:13 --> Security Class Initialized
+DEBUG - 2020-11-23 19:10:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:10:13 --> Input Class Initialized
+INFO - 2020-11-23 19:10:13 --> Language Class Initialized
+INFO - 2020-11-23 19:10:13 --> Language Class Initialized
+INFO - 2020-11-23 19:10:13 --> Config Class Initialized
+INFO - 2020-11-23 19:10:13 --> Loader Class Initialized
+INFO - 2020-11-23 19:10:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:10:13 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:10:13 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:10:13 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:10:14 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:10:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:10:14 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:10:14 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:10:14 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:10:14 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:10:14 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:10:14 --> Model Class Initialized
+DEBUG - 2020-11-23 19:10:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:10:14 --> Model Class Initialized
+DEBUG - 2020-11-23 19:10:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:10:14 --> Model Class Initialized
+DEBUG - 2020-11-23 19:10:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:10:14 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:10:14 --> Final output sent to browser
+DEBUG - 2020-11-23 19:10:14 --> Total execution time: 0.8810
+INFO - 2020-11-23 19:10:16 --> Config Class Initialized
+INFO - 2020-11-23 19:10:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:10:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:10:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:10:17 --> URI Class Initialized
+INFO - 2020-11-23 19:10:17 --> Router Class Initialized
+INFO - 2020-11-23 19:10:17 --> Output Class Initialized
+INFO - 2020-11-23 19:10:17 --> Security Class Initialized
+DEBUG - 2020-11-23 19:10:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:10:17 --> Input Class Initialized
+INFO - 2020-11-23 19:10:17 --> Language Class Initialized
+INFO - 2020-11-23 19:10:17 --> Language Class Initialized
+INFO - 2020-11-23 19:10:17 --> Config Class Initialized
+INFO - 2020-11-23 19:10:17 --> Loader Class Initialized
+INFO - 2020-11-23 19:10:17 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:10:17 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:10:17 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:10:17 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:10:17 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:10:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:10:17 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:10:17 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:10:17 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:10:17 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:10:17 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:10:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:10:17 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:10:17 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:10:17 --> Model Class Initialized
+INFO - 2020-11-23 19:10:17 --> Model Class Initialized
+DEBUG - 2020-11-23 19:10:17 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:12:57 --> Config Class Initialized
+INFO - 2020-11-23 19:12:57 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:12:57 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:12:57 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:12:57 --> URI Class Initialized
+INFO - 2020-11-23 19:12:57 --> Router Class Initialized
+INFO - 2020-11-23 19:12:57 --> Output Class Initialized
+INFO - 2020-11-23 19:12:57 --> Security Class Initialized
+DEBUG - 2020-11-23 19:12:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:12:57 --> Input Class Initialized
+INFO - 2020-11-23 19:12:57 --> Language Class Initialized
+INFO - 2020-11-23 19:12:57 --> Language Class Initialized
+INFO - 2020-11-23 19:12:57 --> Config Class Initialized
+INFO - 2020-11-23 19:12:57 --> Loader Class Initialized
+INFO - 2020-11-23 19:12:57 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:12:57 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:12:57 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:12:57 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:12:57 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:12:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:12:57 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:12:57 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:12:57 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:12:57 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:12:57 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:12:57 --> Model Class Initialized
+DEBUG - 2020-11-23 19:12:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:12:57 --> Model Class Initialized
+DEBUG - 2020-11-23 19:12:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:12:58 --> Model Class Initialized
+DEBUG - 2020-11-23 19:12:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:12:58 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:12:58 --> Final output sent to browser
+DEBUG - 2020-11-23 19:12:58 --> Total execution time: 0.9094
+INFO - 2020-11-23 19:12:59 --> Config Class Initialized
+INFO - 2020-11-23 19:12:59 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:12:59 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:12:59 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:12:59 --> URI Class Initialized
+INFO - 2020-11-23 19:12:59 --> Router Class Initialized
+INFO - 2020-11-23 19:12:59 --> Output Class Initialized
+INFO - 2020-11-23 19:12:59 --> Security Class Initialized
+DEBUG - 2020-11-23 19:12:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:12:59 --> Input Class Initialized
+INFO - 2020-11-23 19:12:59 --> Language Class Initialized
+INFO - 2020-11-23 19:12:59 --> Language Class Initialized
+INFO - 2020-11-23 19:12:59 --> Config Class Initialized
+INFO - 2020-11-23 19:12:59 --> Loader Class Initialized
+INFO - 2020-11-23 19:12:59 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:12:59 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:12:59 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:12:59 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:13:00 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:13:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:13:00 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:13:00 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:13:00 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:13:00 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:13:00 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:13:00 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:13:00 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:13:00 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:13:00 --> Model Class Initialized
+INFO - 2020-11-23 19:13:00 --> Model Class Initialized
+DEBUG - 2020-11-23 19:13:00 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:20:05 --> Config Class Initialized
+INFO - 2020-11-23 19:20:05 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:20:05 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:20:05 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:20:05 --> URI Class Initialized
+INFO - 2020-11-23 19:20:05 --> Router Class Initialized
+INFO - 2020-11-23 19:20:05 --> Output Class Initialized
+INFO - 2020-11-23 19:20:05 --> Security Class Initialized
+DEBUG - 2020-11-23 19:20:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:20:05 --> Input Class Initialized
+INFO - 2020-11-23 19:20:05 --> Language Class Initialized
+INFO - 2020-11-23 19:20:05 --> Language Class Initialized
+INFO - 2020-11-23 19:20:05 --> Config Class Initialized
+INFO - 2020-11-23 19:20:05 --> Loader Class Initialized
+INFO - 2020-11-23 19:20:06 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:20:06 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:20:06 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:20:06 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:20:06 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:20:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:20:06 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:20:06 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:20:06 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:20:06 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:20:06 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:20:06 --> Model Class Initialized
+DEBUG - 2020-11-23 19:20:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:20:06 --> Model Class Initialized
+DEBUG - 2020-11-23 19:20:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:20:06 --> Model Class Initialized
+DEBUG - 2020-11-23 19:20:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:20:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:20:06 --> Final output sent to browser
+DEBUG - 2020-11-23 19:20:06 --> Total execution time: 0.8660
+INFO - 2020-11-23 19:20:08 --> Config Class Initialized
+INFO - 2020-11-23 19:20:08 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:20:08 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:20:08 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:20:08 --> URI Class Initialized
+INFO - 2020-11-23 19:20:08 --> Router Class Initialized
+INFO - 2020-11-23 19:20:08 --> Output Class Initialized
+INFO - 2020-11-23 19:20:08 --> Security Class Initialized
+DEBUG - 2020-11-23 19:20:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:20:08 --> Input Class Initialized
+INFO - 2020-11-23 19:20:08 --> Language Class Initialized
+INFO - 2020-11-23 19:20:08 --> Language Class Initialized
+INFO - 2020-11-23 19:20:08 --> Config Class Initialized
+INFO - 2020-11-23 19:20:08 --> Loader Class Initialized
+INFO - 2020-11-23 19:20:08 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:20:08 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:20:08 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:20:08 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:20:08 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:20:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:20:08 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:20:08 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:20:08 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:20:09 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:20:09 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:20:09 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:20:09 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:20:09 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:20:09 --> Model Class Initialized
+INFO - 2020-11-23 19:20:09 --> Model Class Initialized
+DEBUG - 2020-11-23 19:20:09 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:21:29 --> Config Class Initialized
+INFO - 2020-11-23 19:21:29 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:21:29 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:21:29 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:21:29 --> URI Class Initialized
+INFO - 2020-11-23 19:21:29 --> Router Class Initialized
+INFO - 2020-11-23 19:21:30 --> Output Class Initialized
+INFO - 2020-11-23 19:21:30 --> Security Class Initialized
+DEBUG - 2020-11-23 19:21:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:21:30 --> Input Class Initialized
+INFO - 2020-11-23 19:21:30 --> Language Class Initialized
+INFO - 2020-11-23 19:21:30 --> Language Class Initialized
+INFO - 2020-11-23 19:21:30 --> Config Class Initialized
+INFO - 2020-11-23 19:21:30 --> Loader Class Initialized
+INFO - 2020-11-23 19:21:30 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:21:30 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:21:30 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:21:30 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:21:30 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:21:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:21:30 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:21:30 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:21:30 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:21:30 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:21:30 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:21:30 --> Model Class Initialized
+DEBUG - 2020-11-23 19:21:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:21:30 --> Model Class Initialized
+DEBUG - 2020-11-23 19:21:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:21:30 --> Model Class Initialized
+DEBUG - 2020-11-23 19:21:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:21:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:21:30 --> Final output sent to browser
+DEBUG - 2020-11-23 19:21:30 --> Total execution time: 0.9076
+INFO - 2020-11-23 19:21:54 --> Config Class Initialized
+INFO - 2020-11-23 19:21:54 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:21:54 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:21:54 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:21:54 --> URI Class Initialized
+INFO - 2020-11-23 19:21:54 --> Router Class Initialized
+INFO - 2020-11-23 19:21:54 --> Output Class Initialized
+INFO - 2020-11-23 19:21:54 --> Security Class Initialized
+DEBUG - 2020-11-23 19:21:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:21:54 --> Input Class Initialized
+INFO - 2020-11-23 19:21:54 --> Language Class Initialized
+INFO - 2020-11-23 19:21:54 --> Language Class Initialized
+INFO - 2020-11-23 19:21:54 --> Config Class Initialized
+INFO - 2020-11-23 19:21:54 --> Loader Class Initialized
+INFO - 2020-11-23 19:21:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:21:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:21:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:21:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:21:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:21:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:21:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:21:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:21:54 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:21:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:21:54 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:21:54 --> Model Class Initialized
+DEBUG - 2020-11-23 19:21:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:21:54 --> Model Class Initialized
+DEBUG - 2020-11-23 19:21:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:21:54 --> Model Class Initialized
+DEBUG - 2020-11-23 19:21:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:21:55 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:21:55 --> Final output sent to browser
+DEBUG - 2020-11-23 19:21:55 --> Total execution time: 0.9115
+INFO - 2020-11-23 19:21:56 --> Config Class Initialized
+INFO - 2020-11-23 19:21:56 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:21:56 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:21:56 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:21:56 --> URI Class Initialized
+INFO - 2020-11-23 19:21:56 --> Router Class Initialized
+INFO - 2020-11-23 19:21:56 --> Output Class Initialized
+INFO - 2020-11-23 19:21:56 --> Security Class Initialized
+DEBUG - 2020-11-23 19:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:21:56 --> Input Class Initialized
+INFO - 2020-11-23 19:21:56 --> Language Class Initialized
+INFO - 2020-11-23 19:21:56 --> Language Class Initialized
+INFO - 2020-11-23 19:21:56 --> Config Class Initialized
+INFO - 2020-11-23 19:21:56 --> Loader Class Initialized
+INFO - 2020-11-23 19:21:56 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:21:56 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:21:56 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:21:57 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:21:57 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:21:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:21:57 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:21:57 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:21:57 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:21:57 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:21:57 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:21:57 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:21:57 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:21:57 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:21:57 --> Model Class Initialized
+INFO - 2020-11-23 19:21:57 --> Model Class Initialized
+DEBUG - 2020-11-23 19:21:57 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:21:57 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 19:21:57 --> Final output sent to browser
+DEBUG - 2020-11-23 19:21:57 --> Total execution time: 0.8780
+INFO - 2020-11-23 19:26:34 --> Config Class Initialized
+INFO - 2020-11-23 19:26:34 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:26:34 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:26:34 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:26:34 --> URI Class Initialized
+INFO - 2020-11-23 19:26:34 --> Router Class Initialized
+INFO - 2020-11-23 19:26:34 --> Output Class Initialized
+INFO - 2020-11-23 19:26:34 --> Security Class Initialized
+DEBUG - 2020-11-23 19:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:26:34 --> Input Class Initialized
+INFO - 2020-11-23 19:26:34 --> Language Class Initialized
+INFO - 2020-11-23 19:26:34 --> Language Class Initialized
+INFO - 2020-11-23 19:26:34 --> Config Class Initialized
+INFO - 2020-11-23 19:26:35 --> Loader Class Initialized
+INFO - 2020-11-23 19:26:35 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:26:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:26:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:26:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:26:35 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:26:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:26:35 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:26:35 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:26:35 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:26:35 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:26:35 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:26:35 --> Model Class Initialized
+DEBUG - 2020-11-23 19:26:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:26:35 --> Model Class Initialized
+DEBUG - 2020-11-23 19:26:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:26:35 --> Model Class Initialized
+DEBUG - 2020-11-23 19:26:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:26:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:26:35 --> Final output sent to browser
+DEBUG - 2020-11-23 19:26:35 --> Total execution time: 0.9452
+INFO - 2020-11-23 19:26:38 --> Config Class Initialized
+INFO - 2020-11-23 19:26:38 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:26:38 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:26:38 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:26:38 --> URI Class Initialized
+INFO - 2020-11-23 19:26:39 --> Router Class Initialized
+INFO - 2020-11-23 19:26:39 --> Output Class Initialized
+INFO - 2020-11-23 19:26:39 --> Security Class Initialized
+DEBUG - 2020-11-23 19:26:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:26:39 --> Input Class Initialized
+INFO - 2020-11-23 19:26:39 --> Language Class Initialized
+INFO - 2020-11-23 19:26:39 --> Language Class Initialized
+INFO - 2020-11-23 19:26:39 --> Config Class Initialized
+INFO - 2020-11-23 19:26:39 --> Loader Class Initialized
+INFO - 2020-11-23 19:26:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:26:39 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:26:39 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:26:39 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:26:39 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:26:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:26:39 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:26:39 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:26:39 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:26:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:26:39 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:26:39 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:26:39 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:26:39 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:26:39 --> Model Class Initialized
+INFO - 2020-11-23 19:26:39 --> Model Class Initialized
+DEBUG - 2020-11-23 19:26:39 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:26:39 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 19:26:39 --> Final output sent to browser
+DEBUG - 2020-11-23 19:26:39 --> Total execution time: 0.8749
+INFO - 2020-11-23 19:27:05 --> Config Class Initialized
+INFO - 2020-11-23 19:27:05 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:27:05 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:27:05 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:27:05 --> URI Class Initialized
+INFO - 2020-11-23 19:27:05 --> Router Class Initialized
+INFO - 2020-11-23 19:27:05 --> Output Class Initialized
+INFO - 2020-11-23 19:27:05 --> Security Class Initialized
+DEBUG - 2020-11-23 19:27:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:27:05 --> Input Class Initialized
+INFO - 2020-11-23 19:27:05 --> Language Class Initialized
+INFO - 2020-11-23 19:27:05 --> Language Class Initialized
+INFO - 2020-11-23 19:27:05 --> Config Class Initialized
+INFO - 2020-11-23 19:27:05 --> Loader Class Initialized
+INFO - 2020-11-23 19:27:05 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:27:05 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:27:05 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:27:05 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:27:05 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:27:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:27:05 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:27:05 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:27:05 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:27:05 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:27:05 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:27:05 --> Model Class Initialized
+DEBUG - 2020-11-23 19:27:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:27:05 --> Model Class Initialized
+DEBUG - 2020-11-23 19:27:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:27:05 --> Model Class Initialized
+DEBUG - 2020-11-23 19:27:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:27:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:27:05 --> Final output sent to browser
+DEBUG - 2020-11-23 19:27:06 --> Total execution time: 0.9031
+INFO - 2020-11-23 19:27:07 --> Config Class Initialized
+INFO - 2020-11-23 19:27:07 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:27:07 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:27:07 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:27:07 --> URI Class Initialized
+INFO - 2020-11-23 19:27:07 --> Router Class Initialized
+INFO - 2020-11-23 19:27:07 --> Output Class Initialized
+INFO - 2020-11-23 19:27:07 --> Security Class Initialized
+DEBUG - 2020-11-23 19:27:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:27:07 --> Input Class Initialized
+INFO - 2020-11-23 19:27:07 --> Language Class Initialized
+INFO - 2020-11-23 19:27:07 --> Language Class Initialized
+INFO - 2020-11-23 19:27:07 --> Config Class Initialized
+INFO - 2020-11-23 19:27:07 --> Loader Class Initialized
+INFO - 2020-11-23 19:27:07 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:27:07 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:27:07 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:27:07 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:27:07 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:27:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:27:07 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:27:07 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:27:07 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:27:07 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:27:07 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:27:07 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:27:08 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:27:08 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:27:08 --> Model Class Initialized
+INFO - 2020-11-23 19:27:08 --> Model Class Initialized
+DEBUG - 2020-11-23 19:27:08 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:28:50 --> Config Class Initialized
+INFO - 2020-11-23 19:28:50 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:28:50 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:28:50 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:28:50 --> URI Class Initialized
+INFO - 2020-11-23 19:28:50 --> Router Class Initialized
+INFO - 2020-11-23 19:28:50 --> Output Class Initialized
+INFO - 2020-11-23 19:28:50 --> Security Class Initialized
+DEBUG - 2020-11-23 19:28:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:28:50 --> Input Class Initialized
+INFO - 2020-11-23 19:28:50 --> Language Class Initialized
+INFO - 2020-11-23 19:28:50 --> Language Class Initialized
+INFO - 2020-11-23 19:28:50 --> Config Class Initialized
+INFO - 2020-11-23 19:28:50 --> Loader Class Initialized
+INFO - 2020-11-23 19:28:50 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:28:50 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:28:50 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:28:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:28:51 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:28:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:28:51 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:28:51 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:28:51 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:28:51 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:28:51 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:28:51 --> Model Class Initialized
+DEBUG - 2020-11-23 19:28:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:28:51 --> Model Class Initialized
+DEBUG - 2020-11-23 19:28:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:28:51 --> Model Class Initialized
+DEBUG - 2020-11-23 19:28:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:28:51 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:28:51 --> Final output sent to browser
+DEBUG - 2020-11-23 19:28:51 --> Total execution time: 0.9440
+INFO - 2020-11-23 19:28:53 --> Config Class Initialized
+INFO - 2020-11-23 19:28:53 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:28:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:28:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:28:53 --> URI Class Initialized
+INFO - 2020-11-23 19:28:53 --> Router Class Initialized
+INFO - 2020-11-23 19:28:53 --> Output Class Initialized
+INFO - 2020-11-23 19:28:53 --> Security Class Initialized
+DEBUG - 2020-11-23 19:28:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:28:53 --> Input Class Initialized
+INFO - 2020-11-23 19:28:53 --> Language Class Initialized
+INFO - 2020-11-23 19:28:53 --> Language Class Initialized
+INFO - 2020-11-23 19:28:53 --> Config Class Initialized
+INFO - 2020-11-23 19:28:54 --> Loader Class Initialized
+INFO - 2020-11-23 19:28:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:28:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:28:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:28:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:28:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:28:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:28:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:28:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:28:54 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:28:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:28:54 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:28:54 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:28:54 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:28:54 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:28:54 --> Model Class Initialized
+INFO - 2020-11-23 19:28:54 --> Model Class Initialized
+DEBUG - 2020-11-23 19:28:54 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 19:28:54 --> Severity: Notice --> Undefined property: CI::$Category_model C:\xampp\htdocs\hmvc\application\third_party\MX\Controller.php 59
+ERROR - 2020-11-23 19:28:54 --> Severity: error --> Exception: Call to a member function findBySlug() on null C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 226
+ERROR - 2020-11-23 19:28:54 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 19:34:15 --> Config Class Initialized
+INFO - 2020-11-23 19:34:15 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:34:15 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:34:15 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:34:15 --> URI Class Initialized
+INFO - 2020-11-23 19:34:15 --> Router Class Initialized
+INFO - 2020-11-23 19:34:15 --> Output Class Initialized
+INFO - 2020-11-23 19:34:15 --> Security Class Initialized
+DEBUG - 2020-11-23 19:34:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:34:15 --> Input Class Initialized
+INFO - 2020-11-23 19:34:15 --> Language Class Initialized
+INFO - 2020-11-23 19:34:15 --> Language Class Initialized
+INFO - 2020-11-23 19:34:15 --> Config Class Initialized
+INFO - 2020-11-23 19:34:15 --> Loader Class Initialized
+INFO - 2020-11-23 19:34:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:34:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:34:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:34:15 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:34:15 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:34:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:34:15 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:34:15 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:34:15 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:34:15 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:34:15 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:34:16 --> Model Class Initialized
+DEBUG - 2020-11-23 19:34:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:34:16 --> Model Class Initialized
+DEBUG - 2020-11-23 19:34:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:34:16 --> Model Class Initialized
+DEBUG - 2020-11-23 19:34:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:34:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:34:16 --> Final output sent to browser
+DEBUG - 2020-11-23 19:34:16 --> Total execution time: 0.8849
+INFO - 2020-11-23 19:34:17 --> Config Class Initialized
+INFO - 2020-11-23 19:34:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:34:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:34:17 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:34:18 --> URI Class Initialized
+INFO - 2020-11-23 19:34:18 --> Router Class Initialized
+INFO - 2020-11-23 19:34:18 --> Output Class Initialized
+INFO - 2020-11-23 19:34:18 --> Security Class Initialized
+DEBUG - 2020-11-23 19:34:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:34:18 --> Input Class Initialized
+INFO - 2020-11-23 19:34:18 --> Language Class Initialized
+INFO - 2020-11-23 19:34:18 --> Language Class Initialized
+INFO - 2020-11-23 19:34:18 --> Config Class Initialized
+INFO - 2020-11-23 19:34:18 --> Loader Class Initialized
+INFO - 2020-11-23 19:34:18 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:34:18 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:34:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:34:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:34:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:34:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:34:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:34:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:34:18 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:34:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:34:18 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:34:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:34:18 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:34:18 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:34:18 --> Model Class Initialized
+INFO - 2020-11-23 19:34:18 --> Model Class Initialized
+DEBUG - 2020-11-23 19:34:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 19:34:18 --> Severity: Notice --> Undefined property: CI::$Category_model C:\xampp\htdocs\hmvc\application\third_party\MX\Controller.php 59
+ERROR - 2020-11-23 19:34:18 --> Severity: error --> Exception: Call to a member function findBySlug() on null C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 226
+ERROR - 2020-11-23 19:34:18 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 19:34:31 --> Config Class Initialized
+INFO - 2020-11-23 19:34:31 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:34:31 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:34:31 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:34:31 --> URI Class Initialized
+INFO - 2020-11-23 19:34:31 --> Router Class Initialized
+INFO - 2020-11-23 19:34:31 --> Output Class Initialized
+INFO - 2020-11-23 19:34:31 --> Security Class Initialized
+DEBUG - 2020-11-23 19:34:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:34:31 --> Input Class Initialized
+INFO - 2020-11-23 19:34:31 --> Language Class Initialized
+INFO - 2020-11-23 19:34:31 --> Language Class Initialized
+INFO - 2020-11-23 19:34:31 --> Config Class Initialized
+INFO - 2020-11-23 19:34:31 --> Loader Class Initialized
+INFO - 2020-11-23 19:34:31 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:34:31 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:34:31 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:34:31 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:34:31 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:34:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:34:31 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:34:31 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:34:31 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:34:31 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:34:31 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:34:31 --> Model Class Initialized
+DEBUG - 2020-11-23 19:34:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:34:31 --> Model Class Initialized
+DEBUG - 2020-11-23 19:34:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:34:31 --> Model Class Initialized
+DEBUG - 2020-11-23 19:34:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:34:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:34:31 --> Final output sent to browser
+DEBUG - 2020-11-23 19:34:32 --> Total execution time: 0.9325
+INFO - 2020-11-23 19:34:33 --> Config Class Initialized
+INFO - 2020-11-23 19:34:33 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:34:33 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:34:33 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:34:33 --> URI Class Initialized
+INFO - 2020-11-23 19:34:33 --> Router Class Initialized
+INFO - 2020-11-23 19:34:33 --> Output Class Initialized
+INFO - 2020-11-23 19:34:33 --> Security Class Initialized
+DEBUG - 2020-11-23 19:34:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:34:33 --> Input Class Initialized
+INFO - 2020-11-23 19:34:33 --> Language Class Initialized
+INFO - 2020-11-23 19:34:33 --> Language Class Initialized
+INFO - 2020-11-23 19:34:33 --> Config Class Initialized
+INFO - 2020-11-23 19:34:33 --> Loader Class Initialized
+INFO - 2020-11-23 19:34:33 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:34:33 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:34:33 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:34:33 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:34:33 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:34:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:34:33 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:34:33 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:34:33 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:34:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:34:34 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:34:34 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:34:34 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:34:34 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:34:34 --> Model Class Initialized
+INFO - 2020-11-23 19:34:34 --> Model Class Initialized
+DEBUG - 2020-11-23 19:34:34 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 19:34:34 --> Severity: Notice --> Undefined property: CI::$Category_model C:\xampp\htdocs\hmvc\application\third_party\MX\Controller.php 59
+ERROR - 2020-11-23 19:34:34 --> Severity: error --> Exception: Call to a member function findBySlug() on null C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 226
+ERROR - 2020-11-23 19:34:34 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 19:35:24 --> Config Class Initialized
+INFO - 2020-11-23 19:35:25 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:35:25 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:35:25 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:35:25 --> URI Class Initialized
+INFO - 2020-11-23 19:35:25 --> Router Class Initialized
+INFO - 2020-11-23 19:35:25 --> Output Class Initialized
+INFO - 2020-11-23 19:35:25 --> Security Class Initialized
+DEBUG - 2020-11-23 19:35:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:35:25 --> Input Class Initialized
+INFO - 2020-11-23 19:35:25 --> Language Class Initialized
+INFO - 2020-11-23 19:35:25 --> Language Class Initialized
+INFO - 2020-11-23 19:35:25 --> Config Class Initialized
+INFO - 2020-11-23 19:35:25 --> Loader Class Initialized
+INFO - 2020-11-23 19:35:25 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:35:25 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:35:25 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:35:25 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:35:25 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:35:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:35:25 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:35:25 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:35:25 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:35:25 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:35:25 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:35:25 --> Model Class Initialized
+DEBUG - 2020-11-23 19:35:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:35:25 --> Model Class Initialized
+DEBUG - 2020-11-23 19:35:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:35:25 --> Model Class Initialized
+DEBUG - 2020-11-23 19:35:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:35:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:35:25 --> Final output sent to browser
+DEBUG - 2020-11-23 19:35:25 --> Total execution time: 0.8898
+INFO - 2020-11-23 19:35:27 --> Config Class Initialized
+INFO - 2020-11-23 19:35:27 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:35:27 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:35:27 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:35:27 --> URI Class Initialized
+INFO - 2020-11-23 19:35:27 --> Router Class Initialized
+INFO - 2020-11-23 19:35:27 --> Output Class Initialized
+INFO - 2020-11-23 19:35:27 --> Security Class Initialized
+DEBUG - 2020-11-23 19:35:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:35:27 --> Input Class Initialized
+INFO - 2020-11-23 19:35:27 --> Language Class Initialized
+INFO - 2020-11-23 19:35:27 --> Language Class Initialized
+INFO - 2020-11-23 19:35:27 --> Config Class Initialized
+INFO - 2020-11-23 19:35:27 --> Loader Class Initialized
+INFO - 2020-11-23 19:35:27 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:35:27 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:35:27 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:35:27 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:35:27 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:35:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:35:27 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:35:27 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:35:27 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:35:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:35:27 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:35:27 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:35:28 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:35:28 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:35:28 --> Model Class Initialized
+INFO - 2020-11-23 19:35:28 --> Model Class Initialized
+DEBUG - 2020-11-23 19:35:28 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 19:35:28 --> Severity: Notice --> Undefined property: CI::$Category_model C:\xampp\htdocs\hmvc\application\third_party\MX\Controller.php 59
+ERROR - 2020-11-23 19:35:28 --> Severity: error --> Exception: Call to a member function findBySlug() on null C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 226
+ERROR - 2020-11-23 19:35:28 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 19:35:49 --> Config Class Initialized
+INFO - 2020-11-23 19:35:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:35:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:35:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:35:49 --> URI Class Initialized
+INFO - 2020-11-23 19:35:49 --> Router Class Initialized
+INFO - 2020-11-23 19:35:49 --> Output Class Initialized
+INFO - 2020-11-23 19:35:49 --> Security Class Initialized
+DEBUG - 2020-11-23 19:35:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:35:49 --> Input Class Initialized
+INFO - 2020-11-23 19:35:49 --> Language Class Initialized
+INFO - 2020-11-23 19:35:49 --> Language Class Initialized
+INFO - 2020-11-23 19:35:49 --> Config Class Initialized
+INFO - 2020-11-23 19:35:49 --> Loader Class Initialized
+INFO - 2020-11-23 19:35:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:35:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:35:49 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:35:49 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:35:49 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:35:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:35:49 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:35:49 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:35:49 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:35:49 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:35:49 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:35:49 --> Model Class Initialized
+DEBUG - 2020-11-23 19:35:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:35:49 --> Model Class Initialized
+DEBUG - 2020-11-23 19:35:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:35:49 --> Model Class Initialized
+DEBUG - 2020-11-23 19:35:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:35:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:35:50 --> Final output sent to browser
+DEBUG - 2020-11-23 19:35:50 --> Total execution time: 0.9056
+INFO - 2020-11-23 19:35:52 --> Config Class Initialized
+INFO - 2020-11-23 19:35:52 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:35:52 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:35:52 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:35:52 --> URI Class Initialized
+INFO - 2020-11-23 19:35:52 --> Router Class Initialized
+INFO - 2020-11-23 19:35:52 --> Output Class Initialized
+INFO - 2020-11-23 19:35:52 --> Security Class Initialized
+DEBUG - 2020-11-23 19:35:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:35:52 --> Input Class Initialized
+INFO - 2020-11-23 19:35:52 --> Language Class Initialized
+INFO - 2020-11-23 19:35:52 --> Language Class Initialized
+INFO - 2020-11-23 19:35:52 --> Config Class Initialized
+INFO - 2020-11-23 19:35:52 --> Loader Class Initialized
+INFO - 2020-11-23 19:35:52 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:35:52 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:35:52 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:35:52 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:35:52 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:35:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:35:52 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:35:52 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:35:52 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:35:52 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:35:52 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:35:52 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:35:52 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:35:53 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:35:53 --> Model Class Initialized
+INFO - 2020-11-23 19:35:53 --> Model Class Initialized
+DEBUG - 2020-11-23 19:35:53 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:36:29 --> Config Class Initialized
+INFO - 2020-11-23 19:36:29 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:36:29 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:36:29 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:36:29 --> URI Class Initialized
+INFO - 2020-11-23 19:36:29 --> Router Class Initialized
+INFO - 2020-11-23 19:36:29 --> Output Class Initialized
+INFO - 2020-11-23 19:36:29 --> Security Class Initialized
+DEBUG - 2020-11-23 19:36:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:36:29 --> Input Class Initialized
+INFO - 2020-11-23 19:36:29 --> Language Class Initialized
+INFO - 2020-11-23 19:36:29 --> Language Class Initialized
+INFO - 2020-11-23 19:36:29 --> Config Class Initialized
+INFO - 2020-11-23 19:36:29 --> Loader Class Initialized
+INFO - 2020-11-23 19:36:29 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:36:29 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:36:29 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:36:29 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:36:29 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:36:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:36:29 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:36:29 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:36:29 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:36:29 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:36:29 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:36:29 --> Model Class Initialized
+DEBUG - 2020-11-23 19:36:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:36:29 --> Model Class Initialized
+DEBUG - 2020-11-23 19:36:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:36:30 --> Model Class Initialized
+DEBUG - 2020-11-23 19:36:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:36:30 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:36:30 --> Final output sent to browser
+DEBUG - 2020-11-23 19:36:30 --> Total execution time: 0.9071
+INFO - 2020-11-23 19:36:32 --> Config Class Initialized
+INFO - 2020-11-23 19:36:32 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:36:32 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:36:32 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:36:32 --> URI Class Initialized
+INFO - 2020-11-23 19:36:32 --> Router Class Initialized
+INFO - 2020-11-23 19:36:32 --> Output Class Initialized
+INFO - 2020-11-23 19:36:32 --> Security Class Initialized
+DEBUG - 2020-11-23 19:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:36:32 --> Input Class Initialized
+INFO - 2020-11-23 19:36:32 --> Language Class Initialized
+INFO - 2020-11-23 19:36:32 --> Language Class Initialized
+INFO - 2020-11-23 19:36:32 --> Config Class Initialized
+INFO - 2020-11-23 19:36:32 --> Loader Class Initialized
+INFO - 2020-11-23 19:36:32 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:36:32 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:36:32 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:36:32 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:36:32 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:36:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:36:32 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:36:32 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:36:32 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:36:32 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:36:32 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:36:32 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:36:33 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:36:33 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:36:33 --> Model Class Initialized
+INFO - 2020-11-23 19:36:33 --> Model Class Initialized
+DEBUG - 2020-11-23 19:36:33 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:36:33 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 19:36:33 --> Final output sent to browser
+DEBUG - 2020-11-23 19:36:33 --> Total execution time: 0.8737
+INFO - 2020-11-23 19:37:06 --> Config Class Initialized
+INFO - 2020-11-23 19:37:06 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:37:06 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:37:06 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:37:06 --> URI Class Initialized
+INFO - 2020-11-23 19:37:06 --> Router Class Initialized
+INFO - 2020-11-23 19:37:06 --> Output Class Initialized
+INFO - 2020-11-23 19:37:06 --> Security Class Initialized
+DEBUG - 2020-11-23 19:37:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:37:06 --> Input Class Initialized
+INFO - 2020-11-23 19:37:06 --> Language Class Initialized
+INFO - 2020-11-23 19:37:06 --> Language Class Initialized
+INFO - 2020-11-23 19:37:06 --> Config Class Initialized
+INFO - 2020-11-23 19:37:06 --> Loader Class Initialized
+INFO - 2020-11-23 19:37:06 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:37:06 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:37:06 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:37:06 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:37:06 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:37:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:37:06 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:37:06 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:37:06 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:37:06 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:37:06 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:37:06 --> Model Class Initialized
+DEBUG - 2020-11-23 19:37:06 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:37:06 --> Model Class Initialized
+DEBUG - 2020-11-23 19:37:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:37:07 --> Model Class Initialized
+DEBUG - 2020-11-23 19:37:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:37:07 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:37:07 --> Final output sent to browser
+DEBUG - 2020-11-23 19:37:07 --> Total execution time: 0.9051
+INFO - 2020-11-23 19:37:09 --> Config Class Initialized
+INFO - 2020-11-23 19:37:09 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:37:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:37:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:37:09 --> URI Class Initialized
+INFO - 2020-11-23 19:37:09 --> Router Class Initialized
+INFO - 2020-11-23 19:37:09 --> Output Class Initialized
+INFO - 2020-11-23 19:37:09 --> Security Class Initialized
+DEBUG - 2020-11-23 19:37:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:37:10 --> Input Class Initialized
+INFO - 2020-11-23 19:37:10 --> Language Class Initialized
+INFO - 2020-11-23 19:37:10 --> Language Class Initialized
+INFO - 2020-11-23 19:37:10 --> Config Class Initialized
+INFO - 2020-11-23 19:37:10 --> Loader Class Initialized
+INFO - 2020-11-23 19:37:10 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:37:10 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:37:10 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:37:10 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:37:10 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:37:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:37:10 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:37:10 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:37:10 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:37:10 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:37:10 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:37:10 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:37:10 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:37:10 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:37:10 --> Model Class Initialized
+INFO - 2020-11-23 19:37:10 --> Model Class Initialized
+DEBUG - 2020-11-23 19:37:10 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:37:10 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 19:37:10 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'الیاف مصنوعی'
+ LIMIT 1
+INFO - 2020-11-23 19:37:10 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 19:39:59 --> Config Class Initialized
+INFO - 2020-11-23 19:39:59 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:39:59 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:39:59 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:39:59 --> URI Class Initialized
+INFO - 2020-11-23 19:39:59 --> Router Class Initialized
+INFO - 2020-11-23 19:39:59 --> Output Class Initialized
+INFO - 2020-11-23 19:39:59 --> Security Class Initialized
+DEBUG - 2020-11-23 19:39:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:39:59 --> Input Class Initialized
+INFO - 2020-11-23 19:39:59 --> Language Class Initialized
+INFO - 2020-11-23 19:39:59 --> Language Class Initialized
+INFO - 2020-11-23 19:39:59 --> Config Class Initialized
+INFO - 2020-11-23 19:39:59 --> Loader Class Initialized
+INFO - 2020-11-23 19:39:59 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:39:59 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:39:59 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:39:59 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:39:59 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:39:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:39:59 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:39:59 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:39:59 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:39:59 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:39:59 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:39:59 --> Model Class Initialized
+DEBUG - 2020-11-23 19:39:59 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:39:59 --> Model Class Initialized
+DEBUG - 2020-11-23 19:39:59 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:39:59 --> Model Class Initialized
+DEBUG - 2020-11-23 19:39:59 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:39:59 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:39:59 --> Final output sent to browser
+DEBUG - 2020-11-23 19:39:59 --> Total execution time: 0.8990
+INFO - 2020-11-23 19:40:01 --> Config Class Initialized
+INFO - 2020-11-23 19:40:01 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:40:01 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:40:01 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:40:01 --> URI Class Initialized
+INFO - 2020-11-23 19:40:01 --> Router Class Initialized
+INFO - 2020-11-23 19:40:01 --> Output Class Initialized
+INFO - 2020-11-23 19:40:02 --> Security Class Initialized
+DEBUG - 2020-11-23 19:40:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:40:02 --> Input Class Initialized
+INFO - 2020-11-23 19:40:02 --> Language Class Initialized
+INFO - 2020-11-23 19:40:02 --> Language Class Initialized
+INFO - 2020-11-23 19:40:02 --> Config Class Initialized
+INFO - 2020-11-23 19:40:02 --> Loader Class Initialized
+INFO - 2020-11-23 19:40:02 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:40:02 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:40:02 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:40:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:40:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:40:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:40:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:40:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:40:02 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:40:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:40:02 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:40:02 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:40:02 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:40:02 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:40:02 --> Model Class Initialized
+INFO - 2020-11-23 19:40:02 --> Model Class Initialized
+DEBUG - 2020-11-23 19:40:02 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:40:02 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 19:40:02 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'الیاف مصنوعی'
+ LIMIT 1
+INFO - 2020-11-23 19:40:02 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 19:41:04 --> Config Class Initialized
+INFO - 2020-11-23 19:41:04 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:41:04 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:41:04 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:41:04 --> URI Class Initialized
+INFO - 2020-11-23 19:41:04 --> Router Class Initialized
+INFO - 2020-11-23 19:41:04 --> Output Class Initialized
+INFO - 2020-11-23 19:41:04 --> Security Class Initialized
+DEBUG - 2020-11-23 19:41:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:41:04 --> Input Class Initialized
+INFO - 2020-11-23 19:41:04 --> Language Class Initialized
+INFO - 2020-11-23 19:41:04 --> Language Class Initialized
+INFO - 2020-11-23 19:41:04 --> Config Class Initialized
+INFO - 2020-11-23 19:41:05 --> Loader Class Initialized
+INFO - 2020-11-23 19:41:05 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:41:05 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:41:05 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:41:05 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:41:05 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:41:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:41:05 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:41:05 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:41:05 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:05 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:41:05 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:41:05 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:41:05 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:41:05 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:41:05 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:41:05 --> Final output sent to browser
+DEBUG - 2020-11-23 19:41:05 --> Total execution time: 0.9192
+INFO - 2020-11-23 19:41:07 --> Config Class Initialized
+INFO - 2020-11-23 19:41:07 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:41:07 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:41:07 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:41:07 --> URI Class Initialized
+INFO - 2020-11-23 19:41:07 --> Router Class Initialized
+INFO - 2020-11-23 19:41:07 --> Output Class Initialized
+INFO - 2020-11-23 19:41:07 --> Security Class Initialized
+DEBUG - 2020-11-23 19:41:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:41:07 --> Input Class Initialized
+INFO - 2020-11-23 19:41:07 --> Language Class Initialized
+INFO - 2020-11-23 19:41:07 --> Language Class Initialized
+INFO - 2020-11-23 19:41:07 --> Config Class Initialized
+INFO - 2020-11-23 19:41:07 --> Loader Class Initialized
+INFO - 2020-11-23 19:41:07 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:41:07 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:41:07 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:41:07 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:41:07 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:41:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:41:07 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:41:07 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:41:07 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:07 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:41:07 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:07 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:41:07 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:41:07 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:41:07 --> Model Class Initialized
+INFO - 2020-11-23 19:41:07 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:08 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:41:08 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 19:41:08 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'الیاف مصنوعی'
+ LIMIT 1
+INFO - 2020-11-23 19:41:08 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 19:41:21 --> Config Class Initialized
+INFO - 2020-11-23 19:41:21 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:41:21 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:41:21 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:41:21 --> URI Class Initialized
+INFO - 2020-11-23 19:41:21 --> Router Class Initialized
+INFO - 2020-11-23 19:41:21 --> Output Class Initialized
+INFO - 2020-11-23 19:41:21 --> Security Class Initialized
+DEBUG - 2020-11-23 19:41:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:41:21 --> Input Class Initialized
+INFO - 2020-11-23 19:41:21 --> Language Class Initialized
+INFO - 2020-11-23 19:41:21 --> Language Class Initialized
+INFO - 2020-11-23 19:41:21 --> Config Class Initialized
+INFO - 2020-11-23 19:41:21 --> Loader Class Initialized
+INFO - 2020-11-23 19:41:21 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:41:21 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:41:21 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:41:21 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:41:21 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:41:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:41:22 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:41:22 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:41:22 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:22 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:41:22 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:41:22 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:41:22 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:41:22 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:41:22 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:41:22 --> Final output sent to browser
+DEBUG - 2020-11-23 19:41:22 --> Total execution time: 0.9211
+INFO - 2020-11-23 19:41:24 --> Config Class Initialized
+INFO - 2020-11-23 19:41:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:41:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:41:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:41:24 --> URI Class Initialized
+INFO - 2020-11-23 19:41:24 --> Router Class Initialized
+INFO - 2020-11-23 19:41:24 --> Output Class Initialized
+INFO - 2020-11-23 19:41:24 --> Security Class Initialized
+DEBUG - 2020-11-23 19:41:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:41:24 --> Input Class Initialized
+INFO - 2020-11-23 19:41:24 --> Language Class Initialized
+INFO - 2020-11-23 19:41:24 --> Language Class Initialized
+INFO - 2020-11-23 19:41:24 --> Config Class Initialized
+INFO - 2020-11-23 19:41:24 --> Loader Class Initialized
+INFO - 2020-11-23 19:41:25 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:41:25 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:41:25 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:41:25 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:41:25 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:41:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:41:25 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:41:25 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:41:25 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:25 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:41:25 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:25 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:41:25 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:41:25 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:41:25 --> Model Class Initialized
+INFO - 2020-11-23 19:41:25 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:25 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:41:25 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 19:41:25 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'الیاف مصنوعی'
+ LIMIT 1
+INFO - 2020-11-23 19:41:25 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 19:41:43 --> Config Class Initialized
+INFO - 2020-11-23 19:41:43 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:41:43 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:41:43 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:41:43 --> URI Class Initialized
+INFO - 2020-11-23 19:41:43 --> Router Class Initialized
+INFO - 2020-11-23 19:41:43 --> Output Class Initialized
+INFO - 2020-11-23 19:41:43 --> Security Class Initialized
+DEBUG - 2020-11-23 19:41:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:41:43 --> Input Class Initialized
+INFO - 2020-11-23 19:41:43 --> Language Class Initialized
+INFO - 2020-11-23 19:41:43 --> Language Class Initialized
+INFO - 2020-11-23 19:41:43 --> Config Class Initialized
+INFO - 2020-11-23 19:41:43 --> Loader Class Initialized
+INFO - 2020-11-23 19:41:43 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:41:43 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:41:43 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:41:43 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:41:43 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:41:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:41:43 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:41:43 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:41:43 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:43 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:41:43 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:41:43 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:41:43 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:41:43 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:41:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:41:43 --> Final output sent to browser
+DEBUG - 2020-11-23 19:41:44 --> Total execution time: 0.9011
+INFO - 2020-11-23 19:41:45 --> Config Class Initialized
+INFO - 2020-11-23 19:41:45 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:41:45 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:41:45 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:41:45 --> URI Class Initialized
+INFO - 2020-11-23 19:41:45 --> Router Class Initialized
+INFO - 2020-11-23 19:41:45 --> Output Class Initialized
+INFO - 2020-11-23 19:41:45 --> Security Class Initialized
+DEBUG - 2020-11-23 19:41:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:41:45 --> Input Class Initialized
+INFO - 2020-11-23 19:41:45 --> Language Class Initialized
+INFO - 2020-11-23 19:41:45 --> Language Class Initialized
+INFO - 2020-11-23 19:41:45 --> Config Class Initialized
+INFO - 2020-11-23 19:41:45 --> Loader Class Initialized
+INFO - 2020-11-23 19:41:45 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:41:45 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:41:45 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:41:45 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:41:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:41:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:41:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:41:46 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:41:46 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:46 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:41:46 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:41:46 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:41:46 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:41:46 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:41:46 --> Model Class Initialized
+INFO - 2020-11-23 19:41:46 --> Model Class Initialized
+DEBUG - 2020-11-23 19:41:46 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:41:46 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 19:41:46 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'الیاف مصنوعی'
+ LIMIT 1
+INFO - 2020-11-23 19:41:46 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 19:42:13 --> Config Class Initialized
+INFO - 2020-11-23 19:42:13 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:42:13 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:42:13 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:42:13 --> URI Class Initialized
+INFO - 2020-11-23 19:42:13 --> Router Class Initialized
+INFO - 2020-11-23 19:42:13 --> Output Class Initialized
+INFO - 2020-11-23 19:42:13 --> Security Class Initialized
+DEBUG - 2020-11-23 19:42:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:42:13 --> Input Class Initialized
+INFO - 2020-11-23 19:42:13 --> Language Class Initialized
+INFO - 2020-11-23 19:42:13 --> Language Class Initialized
+INFO - 2020-11-23 19:42:13 --> Config Class Initialized
+INFO - 2020-11-23 19:42:13 --> Loader Class Initialized
+INFO - 2020-11-23 19:42:13 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:42:13 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:42:13 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:42:13 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:42:13 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:42:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:42:13 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:42:13 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:42:13 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:42:13 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:42:13 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:42:13 --> Model Class Initialized
+DEBUG - 2020-11-23 19:42:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:42:13 --> Model Class Initialized
+DEBUG - 2020-11-23 19:42:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:42:13 --> Model Class Initialized
+DEBUG - 2020-11-23 19:42:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:42:13 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:42:13 --> Final output sent to browser
+DEBUG - 2020-11-23 19:42:13 --> Total execution time: 0.8919
+INFO - 2020-11-23 19:42:15 --> Config Class Initialized
+INFO - 2020-11-23 19:42:15 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:42:15 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:42:15 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:42:15 --> URI Class Initialized
+INFO - 2020-11-23 19:42:15 --> Router Class Initialized
+INFO - 2020-11-23 19:42:15 --> Output Class Initialized
+INFO - 2020-11-23 19:42:15 --> Security Class Initialized
+DEBUG - 2020-11-23 19:42:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:42:15 --> Input Class Initialized
+INFO - 2020-11-23 19:42:15 --> Language Class Initialized
+INFO - 2020-11-23 19:42:15 --> Language Class Initialized
+INFO - 2020-11-23 19:42:15 --> Config Class Initialized
+INFO - 2020-11-23 19:42:15 --> Loader Class Initialized
+INFO - 2020-11-23 19:42:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:42:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:42:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:42:15 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:42:15 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:42:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:42:15 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:42:15 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:42:15 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:42:15 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:42:15 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:42:15 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:42:15 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:42:15 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:42:15 --> Model Class Initialized
+INFO - 2020-11-23 19:42:15 --> Model Class Initialized
+DEBUG - 2020-11-23 19:42:15 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:42:15 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 19:42:15 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'الیاف مصنوعی'
+ LIMIT 1
+INFO - 2020-11-23 19:42:16 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 19:42:55 --> Config Class Initialized
+INFO - 2020-11-23 19:42:55 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:42:55 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:42:55 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:42:55 --> URI Class Initialized
+INFO - 2020-11-23 19:42:55 --> Router Class Initialized
+INFO - 2020-11-23 19:42:55 --> Output Class Initialized
+INFO - 2020-11-23 19:42:55 --> Security Class Initialized
+DEBUG - 2020-11-23 19:42:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:42:55 --> Input Class Initialized
+INFO - 2020-11-23 19:42:55 --> Language Class Initialized
+INFO - 2020-11-23 19:42:55 --> Language Class Initialized
+INFO - 2020-11-23 19:42:55 --> Config Class Initialized
+INFO - 2020-11-23 19:42:55 --> Loader Class Initialized
+INFO - 2020-11-23 19:42:55 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:42:55 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:42:55 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:42:55 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:42:55 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:42:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:42:55 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:42:55 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:42:56 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:42:56 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:42:56 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:42:56 --> Model Class Initialized
+DEBUG - 2020-11-23 19:42:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:42:56 --> Model Class Initialized
+DEBUG - 2020-11-23 19:42:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:42:56 --> Model Class Initialized
+DEBUG - 2020-11-23 19:42:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:42:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:42:56 --> Final output sent to browser
+DEBUG - 2020-11-23 19:42:56 --> Total execution time: 0.8969
+INFO - 2020-11-23 19:43:00 --> Config Class Initialized
+INFO - 2020-11-23 19:43:00 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:43:00 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:43:00 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:43:00 --> URI Class Initialized
+INFO - 2020-11-23 19:43:00 --> Router Class Initialized
+INFO - 2020-11-23 19:43:01 --> Output Class Initialized
+INFO - 2020-11-23 19:43:01 --> Security Class Initialized
+DEBUG - 2020-11-23 19:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:43:01 --> Input Class Initialized
+INFO - 2020-11-23 19:43:01 --> Language Class Initialized
+INFO - 2020-11-23 19:43:01 --> Language Class Initialized
+INFO - 2020-11-23 19:43:01 --> Config Class Initialized
+INFO - 2020-11-23 19:43:01 --> Loader Class Initialized
+INFO - 2020-11-23 19:43:01 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:43:01 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:43:01 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:43:01 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:43:01 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:43:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:43:01 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:43:01 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:43:01 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:43:01 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:43:01 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:43:01 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:43:01 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:43:01 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:43:01 --> Model Class Initialized
+INFO - 2020-11-23 19:43:01 --> Model Class Initialized
+DEBUG - 2020-11-23 19:43:01 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:43:01 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 19:43:01 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'الیاف مصنوعی'
+ LIMIT 1
+INFO - 2020-11-23 19:43:01 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 19:45:30 --> Config Class Initialized
+INFO - 2020-11-23 19:45:30 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:45:30 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:45:30 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:45:30 --> URI Class Initialized
+INFO - 2020-11-23 19:45:31 --> Router Class Initialized
+INFO - 2020-11-23 19:45:31 --> Output Class Initialized
+INFO - 2020-11-23 19:45:31 --> Security Class Initialized
+DEBUG - 2020-11-23 19:45:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:45:31 --> Input Class Initialized
+INFO - 2020-11-23 19:45:31 --> Language Class Initialized
+INFO - 2020-11-23 19:45:31 --> Language Class Initialized
+INFO - 2020-11-23 19:45:31 --> Config Class Initialized
+INFO - 2020-11-23 19:45:31 --> Loader Class Initialized
+INFO - 2020-11-23 19:45:31 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:45:31 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:45:31 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:45:31 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:45:31 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:45:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:45:31 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:45:31 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:45:31 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:45:31 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:45:31 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:45:31 --> Model Class Initialized
+DEBUG - 2020-11-23 19:45:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:45:31 --> Model Class Initialized
+DEBUG - 2020-11-23 19:45:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:45:31 --> Model Class Initialized
+DEBUG - 2020-11-23 19:45:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:45:31 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:45:31 --> Final output sent to browser
+DEBUG - 2020-11-23 19:45:31 --> Total execution time: 0.9339
+INFO - 2020-11-23 19:45:36 --> Config Class Initialized
+INFO - 2020-11-23 19:45:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:45:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:45:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:45:36 --> URI Class Initialized
+INFO - 2020-11-23 19:45:36 --> Router Class Initialized
+INFO - 2020-11-23 19:45:36 --> Output Class Initialized
+INFO - 2020-11-23 19:45:36 --> Security Class Initialized
+DEBUG - 2020-11-23 19:45:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:45:36 --> Input Class Initialized
+INFO - 2020-11-23 19:45:36 --> Language Class Initialized
+INFO - 2020-11-23 19:45:36 --> Language Class Initialized
+INFO - 2020-11-23 19:45:37 --> Config Class Initialized
+INFO - 2020-11-23 19:45:37 --> Loader Class Initialized
+INFO - 2020-11-23 19:45:37 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:45:37 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:45:37 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:45:37 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:45:37 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:45:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:45:37 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:45:37 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:45:37 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:45:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:45:37 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:45:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:45:37 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:45:37 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:45:37 --> Model Class Initialized
+INFO - 2020-11-23 19:45:37 --> Model Class Initialized
+DEBUG - 2020-11-23 19:45:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:45:37 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 19:45:37 --> Final output sent to browser
+DEBUG - 2020-11-23 19:45:37 --> Total execution time: 0.9357
+INFO - 2020-11-23 19:48:24 --> Config Class Initialized
+INFO - 2020-11-23 19:48:24 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:48:24 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:48:24 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:48:24 --> URI Class Initialized
+INFO - 2020-11-23 19:48:24 --> Router Class Initialized
+INFO - 2020-11-23 19:48:24 --> Output Class Initialized
+INFO - 2020-11-23 19:48:24 --> Security Class Initialized
+DEBUG - 2020-11-23 19:48:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:48:24 --> Input Class Initialized
+INFO - 2020-11-23 19:48:24 --> Language Class Initialized
+INFO - 2020-11-23 19:48:24 --> Language Class Initialized
+INFO - 2020-11-23 19:48:24 --> Config Class Initialized
+INFO - 2020-11-23 19:48:24 --> Loader Class Initialized
+INFO - 2020-11-23 19:48:24 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:48:24 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:48:24 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:48:24 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:48:25 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:48:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:48:25 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:48:25 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:48:25 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:48:25 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:48:25 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:48:25 --> Model Class Initialized
+DEBUG - 2020-11-23 19:48:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:48:25 --> Model Class Initialized
+DEBUG - 2020-11-23 19:48:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:48:25 --> Model Class Initialized
+DEBUG - 2020-11-23 19:48:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:48:25 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:48:25 --> Final output sent to browser
+DEBUG - 2020-11-23 19:48:25 --> Total execution time: 0.8883
+INFO - 2020-11-23 19:48:31 --> Config Class Initialized
+INFO - 2020-11-23 19:48:31 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:48:31 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:48:31 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:48:31 --> URI Class Initialized
+INFO - 2020-11-23 19:48:31 --> Router Class Initialized
+INFO - 2020-11-23 19:48:31 --> Output Class Initialized
+INFO - 2020-11-23 19:48:31 --> Security Class Initialized
+DEBUG - 2020-11-23 19:48:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:48:31 --> Input Class Initialized
+INFO - 2020-11-23 19:48:31 --> Language Class Initialized
+INFO - 2020-11-23 19:48:31 --> Language Class Initialized
+INFO - 2020-11-23 19:48:31 --> Config Class Initialized
+INFO - 2020-11-23 19:48:31 --> Loader Class Initialized
+INFO - 2020-11-23 19:48:31 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:48:31 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:48:31 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:48:31 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:48:31 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:48:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:48:31 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:48:31 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:48:32 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:48:32 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:48:32 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:48:32 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:48:32 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:48:32 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:48:32 --> Model Class Initialized
+INFO - 2020-11-23 19:48:32 --> Model Class Initialized
+DEBUG - 2020-11-23 19:48:32 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:48:32 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 19:48:32 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'الیاف مصنوعی'
+ LIMIT 1
+INFO - 2020-11-23 19:48:32 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 19:53:48 --> Config Class Initialized
+INFO - 2020-11-23 19:53:48 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:53:48 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:53:48 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:53:48 --> URI Class Initialized
+INFO - 2020-11-23 19:53:48 --> Router Class Initialized
+INFO - 2020-11-23 19:53:48 --> Output Class Initialized
+INFO - 2020-11-23 19:53:48 --> Security Class Initialized
+DEBUG - 2020-11-23 19:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:53:48 --> Input Class Initialized
+INFO - 2020-11-23 19:53:48 --> Language Class Initialized
+INFO - 2020-11-23 19:53:48 --> Language Class Initialized
+INFO - 2020-11-23 19:53:48 --> Config Class Initialized
+INFO - 2020-11-23 19:53:48 --> Loader Class Initialized
+INFO - 2020-11-23 19:53:48 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:53:48 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:53:48 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:53:48 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:53:48 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:53:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:53:48 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:53:48 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:53:48 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:53:49 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:53:49 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:53:49 --> Model Class Initialized
+DEBUG - 2020-11-23 19:53:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:53:49 --> Model Class Initialized
+DEBUG - 2020-11-23 19:53:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:53:49 --> Model Class Initialized
+DEBUG - 2020-11-23 19:53:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:53:49 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:53:49 --> Final output sent to browser
+DEBUG - 2020-11-23 19:53:49 --> Total execution time: 0.8870
+INFO - 2020-11-23 19:53:54 --> Config Class Initialized
+INFO - 2020-11-23 19:53:54 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:53:54 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:53:54 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:53:54 --> URI Class Initialized
+INFO - 2020-11-23 19:53:54 --> Router Class Initialized
+INFO - 2020-11-23 19:53:54 --> Output Class Initialized
+INFO - 2020-11-23 19:53:54 --> Security Class Initialized
+DEBUG - 2020-11-23 19:53:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:53:54 --> Input Class Initialized
+INFO - 2020-11-23 19:53:54 --> Language Class Initialized
+INFO - 2020-11-23 19:53:54 --> Language Class Initialized
+INFO - 2020-11-23 19:53:54 --> Config Class Initialized
+INFO - 2020-11-23 19:53:54 --> Loader Class Initialized
+INFO - 2020-11-23 19:53:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:53:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:53:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:53:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:53:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:53:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:53:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:53:54 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:53:54 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:53:54 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:53:54 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:53:54 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:53:54 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:53:54 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:53:54 --> Model Class Initialized
+INFO - 2020-11-23 19:53:54 --> Model Class Initialized
+DEBUG - 2020-11-23 19:53:54 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:53:54 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 19:53:54 --> Final output sent to browser
+DEBUG - 2020-11-23 19:53:55 --> Total execution time: 0.9597
+INFO - 2020-11-23 19:58:45 --> Config Class Initialized
+INFO - 2020-11-23 19:58:46 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:58:46 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:58:46 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:58:46 --> URI Class Initialized
+INFO - 2020-11-23 19:58:46 --> Router Class Initialized
+INFO - 2020-11-23 19:58:46 --> Output Class Initialized
+INFO - 2020-11-23 19:58:46 --> Security Class Initialized
+DEBUG - 2020-11-23 19:58:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:58:46 --> Input Class Initialized
+INFO - 2020-11-23 19:58:46 --> Language Class Initialized
+INFO - 2020-11-23 19:58:46 --> Language Class Initialized
+INFO - 2020-11-23 19:58:46 --> Config Class Initialized
+INFO - 2020-11-23 19:58:46 --> Loader Class Initialized
+INFO - 2020-11-23 19:58:46 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:58:46 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:58:46 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:58:46 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:58:46 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:58:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:58:46 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:58:46 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:58:46 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 19:58:46 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:58:46 --> Template MX_Controller Initialized
+INFO - 2020-11-23 19:58:46 --> Model Class Initialized
+DEBUG - 2020-11-23 19:58:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 19:58:46 --> Model Class Initialized
+DEBUG - 2020-11-23 19:58:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 19:58:46 --> Model Class Initialized
+DEBUG - 2020-11-23 19:58:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 19:58:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 19:58:46 --> Final output sent to browser
+DEBUG - 2020-11-23 19:58:46 --> Total execution time: 0.9244
+INFO - 2020-11-23 19:58:52 --> Config Class Initialized
+INFO - 2020-11-23 19:58:52 --> Hooks Class Initialized
+DEBUG - 2020-11-23 19:58:52 --> UTF-8 Support Enabled
+INFO - 2020-11-23 19:58:52 --> Utf8 Class Initialized
+INFO - 2020-11-23 19:58:52 --> URI Class Initialized
+INFO - 2020-11-23 19:58:52 --> Router Class Initialized
+INFO - 2020-11-23 19:58:52 --> Output Class Initialized
+INFO - 2020-11-23 19:58:52 --> Security Class Initialized
+DEBUG - 2020-11-23 19:58:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 19:58:53 --> Input Class Initialized
+INFO - 2020-11-23 19:58:53 --> Language Class Initialized
+INFO - 2020-11-23 19:58:53 --> Language Class Initialized
+INFO - 2020-11-23 19:58:53 --> Config Class Initialized
+INFO - 2020-11-23 19:58:53 --> Loader Class Initialized
+INFO - 2020-11-23 19:58:53 --> Helper loaded: form_helper
+INFO - 2020-11-23 19:58:53 --> Helper loaded: url_helper
+INFO - 2020-11-23 19:58:53 --> Helper loaded: file_helper
+INFO - 2020-11-23 19:58:53 --> Helper loaded: security_helper
+INFO - 2020-11-23 19:58:53 --> Database Driver Class Initialized
+INFO - 2020-11-23 19:58:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 19:58:53 --> Form Validation Class Initialized
+INFO - 2020-11-23 19:58:53 --> Controller Class Initialized
+DEBUG - 2020-11-23 19:58:53 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 19:58:53 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 19:58:53 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 19:58:53 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 19:58:53 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 19:58:53 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 19:58:53 --> Model Class Initialized
+INFO - 2020-11-23 19:58:53 --> Model Class Initialized
+DEBUG - 2020-11-23 19:58:53 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 19:58:53 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 19:58:53 --> Final output sent to browser
+DEBUG - 2020-11-23 19:58:53 --> Total execution time: 0.9013
+INFO - 2020-11-23 20:00:07 --> Config Class Initialized
+INFO - 2020-11-23 20:00:08 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:00:08 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:00:08 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:00:08 --> URI Class Initialized
+INFO - 2020-11-23 20:00:08 --> Router Class Initialized
+INFO - 2020-11-23 20:00:08 --> Output Class Initialized
+INFO - 2020-11-23 20:00:08 --> Security Class Initialized
+DEBUG - 2020-11-23 20:00:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:00:08 --> Input Class Initialized
+INFO - 2020-11-23 20:00:08 --> Language Class Initialized
+INFO - 2020-11-23 20:00:08 --> Language Class Initialized
+INFO - 2020-11-23 20:00:08 --> Config Class Initialized
+INFO - 2020-11-23 20:00:08 --> Loader Class Initialized
+INFO - 2020-11-23 20:00:08 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:00:08 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:00:08 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:00:08 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:00:08 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:00:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:00:08 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:00:08 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:00:08 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:00:08 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:00:08 --> Model Class Initialized
+DEBUG - 2020-11-23 20:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:00:08 --> Model Class Initialized
+DEBUG - 2020-11-23 20:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:00:08 --> Model Class Initialized
+DEBUG - 2020-11-23 20:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:00:08 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:00:08 --> Final output sent to browser
+DEBUG - 2020-11-23 20:00:08 --> Total execution time: 0.8986
+INFO - 2020-11-23 20:00:10 --> Config Class Initialized
+INFO - 2020-11-23 20:00:10 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:00:10 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:00:10 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:00:10 --> URI Class Initialized
+INFO - 2020-11-23 20:00:10 --> Router Class Initialized
+INFO - 2020-11-23 20:00:10 --> Output Class Initialized
+INFO - 2020-11-23 20:00:10 --> Security Class Initialized
+DEBUG - 2020-11-23 20:00:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:00:10 --> Input Class Initialized
+INFO - 2020-11-23 20:00:10 --> Language Class Initialized
+INFO - 2020-11-23 20:00:10 --> Language Class Initialized
+INFO - 2020-11-23 20:00:10 --> Config Class Initialized
+INFO - 2020-11-23 20:00:10 --> Loader Class Initialized
+INFO - 2020-11-23 20:00:10 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:00:10 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:00:10 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:00:11 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:00:11 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:00:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:00:11 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:00:11 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:00:11 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:00:11 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:00:11 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:00:11 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:00:11 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:00:11 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:00:11 --> Model Class Initialized
+INFO - 2020-11-23 20:00:11 --> Model Class Initialized
+DEBUG - 2020-11-23 20:00:11 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 20:00:11 --> Severity: Notice --> Undefined property: CI::$category_model C:\xampp\htdocs\hmvc\application\third_party\MX\Controller.php 59
+ERROR - 2020-11-23 20:00:11 --> Severity: error --> Exception: Call to a member function makeSlug() on null C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 229
+ERROR - 2020-11-23 20:00:11 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 20:01:02 --> Config Class Initialized
+INFO - 2020-11-23 20:01:02 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:01:02 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:01:02 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:01:02 --> URI Class Initialized
+INFO - 2020-11-23 20:01:02 --> Router Class Initialized
+INFO - 2020-11-23 20:01:02 --> Output Class Initialized
+INFO - 2020-11-23 20:01:03 --> Security Class Initialized
+DEBUG - 2020-11-23 20:01:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:01:03 --> Input Class Initialized
+INFO - 2020-11-23 20:01:03 --> Language Class Initialized
+INFO - 2020-11-23 20:01:03 --> Language Class Initialized
+INFO - 2020-11-23 20:01:03 --> Config Class Initialized
+INFO - 2020-11-23 20:01:03 --> Loader Class Initialized
+INFO - 2020-11-23 20:01:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:01:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:01:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:01:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:01:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:01:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:01:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:01:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:01:03 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:01:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:01:03 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:01:03 --> Model Class Initialized
+DEBUG - 2020-11-23 20:01:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:01:03 --> Model Class Initialized
+DEBUG - 2020-11-23 20:01:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:01:03 --> Model Class Initialized
+DEBUG - 2020-11-23 20:01:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:01:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:01:03 --> Final output sent to browser
+DEBUG - 2020-11-23 20:01:03 --> Total execution time: 0.9191
+INFO - 2020-11-23 20:01:05 --> Config Class Initialized
+INFO - 2020-11-23 20:01:05 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:01:05 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:01:05 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:01:05 --> URI Class Initialized
+INFO - 2020-11-23 20:01:05 --> Router Class Initialized
+INFO - 2020-11-23 20:01:05 --> Output Class Initialized
+INFO - 2020-11-23 20:01:05 --> Security Class Initialized
+DEBUG - 2020-11-23 20:01:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:01:06 --> Input Class Initialized
+INFO - 2020-11-23 20:01:06 --> Language Class Initialized
+INFO - 2020-11-23 20:01:06 --> Language Class Initialized
+INFO - 2020-11-23 20:01:06 --> Config Class Initialized
+INFO - 2020-11-23 20:01:06 --> Loader Class Initialized
+INFO - 2020-11-23 20:01:06 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:01:06 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:01:06 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:01:06 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:01:06 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:01:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:01:06 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:01:06 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:01:06 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:01:06 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:01:06 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:01:06 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:01:06 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:01:06 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:01:06 --> Model Class Initialized
+INFO - 2020-11-23 20:01:06 --> Model Class Initialized
+DEBUG - 2020-11-23 20:01:06 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 20:01:06 --> Severity: Notice --> Undefined property: CI::$category_model C:\xampp\htdocs\hmvc\application\third_party\MX\Controller.php 59
+ERROR - 2020-11-23 20:01:06 --> Severity: error --> Exception: Call to a member function makeSlug() on null C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 229
+ERROR - 2020-11-23 20:01:06 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 20:03:26 --> Config Class Initialized
+INFO - 2020-11-23 20:03:26 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:03:26 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:03:26 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:03:26 --> URI Class Initialized
+INFO - 2020-11-23 20:03:26 --> Router Class Initialized
+INFO - 2020-11-23 20:03:26 --> Output Class Initialized
+INFO - 2020-11-23 20:03:26 --> Security Class Initialized
+DEBUG - 2020-11-23 20:03:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:03:26 --> Input Class Initialized
+INFO - 2020-11-23 20:03:26 --> Language Class Initialized
+INFO - 2020-11-23 20:03:26 --> Language Class Initialized
+INFO - 2020-11-23 20:03:26 --> Config Class Initialized
+INFO - 2020-11-23 20:03:27 --> Loader Class Initialized
+INFO - 2020-11-23 20:03:27 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:03:27 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:03:27 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:03:27 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:03:27 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:03:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:03:27 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:03:27 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:03:27 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:03:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:03:27 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:03:27 --> Model Class Initialized
+DEBUG - 2020-11-23 20:03:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:03:27 --> Model Class Initialized
+DEBUG - 2020-11-23 20:03:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 20:03:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:03:27 --> Final output sent to browser
+DEBUG - 2020-11-23 20:03:27 --> Total execution time: 0.8956
+INFO - 2020-11-23 20:03:28 --> Config Class Initialized
+INFO - 2020-11-23 20:03:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:03:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:03:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:03:28 --> URI Class Initialized
+INFO - 2020-11-23 20:03:28 --> Router Class Initialized
+INFO - 2020-11-23 20:03:28 --> Output Class Initialized
+INFO - 2020-11-23 20:03:28 --> Security Class Initialized
+DEBUG - 2020-11-23 20:03:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:03:28 --> Input Class Initialized
+INFO - 2020-11-23 20:03:28 --> Language Class Initialized
+INFO - 2020-11-23 20:03:28 --> Language Class Initialized
+INFO - 2020-11-23 20:03:28 --> Config Class Initialized
+INFO - 2020-11-23 20:03:28 --> Loader Class Initialized
+INFO - 2020-11-23 20:03:28 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:03:28 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:03:28 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:03:28 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:03:28 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:03:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:03:28 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:03:28 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:03:28 --> Categories MX_Controller Initialized
+INFO - 2020-11-23 20:03:28 --> Config Class Initialized
+INFO - 2020-11-23 20:03:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:03:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:03:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:03:28 --> URI Class Initialized
+INFO - 2020-11-23 20:03:28 --> Router Class Initialized
+INFO - 2020-11-23 20:03:28 --> Output Class Initialized
+INFO - 2020-11-23 20:03:28 --> Security Class Initialized
+DEBUG - 2020-11-23 20:03:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:03:28 --> Input Class Initialized
+INFO - 2020-11-23 20:03:28 --> Language Class Initialized
+INFO - 2020-11-23 20:03:28 --> Language Class Initialized
+INFO - 2020-11-23 20:03:28 --> Config Class Initialized
+INFO - 2020-11-23 20:03:28 --> Loader Class Initialized
+INFO - 2020-11-23 20:03:28 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:03:28 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:03:28 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:03:28 --> Helper loaded: security_helper
+DEBUG - 2020-11-23 20:03:28 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+INFO - 2020-11-23 20:03:28 --> Database Driver Class Initialized
+DEBUG - 2020-11-23 20:03:28 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:03:29 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:03:29 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:03:29 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:03:29 --> Model Class Initialized
+INFO - 2020-11-23 20:03:29 --> Model Class Initialized
+DEBUG - 2020-11-23 20:03:29 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 20:03:29 --> Severity: Notice --> Undefined property: CI::$category_model C:\xampp\htdocs\hmvc\application\third_party\MX\Controller.php 59
+ERROR - 2020-11-23 20:03:29 --> Severity: error --> Exception: Call to a member function get_categories() on null C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 24
+ERROR - 2020-11-23 20:03:29 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 20:03:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:03:29 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:03:29 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:03:29 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:03:29 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:03:29 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:03:29 --> Model Class Initialized
+DEBUG - 2020-11-23 20:03:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:03:29 --> Model Class Initialized
+DEBUG - 2020-11-23 20:03:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:03:29 --> Model Class Initialized
+DEBUG - 2020-11-23 20:03:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/create_category.php
+DEBUG - 2020-11-23 20:03:29 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:03:29 --> Final output sent to browser
+DEBUG - 2020-11-23 20:03:29 --> Total execution time: 0.7071
+INFO - 2020-11-23 20:03:35 --> Config Class Initialized
+INFO - 2020-11-23 20:03:35 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:03:35 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:03:35 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:03:35 --> URI Class Initialized
+INFO - 2020-11-23 20:03:35 --> Router Class Initialized
+INFO - 2020-11-23 20:03:35 --> Output Class Initialized
+INFO - 2020-11-23 20:03:35 --> Security Class Initialized
+DEBUG - 2020-11-23 20:03:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:03:36 --> Input Class Initialized
+INFO - 2020-11-23 20:03:36 --> Language Class Initialized
+INFO - 2020-11-23 20:03:36 --> Language Class Initialized
+INFO - 2020-11-23 20:03:36 --> Config Class Initialized
+INFO - 2020-11-23 20:03:36 --> Loader Class Initialized
+INFO - 2020-11-23 20:03:36 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:03:36 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:03:36 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:03:36 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:03:36 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:03:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:03:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:03:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:03:36 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:03:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:03:36 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:03:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:03:36 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:03:36 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:03:36 --> Model Class Initialized
+INFO - 2020-11-23 20:03:36 --> Model Class Initialized
+DEBUG - 2020-11-23 20:03:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:03:36 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2020-11-23 20:03:36 --> Query error: Unknown column 'title,categories' in 'where clause' - Invalid query: SELECT *
+FROM `categories`
+WHERE `title,categories` = 'کالای دیجیتال'
+ LIMIT 1
+INFO - 2020-11-23 20:03:36 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-11-23 20:04:33 --> Config Class Initialized
+INFO - 2020-11-23 20:04:33 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:04:33 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:04:33 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:04:33 --> URI Class Initialized
+INFO - 2020-11-23 20:04:33 --> Router Class Initialized
+INFO - 2020-11-23 20:04:33 --> Output Class Initialized
+INFO - 2020-11-23 20:04:33 --> Security Class Initialized
+DEBUG - 2020-11-23 20:04:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:04:33 --> Input Class Initialized
+INFO - 2020-11-23 20:04:33 --> Language Class Initialized
+INFO - 2020-11-23 20:04:33 --> Language Class Initialized
+INFO - 2020-11-23 20:04:33 --> Config Class Initialized
+INFO - 2020-11-23 20:04:33 --> Loader Class Initialized
+INFO - 2020-11-23 20:04:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:04:34 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:04:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:04:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:04:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:04:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:04:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:04:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:04:34 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:04:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:04:34 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:04:34 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:04:34 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:04:34 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:04:34 --> Model Class Initialized
+INFO - 2020-11-23 20:04:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:04:34 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:04:34 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:04:34 --> Final output sent to browser
+DEBUG - 2020-11-23 20:04:34 --> Total execution time: 0.8794
+INFO - 2020-11-23 20:04:34 --> Config Class Initialized
+INFO - 2020-11-23 20:04:34 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:04:34 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:04:34 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:04:34 --> URI Class Initialized
+INFO - 2020-11-23 20:04:34 --> Router Class Initialized
+INFO - 2020-11-23 20:04:34 --> Output Class Initialized
+INFO - 2020-11-23 20:04:34 --> Security Class Initialized
+DEBUG - 2020-11-23 20:04:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:04:34 --> Input Class Initialized
+INFO - 2020-11-23 20:04:34 --> Language Class Initialized
+INFO - 2020-11-23 20:04:34 --> Language Class Initialized
+INFO - 2020-11-23 20:04:34 --> Config Class Initialized
+INFO - 2020-11-23 20:04:34 --> Loader Class Initialized
+INFO - 2020-11-23 20:04:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:04:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:04:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:04:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:04:35 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:04:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:04:35 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:04:35 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:04:35 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:04:35 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:04:35 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:04:35 --> Model Class Initialized
+DEBUG - 2020-11-23 20:04:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:04:35 --> Model Class Initialized
+DEBUG - 2020-11-23 20:04:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 20:04:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:04:35 --> Final output sent to browser
+DEBUG - 2020-11-23 20:04:35 --> Total execution time: 0.8784
+INFO - 2020-11-23 20:04:35 --> Config Class Initialized
+INFO - 2020-11-23 20:04:35 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:04:35 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:04:35 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:04:35 --> URI Class Initialized
+INFO - 2020-11-23 20:04:35 --> Router Class Initialized
+INFO - 2020-11-23 20:04:35 --> Output Class Initialized
+INFO - 2020-11-23 20:04:35 --> Security Class Initialized
+DEBUG - 2020-11-23 20:04:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:04:36 --> Input Class Initialized
+INFO - 2020-11-23 20:04:36 --> Language Class Initialized
+INFO - 2020-11-23 20:04:36 --> Language Class Initialized
+INFO - 2020-11-23 20:04:36 --> Config Class Initialized
+INFO - 2020-11-23 20:04:36 --> Loader Class Initialized
+INFO - 2020-11-23 20:04:36 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:04:36 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:04:36 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:04:36 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:04:36 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:04:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:04:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:04:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:04:36 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:04:36 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:04:36 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:04:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:04:36 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:04:36 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:04:36 --> Model Class Initialized
+INFO - 2020-11-23 20:04:36 --> Model Class Initialized
+DEBUG - 2020-11-23 20:04:36 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:04:36 --> Final output sent to browser
+DEBUG - 2020-11-23 20:04:36 --> Total execution time: 0.9163
+INFO - 2020-11-23 20:04:41 --> Config Class Initialized
+INFO - 2020-11-23 20:04:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:04:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:04:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:04:42 --> URI Class Initialized
+INFO - 2020-11-23 20:04:42 --> Router Class Initialized
+INFO - 2020-11-23 20:04:42 --> Output Class Initialized
+INFO - 2020-11-23 20:04:42 --> Security Class Initialized
+DEBUG - 2020-11-23 20:04:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:04:42 --> Input Class Initialized
+INFO - 2020-11-23 20:04:42 --> Language Class Initialized
+INFO - 2020-11-23 20:04:42 --> Language Class Initialized
+INFO - 2020-11-23 20:04:42 --> Config Class Initialized
+INFO - 2020-11-23 20:04:42 --> Loader Class Initialized
+INFO - 2020-11-23 20:04:42 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:04:42 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:04:42 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:04:42 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:04:42 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:04:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:04:42 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:04:42 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:04:42 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:04:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:04:42 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:04:42 --> Model Class Initialized
+DEBUG - 2020-11-23 20:04:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:04:42 --> Model Class Initialized
+DEBUG - 2020-11-23 20:04:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:04:42 --> Model Class Initialized
+DEBUG - 2020-11-23 20:04:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:04:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:04:42 --> Final output sent to browser
+DEBUG - 2020-11-23 20:04:42 --> Total execution time: 0.9301
+INFO - 2020-11-23 20:04:49 --> Config Class Initialized
+INFO - 2020-11-23 20:04:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:04:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:04:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:04:49 --> URI Class Initialized
+INFO - 2020-11-23 20:04:49 --> Router Class Initialized
+INFO - 2020-11-23 20:04:49 --> Output Class Initialized
+INFO - 2020-11-23 20:04:49 --> Security Class Initialized
+DEBUG - 2020-11-23 20:04:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:04:49 --> Input Class Initialized
+INFO - 2020-11-23 20:04:49 --> Language Class Initialized
+INFO - 2020-11-23 20:04:49 --> Language Class Initialized
+INFO - 2020-11-23 20:04:49 --> Config Class Initialized
+INFO - 2020-11-23 20:04:49 --> Loader Class Initialized
+INFO - 2020-11-23 20:04:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:04:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:04:49 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:04:49 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:04:49 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:04:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:04:49 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:04:49 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:04:49 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:04:49 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:04:49 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:04:49 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:04:49 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:04:49 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:04:49 --> Model Class Initialized
+INFO - 2020-11-23 20:04:49 --> Model Class Initialized
+DEBUG - 2020-11-23 20:04:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 20:04:50 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Categories' does not have a method 'index_post' C:\xampp\htdocs\hmvc\application\libraries\REST_Controller.php 736
+INFO - 2020-11-23 20:04:50 --> Final output sent to browser
+DEBUG - 2020-11-23 20:04:50 --> Total execution time: 0.9285
+INFO - 2020-11-23 20:06:42 --> Config Class Initialized
+INFO - 2020-11-23 20:06:42 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:06:42 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:06:42 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:06:42 --> URI Class Initialized
+INFO - 2020-11-23 20:06:42 --> Router Class Initialized
+INFO - 2020-11-23 20:06:42 --> Output Class Initialized
+INFO - 2020-11-23 20:06:42 --> Security Class Initialized
+DEBUG - 2020-11-23 20:06:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:06:42 --> Input Class Initialized
+INFO - 2020-11-23 20:06:42 --> Language Class Initialized
+INFO - 2020-11-23 20:06:42 --> Language Class Initialized
+INFO - 2020-11-23 20:06:42 --> Config Class Initialized
+INFO - 2020-11-23 20:06:42 --> Loader Class Initialized
+INFO - 2020-11-23 20:06:42 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:06:42 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:06:42 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:06:42 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:06:42 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:06:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:06:42 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:06:42 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:06:42 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:06:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:06:42 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:06:42 --> Model Class Initialized
+DEBUG - 2020-11-23 20:06:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:06:42 --> Model Class Initialized
+DEBUG - 2020-11-23 20:06:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:06:43 --> Model Class Initialized
+DEBUG - 2020-11-23 20:06:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:06:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:06:43 --> Final output sent to browser
+DEBUG - 2020-11-23 20:06:43 --> Total execution time: 0.9300
+INFO - 2020-11-23 20:06:46 --> Config Class Initialized
+INFO - 2020-11-23 20:06:46 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:06:46 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:06:46 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:06:46 --> URI Class Initialized
+INFO - 2020-11-23 20:06:46 --> Router Class Initialized
+INFO - 2020-11-23 20:06:46 --> Output Class Initialized
+INFO - 2020-11-23 20:06:46 --> Security Class Initialized
+DEBUG - 2020-11-23 20:06:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:06:46 --> Input Class Initialized
+INFO - 2020-11-23 20:06:46 --> Language Class Initialized
+INFO - 2020-11-23 20:06:46 --> Language Class Initialized
+INFO - 2020-11-23 20:06:46 --> Config Class Initialized
+INFO - 2020-11-23 20:06:46 --> Loader Class Initialized
+INFO - 2020-11-23 20:06:46 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:06:46 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:06:46 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:06:46 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:06:46 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:06:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:06:47 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:06:47 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:06:47 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:06:47 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:06:47 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:06:47 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:06:47 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:06:47 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:06:47 --> Model Class Initialized
+INFO - 2020-11-23 20:06:47 --> Model Class Initialized
+DEBUG - 2020-11-23 20:06:47 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 20:06:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Categories' does not have a method 'index_post' C:\xampp\htdocs\hmvc\application\libraries\REST_Controller.php 736
+INFO - 2020-11-23 20:06:47 --> Final output sent to browser
+DEBUG - 2020-11-23 20:06:47 --> Total execution time: 0.9544
+INFO - 2020-11-23 20:07:38 --> Config Class Initialized
+INFO - 2020-11-23 20:07:38 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:07:38 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:07:38 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:07:38 --> URI Class Initialized
+INFO - 2020-11-23 20:07:38 --> Router Class Initialized
+INFO - 2020-11-23 20:07:38 --> Output Class Initialized
+INFO - 2020-11-23 20:07:38 --> Security Class Initialized
+DEBUG - 2020-11-23 20:07:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:07:38 --> Input Class Initialized
+INFO - 2020-11-23 20:07:38 --> Language Class Initialized
+INFO - 2020-11-23 20:07:38 --> Language Class Initialized
+INFO - 2020-11-23 20:07:38 --> Config Class Initialized
+INFO - 2020-11-23 20:07:38 --> Loader Class Initialized
+INFO - 2020-11-23 20:07:38 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:07:38 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:07:38 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:07:38 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:07:38 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:07:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:07:38 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:07:38 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:07:38 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:07:38 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:07:38 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:07:38 --> Model Class Initialized
+DEBUG - 2020-11-23 20:07:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:07:38 --> Model Class Initialized
+DEBUG - 2020-11-23 20:07:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:07:38 --> Model Class Initialized
+DEBUG - 2020-11-23 20:07:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:07:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:07:39 --> Final output sent to browser
+DEBUG - 2020-11-23 20:07:39 --> Total execution time: 0.9518
+INFO - 2020-11-23 20:07:43 --> Config Class Initialized
+INFO - 2020-11-23 20:07:43 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:07:43 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:07:43 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:07:43 --> URI Class Initialized
+INFO - 2020-11-23 20:07:44 --> Router Class Initialized
+INFO - 2020-11-23 20:07:44 --> Output Class Initialized
+INFO - 2020-11-23 20:07:44 --> Security Class Initialized
+DEBUG - 2020-11-23 20:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:07:44 --> Input Class Initialized
+INFO - 2020-11-23 20:07:44 --> Language Class Initialized
+INFO - 2020-11-23 20:07:44 --> Language Class Initialized
+INFO - 2020-11-23 20:07:44 --> Config Class Initialized
+INFO - 2020-11-23 20:07:44 --> Loader Class Initialized
+INFO - 2020-11-23 20:07:44 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:07:44 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:07:44 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:07:44 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:07:44 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:07:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:07:44 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:07:44 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:07:44 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:07:44 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:07:44 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:07:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:07:44 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:07:44 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:07:44 --> Model Class Initialized
+INFO - 2020-11-23 20:07:44 --> Model Class Initialized
+DEBUG - 2020-11-23 20:07:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 20:07:44 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Categories' does not have a method 'index_post' C:\xampp\htdocs\hmvc\application\libraries\REST_Controller.php 736
+INFO - 2020-11-23 20:07:44 --> Final output sent to browser
+DEBUG - 2020-11-23 20:07:44 --> Total execution time: 0.9613
+INFO - 2020-11-23 20:08:33 --> Config Class Initialized
+INFO - 2020-11-23 20:08:33 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:08:33 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:08:33 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:08:33 --> URI Class Initialized
+INFO - 2020-11-23 20:08:33 --> Router Class Initialized
+INFO - 2020-11-23 20:08:33 --> Output Class Initialized
+INFO - 2020-11-23 20:08:33 --> Security Class Initialized
+DEBUG - 2020-11-23 20:08:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:08:33 --> Input Class Initialized
+INFO - 2020-11-23 20:08:33 --> Language Class Initialized
+INFO - 2020-11-23 20:08:33 --> Language Class Initialized
+INFO - 2020-11-23 20:08:33 --> Config Class Initialized
+INFO - 2020-11-23 20:08:33 --> Loader Class Initialized
+INFO - 2020-11-23 20:08:33 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:08:33 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:08:33 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:08:33 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:08:33 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:08:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:08:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:08:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:08:34 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:08:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:08:34 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:08:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:08:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:08:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:08:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:08:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:08:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:08:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:08:34 --> Final output sent to browser
+DEBUG - 2020-11-23 20:08:34 --> Total execution time: 0.9525
+INFO - 2020-11-23 20:08:36 --> Config Class Initialized
+INFO - 2020-11-23 20:08:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:08:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:08:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:08:36 --> URI Class Initialized
+INFO - 2020-11-23 20:08:36 --> Router Class Initialized
+INFO - 2020-11-23 20:08:36 --> Output Class Initialized
+INFO - 2020-11-23 20:08:36 --> Security Class Initialized
+DEBUG - 2020-11-23 20:08:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:08:36 --> Input Class Initialized
+INFO - 2020-11-23 20:08:36 --> Language Class Initialized
+INFO - 2020-11-23 20:08:36 --> Language Class Initialized
+INFO - 2020-11-23 20:08:36 --> Config Class Initialized
+INFO - 2020-11-23 20:08:36 --> Loader Class Initialized
+INFO - 2020-11-23 20:08:36 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:08:36 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:08:36 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:08:37 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:08:37 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:08:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:08:37 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:08:37 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:08:37 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:08:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:08:37 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:08:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:08:37 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:08:37 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:08:37 --> Model Class Initialized
+INFO - 2020-11-23 20:08:37 --> Model Class Initialized
+DEBUG - 2020-11-23 20:08:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:08:37 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:08:37 --> Final output sent to browser
+DEBUG - 2020-11-23 20:08:37 --> Total execution time: 0.9574
+INFO - 2020-11-23 20:12:39 --> Config Class Initialized
+INFO - 2020-11-23 20:12:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:12:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:12:40 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:12:40 --> URI Class Initialized
+INFO - 2020-11-23 20:12:40 --> Router Class Initialized
+INFO - 2020-11-23 20:12:40 --> Output Class Initialized
+INFO - 2020-11-23 20:12:40 --> Security Class Initialized
+DEBUG - 2020-11-23 20:12:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:12:40 --> Input Class Initialized
+INFO - 2020-11-23 20:12:40 --> Language Class Initialized
+INFO - 2020-11-23 20:12:40 --> Language Class Initialized
+INFO - 2020-11-23 20:12:40 --> Config Class Initialized
+INFO - 2020-11-23 20:12:40 --> Loader Class Initialized
+INFO - 2020-11-23 20:12:40 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:12:40 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:12:40 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:12:40 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:12:40 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:12:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:12:40 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:12:40 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:12:40 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:12:40 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:12:40 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:12:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:12:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:12:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:12:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:12:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:12:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:12:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:12:40 --> Final output sent to browser
+DEBUG - 2020-11-23 20:12:40 --> Total execution time: 0.9251
+INFO - 2020-11-23 20:12:50 --> Config Class Initialized
+INFO - 2020-11-23 20:12:50 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:12:50 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:12:50 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:12:50 --> URI Class Initialized
+INFO - 2020-11-23 20:12:50 --> Router Class Initialized
+INFO - 2020-11-23 20:12:50 --> Output Class Initialized
+INFO - 2020-11-23 20:12:50 --> Security Class Initialized
+DEBUG - 2020-11-23 20:12:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:12:50 --> Input Class Initialized
+INFO - 2020-11-23 20:12:50 --> Language Class Initialized
+INFO - 2020-11-23 20:12:50 --> Language Class Initialized
+INFO - 2020-11-23 20:12:50 --> Config Class Initialized
+INFO - 2020-11-23 20:12:50 --> Loader Class Initialized
+INFO - 2020-11-23 20:12:50 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:12:50 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:12:51 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:12:51 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:12:51 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:12:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:12:51 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:12:51 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:12:51 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:12:51 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:12:51 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:12:51 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:12:51 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:12:51 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:12:51 --> Model Class Initialized
+INFO - 2020-11-23 20:12:51 --> Model Class Initialized
+DEBUG - 2020-11-23 20:12:51 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:12:51 --> Final output sent to browser
+DEBUG - 2020-11-23 20:12:51 --> Total execution time: 0.9148
+INFO - 2020-11-23 20:13:30 --> Config Class Initialized
+INFO - 2020-11-23 20:13:30 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:13:30 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:13:30 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:13:30 --> URI Class Initialized
+INFO - 2020-11-23 20:13:30 --> Router Class Initialized
+INFO - 2020-11-23 20:13:30 --> Output Class Initialized
+INFO - 2020-11-23 20:13:30 --> Security Class Initialized
+DEBUG - 2020-11-23 20:13:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:13:31 --> Input Class Initialized
+INFO - 2020-11-23 20:13:31 --> Language Class Initialized
+INFO - 2020-11-23 20:13:31 --> Language Class Initialized
+INFO - 2020-11-23 20:13:31 --> Config Class Initialized
+INFO - 2020-11-23 20:13:31 --> Loader Class Initialized
+INFO - 2020-11-23 20:13:31 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:13:31 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:13:31 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:13:31 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:13:31 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:13:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:13:31 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:13:31 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:13:31 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:13:31 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:13:31 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:13:31 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:13:31 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:13:31 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:13:31 --> Model Class Initialized
+INFO - 2020-11-23 20:13:31 --> Model Class Initialized
+DEBUG - 2020-11-23 20:13:31 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:13:31 --> Final output sent to browser
+DEBUG - 2020-11-23 20:13:31 --> Total execution time: 0.9179
+INFO - 2020-11-23 20:13:41 --> Config Class Initialized
+INFO - 2020-11-23 20:13:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:13:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:13:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:13:41 --> URI Class Initialized
+INFO - 2020-11-23 20:13:41 --> Router Class Initialized
+INFO - 2020-11-23 20:13:41 --> Output Class Initialized
+INFO - 2020-11-23 20:13:41 --> Security Class Initialized
+DEBUG - 2020-11-23 20:13:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:13:41 --> Input Class Initialized
+INFO - 2020-11-23 20:13:41 --> Language Class Initialized
+INFO - 2020-11-23 20:13:41 --> Language Class Initialized
+INFO - 2020-11-23 20:13:41 --> Config Class Initialized
+INFO - 2020-11-23 20:13:41 --> Loader Class Initialized
+INFO - 2020-11-23 20:13:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:13:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:13:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:13:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:13:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:13:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:13:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:13:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:13:41 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:13:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:13:42 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:13:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:13:42 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:13:42 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:13:42 --> Model Class Initialized
+INFO - 2020-11-23 20:13:42 --> Model Class Initialized
+DEBUG - 2020-11-23 20:13:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:13:42 --> Final output sent to browser
+DEBUG - 2020-11-23 20:13:42 --> Total execution time: 0.8717
+INFO - 2020-11-23 20:14:44 --> Config Class Initialized
+INFO - 2020-11-23 20:14:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:14:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:14:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:14:44 --> URI Class Initialized
+INFO - 2020-11-23 20:14:44 --> Router Class Initialized
+INFO - 2020-11-23 20:14:44 --> Output Class Initialized
+INFO - 2020-11-23 20:14:44 --> Security Class Initialized
+DEBUG - 2020-11-23 20:14:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:14:44 --> Input Class Initialized
+INFO - 2020-11-23 20:14:44 --> Language Class Initialized
+INFO - 2020-11-23 20:14:44 --> Language Class Initialized
+INFO - 2020-11-23 20:14:45 --> Config Class Initialized
+INFO - 2020-11-23 20:14:45 --> Loader Class Initialized
+INFO - 2020-11-23 20:14:45 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:14:45 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:14:45 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:14:45 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:14:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:14:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:14:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:14:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:14:45 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:14:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:14:45 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:14:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:14:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:14:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:14:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:14:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:14:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:14:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:14:45 --> Final output sent to browser
+DEBUG - 2020-11-23 20:14:45 --> Total execution time: 0.9228
+INFO - 2020-11-23 20:14:47 --> Config Class Initialized
+INFO - 2020-11-23 20:14:47 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:14:47 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:14:47 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:14:47 --> URI Class Initialized
+INFO - 2020-11-23 20:14:47 --> Router Class Initialized
+INFO - 2020-11-23 20:14:47 --> Output Class Initialized
+INFO - 2020-11-23 20:14:47 --> Security Class Initialized
+DEBUG - 2020-11-23 20:14:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:14:47 --> Input Class Initialized
+INFO - 2020-11-23 20:14:47 --> Language Class Initialized
+INFO - 2020-11-23 20:14:48 --> Language Class Initialized
+INFO - 2020-11-23 20:14:48 --> Config Class Initialized
+INFO - 2020-11-23 20:14:48 --> Loader Class Initialized
+INFO - 2020-11-23 20:14:48 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:14:48 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:14:48 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:14:48 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:14:48 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:14:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:14:48 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:14:48 --> Controller Class Initialized
+ERROR - 2020-11-23 20:14:48 --> Severity: error --> Exception: syntax error, unexpected 'if' (T_IF) C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 228
+ERROR - 2020-11-23 20:14:48 --> Severity: Error --> Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in C:\xampp\htdocs\hmvc\system\core\Common.php on line 658 and defined in C:\xampp\htdocs\hmvc\system\core\Exceptions.php:190
+Stack trace:
+#0 C:\xampp\htdocs\hmvc\system\core\Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown C:\xampp\htdocs\hmvc\system\core\Exceptions.php 190
+INFO - 2020-11-23 20:15:01 --> Config Class Initialized
+INFO - 2020-11-23 20:15:01 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:15:01 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:15:01 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:15:01 --> URI Class Initialized
+INFO - 2020-11-23 20:15:01 --> Router Class Initialized
+INFO - 2020-11-23 20:15:01 --> Output Class Initialized
+INFO - 2020-11-23 20:15:02 --> Security Class Initialized
+DEBUG - 2020-11-23 20:15:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:15:02 --> Input Class Initialized
+INFO - 2020-11-23 20:15:02 --> Language Class Initialized
+INFO - 2020-11-23 20:15:02 --> Language Class Initialized
+INFO - 2020-11-23 20:15:02 --> Config Class Initialized
+INFO - 2020-11-23 20:15:02 --> Loader Class Initialized
+INFO - 2020-11-23 20:15:02 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:15:02 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:15:02 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:15:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:15:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:15:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:15:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:15:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:15:02 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:15:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:15:02 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:15:02 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:15:02 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:15:02 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:15:02 --> Model Class Initialized
+INFO - 2020-11-23 20:15:02 --> Model Class Initialized
+DEBUG - 2020-11-23 20:15:02 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:15:02 --> Final output sent to browser
+DEBUG - 2020-11-23 20:15:02 --> Total execution time: 0.9028
+INFO - 2020-11-23 20:15:46 --> Config Class Initialized
+INFO - 2020-11-23 20:15:47 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:15:47 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:15:47 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:15:47 --> URI Class Initialized
+INFO - 2020-11-23 20:15:47 --> Router Class Initialized
+INFO - 2020-11-23 20:15:47 --> Output Class Initialized
+INFO - 2020-11-23 20:15:47 --> Security Class Initialized
+DEBUG - 2020-11-23 20:15:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:15:47 --> Input Class Initialized
+INFO - 2020-11-23 20:15:47 --> Language Class Initialized
+INFO - 2020-11-23 20:15:47 --> Language Class Initialized
+INFO - 2020-11-23 20:15:47 --> Config Class Initialized
+INFO - 2020-11-23 20:15:47 --> Loader Class Initialized
+INFO - 2020-11-23 20:15:47 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:15:47 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:15:47 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:15:47 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:15:47 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:15:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:15:47 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:15:47 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:15:47 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:15:47 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:15:47 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:15:47 --> Model Class Initialized
+DEBUG - 2020-11-23 20:15:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:15:47 --> Model Class Initialized
+DEBUG - 2020-11-23 20:15:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:15:47 --> Model Class Initialized
+DEBUG - 2020-11-23 20:15:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:15:47 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:15:47 --> Final output sent to browser
+DEBUG - 2020-11-23 20:15:48 --> Total execution time: 0.9735
+INFO - 2020-11-23 20:15:49 --> Config Class Initialized
+INFO - 2020-11-23 20:15:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:15:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:15:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:15:49 --> URI Class Initialized
+INFO - 2020-11-23 20:15:49 --> Router Class Initialized
+INFO - 2020-11-23 20:15:49 --> Output Class Initialized
+INFO - 2020-11-23 20:15:49 --> Security Class Initialized
+DEBUG - 2020-11-23 20:15:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:15:49 --> Input Class Initialized
+INFO - 2020-11-23 20:15:49 --> Language Class Initialized
+INFO - 2020-11-23 20:15:49 --> Language Class Initialized
+INFO - 2020-11-23 20:15:49 --> Config Class Initialized
+INFO - 2020-11-23 20:15:49 --> Loader Class Initialized
+INFO - 2020-11-23 20:15:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:15:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:15:49 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:15:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:15:50 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:15:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:15:50 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:15:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:15:50 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:15:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:15:50 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:15:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:15:50 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:15:50 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:15:50 --> Model Class Initialized
+INFO - 2020-11-23 20:15:50 --> Model Class Initialized
+DEBUG - 2020-11-23 20:15:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:15:50 --> Final output sent to browser
+DEBUG - 2020-11-23 20:15:50 --> Total execution time: 0.8993
+INFO - 2020-11-23 20:16:09 --> Config Class Initialized
+INFO - 2020-11-23 20:16:09 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:16:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:16:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:16:09 --> URI Class Initialized
+INFO - 2020-11-23 20:16:09 --> Router Class Initialized
+INFO - 2020-11-23 20:16:09 --> Output Class Initialized
+INFO - 2020-11-23 20:16:09 --> Security Class Initialized
+DEBUG - 2020-11-23 20:16:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:16:09 --> Input Class Initialized
+INFO - 2020-11-23 20:16:09 --> Language Class Initialized
+INFO - 2020-11-23 20:16:09 --> Language Class Initialized
+INFO - 2020-11-23 20:16:09 --> Config Class Initialized
+INFO - 2020-11-23 20:16:09 --> Loader Class Initialized
+INFO - 2020-11-23 20:16:09 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:16:09 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:16:09 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:16:09 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:16:09 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:16:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:16:09 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:16:09 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:16:09 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:16:09 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:16:09 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:16:09 --> Model Class Initialized
+DEBUG - 2020-11-23 20:16:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:16:09 --> Model Class Initialized
+DEBUG - 2020-11-23 20:16:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:16:09 --> Model Class Initialized
+DEBUG - 2020-11-23 20:16:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:16:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:16:10 --> Final output sent to browser
+DEBUG - 2020-11-23 20:16:10 --> Total execution time: 0.9818
+INFO - 2020-11-23 20:16:11 --> Config Class Initialized
+INFO - 2020-11-23 20:16:11 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:16:11 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:16:11 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:16:11 --> URI Class Initialized
+INFO - 2020-11-23 20:16:11 --> Router Class Initialized
+INFO - 2020-11-23 20:16:11 --> Output Class Initialized
+INFO - 2020-11-23 20:16:11 --> Security Class Initialized
+DEBUG - 2020-11-23 20:16:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:16:11 --> Input Class Initialized
+INFO - 2020-11-23 20:16:11 --> Language Class Initialized
+INFO - 2020-11-23 20:16:11 --> Language Class Initialized
+INFO - 2020-11-23 20:16:11 --> Config Class Initialized
+INFO - 2020-11-23 20:16:11 --> Loader Class Initialized
+INFO - 2020-11-23 20:16:11 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:16:11 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:16:11 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:16:11 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:16:11 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:16:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:16:11 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:16:11 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:16:11 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:16:11 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:16:11 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:16:11 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:16:11 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:16:11 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:16:11 --> Model Class Initialized
+INFO - 2020-11-23 20:16:12 --> Model Class Initialized
+DEBUG - 2020-11-23 20:16:12 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:17:41 --> Config Class Initialized
+INFO - 2020-11-23 20:17:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:17:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:17:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:17:41 --> URI Class Initialized
+INFO - 2020-11-23 20:17:41 --> Router Class Initialized
+INFO - 2020-11-23 20:17:41 --> Output Class Initialized
+INFO - 2020-11-23 20:17:41 --> Security Class Initialized
+DEBUG - 2020-11-23 20:17:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:17:41 --> Input Class Initialized
+INFO - 2020-11-23 20:17:41 --> Language Class Initialized
+INFO - 2020-11-23 20:17:41 --> Language Class Initialized
+INFO - 2020-11-23 20:17:41 --> Config Class Initialized
+INFO - 2020-11-23 20:17:41 --> Loader Class Initialized
+INFO - 2020-11-23 20:17:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:17:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:17:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:17:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:17:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:17:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:17:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:17:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:17:41 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:17:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:17:41 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:17:41 --> Model Class Initialized
+DEBUG - 2020-11-23 20:17:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:17:41 --> Model Class Initialized
+DEBUG - 2020-11-23 20:17:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:17:41 --> Model Class Initialized
+DEBUG - 2020-11-23 20:17:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:17:41 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:17:41 --> Final output sent to browser
+DEBUG - 2020-11-23 20:17:41 --> Total execution time: 0.9153
+INFO - 2020-11-23 20:17:43 --> Config Class Initialized
+INFO - 2020-11-23 20:17:43 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:17:43 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:17:43 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:17:43 --> URI Class Initialized
+INFO - 2020-11-23 20:17:43 --> Router Class Initialized
+INFO - 2020-11-23 20:17:43 --> Output Class Initialized
+INFO - 2020-11-23 20:17:43 --> Security Class Initialized
+DEBUG - 2020-11-23 20:17:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:17:43 --> Input Class Initialized
+INFO - 2020-11-23 20:17:43 --> Language Class Initialized
+INFO - 2020-11-23 20:17:43 --> Language Class Initialized
+INFO - 2020-11-23 20:17:43 --> Config Class Initialized
+INFO - 2020-11-23 20:17:43 --> Loader Class Initialized
+INFO - 2020-11-23 20:17:43 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:17:43 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:17:43 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:17:43 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:17:43 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:17:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:17:44 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:17:44 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:17:44 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:17:44 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:17:44 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:17:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:17:44 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:17:44 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:17:44 --> Model Class Initialized
+INFO - 2020-11-23 20:17:44 --> Model Class Initialized
+DEBUG - 2020-11-23 20:17:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:17:44 --> Final output sent to browser
+DEBUG - 2020-11-23 20:17:44 --> Total execution time: 0.8634
+INFO - 2020-11-23 20:18:01 --> Config Class Initialized
+INFO - 2020-11-23 20:18:01 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:18:01 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:18:01 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:18:01 --> URI Class Initialized
+INFO - 2020-11-23 20:18:01 --> Router Class Initialized
+INFO - 2020-11-23 20:18:01 --> Output Class Initialized
+INFO - 2020-11-23 20:18:01 --> Security Class Initialized
+DEBUG - 2020-11-23 20:18:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:18:01 --> Input Class Initialized
+INFO - 2020-11-23 20:18:01 --> Language Class Initialized
+INFO - 2020-11-23 20:18:01 --> Language Class Initialized
+INFO - 2020-11-23 20:18:01 --> Config Class Initialized
+INFO - 2020-11-23 20:18:01 --> Loader Class Initialized
+INFO - 2020-11-23 20:18:02 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:18:02 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:18:02 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:18:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:18:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:18:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:18:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:18:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:18:02 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:18:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:18:02 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:18:02 --> Model Class Initialized
+DEBUG - 2020-11-23 20:18:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:18:02 --> Model Class Initialized
+DEBUG - 2020-11-23 20:18:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:18:02 --> Model Class Initialized
+DEBUG - 2020-11-23 20:18:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:18:02 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:18:02 --> Final output sent to browser
+DEBUG - 2020-11-23 20:18:02 --> Total execution time: 0.9638
+INFO - 2020-11-23 20:18:04 --> Config Class Initialized
+INFO - 2020-11-23 20:18:04 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:18:04 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:18:04 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:18:04 --> URI Class Initialized
+INFO - 2020-11-23 20:18:04 --> Router Class Initialized
+INFO - 2020-11-23 20:18:04 --> Output Class Initialized
+INFO - 2020-11-23 20:18:04 --> Security Class Initialized
+DEBUG - 2020-11-23 20:18:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:18:04 --> Input Class Initialized
+INFO - 2020-11-23 20:18:04 --> Language Class Initialized
+INFO - 2020-11-23 20:18:04 --> Language Class Initialized
+INFO - 2020-11-23 20:18:04 --> Config Class Initialized
+INFO - 2020-11-23 20:18:04 --> Loader Class Initialized
+INFO - 2020-11-23 20:18:04 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:18:04 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:18:04 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:18:04 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:18:04 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:18:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:18:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:18:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:18:04 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:18:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:18:05 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:18:05 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:18:05 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:18:05 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:18:05 --> Model Class Initialized
+INFO - 2020-11-23 20:18:05 --> Model Class Initialized
+DEBUG - 2020-11-23 20:18:05 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+ERROR - 2020-11-23 20:18:05 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\hmvc\application\modules\Api\controllers\v1\categories.php 243
+INFO - 2020-11-23 20:18:05 --> Final output sent to browser
+DEBUG - 2020-11-23 20:18:05 --> Total execution time: 0.9634
+INFO - 2020-11-23 20:18:58 --> Config Class Initialized
+INFO - 2020-11-23 20:18:58 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:18:58 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:18:58 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:18:58 --> URI Class Initialized
+INFO - 2020-11-23 20:18:58 --> Router Class Initialized
+INFO - 2020-11-23 20:18:58 --> Output Class Initialized
+INFO - 2020-11-23 20:18:58 --> Security Class Initialized
+DEBUG - 2020-11-23 20:18:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:18:58 --> Input Class Initialized
+INFO - 2020-11-23 20:18:58 --> Language Class Initialized
+INFO - 2020-11-23 20:18:58 --> Language Class Initialized
+INFO - 2020-11-23 20:18:58 --> Config Class Initialized
+INFO - 2020-11-23 20:18:58 --> Loader Class Initialized
+INFO - 2020-11-23 20:18:58 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:18:58 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:18:58 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:18:58 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:18:58 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:18:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:18:58 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:18:58 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:18:58 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:18:58 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:18:58 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:18:59 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:18:59 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:18:59 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:18:59 --> Model Class Initialized
+INFO - 2020-11-23 20:18:59 --> Model Class Initialized
+DEBUG - 2020-11-23 20:18:59 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:18:59 --> Final output sent to browser
+DEBUG - 2020-11-23 20:18:59 --> Total execution time: 0.9074
+INFO - 2020-11-23 20:19:44 --> Config Class Initialized
+INFO - 2020-11-23 20:19:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:19:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:19:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:19:44 --> URI Class Initialized
+INFO - 2020-11-23 20:19:44 --> Router Class Initialized
+INFO - 2020-11-23 20:19:44 --> Output Class Initialized
+INFO - 2020-11-23 20:19:44 --> Security Class Initialized
+DEBUG - 2020-11-23 20:19:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:19:44 --> Input Class Initialized
+INFO - 2020-11-23 20:19:44 --> Language Class Initialized
+INFO - 2020-11-23 20:19:44 --> Language Class Initialized
+INFO - 2020-11-23 20:19:44 --> Config Class Initialized
+INFO - 2020-11-23 20:19:44 --> Loader Class Initialized
+INFO - 2020-11-23 20:19:44 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:19:44 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:19:44 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:19:44 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:19:44 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:19:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:19:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:19:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:19:45 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:19:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:19:45 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:19:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:19:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:19:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:19:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:19:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:19:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:19:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:19:45 --> Final output sent to browser
+DEBUG - 2020-11-23 20:19:45 --> Total execution time: 1.0002
+INFO - 2020-11-23 20:19:46 --> Config Class Initialized
+INFO - 2020-11-23 20:19:46 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:19:46 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:19:46 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:19:46 --> URI Class Initialized
+INFO - 2020-11-23 20:19:47 --> Router Class Initialized
+INFO - 2020-11-23 20:19:47 --> Output Class Initialized
+INFO - 2020-11-23 20:19:47 --> Security Class Initialized
+DEBUG - 2020-11-23 20:19:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:19:47 --> Input Class Initialized
+INFO - 2020-11-23 20:19:47 --> Language Class Initialized
+INFO - 2020-11-23 20:19:47 --> Language Class Initialized
+INFO - 2020-11-23 20:19:47 --> Config Class Initialized
+INFO - 2020-11-23 20:19:47 --> Loader Class Initialized
+INFO - 2020-11-23 20:19:47 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:19:47 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:19:47 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:19:47 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:19:47 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:19:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:19:47 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:19:47 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:19:47 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:19:47 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:19:47 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:19:47 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:19:47 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:19:47 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:19:47 --> Model Class Initialized
+INFO - 2020-11-23 20:19:47 --> Model Class Initialized
+DEBUG - 2020-11-23 20:19:47 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:19:47 --> Final output sent to browser
+DEBUG - 2020-11-23 20:19:47 --> Total execution time: 0.9158
+INFO - 2020-11-23 20:20:15 --> Config Class Initialized
+INFO - 2020-11-23 20:20:15 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:20:15 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:20:15 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:20:15 --> URI Class Initialized
+INFO - 2020-11-23 20:20:15 --> Router Class Initialized
+INFO - 2020-11-23 20:20:15 --> Output Class Initialized
+INFO - 2020-11-23 20:20:15 --> Security Class Initialized
+DEBUG - 2020-11-23 20:20:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:20:15 --> Input Class Initialized
+INFO - 2020-11-23 20:20:15 --> Language Class Initialized
+INFO - 2020-11-23 20:20:16 --> Language Class Initialized
+INFO - 2020-11-23 20:20:16 --> Config Class Initialized
+INFO - 2020-11-23 20:20:16 --> Loader Class Initialized
+INFO - 2020-11-23 20:20:16 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:20:16 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:20:16 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:20:16 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:20:16 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:20:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:20:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:20:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:20:16 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:20:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:20:16 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:20:16 --> Model Class Initialized
+DEBUG - 2020-11-23 20:20:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:20:16 --> Model Class Initialized
+DEBUG - 2020-11-23 20:20:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:20:16 --> Model Class Initialized
+DEBUG - 2020-11-23 20:20:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:20:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:20:16 --> Final output sent to browser
+DEBUG - 2020-11-23 20:20:16 --> Total execution time: 0.9796
+INFO - 2020-11-23 20:20:17 --> Config Class Initialized
+INFO - 2020-11-23 20:20:17 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:20:17 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:20:18 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:20:18 --> URI Class Initialized
+INFO - 2020-11-23 20:20:18 --> Router Class Initialized
+INFO - 2020-11-23 20:20:18 --> Output Class Initialized
+INFO - 2020-11-23 20:20:18 --> Security Class Initialized
+DEBUG - 2020-11-23 20:20:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:20:18 --> Input Class Initialized
+INFO - 2020-11-23 20:20:18 --> Language Class Initialized
+INFO - 2020-11-23 20:20:18 --> Language Class Initialized
+INFO - 2020-11-23 20:20:18 --> Config Class Initialized
+INFO - 2020-11-23 20:20:18 --> Loader Class Initialized
+INFO - 2020-11-23 20:20:18 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:20:18 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:20:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:20:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:20:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:20:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:20:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:20:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:20:18 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:20:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:20:18 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:20:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:20:18 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:20:18 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:20:18 --> Model Class Initialized
+INFO - 2020-11-23 20:20:18 --> Model Class Initialized
+DEBUG - 2020-11-23 20:20:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:20:37 --> Config Class Initialized
+INFO - 2020-11-23 20:20:37 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:20:37 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:20:37 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:20:37 --> URI Class Initialized
+INFO - 2020-11-23 20:20:37 --> Router Class Initialized
+INFO - 2020-11-23 20:20:37 --> Output Class Initialized
+INFO - 2020-11-23 20:20:37 --> Security Class Initialized
+DEBUG - 2020-11-23 20:20:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:20:37 --> Input Class Initialized
+INFO - 2020-11-23 20:20:37 --> Language Class Initialized
+INFO - 2020-11-23 20:20:37 --> Language Class Initialized
+INFO - 2020-11-23 20:20:37 --> Config Class Initialized
+INFO - 2020-11-23 20:20:37 --> Loader Class Initialized
+INFO - 2020-11-23 20:20:38 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:20:38 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:20:38 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:20:38 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:20:38 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:20:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:20:38 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:20:38 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:20:38 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:20:38 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:20:38 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:20:38 --> Model Class Initialized
+DEBUG - 2020-11-23 20:20:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:20:38 --> Model Class Initialized
+DEBUG - 2020-11-23 20:20:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:20:38 --> Model Class Initialized
+DEBUG - 2020-11-23 20:20:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:20:38 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:20:38 --> Final output sent to browser
+DEBUG - 2020-11-23 20:20:38 --> Total execution time: 0.9918
+INFO - 2020-11-23 20:20:39 --> Config Class Initialized
+INFO - 2020-11-23 20:20:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:20:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:20:39 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:20:39 --> URI Class Initialized
+INFO - 2020-11-23 20:20:39 --> Router Class Initialized
+INFO - 2020-11-23 20:20:39 --> Output Class Initialized
+INFO - 2020-11-23 20:20:39 --> Security Class Initialized
+DEBUG - 2020-11-23 20:20:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:20:40 --> Input Class Initialized
+INFO - 2020-11-23 20:20:40 --> Language Class Initialized
+INFO - 2020-11-23 20:20:40 --> Language Class Initialized
+INFO - 2020-11-23 20:20:40 --> Config Class Initialized
+INFO - 2020-11-23 20:20:40 --> Loader Class Initialized
+INFO - 2020-11-23 20:20:40 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:20:40 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:20:40 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:20:40 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:20:40 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:20:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:20:40 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:20:40 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:20:40 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:20:40 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:20:40 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:20:40 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:20:40 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:20:40 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:20:40 --> Model Class Initialized
+INFO - 2020-11-23 20:20:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:20:40 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:35:45 --> Config Class Initialized
+INFO - 2020-11-23 20:35:45 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:35:45 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:35:45 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:35:45 --> URI Class Initialized
+INFO - 2020-11-23 20:35:45 --> Router Class Initialized
+INFO - 2020-11-23 20:35:45 --> Output Class Initialized
+INFO - 2020-11-23 20:35:45 --> Security Class Initialized
+DEBUG - 2020-11-23 20:35:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:35:45 --> Input Class Initialized
+INFO - 2020-11-23 20:35:45 --> Language Class Initialized
+INFO - 2020-11-23 20:35:45 --> Language Class Initialized
+INFO - 2020-11-23 20:35:46 --> Config Class Initialized
+INFO - 2020-11-23 20:35:46 --> Loader Class Initialized
+INFO - 2020-11-23 20:35:46 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:35:46 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:35:46 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:35:46 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:35:46 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:35:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:35:46 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:35:46 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:35:46 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:35:46 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:35:46 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:35:46 --> Model Class Initialized
+DEBUG - 2020-11-23 20:35:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:35:46 --> Model Class Initialized
+DEBUG - 2020-11-23 20:35:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:35:46 --> Model Class Initialized
+DEBUG - 2020-11-23 20:35:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:35:46 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:35:46 --> Final output sent to browser
+DEBUG - 2020-11-23 20:35:46 --> Total execution time: 0.9507
+INFO - 2020-11-23 20:35:49 --> Config Class Initialized
+INFO - 2020-11-23 20:35:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:35:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:35:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:35:49 --> URI Class Initialized
+INFO - 2020-11-23 20:35:49 --> Router Class Initialized
+INFO - 2020-11-23 20:35:49 --> Output Class Initialized
+INFO - 2020-11-23 20:35:49 --> Security Class Initialized
+DEBUG - 2020-11-23 20:35:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:35:49 --> Input Class Initialized
+INFO - 2020-11-23 20:35:49 --> Language Class Initialized
+INFO - 2020-11-23 20:35:49 --> Language Class Initialized
+INFO - 2020-11-23 20:35:49 --> Config Class Initialized
+INFO - 2020-11-23 20:35:49 --> Loader Class Initialized
+INFO - 2020-11-23 20:35:49 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:35:49 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:35:49 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:35:49 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:35:49 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:35:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:35:49 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:35:49 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:35:49 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:35:49 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:35:49 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:35:49 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:35:49 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:35:49 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:35:49 --> Model Class Initialized
+INFO - 2020-11-23 20:35:49 --> Model Class Initialized
+DEBUG - 2020-11-23 20:35:49 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:36:15 --> Config Class Initialized
+INFO - 2020-11-23 20:36:15 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:36:15 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:36:15 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:36:15 --> URI Class Initialized
+INFO - 2020-11-23 20:36:15 --> Router Class Initialized
+INFO - 2020-11-23 20:36:15 --> Output Class Initialized
+INFO - 2020-11-23 20:36:15 --> Security Class Initialized
+DEBUG - 2020-11-23 20:36:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:36:15 --> Input Class Initialized
+INFO - 2020-11-23 20:36:15 --> Language Class Initialized
+INFO - 2020-11-23 20:36:15 --> Language Class Initialized
+INFO - 2020-11-23 20:36:15 --> Config Class Initialized
+INFO - 2020-11-23 20:36:15 --> Loader Class Initialized
+INFO - 2020-11-23 20:36:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:36:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:36:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:36:16 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:36:16 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:36:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:36:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:36:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:36:16 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:36:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:36:16 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:36:16 --> Model Class Initialized
+DEBUG - 2020-11-23 20:36:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:36:16 --> Model Class Initialized
+DEBUG - 2020-11-23 20:36:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:36:16 --> Model Class Initialized
+DEBUG - 2020-11-23 20:36:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:36:16 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:36:16 --> Final output sent to browser
+DEBUG - 2020-11-23 20:36:16 --> Total execution time: 0.9296
+INFO - 2020-11-23 20:36:18 --> Config Class Initialized
+INFO - 2020-11-23 20:36:18 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:36:18 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:36:18 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:36:18 --> URI Class Initialized
+INFO - 2020-11-23 20:36:18 --> Router Class Initialized
+INFO - 2020-11-23 20:36:18 --> Output Class Initialized
+INFO - 2020-11-23 20:36:18 --> Security Class Initialized
+DEBUG - 2020-11-23 20:36:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:36:18 --> Input Class Initialized
+INFO - 2020-11-23 20:36:18 --> Language Class Initialized
+INFO - 2020-11-23 20:36:18 --> Language Class Initialized
+INFO - 2020-11-23 20:36:18 --> Config Class Initialized
+INFO - 2020-11-23 20:36:18 --> Loader Class Initialized
+INFO - 2020-11-23 20:36:18 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:36:18 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:36:18 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:36:18 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:36:18 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:36:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:36:18 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:36:18 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:36:18 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:36:18 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:36:18 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:36:18 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:36:18 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:36:18 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:36:18 --> Model Class Initialized
+INFO - 2020-11-23 20:36:18 --> Model Class Initialized
+DEBUG - 2020-11-23 20:36:19 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:37:39 --> Config Class Initialized
+INFO - 2020-11-23 20:37:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:37:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:37:39 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:37:39 --> URI Class Initialized
+INFO - 2020-11-23 20:37:39 --> Router Class Initialized
+INFO - 2020-11-23 20:37:39 --> Output Class Initialized
+INFO - 2020-11-23 20:37:39 --> Security Class Initialized
+DEBUG - 2020-11-23 20:37:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:37:39 --> Input Class Initialized
+INFO - 2020-11-23 20:37:39 --> Language Class Initialized
+INFO - 2020-11-23 20:37:39 --> Language Class Initialized
+INFO - 2020-11-23 20:37:39 --> Config Class Initialized
+INFO - 2020-11-23 20:37:39 --> Loader Class Initialized
+INFO - 2020-11-23 20:37:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:37:39 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:37:39 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:37:39 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:37:39 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:37:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:37:39 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:37:39 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:37:39 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:37:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:37:39 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:37:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:37:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:37:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:37:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:37:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:37:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:37:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:37:40 --> Final output sent to browser
+DEBUG - 2020-11-23 20:37:40 --> Total execution time: 0.9695
+INFO - 2020-11-23 20:37:41 --> Config Class Initialized
+INFO - 2020-11-23 20:37:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:37:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:37:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:37:41 --> URI Class Initialized
+INFO - 2020-11-23 20:37:41 --> Router Class Initialized
+INFO - 2020-11-23 20:37:41 --> Output Class Initialized
+INFO - 2020-11-23 20:37:42 --> Security Class Initialized
+DEBUG - 2020-11-23 20:37:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:37:42 --> Input Class Initialized
+INFO - 2020-11-23 20:37:42 --> Language Class Initialized
+INFO - 2020-11-23 20:37:42 --> Language Class Initialized
+INFO - 2020-11-23 20:37:42 --> Config Class Initialized
+INFO - 2020-11-23 20:37:42 --> Loader Class Initialized
+INFO - 2020-11-23 20:37:42 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:37:42 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:37:42 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:37:42 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:37:42 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:37:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:37:42 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:37:42 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:37:42 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:37:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:37:42 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:37:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:37:42 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:37:42 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:37:42 --> Model Class Initialized
+INFO - 2020-11-23 20:37:42 --> Model Class Initialized
+DEBUG - 2020-11-23 20:37:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:38:16 --> Config Class Initialized
+INFO - 2020-11-23 20:38:16 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:38:16 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:38:16 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:38:16 --> URI Class Initialized
+INFO - 2020-11-23 20:38:16 --> Router Class Initialized
+INFO - 2020-11-23 20:38:16 --> Output Class Initialized
+INFO - 2020-11-23 20:38:16 --> Security Class Initialized
+DEBUG - 2020-11-23 20:38:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:38:16 --> Input Class Initialized
+INFO - 2020-11-23 20:38:16 --> Language Class Initialized
+INFO - 2020-11-23 20:38:16 --> Language Class Initialized
+INFO - 2020-11-23 20:38:16 --> Config Class Initialized
+INFO - 2020-11-23 20:38:16 --> Loader Class Initialized
+INFO - 2020-11-23 20:38:16 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:38:16 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:38:16 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:38:16 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:38:16 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:38:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:38:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:38:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:38:17 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:38:17 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:38:17 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:38:17 --> Model Class Initialized
+DEBUG - 2020-11-23 20:38:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:38:17 --> Model Class Initialized
+DEBUG - 2020-11-23 20:38:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:38:17 --> Model Class Initialized
+DEBUG - 2020-11-23 20:38:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:38:17 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:38:17 --> Final output sent to browser
+DEBUG - 2020-11-23 20:38:17 --> Total execution time: 1.0131
+INFO - 2020-11-23 20:38:19 --> Config Class Initialized
+INFO - 2020-11-23 20:38:19 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:38:20 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:38:20 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:38:20 --> URI Class Initialized
+INFO - 2020-11-23 20:38:20 --> Router Class Initialized
+INFO - 2020-11-23 20:38:20 --> Output Class Initialized
+INFO - 2020-11-23 20:38:20 --> Security Class Initialized
+DEBUG - 2020-11-23 20:38:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:38:20 --> Input Class Initialized
+INFO - 2020-11-23 20:38:20 --> Language Class Initialized
+INFO - 2020-11-23 20:38:20 --> Language Class Initialized
+INFO - 2020-11-23 20:38:20 --> Config Class Initialized
+INFO - 2020-11-23 20:38:20 --> Loader Class Initialized
+INFO - 2020-11-23 20:38:20 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:38:20 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:38:20 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:38:20 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:38:20 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:38:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:38:20 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:38:20 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:38:20 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:38:20 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:38:20 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:38:20 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:38:20 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:38:20 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:38:20 --> Model Class Initialized
+INFO - 2020-11-23 20:38:20 --> Model Class Initialized
+DEBUG - 2020-11-23 20:38:20 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:38:33 --> Config Class Initialized
+INFO - 2020-11-23 20:38:33 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:38:33 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:38:33 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:38:33 --> URI Class Initialized
+INFO - 2020-11-23 20:38:33 --> Router Class Initialized
+INFO - 2020-11-23 20:38:33 --> Output Class Initialized
+INFO - 2020-11-23 20:38:33 --> Security Class Initialized
+DEBUG - 2020-11-23 20:38:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:38:33 --> Input Class Initialized
+INFO - 2020-11-23 20:38:34 --> Language Class Initialized
+INFO - 2020-11-23 20:38:34 --> Language Class Initialized
+INFO - 2020-11-23 20:38:34 --> Config Class Initialized
+INFO - 2020-11-23 20:38:34 --> Loader Class Initialized
+INFO - 2020-11-23 20:38:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:38:34 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:38:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:38:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:38:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:38:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:38:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:38:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:38:34 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:38:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:38:34 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:38:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:38:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:38:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:38:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:38:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:38:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:38:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:38:34 --> Final output sent to browser
+DEBUG - 2020-11-23 20:38:34 --> Total execution time: 0.9872
+INFO - 2020-11-23 20:38:36 --> Config Class Initialized
+INFO - 2020-11-23 20:38:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:38:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:38:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:38:36 --> URI Class Initialized
+INFO - 2020-11-23 20:38:36 --> Router Class Initialized
+INFO - 2020-11-23 20:38:36 --> Output Class Initialized
+INFO - 2020-11-23 20:38:36 --> Security Class Initialized
+DEBUG - 2020-11-23 20:38:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:38:36 --> Input Class Initialized
+INFO - 2020-11-23 20:38:36 --> Language Class Initialized
+INFO - 2020-11-23 20:38:36 --> Language Class Initialized
+INFO - 2020-11-23 20:38:36 --> Config Class Initialized
+INFO - 2020-11-23 20:38:36 --> Loader Class Initialized
+INFO - 2020-11-23 20:38:36 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:38:36 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:38:36 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:38:36 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:38:36 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:38:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:38:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:38:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:38:36 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:38:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:38:37 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:38:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:38:37 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:38:37 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:38:37 --> Model Class Initialized
+INFO - 2020-11-23 20:38:37 --> Model Class Initialized
+DEBUG - 2020-11-23 20:38:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:39:08 --> Config Class Initialized
+INFO - 2020-11-23 20:39:08 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:39:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:39:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:39:09 --> URI Class Initialized
+INFO - 2020-11-23 20:39:09 --> Router Class Initialized
+INFO - 2020-11-23 20:39:09 --> Output Class Initialized
+INFO - 2020-11-23 20:39:09 --> Security Class Initialized
+DEBUG - 2020-11-23 20:39:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:39:09 --> Input Class Initialized
+INFO - 2020-11-23 20:39:09 --> Language Class Initialized
+INFO - 2020-11-23 20:39:09 --> Language Class Initialized
+INFO - 2020-11-23 20:39:09 --> Config Class Initialized
+INFO - 2020-11-23 20:39:09 --> Loader Class Initialized
+INFO - 2020-11-23 20:39:09 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:39:09 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:39:09 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:39:09 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:39:09 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:39:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:39:09 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:39:09 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:39:09 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:39:09 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:39:09 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:39:09 --> Model Class Initialized
+DEBUG - 2020-11-23 20:39:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:39:09 --> Model Class Initialized
+DEBUG - 2020-11-23 20:39:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:39:09 --> Model Class Initialized
+DEBUG - 2020-11-23 20:39:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:39:09 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:39:09 --> Final output sent to browser
+DEBUG - 2020-11-23 20:39:09 --> Total execution time: 0.9571
+INFO - 2020-11-23 20:39:11 --> Config Class Initialized
+INFO - 2020-11-23 20:39:11 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:39:11 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:39:11 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:39:11 --> URI Class Initialized
+INFO - 2020-11-23 20:39:11 --> Router Class Initialized
+INFO - 2020-11-23 20:39:12 --> Output Class Initialized
+INFO - 2020-11-23 20:39:12 --> Security Class Initialized
+DEBUG - 2020-11-23 20:39:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:39:12 --> Input Class Initialized
+INFO - 2020-11-23 20:39:12 --> Language Class Initialized
+INFO - 2020-11-23 20:39:12 --> Language Class Initialized
+INFO - 2020-11-23 20:39:12 --> Config Class Initialized
+INFO - 2020-11-23 20:39:12 --> Loader Class Initialized
+INFO - 2020-11-23 20:39:12 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:39:12 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:39:12 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:39:12 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:39:12 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:39:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:39:12 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:39:12 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:39:12 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:39:12 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:39:12 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:39:12 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:39:12 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:39:12 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:39:12 --> Model Class Initialized
+INFO - 2020-11-23 20:39:12 --> Model Class Initialized
+DEBUG - 2020-11-23 20:39:12 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:39:44 --> Config Class Initialized
+INFO - 2020-11-23 20:39:44 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:39:44 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:39:44 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:39:44 --> URI Class Initialized
+INFO - 2020-11-23 20:39:44 --> Router Class Initialized
+INFO - 2020-11-23 20:39:44 --> Output Class Initialized
+INFO - 2020-11-23 20:39:44 --> Security Class Initialized
+DEBUG - 2020-11-23 20:39:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:39:44 --> Input Class Initialized
+INFO - 2020-11-23 20:39:44 --> Language Class Initialized
+INFO - 2020-11-23 20:39:44 --> Language Class Initialized
+INFO - 2020-11-23 20:39:44 --> Config Class Initialized
+INFO - 2020-11-23 20:39:44 --> Loader Class Initialized
+INFO - 2020-11-23 20:39:44 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:39:44 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:39:45 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:39:45 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:39:45 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:39:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:39:45 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:39:45 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:39:45 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:39:45 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:39:45 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:39:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:39:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:39:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:39:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:39:45 --> Model Class Initialized
+DEBUG - 2020-11-23 20:39:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:39:45 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:39:45 --> Final output sent to browser
+DEBUG - 2020-11-23 20:39:45 --> Total execution time: 0.9956
+INFO - 2020-11-23 20:39:47 --> Config Class Initialized
+INFO - 2020-11-23 20:39:47 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:39:47 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:39:47 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:39:47 --> URI Class Initialized
+INFO - 2020-11-23 20:39:47 --> Router Class Initialized
+INFO - 2020-11-23 20:39:47 --> Output Class Initialized
+INFO - 2020-11-23 20:39:47 --> Security Class Initialized
+DEBUG - 2020-11-23 20:39:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:39:47 --> Input Class Initialized
+INFO - 2020-11-23 20:39:47 --> Language Class Initialized
+INFO - 2020-11-23 20:39:47 --> Language Class Initialized
+INFO - 2020-11-23 20:39:47 --> Config Class Initialized
+INFO - 2020-11-23 20:39:47 --> Loader Class Initialized
+INFO - 2020-11-23 20:39:47 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:39:47 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:39:47 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:39:47 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:39:47 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:39:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:39:47 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:39:47 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:39:47 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:39:47 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:39:47 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:39:47 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:39:48 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:39:48 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:39:48 --> Model Class Initialized
+INFO - 2020-11-23 20:39:48 --> Model Class Initialized
+DEBUG - 2020-11-23 20:39:48 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:41:02 --> Config Class Initialized
+INFO - 2020-11-23 20:41:02 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:41:02 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:41:02 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:41:02 --> URI Class Initialized
+INFO - 2020-11-23 20:41:02 --> Router Class Initialized
+INFO - 2020-11-23 20:41:02 --> Output Class Initialized
+INFO - 2020-11-23 20:41:02 --> Security Class Initialized
+DEBUG - 2020-11-23 20:41:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:41:02 --> Input Class Initialized
+INFO - 2020-11-23 20:41:02 --> Language Class Initialized
+INFO - 2020-11-23 20:41:02 --> Language Class Initialized
+INFO - 2020-11-23 20:41:02 --> Config Class Initialized
+INFO - 2020-11-23 20:41:02 --> Loader Class Initialized
+INFO - 2020-11-23 20:41:02 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:41:02 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:41:02 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:41:02 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:41:02 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:41:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:41:02 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:41:02 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:41:02 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:41:02 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:41:02 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:41:02 --> Model Class Initialized
+DEBUG - 2020-11-23 20:41:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:41:03 --> Model Class Initialized
+DEBUG - 2020-11-23 20:41:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:41:03 --> Model Class Initialized
+DEBUG - 2020-11-23 20:41:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:41:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:41:03 --> Final output sent to browser
+DEBUG - 2020-11-23 20:41:03 --> Total execution time: 0.9485
+INFO - 2020-11-23 20:41:06 --> Config Class Initialized
+INFO - 2020-11-23 20:41:06 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:41:06 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:41:06 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:41:06 --> URI Class Initialized
+INFO - 2020-11-23 20:41:06 --> Router Class Initialized
+INFO - 2020-11-23 20:41:06 --> Output Class Initialized
+INFO - 2020-11-23 20:41:06 --> Security Class Initialized
+DEBUG - 2020-11-23 20:41:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:41:06 --> Input Class Initialized
+INFO - 2020-11-23 20:41:06 --> Language Class Initialized
+INFO - 2020-11-23 20:41:06 --> Language Class Initialized
+INFO - 2020-11-23 20:41:06 --> Config Class Initialized
+INFO - 2020-11-23 20:41:06 --> Loader Class Initialized
+INFO - 2020-11-23 20:41:06 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:41:06 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:41:06 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:41:06 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:41:06 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:41:06 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:41:06 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:41:06 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:41:06 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:41:06 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:41:07 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:41:07 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:41:07 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:41:07 --> Model Class Initialized
+INFO - 2020-11-23 20:41:07 --> Model Class Initialized
+DEBUG - 2020-11-23 20:41:07 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:42:19 --> Config Class Initialized
+INFO - 2020-11-23 20:42:19 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:42:19 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:42:19 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:42:19 --> URI Class Initialized
+INFO - 2020-11-23 20:42:19 --> Router Class Initialized
+INFO - 2020-11-23 20:42:19 --> Output Class Initialized
+INFO - 2020-11-23 20:42:19 --> Security Class Initialized
+DEBUG - 2020-11-23 20:42:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:42:20 --> Input Class Initialized
+INFO - 2020-11-23 20:42:20 --> Language Class Initialized
+INFO - 2020-11-23 20:42:20 --> Language Class Initialized
+INFO - 2020-11-23 20:42:20 --> Config Class Initialized
+INFO - 2020-11-23 20:42:20 --> Loader Class Initialized
+INFO - 2020-11-23 20:42:20 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:42:20 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:42:20 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:42:20 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:42:20 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:42:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:42:20 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:42:20 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:42:20 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:42:20 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:42:20 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:42:20 --> Model Class Initialized
+DEBUG - 2020-11-23 20:42:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:42:20 --> Model Class Initialized
+DEBUG - 2020-11-23 20:42:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:42:20 --> Model Class Initialized
+DEBUG - 2020-11-23 20:42:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:42:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:42:20 --> Final output sent to browser
+DEBUG - 2020-11-23 20:42:20 --> Total execution time: 0.9492
+INFO - 2020-11-23 20:42:23 --> Config Class Initialized
+INFO - 2020-11-23 20:42:23 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:42:23 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:42:23 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:42:23 --> URI Class Initialized
+INFO - 2020-11-23 20:42:23 --> Router Class Initialized
+INFO - 2020-11-23 20:42:23 --> Output Class Initialized
+INFO - 2020-11-23 20:42:23 --> Security Class Initialized
+DEBUG - 2020-11-23 20:42:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:42:23 --> Input Class Initialized
+INFO - 2020-11-23 20:42:23 --> Language Class Initialized
+INFO - 2020-11-23 20:42:23 --> Language Class Initialized
+INFO - 2020-11-23 20:42:23 --> Config Class Initialized
+INFO - 2020-11-23 20:42:23 --> Loader Class Initialized
+INFO - 2020-11-23 20:42:23 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:42:23 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:42:23 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:42:23 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:42:23 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:42:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:42:23 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:42:23 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:42:23 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:42:23 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:42:23 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:42:23 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:42:23 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:42:23 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:42:23 --> Model Class Initialized
+INFO - 2020-11-23 20:42:24 --> Model Class Initialized
+DEBUG - 2020-11-23 20:42:24 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:42:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:42:24 --> Final output sent to browser
+DEBUG - 2020-11-23 20:42:24 --> Total execution time: 0.9508
+INFO - 2020-11-23 20:42:40 --> Config Class Initialized
+INFO - 2020-11-23 20:42:40 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:42:40 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:42:40 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:42:40 --> URI Class Initialized
+INFO - 2020-11-23 20:42:40 --> Router Class Initialized
+INFO - 2020-11-23 20:42:40 --> Output Class Initialized
+INFO - 2020-11-23 20:42:40 --> Security Class Initialized
+DEBUG - 2020-11-23 20:42:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:42:40 --> Input Class Initialized
+INFO - 2020-11-23 20:42:40 --> Language Class Initialized
+INFO - 2020-11-23 20:42:40 --> Language Class Initialized
+INFO - 2020-11-23 20:42:40 --> Config Class Initialized
+INFO - 2020-11-23 20:42:40 --> Loader Class Initialized
+INFO - 2020-11-23 20:42:40 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:42:40 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:42:40 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:42:40 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:42:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:42:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:42:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:42:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:42:41 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:42:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:42:41 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:42:41 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:42:41 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:42:41 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:42:41 --> Model Class Initialized
+INFO - 2020-11-23 20:42:41 --> Model Class Initialized
+DEBUG - 2020-11-23 20:42:41 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:42:41 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:42:41 --> Final output sent to browser
+DEBUG - 2020-11-23 20:42:41 --> Total execution time: 0.9737
+INFO - 2020-11-23 20:42:50 --> Config Class Initialized
+INFO - 2020-11-23 20:42:50 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:42:50 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:42:50 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:42:50 --> URI Class Initialized
+INFO - 2020-11-23 20:42:50 --> Router Class Initialized
+INFO - 2020-11-23 20:42:50 --> Output Class Initialized
+INFO - 2020-11-23 20:42:50 --> Security Class Initialized
+DEBUG - 2020-11-23 20:42:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:42:50 --> Input Class Initialized
+INFO - 2020-11-23 20:42:50 --> Language Class Initialized
+INFO - 2020-11-23 20:42:50 --> Language Class Initialized
+INFO - 2020-11-23 20:42:50 --> Config Class Initialized
+INFO - 2020-11-23 20:42:50 --> Loader Class Initialized
+INFO - 2020-11-23 20:42:50 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:42:50 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:42:50 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:42:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:42:50 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:42:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:42:50 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:42:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:42:50 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:42:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:42:50 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:42:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:42:50 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:42:50 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:42:50 --> Model Class Initialized
+INFO - 2020-11-23 20:42:50 --> Model Class Initialized
+DEBUG - 2020-11-23 20:42:50 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:42:50 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:42:50 --> Final output sent to browser
+DEBUG - 2020-11-23 20:42:51 --> Total execution time: 0.9556
+INFO - 2020-11-23 20:43:33 --> Config Class Initialized
+INFO - 2020-11-23 20:43:33 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:43:33 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:43:33 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:43:33 --> URI Class Initialized
+INFO - 2020-11-23 20:43:33 --> Router Class Initialized
+INFO - 2020-11-23 20:43:34 --> Output Class Initialized
+INFO - 2020-11-23 20:43:34 --> Security Class Initialized
+DEBUG - 2020-11-23 20:43:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:43:34 --> Input Class Initialized
+INFO - 2020-11-23 20:43:34 --> Language Class Initialized
+INFO - 2020-11-23 20:43:34 --> Language Class Initialized
+INFO - 2020-11-23 20:43:34 --> Config Class Initialized
+INFO - 2020-11-23 20:43:34 --> Loader Class Initialized
+INFO - 2020-11-23 20:43:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:43:34 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:43:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:43:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:43:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:43:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:43:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:43:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:43:34 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:43:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:43:34 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:43:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:43:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:43:34 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:43:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:43:34 --> Final output sent to browser
+DEBUG - 2020-11-23 20:43:34 --> Total execution time: 0.9912
+INFO - 2020-11-23 20:43:37 --> Config Class Initialized
+INFO - 2020-11-23 20:43:37 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:43:37 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:43:37 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:43:37 --> URI Class Initialized
+INFO - 2020-11-23 20:43:37 --> Router Class Initialized
+INFO - 2020-11-23 20:43:37 --> Output Class Initialized
+INFO - 2020-11-23 20:43:37 --> Security Class Initialized
+DEBUG - 2020-11-23 20:43:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:43:37 --> Input Class Initialized
+INFO - 2020-11-23 20:43:37 --> Language Class Initialized
+INFO - 2020-11-23 20:43:37 --> Language Class Initialized
+INFO - 2020-11-23 20:43:38 --> Config Class Initialized
+INFO - 2020-11-23 20:43:38 --> Loader Class Initialized
+INFO - 2020-11-23 20:43:38 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:43:38 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:43:38 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:43:38 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:43:38 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:43:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:43:38 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:43:38 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:43:38 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:43:38 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:43:38 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:43:38 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:43:38 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:43:38 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:43:38 --> Model Class Initialized
+INFO - 2020-11-23 20:43:38 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:38 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:43:38 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:43:38 --> Final output sent to browser
+DEBUG - 2020-11-23 20:43:38 --> Total execution time: 0.9553
+INFO - 2020-11-23 20:43:38 --> Config Class Initialized
+INFO - 2020-11-23 20:43:38 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:43:38 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:43:38 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:43:38 --> URI Class Initialized
+INFO - 2020-11-23 20:43:38 --> Router Class Initialized
+INFO - 2020-11-23 20:43:38 --> Output Class Initialized
+INFO - 2020-11-23 20:43:38 --> Security Class Initialized
+DEBUG - 2020-11-23 20:43:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:43:38 --> Input Class Initialized
+INFO - 2020-11-23 20:43:38 --> Language Class Initialized
+INFO - 2020-11-23 20:43:39 --> Language Class Initialized
+INFO - 2020-11-23 20:43:39 --> Config Class Initialized
+INFO - 2020-11-23 20:43:39 --> Loader Class Initialized
+INFO - 2020-11-23 20:43:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:43:39 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:43:39 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:43:39 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:43:39 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:43:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:43:39 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:43:39 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:43:39 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:43:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:43:39 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:43:39 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:43:39 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:43:39 --> Model Class Initialized
+ERROR - 2020-11-23 20:43:39 --> Severity: Notice --> Trying to get property 'title' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 12
+ERROR - 2020-11-23 20:43:39 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 19
+ERROR - 2020-11-23 20:43:39 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 19
+ERROR - 2020-11-23 20:43:39 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 19
+ERROR - 2020-11-23 20:43:39 --> Severity: Notice --> Trying to get property 'parent_id' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 19
+ERROR - 2020-11-23 20:43:39 --> Severity: Notice --> Trying to get property 'status' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 30
+ERROR - 2020-11-23 20:43:39 --> Severity: Notice --> Trying to get property 'slug' of non-object C:\xampp\htdocs\hmvc\application\modules\Dashboard\views\update_category.php 46
+DEBUG - 2020-11-23 20:43:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:43:39 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:43:39 --> Final output sent to browser
+DEBUG - 2020-11-23 20:43:39 --> Total execution time: 1.1687
+INFO - 2020-11-23 20:43:56 --> Config Class Initialized
+INFO - 2020-11-23 20:43:56 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:43:56 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:43:56 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:43:56 --> URI Class Initialized
+INFO - 2020-11-23 20:43:56 --> Router Class Initialized
+INFO - 2020-11-23 20:43:56 --> Output Class Initialized
+INFO - 2020-11-23 20:43:56 --> Security Class Initialized
+DEBUG - 2020-11-23 20:43:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:43:56 --> Input Class Initialized
+INFO - 2020-11-23 20:43:56 --> Language Class Initialized
+INFO - 2020-11-23 20:43:56 --> Language Class Initialized
+INFO - 2020-11-23 20:43:56 --> Config Class Initialized
+INFO - 2020-11-23 20:43:56 --> Loader Class Initialized
+INFO - 2020-11-23 20:43:56 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:43:56 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:43:56 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:43:56 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:43:56 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:43:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:43:56 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:43:56 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:43:56 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:43:56 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:43:56 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:43:56 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:43:56 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 20:43:56 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:43:56 --> Final output sent to browser
+DEBUG - 2020-11-23 20:43:57 --> Total execution time: 0.9219
+INFO - 2020-11-23 20:43:58 --> Config Class Initialized
+INFO - 2020-11-23 20:43:58 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:43:58 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:43:58 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:43:58 --> URI Class Initialized
+INFO - 2020-11-23 20:43:58 --> Router Class Initialized
+INFO - 2020-11-23 20:43:58 --> Output Class Initialized
+INFO - 2020-11-23 20:43:58 --> Security Class Initialized
+DEBUG - 2020-11-23 20:43:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:43:58 --> Input Class Initialized
+INFO - 2020-11-23 20:43:58 --> Language Class Initialized
+INFO - 2020-11-23 20:43:58 --> Language Class Initialized
+INFO - 2020-11-23 20:43:58 --> Config Class Initialized
+INFO - 2020-11-23 20:43:58 --> Loader Class Initialized
+INFO - 2020-11-23 20:43:58 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:43:58 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:43:58 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:43:58 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:43:58 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:43:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:43:58 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:43:58 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:43:58 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:43:58 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:43:58 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:43:58 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:43:59 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:43:59 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:43:59 --> Model Class Initialized
+INFO - 2020-11-23 20:43:59 --> Model Class Initialized
+DEBUG - 2020-11-23 20:43:59 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:43:59 --> Final output sent to browser
+DEBUG - 2020-11-23 20:43:59 --> Total execution time: 0.9736
+INFO - 2020-11-23 20:44:03 --> Config Class Initialized
+INFO - 2020-11-23 20:44:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:03 --> URI Class Initialized
+INFO - 2020-11-23 20:44:03 --> Router Class Initialized
+INFO - 2020-11-23 20:44:03 --> Output Class Initialized
+INFO - 2020-11-23 20:44:03 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:03 --> Input Class Initialized
+INFO - 2020-11-23 20:44:03 --> Language Class Initialized
+INFO - 2020-11-23 20:44:03 --> Language Class Initialized
+INFO - 2020-11-23 20:44:04 --> Config Class Initialized
+INFO - 2020-11-23 20:44:04 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:04 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:04 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:04 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:04 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:04 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:04 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:04 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:44:04 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:44:04 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:44:04 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:44:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:44:04 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:04 --> Total execution time: 0.9784
+INFO - 2020-11-23 20:44:08 --> Config Class Initialized
+INFO - 2020-11-23 20:44:08 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:08 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:08 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:08 --> URI Class Initialized
+INFO - 2020-11-23 20:44:08 --> Router Class Initialized
+INFO - 2020-11-23 20:44:08 --> Output Class Initialized
+INFO - 2020-11-23 20:44:08 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:08 --> Input Class Initialized
+INFO - 2020-11-23 20:44:08 --> Language Class Initialized
+INFO - 2020-11-23 20:44:08 --> Language Class Initialized
+INFO - 2020-11-23 20:44:08 --> Config Class Initialized
+INFO - 2020-11-23 20:44:08 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:08 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:08 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:08 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:08 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:08 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:08 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:08 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:08 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:08 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:08 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:08 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:44:08 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:44:08 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:44:09 --> Model Class Initialized
+INFO - 2020-11-23 20:44:09 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:09 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:44:09 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:44:09 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:09 --> Total execution time: 0.9408
+INFO - 2020-11-23 20:44:09 --> Config Class Initialized
+INFO - 2020-11-23 20:44:09 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:09 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:09 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:09 --> URI Class Initialized
+INFO - 2020-11-23 20:44:09 --> Router Class Initialized
+INFO - 2020-11-23 20:44:09 --> Output Class Initialized
+INFO - 2020-11-23 20:44:09 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:09 --> Input Class Initialized
+INFO - 2020-11-23 20:44:09 --> Language Class Initialized
+INFO - 2020-11-23 20:44:09 --> Language Class Initialized
+INFO - 2020-11-23 20:44:09 --> Config Class Initialized
+INFO - 2020-11-23 20:44:09 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:09 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:09 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:09 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:09 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:09 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:09 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:09 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:09 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:09 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:09 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:44:09 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:44:10 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 20:44:10 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:44:10 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:10 --> Total execution time: 0.9175
+INFO - 2020-11-23 20:44:10 --> Config Class Initialized
+INFO - 2020-11-23 20:44:10 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:10 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:10 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:10 --> URI Class Initialized
+INFO - 2020-11-23 20:44:10 --> Router Class Initialized
+INFO - 2020-11-23 20:44:10 --> Output Class Initialized
+INFO - 2020-11-23 20:44:10 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:10 --> Input Class Initialized
+INFO - 2020-11-23 20:44:10 --> Language Class Initialized
+INFO - 2020-11-23 20:44:10 --> Language Class Initialized
+INFO - 2020-11-23 20:44:10 --> Config Class Initialized
+INFO - 2020-11-23 20:44:10 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:10 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:10 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:10 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:10 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:10 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:11 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:11 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:11 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:11 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:11 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:11 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:44:11 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:44:11 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:44:11 --> Model Class Initialized
+INFO - 2020-11-23 20:44:11 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:11 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:44:11 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:11 --> Total execution time: 0.9738
+INFO - 2020-11-23 20:44:19 --> Config Class Initialized
+INFO - 2020-11-23 20:44:19 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:19 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:19 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:19 --> URI Class Initialized
+INFO - 2020-11-23 20:44:19 --> Router Class Initialized
+INFO - 2020-11-23 20:44:19 --> Output Class Initialized
+INFO - 2020-11-23 20:44:19 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:19 --> Input Class Initialized
+INFO - 2020-11-23 20:44:19 --> Language Class Initialized
+INFO - 2020-11-23 20:44:19 --> Language Class Initialized
+INFO - 2020-11-23 20:44:19 --> Config Class Initialized
+INFO - 2020-11-23 20:44:19 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:19 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:19 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:19 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:19 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:19 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:19 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:19 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:19 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:19 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:19 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:44:19 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:44:19 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:44:19 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:19 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:44:20 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:44:20 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:20 --> Total execution time: 0.9934
+INFO - 2020-11-23 20:44:34 --> Config Class Initialized
+INFO - 2020-11-23 20:44:34 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:34 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:34 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:34 --> URI Class Initialized
+INFO - 2020-11-23 20:44:34 --> Router Class Initialized
+INFO - 2020-11-23 20:44:34 --> Output Class Initialized
+INFO - 2020-11-23 20:44:34 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:34 --> Input Class Initialized
+INFO - 2020-11-23 20:44:34 --> Language Class Initialized
+INFO - 2020-11-23 20:44:34 --> Language Class Initialized
+INFO - 2020-11-23 20:44:34 --> Config Class Initialized
+INFO - 2020-11-23 20:44:34 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:34 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:34 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:34 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:34 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:34 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:34 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:34 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:44:34 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:44:34 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:44:35 --> Model Class Initialized
+INFO - 2020-11-23 20:44:35 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:35 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:44:35 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:44:35 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:35 --> Total execution time: 0.9648
+INFO - 2020-11-23 20:44:35 --> Config Class Initialized
+INFO - 2020-11-23 20:44:35 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:35 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:35 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:35 --> URI Class Initialized
+INFO - 2020-11-23 20:44:35 --> Router Class Initialized
+INFO - 2020-11-23 20:44:35 --> Output Class Initialized
+INFO - 2020-11-23 20:44:35 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:35 --> Input Class Initialized
+INFO - 2020-11-23 20:44:35 --> Language Class Initialized
+INFO - 2020-11-23 20:44:35 --> Language Class Initialized
+INFO - 2020-11-23 20:44:35 --> Config Class Initialized
+INFO - 2020-11-23 20:44:35 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:35 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:35 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:35 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:35 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:35 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:35 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:35 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:35 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:35 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:35 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:44:35 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:35 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:44:36 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 20:44:36 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:44:36 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:36 --> Total execution time: 0.8983
+INFO - 2020-11-23 20:44:36 --> Config Class Initialized
+INFO - 2020-11-23 20:44:36 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:36 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:36 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:36 --> URI Class Initialized
+INFO - 2020-11-23 20:44:36 --> Router Class Initialized
+INFO - 2020-11-23 20:44:36 --> Output Class Initialized
+INFO - 2020-11-23 20:44:36 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:36 --> Input Class Initialized
+INFO - 2020-11-23 20:44:36 --> Language Class Initialized
+INFO - 2020-11-23 20:44:36 --> Language Class Initialized
+INFO - 2020-11-23 20:44:36 --> Config Class Initialized
+INFO - 2020-11-23 20:44:36 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:36 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:36 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:36 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:36 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:36 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:36 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:36 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:37 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:37 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:37 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:44:37 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:44:37 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:44:37 --> Model Class Initialized
+INFO - 2020-11-23 20:44:37 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:37 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:44:37 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:37 --> Total execution time: 0.9439
+INFO - 2020-11-23 20:44:52 --> Config Class Initialized
+INFO - 2020-11-23 20:44:52 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:44:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:44:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:44:53 --> URI Class Initialized
+INFO - 2020-11-23 20:44:53 --> Router Class Initialized
+INFO - 2020-11-23 20:44:53 --> Output Class Initialized
+INFO - 2020-11-23 20:44:53 --> Security Class Initialized
+DEBUG - 2020-11-23 20:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:44:53 --> Input Class Initialized
+INFO - 2020-11-23 20:44:53 --> Language Class Initialized
+INFO - 2020-11-23 20:44:53 --> Language Class Initialized
+INFO - 2020-11-23 20:44:53 --> Config Class Initialized
+INFO - 2020-11-23 20:44:53 --> Loader Class Initialized
+INFO - 2020-11-23 20:44:53 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:44:53 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:44:53 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:44:53 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:44:53 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:44:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:44:53 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:44:53 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:44:53 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:44:53 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:44:53 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:44:53 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:44:53 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:44:53 --> Model Class Initialized
+DEBUG - 2020-11-23 20:44:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:44:53 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:44:53 --> Final output sent to browser
+DEBUG - 2020-11-23 20:44:53 --> Total execution time: 0.9558
+INFO - 2020-11-23 20:45:03 --> Config Class Initialized
+INFO - 2020-11-23 20:45:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:45:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:45:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:45:03 --> URI Class Initialized
+INFO - 2020-11-23 20:45:03 --> Router Class Initialized
+INFO - 2020-11-23 20:45:03 --> Output Class Initialized
+INFO - 2020-11-23 20:45:03 --> Security Class Initialized
+DEBUG - 2020-11-23 20:45:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:45:03 --> Input Class Initialized
+INFO - 2020-11-23 20:45:03 --> Language Class Initialized
+INFO - 2020-11-23 20:45:03 --> Language Class Initialized
+INFO - 2020-11-23 20:45:03 --> Config Class Initialized
+INFO - 2020-11-23 20:45:03 --> Loader Class Initialized
+INFO - 2020-11-23 20:45:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:45:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:45:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:45:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:45:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:45:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:45:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:45:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:45:03 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:45:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:45:03 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:45:03 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:45:03 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:45:03 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:45:03 --> Model Class Initialized
+INFO - 2020-11-23 20:45:03 --> Model Class Initialized
+DEBUG - 2020-11-23 20:45:03 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:45:04 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 20:45:04 --> Final output sent to browser
+DEBUG - 2020-11-23 20:45:04 --> Total execution time: 0.9552
+INFO - 2020-11-23 20:45:04 --> Config Class Initialized
+INFO - 2020-11-23 20:45:04 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:45:04 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:45:04 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:45:04 --> URI Class Initialized
+INFO - 2020-11-23 20:45:04 --> Router Class Initialized
+INFO - 2020-11-23 20:45:04 --> Output Class Initialized
+INFO - 2020-11-23 20:45:04 --> Security Class Initialized
+DEBUG - 2020-11-23 20:45:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:45:04 --> Input Class Initialized
+INFO - 2020-11-23 20:45:04 --> Language Class Initialized
+INFO - 2020-11-23 20:45:04 --> Language Class Initialized
+INFO - 2020-11-23 20:45:04 --> Config Class Initialized
+INFO - 2020-11-23 20:45:04 --> Loader Class Initialized
+INFO - 2020-11-23 20:45:04 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:45:04 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:45:04 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:45:04 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:45:04 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:45:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:45:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:45:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:45:04 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:45:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:45:04 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:45:04 --> Model Class Initialized
+DEBUG - 2020-11-23 20:45:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:45:04 --> Model Class Initialized
+DEBUG - 2020-11-23 20:45:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 20:45:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:45:05 --> Final output sent to browser
+DEBUG - 2020-11-23 20:45:05 --> Total execution time: 0.8850
+INFO - 2020-11-23 20:45:05 --> Config Class Initialized
+INFO - 2020-11-23 20:45:05 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:45:05 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:45:05 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:45:05 --> URI Class Initialized
+INFO - 2020-11-23 20:45:05 --> Router Class Initialized
+INFO - 2020-11-23 20:45:05 --> Output Class Initialized
+INFO - 2020-11-23 20:45:05 --> Security Class Initialized
+DEBUG - 2020-11-23 20:45:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:45:05 --> Input Class Initialized
+INFO - 2020-11-23 20:45:05 --> Language Class Initialized
+INFO - 2020-11-23 20:45:05 --> Language Class Initialized
+INFO - 2020-11-23 20:45:05 --> Config Class Initialized
+INFO - 2020-11-23 20:45:05 --> Loader Class Initialized
+INFO - 2020-11-23 20:45:05 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:45:05 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:45:05 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:45:05 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:45:05 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:45:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:45:05 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:45:05 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:45:05 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 20:45:05 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:45:05 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 20:45:05 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 20:45:06 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 20:45:06 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 20:45:06 --> Model Class Initialized
+INFO - 2020-11-23 20:45:06 --> Model Class Initialized
+DEBUG - 2020-11-23 20:45:06 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 20:45:06 --> Final output sent to browser
+DEBUG - 2020-11-23 20:45:06 --> Total execution time: 0.9560
+INFO - 2020-11-23 20:54:39 --> Config Class Initialized
+INFO - 2020-11-23 20:54:39 --> Hooks Class Initialized
+DEBUG - 2020-11-23 20:54:39 --> UTF-8 Support Enabled
+INFO - 2020-11-23 20:54:39 --> Utf8 Class Initialized
+INFO - 2020-11-23 20:54:39 --> URI Class Initialized
+INFO - 2020-11-23 20:54:39 --> Router Class Initialized
+INFO - 2020-11-23 20:54:39 --> Output Class Initialized
+INFO - 2020-11-23 20:54:39 --> Security Class Initialized
+DEBUG - 2020-11-23 20:54:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 20:54:39 --> Input Class Initialized
+INFO - 2020-11-23 20:54:39 --> Language Class Initialized
+INFO - 2020-11-23 20:54:39 --> Language Class Initialized
+INFO - 2020-11-23 20:54:39 --> Config Class Initialized
+INFO - 2020-11-23 20:54:39 --> Loader Class Initialized
+INFO - 2020-11-23 20:54:39 --> Helper loaded: form_helper
+INFO - 2020-11-23 20:54:39 --> Helper loaded: url_helper
+INFO - 2020-11-23 20:54:39 --> Helper loaded: file_helper
+INFO - 2020-11-23 20:54:39 --> Helper loaded: security_helper
+INFO - 2020-11-23 20:54:39 --> Database Driver Class Initialized
+INFO - 2020-11-23 20:54:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 20:54:39 --> Form Validation Class Initialized
+INFO - 2020-11-23 20:54:39 --> Controller Class Initialized
+DEBUG - 2020-11-23 20:54:39 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 20:54:39 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 20:54:39 --> Template MX_Controller Initialized
+INFO - 2020-11-23 20:54:39 --> Model Class Initialized
+DEBUG - 2020-11-23 20:54:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 20:54:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:54:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 20:54:40 --> Model Class Initialized
+DEBUG - 2020-11-23 20:54:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 20:54:40 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 20:54:40 --> Final output sent to browser
+DEBUG - 2020-11-23 20:54:40 --> Total execution time: 0.9550
+INFO - 2020-11-23 21:44:49 --> Config Class Initialized
+INFO - 2020-11-23 21:44:49 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:44:49 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:44:49 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:44:49 --> URI Class Initialized
+DEBUG - 2020-11-23 21:44:50 --> No URI present. Default controller set.
+INFO - 2020-11-23 21:44:50 --> Router Class Initialized
+INFO - 2020-11-23 21:44:50 --> Output Class Initialized
+INFO - 2020-11-23 21:44:50 --> Security Class Initialized
+DEBUG - 2020-11-23 21:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:44:50 --> Input Class Initialized
+INFO - 2020-11-23 21:44:50 --> Language Class Initialized
+INFO - 2020-11-23 21:44:50 --> Language Class Initialized
+INFO - 2020-11-23 21:44:50 --> Config Class Initialized
+INFO - 2020-11-23 21:44:50 --> Loader Class Initialized
+INFO - 2020-11-23 21:44:50 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:44:50 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:44:50 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:44:50 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:44:50 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:44:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:44:50 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:44:50 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:44:50 --> Home MX_Controller Initialized
+DEBUG - 2020-11-23 21:44:50 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:44:50 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:44:50 --> Model Class Initialized
+DEBUG - 2020-11-23 21:44:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/home/models/User_model.php
+INFO - 2020-11-23 21:44:50 --> Model Class Initialized
+DEBUG - 2020-11-23 21:44:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Home/views/home.php
+DEBUG - 2020-11-23 21:44:50 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/auth_template.php
+INFO - 2020-11-23 21:44:50 --> Final output sent to browser
+DEBUG - 2020-11-23 21:44:50 --> Total execution time: 0.9173
+INFO - 2020-11-23 21:44:57 --> Config Class Initialized
+INFO - 2020-11-23 21:44:57 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:44:57 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:44:57 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:44:57 --> URI Class Initialized
+INFO - 2020-11-23 21:44:57 --> Router Class Initialized
+INFO - 2020-11-23 21:44:57 --> Output Class Initialized
+INFO - 2020-11-23 21:44:57 --> Security Class Initialized
+DEBUG - 2020-11-23 21:44:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:44:57 --> Input Class Initialized
+INFO - 2020-11-23 21:44:57 --> Language Class Initialized
+INFO - 2020-11-23 21:44:57 --> Language Class Initialized
+INFO - 2020-11-23 21:44:57 --> Config Class Initialized
+INFO - 2020-11-23 21:44:57 --> Loader Class Initialized
+INFO - 2020-11-23 21:44:57 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:44:57 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:44:57 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:44:57 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:44:57 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:44:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:44:57 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:44:57 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:44:57 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 21:44:57 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:44:57 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:44:57 --> Model Class Initialized
+DEBUG - 2020-11-23 21:44:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 21:44:57 --> Model Class Initialized
+DEBUG - 2020-11-23 21:44:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/dashboard.php
+DEBUG - 2020-11-23 21:44:57 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 21:44:57 --> Final output sent to browser
+DEBUG - 2020-11-23 21:44:58 --> Total execution time: 0.8749
+INFO - 2020-11-23 21:44:58 --> Config Class Initialized
+INFO - 2020-11-23 21:44:58 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:44:58 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:44:58 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:44:58 --> URI Class Initialized
+INFO - 2020-11-23 21:44:58 --> Router Class Initialized
+INFO - 2020-11-23 21:44:58 --> Output Class Initialized
+INFO - 2020-11-23 21:44:58 --> Security Class Initialized
+DEBUG - 2020-11-23 21:44:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:44:58 --> Input Class Initialized
+INFO - 2020-11-23 21:44:58 --> Language Class Initialized
+INFO - 2020-11-23 21:44:58 --> Language Class Initialized
+INFO - 2020-11-23 21:44:58 --> Config Class Initialized
+INFO - 2020-11-23 21:44:58 --> Loader Class Initialized
+INFO - 2020-11-23 21:44:58 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:44:58 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:44:58 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:44:58 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:44:58 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:44:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:44:58 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:44:58 --> Controller Class Initialized
+ERROR - 2020-11-23 21:44:58 --> 404 Page Not Found: /index
+INFO - 2020-11-23 21:44:59 --> Config Class Initialized
+INFO - 2020-11-23 21:44:59 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:44:59 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:44:59 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:44:59 --> URI Class Initialized
+INFO - 2020-11-23 21:44:59 --> Router Class Initialized
+INFO - 2020-11-23 21:44:59 --> Output Class Initialized
+INFO - 2020-11-23 21:44:59 --> Security Class Initialized
+DEBUG - 2020-11-23 21:44:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:44:59 --> Input Class Initialized
+INFO - 2020-11-23 21:44:59 --> Language Class Initialized
+INFO - 2020-11-23 21:44:59 --> Language Class Initialized
+INFO - 2020-11-23 21:44:59 --> Config Class Initialized
+INFO - 2020-11-23 21:44:59 --> Loader Class Initialized
+INFO - 2020-11-23 21:44:59 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:44:59 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:00 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:00 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:00 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:00 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:00 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:00 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:00 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:00 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:45:00 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:00 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 21:45:00 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:00 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 21:45:00 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 21:45:00 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:00 --> Total execution time: 0.8490
+INFO - 2020-11-23 21:45:00 --> Config Class Initialized
+INFO - 2020-11-23 21:45:00 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:00 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:00 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:00 --> URI Class Initialized
+INFO - 2020-11-23 21:45:00 --> Router Class Initialized
+INFO - 2020-11-23 21:45:00 --> Output Class Initialized
+INFO - 2020-11-23 21:45:00 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:00 --> Input Class Initialized
+INFO - 2020-11-23 21:45:00 --> Language Class Initialized
+INFO - 2020-11-23 21:45:00 --> Language Class Initialized
+INFO - 2020-11-23 21:45:00 --> Config Class Initialized
+INFO - 2020-11-23 21:45:00 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:00 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:01 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:01 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:01 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:01 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:01 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:01 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:01 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:01 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:01 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:01 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:45:01 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:45:01 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:45:01 --> Model Class Initialized
+INFO - 2020-11-23 21:45:01 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:01 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:45:01 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:01 --> Total execution time: 0.9192
+INFO - 2020-11-23 21:45:02 --> Config Class Initialized
+INFO - 2020-11-23 21:45:02 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:02 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:02 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:02 --> URI Class Initialized
+INFO - 2020-11-23 21:45:02 --> Router Class Initialized
+INFO - 2020-11-23 21:45:03 --> Output Class Initialized
+INFO - 2020-11-23 21:45:03 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:03 --> Input Class Initialized
+INFO - 2020-11-23 21:45:03 --> Language Class Initialized
+INFO - 2020-11-23 21:45:03 --> Language Class Initialized
+INFO - 2020-11-23 21:45:03 --> Config Class Initialized
+INFO - 2020-11-23 21:45:03 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:03 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:03 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:45:03 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 21:45:03 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 21:45:03 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 21:45:03 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 21:45:03 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:03 --> Total execution time: 0.9001
+INFO - 2020-11-23 21:45:15 --> Config Class Initialized
+INFO - 2020-11-23 21:45:15 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:15 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:15 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:15 --> URI Class Initialized
+INFO - 2020-11-23 21:45:15 --> Router Class Initialized
+INFO - 2020-11-23 21:45:15 --> Output Class Initialized
+INFO - 2020-11-23 21:45:15 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:15 --> Input Class Initialized
+INFO - 2020-11-23 21:45:15 --> Language Class Initialized
+INFO - 2020-11-23 21:45:15 --> Language Class Initialized
+INFO - 2020-11-23 21:45:15 --> Config Class Initialized
+INFO - 2020-11-23 21:45:15 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:15 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:15 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:15 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:15 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:16 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:16 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:16 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:16 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:16 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:16 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:16 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:45:16 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:45:16 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:45:16 --> Model Class Initialized
+INFO - 2020-11-23 21:45:16 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:16 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:45:16 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 21:45:16 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:16 --> Total execution time: 0.8961
+INFO - 2020-11-23 21:45:25 --> Config Class Initialized
+INFO - 2020-11-23 21:45:25 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:25 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:25 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:25 --> URI Class Initialized
+INFO - 2020-11-23 21:45:25 --> Router Class Initialized
+INFO - 2020-11-23 21:45:25 --> Output Class Initialized
+INFO - 2020-11-23 21:45:25 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:25 --> Input Class Initialized
+INFO - 2020-11-23 21:45:25 --> Language Class Initialized
+INFO - 2020-11-23 21:45:25 --> Language Class Initialized
+INFO - 2020-11-23 21:45:25 --> Config Class Initialized
+INFO - 2020-11-23 21:45:25 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:25 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:25 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:25 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:25 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:25 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:25 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:25 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:26 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:26 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:26 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:26 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:45:26 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:45:26 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:45:26 --> Model Class Initialized
+INFO - 2020-11-23 21:45:26 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:26 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:45:26 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 21:45:26 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:26 --> Total execution time: 0.8809
+INFO - 2020-11-23 21:45:26 --> Config Class Initialized
+INFO - 2020-11-23 21:45:26 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:26 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:26 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:26 --> URI Class Initialized
+INFO - 2020-11-23 21:45:26 --> Router Class Initialized
+INFO - 2020-11-23 21:45:26 --> Output Class Initialized
+INFO - 2020-11-23 21:45:26 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:26 --> Input Class Initialized
+INFO - 2020-11-23 21:45:26 --> Language Class Initialized
+INFO - 2020-11-23 21:45:26 --> Language Class Initialized
+INFO - 2020-11-23 21:45:26 --> Config Class Initialized
+INFO - 2020-11-23 21:45:26 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:26 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:26 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:26 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:26 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:26 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:26 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:26 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:26 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:27 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:27 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:45:27 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 21:45:27 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 21:45:27 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 21:45:27 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:27 --> Total execution time: 0.8537
+INFO - 2020-11-23 21:45:28 --> Config Class Initialized
+INFO - 2020-11-23 21:45:28 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:28 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:28 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:28 --> URI Class Initialized
+INFO - 2020-11-23 21:45:28 --> Router Class Initialized
+INFO - 2020-11-23 21:45:28 --> Output Class Initialized
+INFO - 2020-11-23 21:45:28 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:28 --> Input Class Initialized
+INFO - 2020-11-23 21:45:28 --> Language Class Initialized
+INFO - 2020-11-23 21:45:28 --> Language Class Initialized
+INFO - 2020-11-23 21:45:28 --> Config Class Initialized
+INFO - 2020-11-23 21:45:28 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:28 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:28 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:28 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:28 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:28 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:28 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:28 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:29 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:29 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:29 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:29 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:45:29 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:45:29 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:45:29 --> Model Class Initialized
+INFO - 2020-11-23 21:45:29 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:29 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:45:29 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:29 --> Total execution time: 0.8847
+INFO - 2020-11-23 21:45:33 --> Config Class Initialized
+INFO - 2020-11-23 21:45:33 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:33 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:33 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:33 --> URI Class Initialized
+INFO - 2020-11-23 21:45:33 --> Router Class Initialized
+INFO - 2020-11-23 21:45:33 --> Output Class Initialized
+INFO - 2020-11-23 21:45:33 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:33 --> Input Class Initialized
+INFO - 2020-11-23 21:45:33 --> Language Class Initialized
+INFO - 2020-11-23 21:45:33 --> Language Class Initialized
+INFO - 2020-11-23 21:45:33 --> Config Class Initialized
+INFO - 2020-11-23 21:45:33 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:33 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:33 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:33 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:33 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:34 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:34 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:34 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:34 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:34 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:34 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:45:34 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 21:45:34 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/api/models/api/Category_model.php
+INFO - 2020-11-23 21:45:34 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/update_category.php
+DEBUG - 2020-11-23 21:45:34 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 21:45:34 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:34 --> Total execution time: 0.9250
+INFO - 2020-11-23 21:45:41 --> Config Class Initialized
+INFO - 2020-11-23 21:45:41 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:41 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:41 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:41 --> URI Class Initialized
+INFO - 2020-11-23 21:45:41 --> Router Class Initialized
+INFO - 2020-11-23 21:45:41 --> Output Class Initialized
+INFO - 2020-11-23 21:45:41 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:41 --> Input Class Initialized
+INFO - 2020-11-23 21:45:41 --> Language Class Initialized
+INFO - 2020-11-23 21:45:41 --> Language Class Initialized
+INFO - 2020-11-23 21:45:41 --> Config Class Initialized
+INFO - 2020-11-23 21:45:41 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:41 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:41 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:41 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:41 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:41 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:41 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:41 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:41 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:41 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:41 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:41 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:45:42 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:45:42 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:45:42 --> Model Class Initialized
+INFO - 2020-11-23 21:45:42 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:42 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:45:42 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-11-23 21:45:42 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:42 --> Total execution time: 0.8834
+INFO - 2020-11-23 21:45:42 --> Config Class Initialized
+INFO - 2020-11-23 21:45:42 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:42 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:42 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:42 --> URI Class Initialized
+INFO - 2020-11-23 21:45:42 --> Router Class Initialized
+INFO - 2020-11-23 21:45:42 --> Output Class Initialized
+INFO - 2020-11-23 21:45:42 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:42 --> Input Class Initialized
+INFO - 2020-11-23 21:45:42 --> Language Class Initialized
+INFO - 2020-11-23 21:45:42 --> Language Class Initialized
+INFO - 2020-11-23 21:45:42 --> Config Class Initialized
+INFO - 2020-11-23 21:45:42 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:42 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:42 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:42 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:42 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:42 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:42 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:42 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:42 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:42 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:42 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:45:42 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:42 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 21:45:43 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 21:45:43 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 21:45:43 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:43 --> Total execution time: 0.8484
+INFO - 2020-11-23 21:45:43 --> Config Class Initialized
+INFO - 2020-11-23 21:45:43 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:43 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:43 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:43 --> URI Class Initialized
+INFO - 2020-11-23 21:45:43 --> Router Class Initialized
+INFO - 2020-11-23 21:45:43 --> Output Class Initialized
+INFO - 2020-11-23 21:45:43 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:43 --> Input Class Initialized
+INFO - 2020-11-23 21:45:43 --> Language Class Initialized
+INFO - 2020-11-23 21:45:43 --> Language Class Initialized
+INFO - 2020-11-23 21:45:43 --> Config Class Initialized
+INFO - 2020-11-23 21:45:43 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:43 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:43 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:43 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:43 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:43 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:43 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:43 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:43 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:43 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:43 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:43 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:45:44 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:45:44 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:45:44 --> Model Class Initialized
+INFO - 2020-11-23 21:45:44 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:44 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:45:44 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:44 --> Total execution time: 0.9086
+INFO - 2020-11-23 21:45:52 --> Config Class Initialized
+INFO - 2020-11-23 21:45:52 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:52 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:52 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:52 --> URI Class Initialized
+INFO - 2020-11-23 21:45:52 --> Router Class Initialized
+INFO - 2020-11-23 21:45:52 --> Output Class Initialized
+INFO - 2020-11-23 21:45:52 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:52 --> Input Class Initialized
+INFO - 2020-11-23 21:45:52 --> Language Class Initialized
+INFO - 2020-11-23 21:45:52 --> Language Class Initialized
+INFO - 2020-11-23 21:45:52 --> Config Class Initialized
+INFO - 2020-11-23 21:45:52 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:52 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:52 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:52 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:52 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:52 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:52 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:52 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:52 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:52 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:52 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:53 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:45:53 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:45:53 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:45:53 --> Model Class Initialized
+INFO - 2020-11-23 21:45:53 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:53 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:45:53 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:53 --> Total execution time: 0.8724
+INFO - 2020-11-23 21:45:53 --> Config Class Initialized
+INFO - 2020-11-23 21:45:53 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:53 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:53 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:53 --> URI Class Initialized
+INFO - 2020-11-23 21:45:53 --> Router Class Initialized
+INFO - 2020-11-23 21:45:53 --> Output Class Initialized
+INFO - 2020-11-23 21:45:53 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:53 --> Input Class Initialized
+INFO - 2020-11-23 21:45:53 --> Language Class Initialized
+INFO - 2020-11-23 21:45:53 --> Language Class Initialized
+INFO - 2020-11-23 21:45:53 --> Config Class Initialized
+INFO - 2020-11-23 21:45:53 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:53 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:53 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:53 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:53 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:53 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:53 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:53 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:53 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:53 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:53 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:45:54 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 21:45:54 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 21:45:54 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 21:45:54 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:54 --> Total execution time: 0.9027
+INFO - 2020-11-23 21:45:54 --> Config Class Initialized
+INFO - 2020-11-23 21:45:54 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:45:54 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:45:54 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:45:54 --> URI Class Initialized
+INFO - 2020-11-23 21:45:54 --> Router Class Initialized
+INFO - 2020-11-23 21:45:54 --> Output Class Initialized
+INFO - 2020-11-23 21:45:54 --> Security Class Initialized
+DEBUG - 2020-11-23 21:45:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:45:54 --> Input Class Initialized
+INFO - 2020-11-23 21:45:54 --> Language Class Initialized
+INFO - 2020-11-23 21:45:54 --> Language Class Initialized
+INFO - 2020-11-23 21:45:54 --> Config Class Initialized
+INFO - 2020-11-23 21:45:54 --> Loader Class Initialized
+INFO - 2020-11-23 21:45:54 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:45:54 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:45:54 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:45:54 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:45:54 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:45:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:45:54 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:45:55 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:45:55 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:55 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:45:55 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:45:55 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:45:55 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:45:55 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:45:55 --> Model Class Initialized
+INFO - 2020-11-23 21:45:55 --> Model Class Initialized
+DEBUG - 2020-11-23 21:45:55 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:45:55 --> Final output sent to browser
+DEBUG - 2020-11-23 21:45:55 --> Total execution time: 0.9096
+INFO - 2020-11-23 21:46:02 --> Config Class Initialized
+INFO - 2020-11-23 21:46:02 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:46:03 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:46:03 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:46:03 --> URI Class Initialized
+INFO - 2020-11-23 21:46:03 --> Router Class Initialized
+INFO - 2020-11-23 21:46:03 --> Output Class Initialized
+INFO - 2020-11-23 21:46:03 --> Security Class Initialized
+DEBUG - 2020-11-23 21:46:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:46:03 --> Input Class Initialized
+INFO - 2020-11-23 21:46:03 --> Language Class Initialized
+INFO - 2020-11-23 21:46:03 --> Language Class Initialized
+INFO - 2020-11-23 21:46:03 --> Config Class Initialized
+INFO - 2020-11-23 21:46:03 --> Loader Class Initialized
+INFO - 2020-11-23 21:46:03 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:46:03 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:46:03 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:46:03 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:46:03 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:46:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:46:03 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:46:03 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:46:03 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:46:03 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:46:03 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:46:03 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:46:03 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:46:03 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:46:03 --> Model Class Initialized
+INFO - 2020-11-23 21:46:03 --> Model Class Initialized
+DEBUG - 2020-11-23 21:46:03 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:46:03 --> Final output sent to browser
+DEBUG - 2020-11-23 21:46:03 --> Total execution time: 0.8924
+INFO - 2020-11-23 21:46:03 --> Config Class Initialized
+INFO - 2020-11-23 21:46:03 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:46:04 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:46:04 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:46:04 --> URI Class Initialized
+INFO - 2020-11-23 21:46:04 --> Router Class Initialized
+INFO - 2020-11-23 21:46:04 --> Output Class Initialized
+INFO - 2020-11-23 21:46:04 --> Security Class Initialized
+DEBUG - 2020-11-23 21:46:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:46:04 --> Input Class Initialized
+INFO - 2020-11-23 21:46:04 --> Language Class Initialized
+INFO - 2020-11-23 21:46:04 --> Language Class Initialized
+INFO - 2020-11-23 21:46:04 --> Config Class Initialized
+INFO - 2020-11-23 21:46:04 --> Loader Class Initialized
+INFO - 2020-11-23 21:46:04 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:46:04 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:46:04 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:46:04 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:46:04 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:46:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:46:04 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:46:04 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:46:04 --> Dashboard MX_Controller Initialized
+DEBUG - 2020-11-23 21:46:04 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:46:04 --> Template MX_Controller Initialized
+INFO - 2020-11-23 21:46:04 --> Model Class Initialized
+DEBUG - 2020-11-23 21:46:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/dashboard/models/Dashboard_model.php
+INFO - 2020-11-23 21:46:04 --> Model Class Initialized
+DEBUG - 2020-11-23 21:46:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Dashboard/views/categories.php
+DEBUG - 2020-11-23 21:46:04 --> File loaded: C:\xampp\htdocs\hmvc\application\modules/Template/views/admin_template.php
+INFO - 2020-11-23 21:46:04 --> Final output sent to browser
+DEBUG - 2020-11-23 21:46:04 --> Total execution time: 0.9033
+INFO - 2020-11-23 21:46:05 --> Config Class Initialized
+INFO - 2020-11-23 21:46:05 --> Hooks Class Initialized
+DEBUG - 2020-11-23 21:46:05 --> UTF-8 Support Enabled
+INFO - 2020-11-23 21:46:05 --> Utf8 Class Initialized
+INFO - 2020-11-23 21:46:05 --> URI Class Initialized
+INFO - 2020-11-23 21:46:05 --> Router Class Initialized
+INFO - 2020-11-23 21:46:05 --> Output Class Initialized
+INFO - 2020-11-23 21:46:05 --> Security Class Initialized
+DEBUG - 2020-11-23 21:46:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-11-23 21:46:05 --> Input Class Initialized
+INFO - 2020-11-23 21:46:05 --> Language Class Initialized
+INFO - 2020-11-23 21:46:05 --> Language Class Initialized
+INFO - 2020-11-23 21:46:05 --> Config Class Initialized
+INFO - 2020-11-23 21:46:05 --> Loader Class Initialized
+INFO - 2020-11-23 21:46:05 --> Helper loaded: form_helper
+INFO - 2020-11-23 21:46:05 --> Helper loaded: url_helper
+INFO - 2020-11-23 21:46:05 --> Helper loaded: file_helper
+INFO - 2020-11-23 21:46:05 --> Helper loaded: security_helper
+INFO - 2020-11-23 21:46:05 --> Database Driver Class Initialized
+INFO - 2020-11-23 21:46:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-11-23 21:46:05 --> Form Validation Class Initialized
+INFO - 2020-11-23 21:46:05 --> Controller Class Initialized
+DEBUG - 2020-11-23 21:46:05 --> Categories MX_Controller Initialized
+DEBUG - 2020-11-23 21:46:05 --> File loaded: C:\xampp\htdocs\hmvc\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2020-11-23 21:46:05 --> Template MX_Controller Initialized
+DEBUG - 2020-11-23 21:46:05 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/rest.php
+INFO - 2020-11-23 21:46:05 --> Helper loaded: inflector_helper
+INFO - 2020-11-23 21:46:05 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-11-23 21:46:05 --> Model Class Initialized
+INFO - 2020-11-23 21:46:05 --> Model Class Initialized
+DEBUG - 2020-11-23 21:46:05 --> Config file loaded: C:\xampp\htdocs\hmvc\application\config/jwt.php
+INFO - 2020-11-23 21:46:05 --> Final output sent to browser
+DEBUG - 2020-11-23 21:46:05 --> Total execution time: 0.8837
